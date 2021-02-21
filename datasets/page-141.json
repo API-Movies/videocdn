@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 46151,
+      "title": "Авива",
+      "kp_id": "1274351",
+      "imdb_id": "tt10373830",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-16 20:57:53",
+      "orig_title": "Aviva",
+      "year": "2020-06-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-17 08:10:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 46150,
+      "title": "Однажды на главной улице",
+      "kp_id": "1411087",
+      "imdb_id": "tt13064420",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-16 20:55:53",
+      "orig_title": "Once Upon a Main Street",
+      "year": "2020-11-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-12-17 08:10:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 46146,
+      "title": "Реверсия",
+      "kp_id": null,
+      "imdb_id": "tt3896836",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-16 18:34:05",
+      "orig_title": "Reversion",
+      "year": "2020-12-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-17 08:09:32",
+      "iframe_src": ""
+    },
+    {
       "id": 46143,
       "title": "Фобик",
       "kp_id": "799640",
@@ -145,42 +199,6 @@
       "iframe_src": ""
     },
     {
-      "id": 46110,
-      "title": "Тихая ночь",
-      "kp_id": "1236809",
-      "imdb_id": "tt9752248",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-15 20:39:17",
-      "orig_title": "Silent Night",
-      "year": "2020-12-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-12-16 08:05:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 46109,
-      "title": "Одна в поле воин",
-      "kp_id": "1052778",
-      "imdb_id": "tt7153488",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-15 20:35:49",
-      "orig_title": "Army of One",
-      "year": "2020-12-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-12-16 08:07:30",
-      "iframe_src": ""
-    },
-    {
       "id": 46108,
       "title": "Мошонка",
       "kp_id": null,
@@ -268,25 +286,6 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (IVI)",
       "update": "2020-12-17 06:32:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 44910,
-      "title": "Творцы снов",
-      "kp_id": "1328035",
-      "imdb_id": "tt9855978",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-10-29 18:25:33",
-      "orig_title": "Drømmebyggerne",
-      "year": "2020-02-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-12-16 08:06:17",
       "iframe_src": ""
     },
     {
@@ -461,25 +460,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8009,
-      "title": "Берег надежды",
-      "kp_id": "815222",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-06-24 20:08:49",
-      "orig_title": "Берег надежды",
-      "year": "2013-12-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-06-25 21:28:10",
-      "iframe_src": ""
-    },
-    {
       "id": 8008,
       "title": "Бомба",
       "kp_id": "701584",
@@ -556,60 +536,79 @@
       "iframe_src": ""
     },
     {
-      "id": 8004,
-      "title": "На солнечной стороне улицы",
-      "kp_id": "571864",
-      "imdb_id": "tt1754254",
+      "id": 7998,
+      "title": "Мама по контракту",
+      "kp_id": "542383",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-06-24 19:51:58",
-      "orig_title": "Na solnechnoy storone ulitsy",
-      "year": "2011-02-28",
+      "add": "2020-06-24 18:26:06",
+      "orig_title": "Мама по контракту",
+      "year": "2015-09-05",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 14,
-      "episodes": 14,
-      "update": "2020-06-25 21:27:13",
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2020-06-27 16:39:10",
       "iframe_src": ""
     },
     {
-      "id": 8003,
-      "title": "Птица в клетке",
-      "kp_id": "780619",
-      "imdb_id": "tt3653432",
+      "id": 7985,
+      "title": "Дело для двоих",
+      "kp_id": "695450",
+      "imdb_id": "tt9480598",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-06-24 19:48:02",
-      "orig_title": "Ptitsa v kletke",
-      "year": "2014-01-06",
+      "add": "2020-06-24 07:15:13",
+      "orig_title": "Delo dlya dvoikh",
+      "year": "2014-08-11",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-06-25 21:18:58",
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2020-06-27 16:13:50",
       "iframe_src": ""
     },
     {
-      "id": 8002,
-      "title": "Назначена награда",
-      "kp_id": "817885",
-      "imdb_id": "tt9460434",
+      "id": 7984,
+      "title": "Майя",
+      "kp_id": "841594",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-06-24 19:44:57",
-      "orig_title": "Naznachena nagrada",
-      "year": "2013-12-31",
+      "add": "2020-06-24 07:05:18",
+      "orig_title": "Майя",
+      "year": "2016-02-29",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-06-25 21:16:29",
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2020-06-27 15:46:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 7983,
+      "title": "Я лечу",
+      "kp_id": "414889",
+      "imdb_id": "tt4353482",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-24 06:53:09",
+      "orig_title": "YA lechu",
+      "year": "2008-04-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 47,
+      "episodes": 47,
+      "update": "2020-06-27 15:04:26",
       "iframe_src": ""
     },
     {

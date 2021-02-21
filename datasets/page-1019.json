@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": 30512,
-      "title": "Портал",
-      "kp_id": "1015482",
-      "imdb_id": "tt6410534",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-02 21:55:39",
-      "orig_title": "The Portal",
-      "year": "2017-04-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-03 05:14:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 30510,
-      "title": "Общественное место",
-      "kp_id": "1082545",
-      "imdb_id": "tt6972372",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-02 21:51:19",
-      "orig_title": "Place publique",
-      "year": "2018-04-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-09-03 05:16:24",
-      "iframe_src": ""
-    },
-    {
       "id": 30509,
       "title": "Где бы ты ни был...",
       "kp_id": "1183748",
@@ -290,21 +254,39 @@
       "iframe_src": ""
     },
     {
-      "id": 30491,
-      "title": "В компании волков",
-      "kp_id": "14105",
-      "imdb_id": "tt0087075",
+      "id": 30408,
+      "title": "Перекресток миров",
+      "kp_id": "4005",
+      "imdb_id": "tt0115985",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-02 19:42:21",
-      "orig_title": "The Company of Wolves",
-      "year": "1984-09-15",
+      "add": "2019-08-31 20:27:16",
+      "orig_title": "Crossworlds",
+      "year": "1996-10-01",
       "translations": [
         "Профессиональный (двухголосый закадровый)"
       ],
-      "quality": "bd",
+      "quality": "dvdrip",
       "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-09-03 05:07:41",
+      "update": "2019-09-03 06:50:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 30382,
+      "title": "Труп появился вчера вечером",
+      "kp_id": "102100",
+      "imdb_id": "tt0066098",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-30 07:08:06",
+      "orig_title": "La morte risale a ieri sera",
+      "year": "1970-09-05",
+      "translations": [
+        "Любительский (одноголосый закадровый) (BadBajo)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (BadBajo)",
+      "update": "2019-09-03 06:44:42",
       "iframe_src": ""
     },
     {
@@ -363,6 +345,26 @@
       "quality": "bd",
       "translation": "Любительский (двухголосый закадровый)",
       "update": "2019-09-03 05:40:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 3772,
+      "title": "Кошачий глаз",
+      "kp_id": "1823",
+      "imdb_id": "tt0088889",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-07-08 05:39:28",
+      "orig_title": "Cat's Eye",
+      "year": "1985-04-12",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Гаврилов)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2019-09-03 05:52:45",
       "iframe_src": ""
     }
   ]

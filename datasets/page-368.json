@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 42015,
+      "title": "Конец света",
+      "kp_id": "869204",
+      "imdb_id": "tt4039842",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-26 04:38:11",
+      "orig_title": "Apocalypsis",
+      "year": "2018-03-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-07-26 18:38:18",
+      "iframe_src": ""
+    },
+    {
       "id": 42014,
       "title": "Джек Уайтхолл: я только шучу",
       "kp_id": "1390993",
@@ -16,6 +34,24 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-07-26 11:19:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 42013,
+      "title": "Рапунцель: принцесса, застывшая во времени",
+      "kp_id": "1264808",
+      "imdb_id": "tt10349550",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-26 04:35:12",
+      "orig_title": "Rapunzel: A Princess Frozen in Time",
+      "year": "2019-05-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-07-26 18:37:04",
       "iframe_src": ""
     },
     {
@@ -307,57 +343,62 @@
       "iframe_src": ""
     },
     {
-      "id": 41974,
-      "title": "Время танцевать",
-      "kp_id": "20330",
-      "imdb_id": "tt0242953",
+      "id": 40828,
+      "title": "Цветы зла",
+      "kp_id": "1229341",
+      "imdb_id": "tt9554316",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-07-24 12:55:45",
-      "orig_title": "A Time for Dancing",
-      "year": "2002-03-28",
+      "add": "2020-05-30 23:02:25",
+      "orig_title": "The Flowers of Evil",
+      "year": "2019-09-27",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-07-24 20:52:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 41973,
-      "title": "Процесс",
-      "kp_id": "8524",
-      "imdb_id": "tt0057427",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-07-24 12:53:18",
-      "orig_title": "Le procès",
-      "year": "1962-12-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Фильм Престиж)"
+        "Любительский (двухголосый закадровый) (RealFake)",
+        "Любительский (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Фильм Престиж)",
-      "update": "2020-07-24 20:52:23",
+      "translation": "Любительский (двухголосый закадровый) (RealFake)",
+      "update": "2020-07-26 18:39:05",
       "iframe_src": ""
     },
     {
-      "id": 41972,
-      "title": "Большой риск",
-      "kp_id": "258658",
-      "imdb_id": "tt0385638",
+      "id": 3478,
+      "title": "Великолепные Медичи",
+      "kp_id": "1115149",
+      "imdb_id": "tt7938036",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-07-24 12:51:18",
-      "orig_title": "The Long Shot",
-      "year": "2004-04-18",
+      "type": "serial",
+      "add": "2018-11-12 09:20:41",
+      "orig_title": "Medici: The Magnificent",
+      "year": "2018-10-23",
       "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
         "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-07-24 20:51:45",
+      "seasons_count": 2,
+      "episodes_count": 10,
+      "episodes": 2,
+      "update": "2018-10-31 07:12:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 3414,
+      "title": "Неформат",
+      "kp_id": "629093",
+      "imdb_id": "tt4763350",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-10-30 08:20:10",
+      "orig_title": "Neformat",
+      "year": "2014-03-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 20,
+      "episodes": 20,
+      "update": "2018-10-31 07:14:59",
       "iframe_src": ""
     },
     {
@@ -377,6 +418,25 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2018-10-30 00:15:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 3407,
+      "title": "Корона Российской империи, или Снова неуловимые",
+      "kp_id": "44932",
+      "imdb_id": "tt0067313",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-10-28 15:13:25",
+      "orig_title": "Korona Rossiyskoy Imperii, ili Snova Neulovimye",
+      "year": "1971-12-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2018-10-31 08:02:05",
       "iframe_src": ""
     },
     {
@@ -494,25 +554,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3398,
-      "title": "Маяковский. Два дня",
-      "kp_id": "573692",
-      "imdb_id": "tt3425854",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-26 11:11:58",
-      "orig_title": "Mayakovskiy. Dva dnya",
-      "year": "2013-07-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2018-10-27 14:01:01",
-      "iframe_src": ""
-    },
-    {
       "id": 3397,
       "title": "Параллельно любви",
       "kp_id": "420464",
@@ -608,25 +649,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3363,
-      "title": "Нарисованное счастье",
-      "kp_id": "1199662",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-23 10:03:15",
-      "orig_title": "Нарисованное счастье",
-      "year": "2018-10-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2018-10-27 10:50:19",
-      "iframe_src": ""
-    },
-    {
       "id": 3358,
       "title": "Оставшееся прощание",
       "kp_id": "1112416",
@@ -643,44 +665,6 @@
       "episodes_count": 20,
       "episodes": 20,
       "update": "2018-10-30 09:00:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 3317,
-      "title": "Четвертая смена",
-      "kp_id": "1039564",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-16 07:13:37",
-      "orig_title": "Четвертая смена",
-      "year": "2018-10-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2018-10-27 13:50:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 3315,
-      "title": "Скорая помощь",
-      "kp_id": "1049183",
-      "imdb_id": "tt10937190",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-16 07:09:01",
-      "orig_title": "Skoraya pomosch",
-      "year": "2018-10-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 6,
-      "update": "2018-10-27 13:49:05",
       "iframe_src": ""
     },
     {
@@ -739,6 +723,25 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2018-10-30 00:00:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 3026,
+      "title": "Имущие и неимущие",
+      "kp_id": "758683",
+      "imdb_id": "tt2729716",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-08-14 07:27:50",
+      "orig_title": "The Haves and the Have Nots",
+      "year": "2013-05-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 21,
+      "episodes": 21,
+      "update": "2018-10-31 06:53:43",
       "iframe_src": ""
     }
   ]

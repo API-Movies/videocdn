@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 41867,
+      "title": "Такси к Гибралтарской скале",
+      "kp_id": "1143809",
+      "imdb_id": "tt8220326",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-19 05:45:23",
+      "orig_title": "Taxi a Gibraltar",
+      "year": "2019-03-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-07-19 07:36:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 41864,
+      "title": "Маленькая Рука",
+      "kp_id": "1315369",
+      "imdb_id": "tt10846772",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-19 05:43:15",
+      "orig_title": "The Small Hand",
+      "year": "2019-12-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-07-19 06:31:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 41863,
+      "title": "Я и моя мертвая жена",
+      "kp_id": "1118733",
+      "imdb_id": "tt7893296",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-19 05:42:40",
+      "orig_title": "Yo, mi mujer y mi mujer muerta",
+      "year": "2019-03-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-07-19 07:35:38",
+      "iframe_src": ""
+    },
+    {
       "id": 41825,
       "title": "Бугимен",
       "kp_id": "887853",
@@ -88,60 +142,6 @@
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-07-18 06:06:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 41808,
-      "title": "Только ты",
-      "kp_id": "573364",
-      "imdb_id": "tt1826928",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-07-16 21:24:05",
-      "orig_title": "Tolko ty",
-      "year": "2011-04-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-07-17 13:24:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 41806,
-      "title": "Место",
-      "kp_id": "1035956",
-      "imdb_id": "tt6273962",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-07-16 20:13:34",
-      "orig_title": "Accommodations",
-      "year": "2018-06-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-07-17 13:26:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 41804,
-      "title": "Всего одна минута",
-      "kp_id": "1217183",
-      "imdb_id": "tt9328726",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-07-16 20:09:34",
-      "orig_title": "Appena un minuto",
-      "year": "2019-10-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-07-17 13:27:21",
       "iframe_src": ""
     },
     {
@@ -374,6 +374,44 @@
       "iframe_src": ""
     },
     {
+      "id": 3114,
+      "title": "Ближайшие родственники",
+      "kp_id": "1046889",
+      "imdb_id": "tt7052394",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-09-03 11:20:37",
+      "orig_title": "Next of Kin",
+      "year": "2018-01-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AMS)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2018-09-04 08:10:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 3113,
+      "title": "Доктор Улитка",
+      "kp_id": "1181573",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-09-02 11:31:09",
+      "orig_title": "Доктор Улитка",
+      "year": "2018-09-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2018-09-03 11:08:49",
+      "iframe_src": ""
+    },
+    {
       "id": 3110,
       "title": "Верить и ждать",
       "kp_id": "1178209",
@@ -507,22 +545,22 @@
       "iframe_src": ""
     },
     {
-      "id": 3080,
-      "title": "Стокгольмский синдром",
-      "kp_id": "1115344",
-      "imdb_id": "tt6102418",
+      "id": 3086,
+      "title": "Дурман",
+      "kp_id": "271762",
+      "imdb_id": "tt0439100",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-08-25 08:21:02",
-      "orig_title": "Estocolmo",
-      "year": "2016-11-01",
+      "add": "2018-08-26 13:31:27",
+      "orig_title": "Weeds",
+      "year": "2005-08-07",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
+        "Профессиональный (многоголосый закадровый) (Fox Life)"
       ],
-      "seasons_count": 1,
-      "episodes_count": 9,
-      "episodes": 9,
-      "update": "2018-08-28 22:29:18",
+      "seasons_count": 8,
+      "episodes_count": 101,
+      "episodes": 12,
+      "update": "2018-09-03 11:06:31",
       "iframe_src": ""
     },
     {
@@ -561,44 +599,6 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2018-08-29 10:47:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 3075,
-      "title": "Поколение убийц",
-      "kp_id": "414891",
-      "imdb_id": "tt0995832",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-08-24 16:34:03",
-      "orig_title": "Generation Kill",
-      "year": "2008-07-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 7,
-      "episodes": 7,
-      "update": "2018-08-29 10:39:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 3063,
-      "title": "Дыши",
-      "kp_id": "1111817",
-      "imdb_id": "tt6466208",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-08-23 06:55:08",
-      "orig_title": "Breathe",
-      "year": "2018-01-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2018-08-29 08:03:16",
       "iframe_src": ""
     },
     {
@@ -682,6 +682,25 @@
       "iframe_src": ""
     },
     {
+      "id": 2504,
+      "title": "Травма",
+      "kp_id": "494644",
+      "imdb_id": "tt1534994",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-05-03 12:43:23",
+      "orig_title": "Trauma",
+      "year": "2010-01-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 5,
+      "episodes_count": 54,
+      "episodes": 12,
+      "update": "2018-09-03 18:37:04",
+      "iframe_src": ""
+    },
+    {
       "id": 1953,
       "title": "В одиночестве вместе",
       "kp_id": "1108660",
@@ -736,27 +755,6 @@
       "episodes_count": 125,
       "episodes": 24,
       "update": "2018-08-31 05:47:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 263,
-      "title": "Незабытый",
-      "kp_id": "933284",
-      "imdb_id": "tt4192812",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-07-06 13:30:15",
-      "orig_title": "Unforgotten",
-      "year": "2015-10-08",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Kiitos)",
-        "Полное дублирование",
-        "Любительский (многоголосый закадровый) (ColdFilm)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 18,
-      "episodes": 6,
-      "update": "2018-08-28 22:21:40",
       "iframe_src": ""
     }
   ]

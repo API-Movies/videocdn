@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 46859,
+      "title": "Монреальский конец света",
+      "kp_id": "1118995",
+      "imdb_id": "tt7967388",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-10 10:14:11",
+      "orig_title": "Montreal Dead End",
+      "year": "2018-04-07",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2021-01-10 11:37:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 46858,
+      "title": "Ивана Грозная",
+      "kp_id": "1275755",
+      "imdb_id": "tt10452814",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-10 10:11:33",
+      "orig_title": "Ivana the Terrible",
+      "year": "2019-08-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-10 11:37:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 46857,
+      "title": "Одержимость 2: Восстание",
+      "kp_id": "1258911",
+      "imdb_id": "tt10149800",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-10 10:10:16",
+      "orig_title": "Fixation 2 UpRising",
+      "year": "2019-04-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-10 11:36:57",
+      "iframe_src": ""
+    },
+    {
       "id": 46856,
       "title": "Рождество в Вене",
       "kp_id": "1447901",
@@ -272,60 +326,6 @@
       "iframe_src": ""
     },
     {
-      "id": 46806,
-      "title": "Опия",
-      "kp_id": "1111041",
-      "imdb_id": "tt7282222",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-08 18:32:56",
-      "orig_title": "Opia",
-      "year": "2019-10-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-09 18:32:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 46803,
-      "title": "Последнее такси",
-      "kp_id": "1409871",
-      "imdb_id": "tt13062088",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-08 18:26:58",
-      "orig_title": "Ride Scare",
-      "year": "2020-07-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-09 18:30:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 46802,
-      "title": "Часовщик",
-      "kp_id": "1151535",
-      "imdb_id": "tt7874088",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-08 18:25:02",
-      "orig_title": "The Clockmaker",
-      "year": "2019-04-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-09 18:31:53",
-      "iframe_src": ""
-    },
-    {
       "id": 46756,
       "title": "Потоп",
       "kp_id": "1341280",
@@ -362,6 +362,44 @@
       "quality": "ts",
       "translation": "Любительский (двухголосый закадровый) (Колобок)",
       "update": "2021-01-10 05:05:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 8666,
+      "title": "Каприз",
+      "kp_id": "523273",
+      "imdb_id": "tt0212651",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-08 20:08:49",
+      "orig_title": "Capricho",
+      "year": "1993-01-11",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Мадлен Дюваль)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 80,
+      "episodes": 80,
+      "update": "2020-09-10 07:52:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 8665,
+      "title": "Сила желания",
+      "kp_id": "1040566",
+      "imdb_id": "tt6491190",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-08 19:04:33",
+      "orig_title": "A Força do Querer",
+      "year": "2017-04-03",
+      "translations": [
+        "Любительский (двухголосый закадровый) (AveBrasil)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 91,
+      "episodes": 91,
+      "update": "2020-09-09 19:43:19",
       "iframe_src": ""
     },
     {
@@ -517,44 +555,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8648,
-      "title": "Этот жестокий мир",
-      "kp_id": "1280341",
-      "imdb_id": "tt7368150",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-07 17:49:38",
-      "orig_title": "Aux animaux la guerre",
-      "year": "2018-05-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (WestFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-09-08 19:59:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 8645,
-      "title": "Два лжеца",
-      "kp_id": "1046234",
-      "imdb_id": "tt7016256",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-07 11:26:01",
-      "orig_title": "Iki Yalanci",
-      "year": "2017-07-04",
-      "translations": [
-        "Любительский (двухголосый закадровый) (TurkStar)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 9,
-      "episodes": 9,
-      "update": "2020-09-08 17:36:30",
-      "iframe_src": ""
-    },
-    {
       "id": 8611,
       "title": "Дворик",
       "kp_id": "500603",
@@ -593,6 +593,46 @@
       "iframe_src": ""
     },
     {
+      "id": 8384,
+      "title": "Плохой гений",
+      "kp_id": "1340380",
+      "imdb_id": "tt11542210",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-08-06 05:37:17",
+      "orig_title": "Bad Genius",
+      "year": "2020-08-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Octopus)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2020-09-09 15:24:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 8144,
+      "title": "Долина соблазна",
+      "kp_id": "1220026",
+      "imdb_id": "tt9340526",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-07-12 13:56:48",
+      "orig_title": "P-Valley",
+      "year": "2020-07-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (Novamedia)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2020-09-10 11:54:38",
+      "iframe_src": ""
+    },
+    {
       "id": 6086,
       "title": "Опасный Генри",
       "kp_id": "843819",
@@ -610,6 +650,25 @@
       "episodes_count": 99,
       "episodes": 33,
       "update": "2020-09-09 07:03:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 5822,
+      "title": "Смерть на языке цветов",
+      "kp_id": "1322672",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-24 23:05:42",
+      "orig_title": "Смерть на языке цветов",
+      "year": "2019-11-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2020-09-10 07:13:54",
       "iframe_src": ""
     },
     {
@@ -654,50 +713,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4389,
-      "title": "Зубастики: Новый загул",
-      "kp_id": "1118127",
-      "imdb_id": "tt8026466",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-04-17 17:25:06",
-      "orig_title": "Critters: A New Binge",
-      "year": "2019-03-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (OMSKBIRD records)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-09-08 18:03:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 4356,
-      "title": "Осмос",
-      "kp_id": "1180353",
-      "imdb_id": "tt7043380",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-04-04 11:27:07",
-      "orig_title": "Osmosis",
-      "year": "2019-03-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-09-08 18:09:01",
-      "iframe_src": ""
-    },
-    {
       "id": 3782,
       "title": "Длинная песня",
       "kp_id": "1167734",
@@ -738,37 +753,6 @@
       "episodes_count": 86,
       "episodes": 10,
       "update": "2020-09-09 13:35:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 95,
-      "title": "Миллиарды",
-      "kp_id": "863009",
-      "imdb_id": "tt4270492",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-05-25 13:25:30",
-      "orig_title": "Billions",
-      "year": "2016-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlexFilm)",
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (Amedia)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Профессиональный (двухголосый закадровый) (Gears Media)",
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Профессиональный (двухголосый закадровый) (Кубик в Кубе)",
-        "Профессиональный (многоголосый закадровый) (AMS)",
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 55,
-      "episodes": 7,
-      "update": "2020-09-08 18:16:25",
       "iframe_src": ""
     }
   ]

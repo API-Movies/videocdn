@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 43895,
+      "title": "НС404: Происхождение",
+      "kp_id": "928054",
+      "imdb_id": "tt4923568",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-27 07:48:43",
+      "orig_title": "NS404: Provenance",
+      "year": "2018-01-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-27 14:38:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 43891,
+      "title": "Бейсболистка",
+      "kp_id": "1235129",
+      "imdb_id": "tt11644332",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-27 07:39:18",
+      "orig_title": "Yagusonyeo",
+      "year": "2019-10-04",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-09-27 14:45:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 43890,
+      "title": "Человек с пистолетом",
+      "kp_id": "1306502",
+      "imdb_id": "tt11007198",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-27 07:37:30",
+      "orig_title": "Boy Meets Gun",
+      "year": "2019-10-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-27 14:36:13",
+      "iframe_src": ""
+    },
+    {
       "id": 43889,
       "title": "Насущные проблемы",
       "kp_id": "1330173",
@@ -253,60 +307,6 @@
       "iframe_src": ""
     },
     {
-      "id": 43847,
-      "title": "Мрак",
-      "kp_id": "1309473",
-      "imdb_id": "tt10481954",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-25 11:21:13",
-      "orig_title": "Buio",
-      "year": "2019-10-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-26 04:50:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 43846,
-      "title": "Не читайте это на самолёте",
-      "kp_id": "1330912",
-      "imdb_id": "tt7525792",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-25 11:19:11",
-      "orig_title": "Don't Read This on a Plane",
-      "year": "2020-08-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-26 04:47:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 43845,
-      "title": "В тумане",
-      "kp_id": "1103359",
-      "imdb_id": "tt7618654",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-25 11:14:47",
-      "orig_title": "In i Dimman",
-      "year": "2018-12-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-09-26 04:48:23",
-      "iframe_src": ""
-    },
-    {
       "id": 43806,
       "title": "Пусть идёт снег",
       "kp_id": "1324248",
@@ -341,6 +341,44 @@
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
       "update": "2020-09-26 06:54:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 5797,
+      "title": "Тени исчезают в полдень",
+      "kp_id": "256218",
+      "imdb_id": "tt1183616",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-21 20:17:34",
+      "orig_title": "Teni ischezayut v polden",
+      "year": "1972-02-14",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2019-11-22 11:44:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 5796,
+      "title": "Обыкновенное чудо",
+      "kp_id": "77282",
+      "imdb_id": "tt0186408",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-21 20:14:19",
+      "orig_title": "Obyknovennoe chudo",
+      "year": "1979-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-11-22 11:41:19",
       "iframe_src": ""
     },
     {
@@ -613,25 +651,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5753,
-      "title": "Охотник за головами",
-      "kp_id": "951953",
-      "imdb_id": "tt5501420",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-15 10:48:23",
-      "orig_title": "Okhotnik za golovami",
-      "year": "2015-12-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2019-11-20 11:47:14",
-      "iframe_src": ""
-    },
-    {
       "id": 5741,
       "title": "Невеста",
       "kp_id": "425815",
@@ -651,62 +670,22 @@
       "iframe_src": ""
     },
     {
-      "id": 5733,
-      "title": "Металлопокалипсис",
-      "kp_id": "390371",
-      "imdb_id": "tt0839188",
+      "id": 5558,
+      "title": "Полярный",
+      "kp_id": "1207237",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-11-12 11:12:31",
-      "orig_title": "Metalocalypse",
-      "year": "2006-08-06",
+      "add": "2019-10-28 17:43:34",
+      "orig_title": "Полярный",
+      "year": "2019-10-28",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (2x2)",
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 4,
-      "episodes_count": 60,
-      "episodes": 12,
-      "update": "2019-11-20 10:31:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 5531,
-      "title": "Приключения муми-троллей",
-      "kp_id": "397360",
-      "imdb_id": "tt0247117",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-10-25 20:53:41",
-      "orig_title": "Tanoshî Mûmin ikka",
-      "year": "1990-04-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (двухголосый закадровый)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 104,
-      "episodes": 26,
-      "update": "2019-11-20 11:27:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 4784,
-      "title": "Маньяк",
-      "kp_id": "968463",
-      "imdb_id": "tt3714902",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-07-04 05:18:01",
-      "orig_title": "Maniac",
-      "year": "2015-12-01",
-      "translations": [
-        "Любительский (одноголосый закадровый) (datynet)"
+        "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2019-11-20 11:56:26",
+      "episodes_count": 14,
+      "episodes": 14,
+      "update": "2019-11-22 11:42:37",
       "iframe_src": ""
     },
     {
@@ -727,6 +706,25 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-09-26 12:24:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 1741,
+      "title": "Доктор Рихтер",
+      "kp_id": "991705",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-11-16 07:13:48",
+      "orig_title": "Доктор Рихтер",
+      "year": "2017-11-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 56,
+      "episodes": 16,
+      "update": "2019-11-22 11:40:54",
       "iframe_src": ""
     },
     {

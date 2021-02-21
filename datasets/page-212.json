@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 44947,
+      "title": "Русский рейд",
+      "kp_id": "1272294",
+      "imdb_id": "tt12425868",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-02 06:48:37",
+      "orig_title": "Russkiy reyd",
+      "year": "2020-10-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-11-02 10:07:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 44946,
+      "title": "Злоключения Госпожи Людоедки",
+      "kp_id": "1236821",
+      "imdb_id": "tt9763402",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-01 22:47:19",
+      "orig_title": "The Misadventures of Mistress Maneater",
+      "year": "2020-09-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-11-02 10:24:17",
+      "iframe_src": ""
+    },
+    {
       "id": 44942,
       "title": "Картонная пристань",
       "kp_id": "1373690",
@@ -289,60 +325,6 @@
       "iframe_src": ""
     },
     {
-      "id": 44922,
-      "title": "Сара Купер: Все в порядке",
-      "kp_id": null,
-      "imdb_id": "tt12882062",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-10-31 22:57:57",
-      "orig_title": "Sarah Cooper: Everything's Fine",
-      "year": "2020-10-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-11-01 07:27:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 44921,
-      "title": "Воссоединение подружек",
-      "kp_id": "1294819",
-      "imdb_id": "tt10054604",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-10-31 22:55:51",
-      "orig_title": "Girlfriend's reunited",
-      "year": "2020-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-11-01 07:30:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 44920,
-      "title": "Кортекс",
-      "kp_id": "1251014",
-      "imdb_id": "tt10056224",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-10-31 22:53:47",
-      "orig_title": "Cortex",
-      "year": "2020-09-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "ts",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-11-01 07:29:17",
-      "iframe_src": ""
-    },
-    {
       "id": 44914,
       "title": "Его дом",
       "kp_id": "1159760",
@@ -362,6 +344,25 @@
       "iframe_src": ""
     },
     {
+      "id": 6809,
+      "title": "Мейдофф",
+      "kp_id": "915710",
+      "imdb_id": "tt4035574",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-09 08:28:38",
+      "orig_title": "Madoff",
+      "year": "2016-02-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2020-03-09 12:42:15",
+      "iframe_src": ""
+    },
+    {
       "id": 6801,
       "title": "Окна на бульвар",
       "kp_id": "1334372",
@@ -378,6 +379,25 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2020-03-07 15:12:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 6800,
+      "title": "Черный ворон",
+      "kp_id": "400093",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-07 14:28:08",
+      "orig_title": "Черный ворон",
+      "year": "2001-12-22",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 64,
+      "episodes": 64,
+      "update": "2020-03-09 13:59:28",
       "iframe_src": ""
     },
     {
@@ -552,44 +572,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6778,
-      "title": "Жуткий монстр по имени мировая экономика",
-      "kp_id": "1234804",
-      "imdb_id": "tt8450534",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-04 18:18:50",
-      "orig_title": "This Giant Beast That is the Global Economy",
-      "year": "2019-02-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-03-05 20:05:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 6771,
-      "title": "Завоеватели",
-      "kp_id": "1208742",
-      "imdb_id": "tt7555582",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-03 21:12:15",
-      "orig_title": "Conquistadores Adventum",
-      "year": "2017-01-01",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 7,
-      "episodes": 7,
-      "update": "2020-03-05 11:23:21",
-      "iframe_src": ""
-    },
-    {
       "id": 6756,
       "title": "Время Агаты Кристи",
       "kp_id": "921974",
@@ -606,26 +588,6 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2020-03-06 10:28:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 6745,
-      "title": "Неудержимый",
-      "kp_id": "1317529",
-      "imdb_id": "tt11120674",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-02-28 12:41:01",
-      "orig_title": "Desenfrenadas",
-      "year": "2020-02-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2020-03-05 10:57:10",
       "iframe_src": ""
     },
     {
@@ -690,23 +652,62 @@
       "iframe_src": ""
     },
     {
-      "id": 4666,
-      "title": "Год кролика",
-      "kp_id": "1201556",
-      "imdb_id": "tt8530456",
+      "id": 31797,
+      "title": "Волшебное зеркало, или Двойные неприятности",
+      "kp_id": "1387149",
+      "imdb_id": "tt7753176",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-13 06:30:37",
+      "orig_title": "Unheimlich perfekte Freunde",
+      "year": "2019-04-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-11-02 10:25:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 3729,
+      "title": "Кунг-фу панда: Лапки судьбы",
+      "kp_id": "1161084",
+      "imdb_id": "tt8271176",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-06-16 09:07:19",
-      "orig_title": "Year of the Rabbit",
-      "year": "2019-06-10",
+      "add": "2018-12-19 20:44:24",
+      "orig_title": "Kung Fu Panda: The Paws of Destiny",
+      "year": "2018-11-16",
       "translations": [
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Профессиональный (многоголосый закадровый) (TVShows)"
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-03-05 20:52:43",
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2020-03-08 13:09:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 3126,
+      "title": "Полиция Парадайз",
+      "kp_id": "1159296",
+      "imdb_id": "tt8235236",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-09-05 08:41:40",
+      "orig_title": "Paradise PD",
+      "year": "2018-08-31",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 18,
+      "episodes": 8,
+      "update": "2020-03-09 12:40:04",
       "iframe_src": ""
     },
     {

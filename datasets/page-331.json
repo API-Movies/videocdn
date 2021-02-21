@@ -1,21 +1,21 @@
 {
   "data": [
     {
-      "id": 42706,
-      "title": "Ведьмины сказки",
-      "kp_id": "1266540",
-      "imdb_id": "tt10342366",
+      "id": 42709,
+      "title": "На скейте по Америке",
+      "kp_id": null,
+      "imdb_id": "tt2850610",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-24 04:05:29",
-      "orig_title": "Cuentos de la Bruja",
-      "year": "2019-10-05",
+      "add": "2020-08-24 04:08:32",
+      "orig_title": "Shred America",
+      "year": "2018-03-23",
       "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2020-08-24 06:30:36",
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-24 07:31:16",
       "iframe_src": ""
     },
     {
@@ -52,6 +52,42 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-08-24 06:31:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 42684,
+      "title": "Заяц-портной",
+      "kp_id": "596058",
+      "imdb_id": "tt10303220",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-23 16:24:37",
+      "orig_title": "Zayac-Portnoj",
+      "year": "1937-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-24 08:11:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 42683,
+      "title": "Пёс и кот",
+      "kp_id": "260074",
+      "imdb_id": "tt0145745",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-23 16:21:24",
+      "orig_title": "Pyos i kot",
+      "year": "1955-09-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-24 08:10:33",
       "iframe_src": ""
     },
     {
@@ -308,42 +344,6 @@
       "iframe_src": ""
     },
     {
-      "id": 42651,
-      "title": "Сказка о чудесном докторе",
-      "kp_id": "564876",
-      "imdb_id": "tt11232200",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-21 20:11:39",
-      "orig_title": "Skazka o chudesnom doktore",
-      "year": "1979-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-24 06:31:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 42648,
-      "title": "Сказка про доброго носорога",
-      "kp_id": "493731",
-      "imdb_id": "tt6416654",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-21 20:08:03",
-      "orig_title": "Skazka pro dobrogo nosoroga",
-      "year": "1970-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-24 06:30:31",
-      "iframe_src": ""
-    },
-    {
       "id": 42586,
       "title": "Божий астронавт",
       "kp_id": null,
@@ -363,6 +363,25 @@
       "iframe_src": ""
     },
     {
+      "id": 4314,
+      "title": "Моя семья и другие животные",
+      "kp_id": "464914",
+      "imdb_id": "tt0166450",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-25 23:43:09",
+      "orig_title": "My Family and Other Animals",
+      "year": "1987-10-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2019-03-26 04:30:58",
+      "iframe_src": ""
+    },
+    {
       "id": 4306,
       "title": "Тишина",
       "kp_id": "567093",
@@ -379,6 +398,25 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2019-03-25 07:10:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 4305,
+      "title": "Под Большой медведицей",
+      "kp_id": "423002",
+      "imdb_id": "tt4394024",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-23 06:36:27",
+      "orig_title": "Pod Bolshoy medveditsey",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2019-03-25 14:39:20",
       "iframe_src": ""
     },
     {
@@ -534,6 +572,27 @@
       "iframe_src": ""
     },
     {
+      "id": 4291,
+      "title": "Гетто",
+      "kp_id": "401157",
+      "imdb_id": "tt0373732",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-20 15:01:53",
+      "orig_title": "The Boondocks",
+      "year": "2005-11-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (2x2)",
+        "Любительский (многоголосый закадровый)"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 55,
+      "episodes": 10,
+      "update": "2019-03-25 17:52:53",
+      "iframe_src": ""
+    },
+    {
       "id": 4290,
       "title": "Звезда, покорившая Луну 2",
       "kp_id": null,
@@ -572,25 +631,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4288,
-      "title": "Кубик-рубик",
-      "kp_id": null,
-      "imdb_id": "tt8805588",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-20 14:38:28",
-      "orig_title": "Cubic",
-      "year": "2014-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Julia Prosenuk)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2019-03-21 10:51:00",
-      "iframe_src": ""
-    },
-    {
       "id": 4287,
       "title": "Ангелы в Америке",
       "kp_id": "103151",
@@ -607,6 +647,26 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2019-03-22 11:27:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 4283,
+      "title": "Пули",
+      "kp_id": "1157312",
+      "imdb_id": "tt7867522",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-18 13:50:06",
+      "orig_title": "Bullets",
+      "year": "2018-10-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Кравец)",
+        "Профессиональный (многоголосый закадровый) (Amedia)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2019-03-26 08:10:35",
       "iframe_src": ""
     },
     {
@@ -629,44 +689,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4273,
-      "title": "Дно",
-      "kp_id": "1118069",
-      "imdb_id": "tt7999996",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-17 21:49:27",
-      "orig_title": "Dip",
-      "year": "2018-03-30",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2019-03-20 19:50:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 4272,
-      "title": "Сестра Золушки",
-      "kp_id": "574890",
-      "imdb_id": "tt2299807",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-17 21:36:10",
-      "orig_title": "Cinderella's Sister",
-      "year": "2019-03-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2019-03-20 19:58:58",
-      "iframe_src": ""
-    },
-    {
       "id": 4248,
       "title": "Шифр",
       "kp_id": "1108411",
@@ -683,25 +705,6 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2019-03-23 07:42:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 4124,
-      "title": "Квартет И по Амстелу",
-      "kp_id": "798623",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-02-21 06:45:58",
-      "orig_title": "Квартет И по Амстелу",
-      "year": "2013-09-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2019-03-21 15:37:15",
       "iframe_src": ""
     },
     {

@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 40409,
+      "title": "Прощание со Сталиным",
+      "kp_id": "1313568",
+      "imdb_id": "tt10203842",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-14 22:09:49",
+      "orig_title": "State Funeral",
+      "year": "2019-09-06",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-05-15 07:02:17",
+      "iframe_src": ""
+    },
+    {
       "id": 40381,
       "title": "Увольнение",
       "kp_id": "494816",
@@ -271,57 +289,39 @@
       "iframe_src": ""
     },
     {
-      "id": 40362,
-      "title": "Берег",
-      "kp_id": "63283",
-      "imdb_id": "tt0139402",
+      "id": 38930,
+      "title": "Великолепная семерка",
+      "kp_id": "78518",
+      "imdb_id": "tt0084630",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-05-13 19:01:15",
-      "orig_title": "Kinare Kinare",
-      "year": "1963-01-01",
+      "add": "2020-04-06 08:18:59",
+      "orig_title": "Satte Pe Satta",
+      "year": "1982-01-22",
       "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-05-15 06:40:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 40361,
-      "title": "Абдулла",
-      "kp_id": "39717",
-      "imdb_id": "tt0259170",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-13 18:58:38",
-      "orig_title": "Abdullah",
-      "year": "1980-09-26",
-      "translations": [
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2020-05-15 06:35:52",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-05-15 07:04:40",
       "iframe_src": ""
     },
     {
-      "id": 40335,
-      "title": "Обещай никогда не расставаться",
-      "kp_id": "225249",
-      "imdb_id": "tt0215988",
+      "id": 37585,
+      "title": "Великая сила любви",
+      "kp_id": "39709",
+      "imdb_id": "tt0088442",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-05-12 18:29:00",
-      "orig_title": "Mere Humsafar",
-      "year": "1970-10-14",
+      "add": "2020-03-08 21:33:50",
+      "orig_title": "Zameen Aasmaan",
+      "year": "1984-06-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (ZEE TV)"
+        "Профессиональный (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый) (ZEE TV)",
-      "update": "2020-05-15 06:35:19",
+      "translation": "Профессиональный (одноголосый закадровый)",
+      "update": "2020-05-15 07:00:25",
       "iframe_src": ""
     },
     {
@@ -341,6 +341,82 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
       "update": "2020-05-15 06:57:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 857,
+      "title": "Главный подозреваемый 4: Потерянный ребенок",
+      "kp_id": "277815",
+      "imdb_id": "tt0114182",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-01-10 06:58:43",
+      "orig_title": "Prime Suspect: The Lost Child",
+      "year": "1995-04-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Selena International)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "episodes": 1,
+      "update": "2017-01-11 06:22:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 856,
+      "title": "Главный подозреваемый 3",
+      "kp_id": "277814",
+      "imdb_id": "tt0106104",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-01-10 06:54:42",
+      "orig_title": "Prime Suspect 3",
+      "year": "1993-12-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Selena International)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2017-01-11 06:21:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 855,
+      "title": "Главный подозреваемый 2",
+      "kp_id": "277813",
+      "imdb_id": "tt0103516",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-01-10 06:51:53",
+      "orig_title": "Prime Suspect 2",
+      "year": "1992-12-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Selena International)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2017-01-11 06:18:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 854,
+      "title": "Главный подозреваемый",
+      "kp_id": "277812",
+      "imdb_id": "tt0098898",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-01-10 06:48:42",
+      "orig_title": "Prime Suspect",
+      "year": "1991-04-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Selena International)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2017-01-11 06:12:37",
       "iframe_src": ""
     },
     {
@@ -572,63 +648,6 @@
       "iframe_src": ""
     },
     {
-      "id": 837,
-      "title": "Бедные родственники",
-      "kp_id": "719866",
-      "imdb_id": "tt2842912",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-01-08 12:51:37",
-      "orig_title": "Bednye rodstvenniki",
-      "year": "2012-12-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2017-01-09 10:19:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 836,
-      "title": "Поделись счастьем своим",
-      "kp_id": "838579",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-01-08 12:31:52",
-      "orig_title": "Поделись счастьем своим",
-      "year": "2015-05-23",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2017-01-09 10:47:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 835,
-      "title": "Стройка",
-      "kp_id": "841687",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-01-08 11:19:10",
-      "orig_title": "Стройка",
-      "year": "2017-01-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2017-01-09 10:32:06",
-      "iframe_src": ""
-    },
-    {
       "id": 829,
       "title": "Больше, чем врач",
       "kp_id": "1008618",
@@ -702,25 +721,6 @@
       "episodes_count": 70,
       "episodes": 13,
       "update": "2017-01-11 06:08:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 756,
-      "title": "Удаленные",
-      "kp_id": "1008004",
-      "imdb_id": "tt5684430",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-12-28 16:22:29",
-      "orig_title": "The Deleted",
-      "year": "2016-12-04",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Hamster Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2017-01-09 08:19:59",
       "iframe_src": ""
     },
     {

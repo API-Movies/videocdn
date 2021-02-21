@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 41124,
+      "title": "Запасной вариант",
+      "kp_id": "1126520",
+      "imdb_id": "tt7675422",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-11 13:11:06",
+      "orig_title": "Mental Madhilo",
+      "year": "2017-11-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-06-11 20:56:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 41122,
+      "title": "Пленка",
+      "kp_id": "1158472",
+      "imdb_id": "tt5769790",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-11 13:07:33",
+      "orig_title": "Tape",
+      "year": "2020-03-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-06-11 20:55:12",
+      "iframe_src": ""
+    },
+    {
       "id": 41121,
       "title": "Вечеринка у бассейна 2015",
       "kp_id": "1270275",
@@ -16,6 +52,24 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-06-11 13:50:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 41119,
+      "title": "Женщина на грани",
+      "kp_id": "1339178",
+      "imdb_id": "tt11438476",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-11 13:02:13",
+      "orig_title": "Woman on the Edge",
+      "year": "2020-05-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-06-11 20:50:20",
       "iframe_src": ""
     },
     {
@@ -37,24 +91,6 @@
       "iframe_src": ""
     },
     {
-      "id": 41093,
-      "title": "Чартер",
-      "kp_id": "1245637",
-      "imdb_id": "tt9850050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-10 06:49:40",
-      "orig_title": "Charter",
-      "year": "2020-01-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-06-10 15:35:38",
-      "iframe_src": ""
-    },
-    {
       "id": 41090,
       "title": "Бердэн",
       "kp_id": "963791",
@@ -70,24 +106,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-06-10 15:42:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 41089,
-      "title": "Я тут ненадолго",
-      "kp_id": "1164195",
-      "imdb_id": "tt8526038",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-10 06:36:04",
-      "orig_title": "Here Awhile",
-      "year": "2019-10-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-06-10 15:38:32",
       "iframe_src": ""
     },
     {
@@ -124,24 +142,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-06-10 15:43:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 41086,
-      "title": "Тёрнер Риск",
-      "kp_id": "739145",
-      "imdb_id": "tt2717682",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-10 06:26:09",
-      "orig_title": "Turner Risk",
-      "year": "2019-10-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-06-10 15:37:09",
       "iframe_src": ""
     },
     {
@@ -297,6 +297,25 @@
       "iframe_src": ""
     },
     {
+      "id": 1905,
+      "title": "Звездные врата: Вселенная",
+      "kp_id": "444969",
+      "imdb_id": "tt1286039",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-12-26 12:02:26",
+      "orig_title": "SGU Stargate Universe",
+      "year": "2009-10-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ТВ3)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 40,
+      "episodes": 20,
+      "update": "2017-12-29 14:31:11",
+      "iframe_src": ""
+    },
+    {
       "id": 1902,
       "title": "Вперед, в прошлое!",
       "kp_id": "308615",
@@ -393,6 +412,25 @@
       "iframe_src": ""
     },
     {
+      "id": 1896,
+      "title": "Смертельная битва: Наследие",
+      "kp_id": "581094",
+      "imdb_id": "tt1842127",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-12-24 08:17:04",
+      "orig_title": "Mortal Kombat",
+      "year": "2011-04-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (LostFilm)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 19,
+      "episodes": 10,
+      "update": "2017-12-28 12:28:54",
+      "iframe_src": ""
+    },
+    {
       "id": 1894,
       "title": "Хайд, Джекил и я",
       "kp_id": "885739",
@@ -409,6 +447,25 @@
       "episodes_count": 20,
       "episodes": 20,
       "update": "2017-12-28 07:41:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 1893,
+      "title": "Люди Альфа",
+      "kp_id": "591779",
+      "imdb_id": "tt1183865",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-12-23 06:47:39",
+      "orig_title": "Alphas",
+      "year": "2011-07-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (LostFilm)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 24,
+      "episodes": 13,
+      "update": "2017-12-28 12:15:53",
       "iframe_src": ""
     },
     {
@@ -564,60 +621,22 @@
       "iframe_src": ""
     },
     {
-      "id": 1840,
-      "title": "Зайцев+1",
-      "kp_id": "569825",
-      "imdb_id": "tt1893180",
+      "id": 1861,
+      "title": "Женаты и с детьми",
+      "kp_id": "161157",
+      "imdb_id": "tt0092400",
       "world_art_id": null,
       "type": "serial",
-      "add": "2017-12-12 06:29:04",
-      "orig_title": "Zaytsev+1",
-      "year": "2011-04-11",
+      "add": "2017-12-17 11:54:01",
+      "orig_title": "Married with Children",
+      "year": "1987-04-05",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "seasons_count": 3,
-      "episodes_count": 60,
-      "episodes": 16,
-      "update": "2017-12-21 13:32:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 1833,
-      "title": "Lost Love in Times",
-      "kp_id": null,
-      "imdb_id": "tt7141540",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-12-11 07:37:47",
-      "orig_title": "Lost Love in Times",
-      "year": "2017-07-13",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 56,
-      "episodes": 56,
-      "update": "2017-12-21 13:10:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 1756,
-      "title": "Долгая дорога домой",
-      "kp_id": "463109",
-      "imdb_id": "tt1210820",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-11-22 06:24:08",
-      "orig_title": "The Long Road Home",
-      "year": "2017-11-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2017-12-22 06:50:20",
+      "seasons_count": 11,
+      "episodes_count": 259,
+      "episodes": 24,
+      "update": "2017-12-29 06:42:17",
       "iframe_src": ""
     },
     {
@@ -637,25 +656,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-06-11 11:25:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 1140,
-      "title": "АйКарли",
-      "kp_id": "402528",
-      "imdb_id": "tt0972534",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-03-23 11:03:32",
-      "orig_title": "iCarly",
-      "year": "2007-09-08",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 6,
-      "episodes_count": 97,
-      "episodes": 13,
-      "update": "2017-12-22 07:23:54",
       "iframe_src": ""
     },
     {

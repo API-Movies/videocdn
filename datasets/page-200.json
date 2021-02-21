@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 45099,
+      "title": "Цвет из тьмы",
+      "kp_id": "432878",
+      "imdb_id": "tt1318056",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-08 14:37:46",
+      "orig_title": "Colour from the Dark",
+      "year": "2008-10-19",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-11-08 15:02:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 45097,
+      "title": "Кунг-фу нацисты в Африке",
+      "kp_id": null,
+      "imdb_id": "tt13399862",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-08 08:16:29",
+      "orig_title": "African Kung-Fu Nazis",
+      "year": "2019-12-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-11-08 10:02:28",
+      "iframe_src": ""
+    },
+    {
       "id": 45084,
       "title": "Combat Wombat",
       "kp_id": "1326830",
@@ -16,6 +52,24 @@
       "quality": "bd",
       "translation": "Original (English)",
       "update": "2020-11-07 16:32:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 45083,
+      "title": "Рождественское свидание моего отца",
+      "kp_id": "1339191",
+      "imdb_id": "tt11457736",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-07 09:02:27",
+      "orig_title": "My Dad's Christmas Date",
+      "year": "2020-11-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-11-08 01:14:53",
       "iframe_src": ""
     },
     {
@@ -291,25 +345,6 @@
       "iframe_src": ""
     },
     {
-      "id": 43837,
-      "title": "Сад наслаждений",
-      "kp_id": "58340",
-      "imdb_id": "tt0065913",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-24 20:24:23",
-      "orig_title": "El jardín de las delicias",
-      "year": "1970-11-05",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (Культура)",
-        "Авторский (одноголосый закадровый) (Воротилин)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (Культура)",
-      "update": "2020-11-06 11:43:27",
-      "iframe_src": ""
-    },
-    {
       "id": 41417,
       "title": "Честный кандидат",
       "kp_id": "1252341",
@@ -351,6 +386,25 @@
       "iframe_src": ""
     },
     {
+      "id": 7025,
+      "title": "Трансформеры",
+      "kp_id": "229179",
+      "imdb_id": "tt0086817",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-29 13:59:25",
+      "orig_title": "Transformers",
+      "year": "1984-09-17",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 96,
+      "episodes": 1,
+      "update": "2020-03-30 12:57:01",
+      "iframe_src": ""
+    },
+    {
       "id": 7024,
       "title": "5000 лет истории Нила",
       "kp_id": "1320399",
@@ -370,25 +424,6 @@
       "iframe_src": ""
     },
     {
-      "id": 7018,
-      "title": "Супруги 2",
-      "kp_id": "584749",
-      "imdb_id": "tt5013512",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-28 11:11:19",
-      "orig_title": "Suprugi 2",
-      "year": "2011-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 66,
-      "episodes": 66,
-      "update": "2020-03-29 09:00:53",
-      "iframe_src": ""
-    },
-    {
       "id": 7016,
       "title": "Супруги",
       "kp_id": "481298",
@@ -405,6 +440,44 @@
       "episodes_count": 50,
       "episodes": 50,
       "update": "2020-03-29 10:10:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 7005,
+      "title": "Сдаётся дом у моря",
+      "kp_id": "1199604",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-27 06:36:06",
+      "orig_title": "Sdayotsya dom u morya",
+      "year": "2017-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 20,
+      "episodes": 20,
+      "update": "2020-03-30 12:03:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 7004,
+      "title": "Дом образцового содержания",
+      "kp_id": "425971",
+      "imdb_id": "tt3722340",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-27 06:32:35",
+      "orig_title": "Dom obraztsovogo soderzhaniya",
+      "year": "2012-07-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2020-03-30 11:55:31",
       "iframe_src": ""
     },
     {
@@ -560,25 +633,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6213,
-      "title": "Виражи судьбы",
-      "kp_id": "1311029",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-03 06:08:33",
-      "orig_title": "Виражи судьбы",
-      "year": "2019-09-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-03-29 06:55:47",
-      "iframe_src": ""
-    },
-    {
       "id": 6210,
       "title": "Заместитель",
       "kp_id": "1245494",
@@ -616,26 +670,6 @@
       "episodes_count": 11,
       "episodes": 11,
       "update": "2020-03-29 11:11:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 31254,
-      "title": "Обратный отсчёт",
-      "kp_id": "1178399",
-      "imdb_id": "tt8809652",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-29 14:58:04",
-      "orig_title": "10 Minutes Gone",
-      "year": "2019-09-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Полное дублирование (iTunes)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-11-06 11:49:44",
       "iframe_src": ""
     },
     {
@@ -678,27 +712,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4468,
-      "title": "Жестокий Стамбул",
-      "kp_id": "1245958",
-      "imdb_id": "tt9910728",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-05-07 19:21:48",
-      "orig_title": "Zalim Istanbul",
-      "year": "2019-04-01",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (одноголосый закадровый) (Анастасия Гайдаржи)",
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 36,
-      "episodes": 27,
-      "update": "2020-03-28 10:11:31",
-      "iframe_src": ""
-    },
-    {
       "id": 4036,
       "title": "Перевал",
       "kp_id": "1189907",
@@ -720,56 +733,23 @@
       "iframe_src": ""
     },
     {
-      "id": 933,
-      "title": "Сшиватели",
-      "kp_id": "891594",
-      "imdb_id": "tt3868848",
+      "id": 1228,
+      "title": "Братья по оружию",
+      "kp_id": "94249",
+      "imdb_id": "tt0185906",
       "world_art_id": null,
       "type": "serial",
-      "add": "2017-01-24 05:43:45",
-      "orig_title": "Stitchers",
-      "year": "2015-06-02",
+      "add": "2017-05-01 12:51:47",
+      "orig_title": "Band of Brothers",
+      "year": "2001-09-09",
       "translations": [
-        "Любительский (двухголосый закадровый) (LevshaFilm)",
-        "Профессиональный (многоголосый закадровый) (Кириллица)",
-        "Любительский (одноголосый закадровый)",
-        "Любительский (двухголосый закадровый) (Hamster Studio)"
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+        "Профессиональный (многоголосый закадровый) (Премьер Видео Фильм)"
       ],
-      "seasons_count": 3,
-      "episodes_count": 31,
+      "seasons_count": 1,
+      "episodes_count": 10,
       "episodes": 10,
-      "update": "2020-03-28 16:16:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 5444,
-      "title": "Дерево Джошуа",
-      "kp_id": "17958",
-      "imdb_id": "tt0106309",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-23 08:20:53",
-      "orig_title": "Joshua Tree",
-      "year": "1993-03-27",
-      "translations": [
-        "Полное дублирование",
-        "Авторский (одноголосый закадровый) (Дольский)",
-        "Авторский (одноголосый закадровый) (Гаврилов)",
-        "Авторский (одноголосый закадровый) (Горчаков)",
-        "Авторский (одноголосый закадровый) (Кузнецов)",
-        "Авторский (одноголосый закадровый) (Пронин)",
-        "Авторский (одноголосый закадровый) (Живов)",
-        "Полное дублирование (Хлопушка)",
-        "Original (English)",
-        "Профессиональный (двухголосый закадровый) (РенТВ)",
-        "Профессиональный (многоголосый закадровый) (НТВ)",
-        "Профессиональный (многоголосый закадровый) (Lazer Video)",
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-        "Профессиональный (многоголосый закадровый) (РТР | Россия)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-11-06 11:08:33",
+      "update": "2020-03-30 12:05:19",
       "iframe_src": ""
     }
   ]

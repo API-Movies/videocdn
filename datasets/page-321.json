@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 42875,
+      "title": "Моё бабье лето",
+      "kp_id": "1391104",
+      "imdb_id": "tt12612092",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-28 08:11:00",
+      "orig_title": "Mein Altweibersommer",
+      "year": "2020-08-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-28 10:57:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 42874,
+      "title": "Стены памяти",
+      "kp_id": "1264105",
+      "imdb_id": "tt10320056",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-28 08:10:27",
+      "orig_title": "Les murs du souvenir",
+      "year": "2019-05-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-08-28 10:58:28",
+      "iframe_src": ""
+    },
+    {
       "id": 42873,
       "title": "Мост забытых влюбленных",
       "kp_id": "1297390",
@@ -163,63 +199,6 @@
       "iframe_src": ""
     },
     {
-      "id": 42846,
-      "title": "Дар",
-      "kp_id": "1158326",
-      "imdb_id": "tt7978752",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 19:08:32",
-      "orig_title": "The Bestowal",
-      "year": "2018-12-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-28 05:22:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 42828,
-      "title": "Ветер",
-      "kp_id": "298136",
-      "imdb_id": "tt0094327",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 17:01:39",
-      "orig_title": "The Wind",
-      "year": "1986-11-17",
-      "translations": [
-        "Original (English)",
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Original (English)",
-      "update": "2020-08-28 05:19:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 42827,
-      "title": "Когти орла",
-      "kp_id": "36272",
-      "imdb_id": "tt0105530",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 16:58:22",
-      "orig_title": "Talons of the Eagle",
-      "year": "1992-11-06",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Санаев)",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Живов)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Санаев)",
-      "update": "2020-08-28 05:17:25",
-      "iframe_src": ""
-    },
-    {
       "id": 31240,
       "title": "Король танцует",
       "kp_id": "23616",
@@ -276,6 +255,25 @@
       "iframe_src": ""
     },
     {
+      "id": 4564,
+      "title": "Московский дворик",
+      "kp_id": "471142",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-05-28 05:52:24",
+      "orig_title": "Московский дворик",
+      "year": "2012-02-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2019-05-28 18:08:47",
+      "iframe_src": ""
+    },
+    {
       "id": 4560,
       "title": "Возраст против красоты",
       "kp_id": "1181558",
@@ -292,6 +290,25 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2019-05-28 10:13:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 4558,
+      "title": "Одинокий волк",
+      "kp_id": "627305",
+      "imdb_id": "tt4094934",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-05-27 03:10:28",
+      "orig_title": "Odinokiy volk",
+      "year": "2012-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 24,
+      "episodes": 24,
+      "update": "2019-05-28 18:29:14",
       "iframe_src": ""
     },
     {
@@ -390,60 +407,41 @@
       "iframe_src": ""
     },
     {
-      "id": 4538,
-      "title": "Дыши со мной",
-      "kp_id": "470828",
-      "imdb_id": null,
+      "id": 4539,
+      "title": "Люблю, даже когда ненавижу",
+      "kp_id": "1049659",
+      "imdb_id": "tt7713776",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-05-22 13:12:55",
-      "orig_title": "Дыши со мной",
-      "year": "2010-05-16",
+      "add": "2019-05-22 23:03:58",
+      "orig_title": "Miueodo saranghae",
+      "year": "2017-11-13",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (двухголосый закадровый) (SoftBox)"
       ],
       "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2019-05-23 18:10:44",
+      "episodes_count": 120,
+      "episodes": 120,
+      "update": "2019-05-28 19:07:17",
       "iframe_src": ""
     },
     {
-      "id": 4537,
-      "title": "В круге первом",
-      "kp_id": "252044",
-      "imdb_id": "tt0804892",
+      "id": 4527,
+      "title": "Талисман любви",
+      "kp_id": "394027",
+      "imdb_id": "tt1093291",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-05-22 03:29:41",
-      "orig_title": "V kruge pervom",
-      "year": "2006-01-29",
+      "add": "2019-05-20 08:47:37",
+      "orig_title": "Talisman lyubvi",
+      "year": "2005-03-21",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2019-05-23 18:27:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 4519,
-      "title": "Гуманоиды в Королёве",
-      "kp_id": "412082",
-      "imdb_id": "tt4113962",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-05-18 14:59:20",
-      "orig_title": "Gunanoydy v Korolyove",
-      "year": "2008-05-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 40,
-      "episodes": 40,
-      "update": "2019-05-23 11:26:08",
+      "episodes_count": 60,
+      "episodes": 60,
+      "update": "2019-05-28 19:39:19",
       "iframe_src": ""
     },
     {
@@ -482,25 +480,6 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2019-05-25 07:27:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 4417,
-      "title": "Максимо в моем сердце",
-      "kp_id": "494528",
-      "imdb_id": "tt0332957",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-04-25 17:43:59",
-      "orig_title": "Máximo corazón",
-      "year": "2002-08-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 139,
-      "episodes": 139,
-      "update": "2019-05-24 13:51:31",
       "iframe_src": ""
     },
     {
@@ -744,6 +723,25 @@
       "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2020-08-28 05:23:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 4572,
+      "title": "Только правда",
+      "kp_id": "824402",
+      "imdb_id": "tt3503406",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-21 09:29:11",
+      "orig_title": "The Whole Truth",
+      "year": "2016-03-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Студия Пиратского Дубляжа)",
+      "update": "2020-08-28 11:47:01",
       "iframe_src": ""
     },
     {

@@ -37,6 +37,43 @@
       "iframe_src": ""
     },
     {
+      "id": 43023,
+      "title": "Второй",
+      "kp_id": "1346737",
+      "imdb_id": "tt11697484",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-02 05:49:13",
+      "orig_title": "The 2nd",
+      "year": "2020-09-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-09-02 14:17:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 43002,
+      "title": "Зеленая кобра",
+      "kp_id": "37939",
+      "imdb_id": "tt0094888",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-01 15:21:39",
+      "orig_title": "Cobra Verde",
+      "year": "1987-12-03",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Профессиональный (одноголосый закадровый) (НТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-09-02 12:27:27",
+      "iframe_src": ""
+    },
+    {
       "id": 43001,
       "title": "Пелле-завоеватель",
       "kp_id": "7702",
@@ -93,24 +130,6 @@
       "iframe_src": ""
     },
     {
-      "id": 42980,
-      "title": "Теперь мы все вместе",
-      "kp_id": "794334",
-      "imdb_id": "tt3155342",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-31 16:42:16",
-      "orig_title": "All Together Now",
-      "year": "2020-08-28",
-      "translations": [
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2020-09-02 08:14:40",
-      "iframe_src": ""
-    },
-    {
       "id": 42977,
       "title": "Завещание Уилла",
       "kp_id": "1328295",
@@ -146,25 +165,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2020-09-02 08:27:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 42898,
-      "title": "Нападение неведомого",
-      "kp_id": "1179921",
-      "imdb_id": "tt8804580",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-28 20:23:02",
-      "orig_title": "Attack of the Unknown",
-      "year": "2020-08-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-02 08:15:20",
       "iframe_src": ""
     },
     {
@@ -320,27 +320,6 @@
       "iframe_src": ""
     },
     {
-      "id": 42558,
-      "title": "Агент Ева",
-      "kp_id": "1189368",
-      "imdb_id": "tt8784956",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-18 07:08:48",
-      "orig_title": "Ava",
-      "year": "2020-07-02",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2020-09-02 08:16:19",
-      "iframe_src": ""
-    },
-    {
       "id": 40213,
       "title": "Тропа легионеров",
       "kp_id": "1140688",
@@ -377,6 +356,44 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-09-02 08:26:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 4818,
+      "title": "Язон и аргонавты",
+      "kp_id": "77311",
+      "imdb_id": "tt0217579",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-07-08 11:45:21",
+      "orig_title": "Jason and the Argonauts",
+      "year": "2000-05-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-07-08 12:28:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 4815,
+      "title": "Гюльчатай. Ради любви",
+      "kp_id": "837912",
+      "imdb_id": "tt3687302",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-07-07 11:07:58",
+      "orig_title": "Gyulchatay. Radi lyubvi",
+      "year": "2014-02-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2019-07-08 11:38:10",
       "iframe_src": ""
     },
     {
@@ -513,22 +530,22 @@
       "iframe_src": ""
     },
     {
-      "id": 4781,
-      "title": "Частный сыск полковника в отставке",
-      "kp_id": "477317",
-      "imdb_id": null,
+      "id": 4787,
+      "title": "Пятницкий. Глава вторая",
+      "kp_id": "679817",
+      "imdb_id": "tt4080186",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-07-03 13:46:42",
-      "orig_title": "Частный сыск полковника в отставке",
-      "year": "2012-05-12",
+      "add": "2019-07-04 09:41:46",
+      "orig_title": "Pyatnitskiy. Glava vtoraya",
+      "year": "2012-10-15",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "seasons_count": 2,
-      "episodes_count": 8,
-      "episodes": 4,
-      "update": "2019-07-03 20:51:18",
+      "seasons_count": 1,
+      "episodes_count": 32,
+      "episodes": 32,
+      "update": "2019-07-08 11:18:12",
       "iframe_src": ""
     },
     {
@@ -548,25 +565,6 @@
       "episodes_count": 44,
       "episodes": 8,
       "update": "2019-07-04 19:57:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 4778,
-      "title": "Мент в законе 8",
-      "kp_id": "841640",
-      "imdb_id": "tt6235632",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-07-03 11:25:56",
-      "orig_title": "Мент в законе 8",
-      "year": "2014-08-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 24,
-      "episodes": 24,
-      "update": "2019-07-03 20:14:20",
       "iframe_src": ""
     },
     {
@@ -608,25 +606,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4774,
-      "title": "Важняк",
-      "kp_id": "586623",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-07-02 04:25:48",
-      "orig_title": "Важняк",
-      "year": "2012-07-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2019-07-03 12:07:38",
-      "iframe_src": ""
-    },
-    {
       "id": 4768,
       "title": "Пароль: Вечность",
       "kp_id": "400828",
@@ -646,6 +625,25 @@
       "iframe_src": ""
     },
     {
+      "id": 4757,
+      "title": "Мертвая зона",
+      "kp_id": "1117978",
+      "imdb_id": "tt6519410",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-06-26 11:51:38",
+      "orig_title": "Zone Blanche",
+      "year": "2017-02-03",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 16,
+      "episodes": 8,
+      "update": "2019-07-08 12:30:28",
+      "iframe_src": ""
+    },
+    {
       "id": 4756,
       "title": "Игра влияния",
       "kp_id": "1274286",
@@ -662,25 +660,6 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2019-07-08 11:03:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 4685,
-      "title": "Новые уловки",
-      "kp_id": "474854",
-      "imdb_id": "tt0362357",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-06-17 12:11:05",
-      "orig_title": "New Tricks",
-      "year": "2004-04-01",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Воронцов | Доцент)"
-      ],
-      "seasons_count": 9,
-      "episodes_count": 69,
-      "episodes": 2,
-      "update": "2019-07-03 21:12:54",
       "iframe_src": ""
     },
     {
@@ -739,6 +718,28 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2019-07-08 08:27:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 18334,
+      "title": "Ровно в 3 часа",
+      "kp_id": "5069",
+      "imdb_id": "tt0094138",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-15 23:17:04",
+      "orig_title": "Three O'Clock High",
+      "year": "1987-10-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Живов)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (СТС)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-02 12:24:42",
       "iframe_src": ""
     },
     {

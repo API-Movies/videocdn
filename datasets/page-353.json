@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 42259,
+      "title": "Мальчик с уздечкой",
+      "kp_id": "586555",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-03 20:34:57",
+      "orig_title": "Мальчик с уздечкой",
+      "year": "1974-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-05 08:12:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 42258,
+      "title": "Мальчик и облако",
+      "kp_id": "489269",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-03 20:32:38",
+      "orig_title": "Мальчик и облако",
+      "year": "1970-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-05 08:11:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 42256,
+      "title": "Любовь и смерть картошки обыкновенной",
+      "kp_id": "1142595",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-03 20:29:44",
+      "orig_title": "Любовь и смерть картошки обыкновенной",
+      "year": "1990-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-05 08:11:01",
+      "iframe_src": ""
+    },
+    {
       "id": 42254,
       "title": "Лгунишка",
       "kp_id": "586344",
@@ -307,57 +361,41 @@
       "iframe_src": ""
     },
     {
-      "id": 42206,
-      "title": "Шалтай-Болтай",
-      "kp_id": "574651",
-      "imdb_id": "tt11664208",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-02 18:42:33",
-      "orig_title": "Shaltay-Boltay",
-      "year": "1983-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-05 07:26:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 42205,
-      "title": "Снежные мастера",
-      "kp_id": "575777",
+      "id": 3786,
+      "title": "Новогодний ангел",
+      "kp_id": null,
       "imdb_id": null,
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-02 18:38:27",
-      "orig_title": "Снежные мастера",
-      "year": "1985-01-01",
+      "type": "serial",
+      "add": "2018-12-30 00:50:08",
+      "orig_title": "Новогодний ангел",
+      "year": "2018-12-29",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-05 07:25:07",
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2018-12-30 01:47:51",
       "iframe_src": ""
     },
     {
-      "id": 42204,
-      "title": "Сорванец",
-      "kp_id": "451156",
-      "imdb_id": "tt1075392",
+      "id": 3783,
+      "title": "Берегитесь Бэтмена",
+      "kp_id": "675660",
+      "imdb_id": "tt2329077",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-02 18:33:27",
-      "orig_title": "Rüblik",
-      "year": "1975-01-01",
+      "type": "serial",
+      "add": "2018-12-28 20:29:46",
+      "orig_title": "Beware the Batman",
+      "year": "2013-07-13",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "vhs",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-08-05 07:24:15",
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2018-12-30 12:23:22",
       "iframe_src": ""
     },
     {
@@ -532,25 +570,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3752,
-      "title": "Смертельный тренинг",
-      "kp_id": "1178196",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-25 01:27:39",
-      "orig_title": "Смертельный тренинг",
-      "year": "2018-12-22",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2018-12-25 08:45:06",
-      "iframe_src": ""
-    },
-    {
       "id": 3751,
       "title": "Джордж из джунглей",
       "kp_id": "404070",
@@ -586,25 +605,6 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2018-12-25 08:46:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 3748,
-      "title": "Красота внутри",
-      "kp_id": "1171931",
-      "imdb_id": "tt8801708",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-23 00:45:05",
-      "orig_title": "Byuti insaideu",
-      "year": "2018-10-01",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2018-12-24 13:52:11",
       "iframe_src": ""
     },
     {
@@ -684,6 +684,25 @@
       "iframe_src": ""
     },
     {
+      "id": 3619,
+      "title": "Буду рада, если ты умрёшь",
+      "kp_id": "1187964",
+      "imdb_id": "tt9143894",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-04 20:50:05",
+      "orig_title": "Jookeodo Joa",
+      "year": "2018-11-07",
+      "translations": [
+        "Любительский (двухголосый закадровый) (SoftBox)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2018-12-30 15:18:55",
+      "iframe_src": ""
+    },
+    {
       "id": 3615,
       "title": "Барашек Тимми",
       "kp_id": "490280",
@@ -703,42 +722,22 @@
       "iframe_src": ""
     },
     {
-      "id": 3312,
-      "title": "Грузовичок Лёва",
-      "kp_id": "1112959",
+      "id": 3270,
+      "title": "Бар «На грудь»",
+      "kp_id": "1182694",
       "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-10-15 12:36:09",
-      "orig_title": "Грузовичок Лёва",
-      "year": "2014-01-01",
+      "add": "2018-10-09 01:10:14",
+      "orig_title": "Бар «На грудь»",
+      "year": "2018-10-04",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "seasons_count": 2,
-      "episodes_count": 114,
-      "episodes": 69,
-      "update": "2018-12-24 13:46:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 512,
-      "title": "Вне времени",
-      "kp_id": "968215",
-      "imdb_id": "tt5511582",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-10-06 05:55:49",
-      "orig_title": "Timeless",
-      "year": "2016-10-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Кравец)",
-        "Профессиональный (многоголосый закадровый) (LostFilm)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 28,
-      "episodes": 12,
-      "update": "2018-12-25 02:30:08",
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2018-12-28 19:48:37",
       "iframe_src": ""
     }
   ]

@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "id": 43580,
-      "title": "Поющая в Хоре",
-      "kp_id": "1012142",
-      "imdb_id": "tt6069908",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-15 20:08:50",
-      "orig_title": "Choir Girl",
-      "year": "2019-12-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-16 06:19:55",
-      "iframe_src": ""
-    },
-    {
       "id": 43579,
       "title": "Битва на рельсах",
       "kp_id": "25604",
@@ -73,42 +55,6 @@
       "iframe_src": ""
     },
     {
-      "id": 43575,
-      "title": "Культистки",
-      "kp_id": "967118",
-      "imdb_id": "tt5533938",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-15 19:05:35",
-      "orig_title": "Cult Girls",
-      "year": "2019-10-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-16 06:21:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 43574,
-      "title": "Зло пускает корни",
-      "kp_id": "1118035",
-      "imdb_id": "tt7830416",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-15 19:03:02",
-      "orig_title": "Evil Takes Root",
-      "year": "2020-09-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-16 06:13:01",
-      "iframe_src": ""
-    },
-    {
       "id": 43573,
       "title": "Ферма страха",
       "kp_id": "1206210",
@@ -142,6 +88,60 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-09-16 06:24:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 43435,
+      "title": "Как аукнется...",
+      "kp_id": "861656",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-11 21:25:55",
+      "orig_title": "Как аукнется...",
+      "year": "1982-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-16 07:41:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 43434,
+      "title": "Чудесный ковёр",
+      "kp_id": "1270969",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-11 21:19:54",
+      "orig_title": "Чудесный ковёр",
+      "year": "1977-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-16 07:40:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 43433,
+      "title": "Бабочка",
+      "kp_id": "263216",
+      "imdb_id": "tt0820033",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-11 21:13:50",
+      "orig_title": "Babochka",
+      "year": "1972-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-16 07:38:30",
       "iframe_src": ""
     },
     {
@@ -361,6 +361,45 @@
       "iframe_src": ""
     },
     {
+      "id": 5394,
+      "title": "Воспитывая Диона",
+      "kp_id": "1113115",
+      "imdb_id": "tt7826108",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-04 18:37:04",
+      "orig_title": "Raising Dion",
+      "year": "2019-10-04",
+      "translations": [
+        "Полное дублирование (Невафильм)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 9,
+      "episodes": 9,
+      "update": "2019-10-04 20:53:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 5384,
+      "title": "Завтра наступит сегодня",
+      "kp_id": "401723",
+      "imdb_id": "tt0115163",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-03 20:19:18",
+      "orig_title": "Early Edition",
+      "year": "1996-09-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 90,
+      "episodes": 22,
+      "update": "2019-10-04 21:29:59",
+      "iframe_src": ""
+    },
+    {
       "id": 5380,
       "title": "Тайный дневник девушки по вызову",
       "kp_id": "401122",
@@ -456,41 +495,24 @@
       "iframe_src": ""
     },
     {
-      "id": 5371,
-      "title": "Доктор Живаго",
-      "kp_id": "89676",
-      "imdb_id": "tt0417319",
+      "id": 5372,
+      "title": "Обычное шоу",
+      "kp_id": "669362",
+      "imdb_id": "tt1710308",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-10-02 08:35:33",
-      "orig_title": "Doktor Zhivago",
-      "year": "2006-01-01",
+      "add": "2019-10-02 10:23:18",
+      "orig_title": "Regular Show",
+      "year": "2009-08-14",
       "translations": [
-        "Оригинальная дорожка"
+        "Полное дублирование",
+        "Полное дублирование (Пифагор)",
+        "Любительский (многоголосый закадровый)"
       ],
-      "seasons_count": 1,
-      "episodes_count": 11,
-      "episodes": 11,
-      "update": "2019-10-03 06:44:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 5370,
-      "title": "М.У.Р",
-      "kp_id": "539681",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-10-02 08:32:08",
-      "orig_title": "М.У.Р",
-      "year": "2012-04-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2019-10-03 07:08:18",
+      "seasons_count": 7,
+      "episodes_count": 179,
+      "episodes": 36,
+      "update": "2019-10-04 11:10:43",
       "iframe_src": ""
     },
     {
@@ -665,22 +687,22 @@
       "iframe_src": ""
     },
     {
-      "id": 3925,
-      "title": "Огги и тараканы",
-      "kp_id": "260398",
-      "imdb_id": "tt0213363",
+      "id": 4523,
+      "title": "Любовь и Пи",
+      "kp_id": "1256817",
+      "imdb_id": "tt9327256",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-01-22 08:19:16",
-      "orig_title": "Oggy et les cafards",
-      "year": "1998-09-06",
+      "add": "2019-05-20 04:12:04",
+      "orig_title": "Love and Pi",
+      "year": "2018-07-21",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (двухголосый закадровый)"
       ],
-      "seasons_count": 4,
-      "episodes_count": 269,
-      "episodes": 74,
-      "update": "2019-10-03 07:37:53",
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2019-10-04 21:01:27",
       "iframe_src": ""
     },
     {
@@ -700,27 +722,6 @@
       "episodes_count": 18,
       "episodes": 8,
       "update": "2019-10-03 08:42:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 1727,
-      "title": "Охотники за наживой",
-      "kp_id": "1071368",
-      "imdb_id": "tt7350790",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-11-13 06:24:22",
-      "orig_title": "Bounty Hunters",
-      "year": "2017-10-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Ozz.tv)",
-        "Профессиональный (многоголосый закадровый) (Amedia)",
-        "Профессиональный (многоголосый закадровый) (TVShows)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 11,
-      "episodes": 5,
-      "update": "2019-10-03 08:07:20",
       "iframe_src": ""
     },
     {

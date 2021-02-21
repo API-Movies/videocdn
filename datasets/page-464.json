@@ -56,6 +56,25 @@
       "iframe_src": ""
     },
     {
+      "id": 27078,
+      "title": "Образование",
+      "kp_id": "471586",
+      "imdb_id": "tt1489887",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-26 19:05:14",
+      "orig_title": "Booksmart",
+      "year": "2019-03-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2020-05-15 15:48:09",
+      "iframe_src": ""
+    },
+    {
       "id": 26205,
       "title": "Болден!",
       "kp_id": "272254",
@@ -94,22 +113,21 @@
       "iframe_src": ""
     },
     {
-      "id": 25320,
-      "title": "Обратная тяга 2",
-      "kp_id": "1151301",
-      "imdb_id": "tt8172466",
+      "id": 23336,
+      "title": "Книга монстров",
+      "kp_id": "1049023",
+      "imdb_id": "tt7260818",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-25 21:03:07",
-      "orig_title": "Backdraft 2",
-      "year": "2019-05-14",
+      "add": "2019-03-21 21:46:24",
+      "orig_title": "Book of Monsters",
+      "year": "2018-08-28",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Original (English)"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
-      "quality": "bd",
+      "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2020-05-15 12:05:21",
+      "update": "2020-05-15 15:47:36",
       "iframe_src": ""
     },
     {
@@ -130,6 +148,25 @@
       "quality": "webdl",
       "translation": "Полное дублирование (iTunes)",
       "update": "2020-05-15 15:46:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 21525,
+      "title": "Стёртая личность",
+      "kp_id": "1046440",
+      "imdb_id": "tt7008872",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-01-15 22:41:14",
+      "orig_title": "Boy Erased",
+      "year": "2018-09-01",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-05-15 15:48:27",
       "iframe_src": ""
     },
     {
@@ -297,43 +334,6 @@
       "iframe_src": ""
     },
     {
-      "id": 16361,
-      "title": "Предательство для начинающих",
-      "kp_id": "941518",
-      "imdb_id": "tt5153288",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-04-19 22:05:03",
-      "orig_title": "Backstabbing for Beginners",
-      "year": "2018-01-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-05-15 12:05:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 16222,
-      "title": "Кровавый мёд",
-      "kp_id": "463483",
-      "imdb_id": "tt1380151",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-04-12 22:06:58",
-      "orig_title": "Blood Honey",
-      "year": "2017-09-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2020-05-15 12:45:04",
-      "iframe_src": ""
-    },
-    {
       "id": 15678,
       "title": "Чёрные воды",
       "kp_id": "982808",
@@ -371,6 +371,44 @@
       "quality": "bd",
       "translation": "Полное дублирование",
       "update": "2020-05-15 15:42:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 905,
+      "title": "Скиталец Эндры",
+      "kp_id": "996309",
+      "imdb_id": "tt5877116",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-01-19 11:38:00",
+      "orig_title": "Endride",
+      "year": "2016-04-02",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 24,
+      "episodes": 24,
+      "update": "2017-01-19 15:17:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 904,
+      "title": "Два плюс два",
+      "kp_id": "933229",
+      "imdb_id": "tt5923660",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-01-19 10:35:23",
+      "orig_title": "Dva plyus dva",
+      "year": "2015-09-27",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2017-01-19 13:57:23",
       "iframe_src": ""
     },
     {
@@ -583,63 +621,6 @@
       "iframe_src": ""
     },
     {
-      "id": 884,
-      "title": "Чужое лицо",
-      "kp_id": "694589",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-01-16 07:49:25",
-      "orig_title": "Чужое лицо",
-      "year": "2012-02-22",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2017-01-16 10:58:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 883,
-      "title": "Человеческий фактор",
-      "kp_id": "830649",
-      "imdb_id": "tt5222678",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-01-16 06:30:45",
-      "orig_title": "Chelovecheskiy faktor",
-      "year": "2014-02-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2017-01-16 11:41:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 882,
-      "title": "Холодное блюдо",
-      "kp_id": "932123",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-01-16 06:25:20",
-      "orig_title": "Холодное блюдо",
-      "year": "2015-09-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2017-01-16 09:07:46",
-      "iframe_src": ""
-    },
-    {
       "id": 881,
       "title": "Любовь с испытательным сроком",
       "kp_id": "807415",
@@ -675,25 +656,6 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2017-01-18 13:46:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 879,
-      "title": "Принц Сибири",
-      "kp_id": "838953",
-      "imdb_id": "tt4760822",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-01-16 05:41:09",
-      "orig_title": "Prints Sibiri",
-      "year": "2015-05-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2017-01-16 09:30:30",
       "iframe_src": ""
     },
     {
@@ -751,6 +713,44 @@
       "episodes_count": 13,
       "episodes": 13,
       "update": "2017-01-19 11:39:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 521,
+      "title": "Дедушка",
+      "kp_id": "984274",
+      "imdb_id": "tt5923532",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-10-09 10:39:14",
+      "orig_title": "Dedushka",
+      "year": "2016-10-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "episodes": 1,
+      "update": "2017-01-19 13:51:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 518,
+      "title": "Давайте познакомимся",
+      "kp_id": "1002691",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-10-07 09:13:43",
+      "orig_title": "Давайте познакомимся",
+      "year": "2016-09-30",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "episodes": 1,
+      "update": "2017-01-20 07:10:53",
       "iframe_src": ""
     },
     {

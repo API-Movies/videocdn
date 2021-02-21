@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": 43344,
-      "title": "Джерри и лев",
-      "kp_id": "221809",
-      "imdb_id": "tt0042613",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-09 09:42:04",
-      "orig_title": "Jerry and the Lion",
-      "year": "1950-04-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-09-10 08:33:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 43343,
-      "title": "Шумный праздник",
-      "kp_id": "221808",
-      "imdb_id": "tt0042916",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-09 09:40:04",
-      "orig_title": "Safety Second",
-      "year": "1950-07-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-09-10 08:34:45",
-      "iframe_src": ""
-    },
-    {
       "id": 43342,
       "title": "Хочу быть дирижером",
       "kp_id": "221807",
@@ -237,21 +201,22 @@
       "iframe_src": ""
     },
     {
-      "id": 43267,
-      "title": "Фикс",
-      "kp_id": "512296",
-      "imdb_id": "tt1646898",
+      "id": 43281,
+      "title": "В тиши и мраке",
+      "kp_id": "1279379",
+      "imdb_id": "tt7520746",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-09-08 11:51:32",
-      "orig_title": "Fix",
-      "year": "2011-04-14",
+      "add": "2020-09-08 16:30:14",
+      "orig_title": "Silence & Darkness",
+      "year": "2020-09-05",
       "translations": [
-        "Любительский (одноголосый закадровый) (Филонов)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Филонов)",
-      "update": "2020-09-10 07:41:49",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-10 12:20:39",
       "iframe_src": ""
     },
     {
@@ -271,6 +236,25 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-09-10 12:14:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 43083,
+      "title": "Старше",
+      "kp_id": "823869",
+      "imdb_id": "tt3391908",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-04 19:45:57",
+      "orig_title": "Older",
+      "year": "2020-01-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-10 12:16:47",
       "iframe_src": ""
     },
     {
@@ -369,6 +353,63 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-09-10 12:15:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 43005,
+      "title": "Параллельные Разумы",
+      "kp_id": "1103604",
+      "imdb_id": "tt7642500",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-01 18:53:53",
+      "orig_title": "Parallel Minds",
+      "year": "2020-09-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-09-10 12:17:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 5096,
+      "title": "Есть нюансы",
+      "kp_id": "1293077",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-08-26 08:58:56",
+      "orig_title": "Есть нюансы",
+      "year": "2019-08-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2019-08-26 11:31:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 5094,
+      "title": "Рыжик",
+      "kp_id": "1291163",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-08-26 08:42:50",
+      "orig_title": "Рыжик",
+      "year": "2019-08-25",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-08-26 11:24:23",
       "iframe_src": ""
     },
     {
@@ -638,60 +679,23 @@
       "iframe_src": ""
     },
     {
-      "id": 5060,
-      "title": "Мисс Марпл: Указующий перст",
-      "kp_id": "251720",
-      "imdb_id": "tt0087749",
+      "id": 5005,
+      "title": "Лексс",
+      "kp_id": "77319",
+      "imdb_id": "tt0115243",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-08-20 06:46:24",
-      "orig_title": "Miss Marple: The Moving Finger",
-      "year": "1985-02-21",
+      "add": "2019-08-07 12:42:56",
+      "orig_title": "Lexx",
+      "year": "1997-04-18",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+        "Профессиональный (двухголосый закадровый)",
+        "Профессиональный (двухголосый закадровый) (Agatha Studdio)"
       ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2019-08-23 12:42:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 5059,
-      "title": "Мисс Марпл: Тело в библиотеке",
-      "kp_id": "251719",
-      "imdb_id": "tt0088833",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-08-20 06:43:41",
-      "orig_title": "Miss Marple: The Body in the Library",
-      "year": "1984-12-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 3,
-      "episodes": 3,
-      "update": "2019-08-23 12:39:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 5058,
-      "title": "Мисс Марпл: Объявленное убийство",
-      "kp_id": "251721",
-      "imdb_id": "tt0087756",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-08-20 06:37:36",
-      "orig_title": "Miss Marple: A Murder Is Announced",
-      "year": "1985-02-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 3,
-      "episodes": 3,
-      "update": "2019-08-23 12:36:03",
+      "seasons_count": 4,
+      "episodes_count": 61,
+      "episodes": 24,
+      "update": "2019-08-24 12:49:05",
       "iframe_src": ""
     },
     {
@@ -714,6 +718,25 @@
       "iframe_src": ""
     },
     {
+      "id": 3104,
+      "title": "Сбой",
+      "kp_id": "891675",
+      "imdb_id": "tt4192782",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-08-30 19:25:06",
+      "orig_title": "Glitch",
+      "year": "2015-07-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 13,
+      "episodes": 1,
+      "update": "2019-08-26 11:25:26",
+      "iframe_src": ""
+    },
+    {
       "id": 1080,
       "title": "1943",
       "kp_id": "759269",
@@ -730,29 +753,6 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2019-08-23 17:36:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 135,
-      "title": "В объезд",
-      "kp_id": "927628",
-      "imdb_id": "tt4903242",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-06-03 08:48:24",
-      "orig_title": "The Detour",
-      "year": "2016-04-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Несмертельное оружие)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (TUMBLER Studio)"
-      ],
-      "seasons_count": 4,
-      "episodes_count": 42,
-      "episodes": 10,
-      "update": "2019-08-23 10:20:42",
       "iframe_src": ""
     }
   ]

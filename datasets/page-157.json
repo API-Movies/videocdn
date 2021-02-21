@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 45848,
+      "title": "Лейтенант Джанглс",
+      "kp_id": "898178",
+      "imdb_id": "tt4408104",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-04 20:52:06",
+      "orig_title": "Lieutenant Jangles",
+      "year": "2018-01-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-05 07:17:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 45847,
+      "title": "Рождество в усадьбе",
+      "kp_id": "1347432",
+      "imdb_id": "tt11753704",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-04 20:34:56",
+      "orig_title": "Christmas Inn Farmstead",
+      "year": "2020-11-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-12-05 07:16:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 45844,
+      "title": "Доброе утро, Рождество!",
+      "kp_id": "1420175",
+      "imdb_id": "tt13109730",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-04 20:23:11",
+      "orig_title": "Good Morning Christmas!",
+      "year": "2020-11-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-12-05 07:16:09",
+      "iframe_src": ""
+    },
+    {
       "id": 45693,
       "title": "Волчья яма",
       "kp_id": "45824",
@@ -217,60 +271,6 @@
       "iframe_src": ""
     },
     {
-      "id": 45652,
-      "title": "О чём не узнают трибуны",
-      "kp_id": "567026",
-      "imdb_id": "tt5365188",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-26 22:37:07",
-      "orig_title": "O chyom ne uznayut tribuny",
-      "year": "1975-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:41:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 45651,
-      "title": "Новенькая",
-      "kp_id": "46468",
-      "imdb_id": "tt0127706",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-26 22:35:06",
-      "orig_title": "Novenkaya",
-      "year": "1969-04-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:40:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 45650,
-      "title": "Ночной мотоциклист",
-      "kp_id": "417806",
-      "imdb_id": "tt4697338",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-26 22:33:16",
-      "orig_title": "Nochnoy mototsiklist",
-      "year": "1973-02-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-04 13:39:39",
-      "iframe_src": ""
-    },
-    {
       "id": 45537,
       "title": "Мой дедушка — инопланетянин",
       "kp_id": "1101573",
@@ -323,6 +323,25 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2020-12-04 17:03:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 7766,
+      "title": "Дукла 61",
+      "kp_id": null,
+      "imdb_id": "tt7191438",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-07 05:20:45",
+      "orig_title": "Dukla 61",
+      "year": "2018-05-27",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2020-06-08 15:41:02",
       "iframe_src": ""
     },
     {
@@ -421,6 +440,25 @@
       "iframe_src": ""
     },
     {
+      "id": 7752,
+      "title": "Мама",
+      "kp_id": "1007504",
+      "imdb_id": "tt6132758",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-05 12:20:48",
+      "orig_title": "Anne",
+      "year": "2013-03-31",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Котова)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 33,
+      "episodes": 33,
+      "update": "2020-06-08 16:52:53",
+      "iframe_src": ""
+    },
+    {
       "id": 7747,
       "title": "Романс",
       "kp_id": "1346989",
@@ -476,26 +514,6 @@
       "episodes_count": 12,
       "episodes": 6,
       "update": "2020-06-07 09:42:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 7727,
-      "title": "Страх на озере",
-      "kp_id": "1299306",
-      "imdb_id": "tt10916128",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-06-04 05:05:25",
-      "orig_title": "Peur sur le lac",
-      "year": "2020-01-02",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)",
-        "Любительский (многоголосый закадровый) (Octopus)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-06-06 14:09:09",
       "iframe_src": ""
     },
     {
@@ -575,25 +593,6 @@
       "iframe_src": ""
     },
     {
-      "id": 7522,
-      "title": "Мир Винкс",
-      "kp_id": "1048698",
-      "imdb_id": "tt5874596",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-05-15 13:56:04",
-      "orig_title": "World of Winx",
-      "year": "2016-11-04",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 26,
-      "episodes": 13,
-      "update": "2020-06-06 11:07:32",
-      "iframe_src": ""
-    },
-    {
       "id": 7247,
       "title": "А счастье где-то рядом",
       "kp_id": "581917",
@@ -613,23 +612,22 @@
       "iframe_src": ""
     },
     {
-      "id": 7196,
-      "title": "Пекарь и красавица",
-      "kp_id": "1245503",
-      "imdb_id": "tt9164986",
+      "id": 5163,
+      "title": "Тайна последней главы",
+      "kp_id": "1239330",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-04-15 06:13:28",
-      "orig_title": "The Baker and the Beauty",
-      "year": "2020-04-13",
+      "add": "2019-09-08 14:28:48",
+      "orig_title": "Тайна последней главы",
+      "year": "2019-09-08",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (Gears Media)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)"
+        "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 9,
-      "episodes": 9,
-      "update": "2020-06-06 04:54:51",
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2020-06-08 17:11:08",
       "iframe_src": ""
     },
     {
@@ -669,27 +667,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4218,
-      "title": "Генлок",
-      "kp_id": "1158025",
-      "imdb_id": "tt7945066",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-06 09:21:26",
-      "orig_title": "Gen: Lock",
-      "year": "2019-01-26",
-      "translations": [
-        "Любительский (двухголосый закадровый) (NewStation)",
-        "Любительский (многоголосый закадровый) (AniDUB)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-06-06 08:46:07",
-      "iframe_src": ""
-    },
-    {
       "id": 4168,
       "title": "И немного волшебства",
       "kp_id": "948997",
@@ -725,6 +702,32 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2020-06-06 15:31:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 3233,
+      "title": "Родители-одиночки",
+      "kp_id": "1142540",
+      "imdb_id": "tt7845644",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-09-28 11:10:26",
+      "orig_title": "Single Parents",
+      "year": "2018-09-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Любительский (двухголосый закадровый) (Sunshine Studio)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (Fox Life)",
+        "Профессиональный (многоголосый закадровый) (TVShows)",
+        "Профессиональный (многоголосый закадровый) (FOX)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 45,
+      "episodes": 22,
+      "update": "2020-06-08 16:10:11",
       "iframe_src": ""
     },
     {

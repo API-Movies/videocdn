@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 43427,
+      "title": "Если я забуду",
+      "kp_id": "1095750",
+      "imdb_id": "tt6869368",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-11 16:28:48",
+      "orig_title": "If I Forget",
+      "year": "2017-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-12 07:14:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 43418,
+      "title": "Долина чудес",
+      "kp_id": "860678",
+      "imdb_id": "tt4123414",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-11 07:21:29",
+      "orig_title": "Wonder Valley",
+      "year": "2017-03-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-11 20:15:41",
+      "iframe_src": ""
+    },
+    {
       "id": 43417,
       "title": "Тёмные болота",
       "kp_id": "1331523",
@@ -109,6 +145,24 @@
       "iframe_src": ""
     },
     {
+      "id": 43411,
+      "title": "Барбара",
+      "kp_id": "1322197",
+      "imdb_id": "tt11203346",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-11 06:21:49",
+      "orig_title": "Barbara Reimagined",
+      "year": "2019-11-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-11 13:26:57",
+      "iframe_src": ""
+    },
+    {
       "id": 43408,
       "title": "Храбрость Лэсси",
       "kp_id": "17923",
@@ -199,42 +253,6 @@
       "iframe_src": ""
     },
     {
-      "id": 43370,
-      "title": "Зло у меня под кожей",
-      "kp_id": "1063718",
-      "imdb_id": "tt6696280",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-10 05:59:54",
-      "orig_title": "Evil Under the Skin",
-      "year": "2019-06-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-11 09:05:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 43369,
-      "title": "Милашки",
-      "kp_id": "1211462",
-      "imdb_id": "tt9196192",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-10 05:56:58",
-      "orig_title": "Mignonnes",
-      "year": "2020-01-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-11 09:02:22",
-      "iframe_src": ""
-    },
-    {
       "id": 43333,
       "title": "Шафрановое сердце",
       "kp_id": "1187971",
@@ -250,6 +268,63 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2020-09-11 13:16:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 5181,
+      "title": "Блэкпул",
+      "kp_id": "277566",
+      "imdb_id": "tt0408375",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-09-10 11:17:49",
+      "orig_title": "Blackpool",
+      "year": "2004-11-11",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2019-09-10 15:40:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 5179,
+      "title": "Московский романс",
+      "kp_id": "1272221",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-09-10 11:10:46",
+      "orig_title": "Московский романс",
+      "year": "2019-09-06",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-09-10 15:37:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 5166,
+      "title": "В поисках истины",
+      "kp_id": "419545",
+      "imdb_id": "tt0179699",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-09-09 19:29:39",
+      "orig_title": "Cambio de piel",
+      "year": "1998-01-01",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 110,
+      "episodes": 110,
+      "update": "2019-09-11 11:12:01",
       "iframe_src": ""
     },
     {
@@ -269,25 +344,6 @@
       "episodes_count": 2,
       "episodes": 2,
       "update": "2019-09-09 15:09:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 5162,
-      "title": "Женщины в любви",
-      "kp_id": "325756",
-      "imdb_id": "tt0358326",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-07 18:24:09",
-      "orig_title": "Mulheres Apaixonadas",
-      "year": "2003-02-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 170,
-      "episodes": 170,
-      "update": "2019-09-08 13:03:35",
       "iframe_src": ""
     },
     {
@@ -326,25 +382,6 @@
       "episodes_count": 40,
       "episodes": 40,
       "update": "2019-09-10 11:38:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 5155,
-      "title": "Великий маэстро",
-      "kp_id": "26974",
-      "imdb_id": "tt0165806",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-06 15:15:57",
-      "orig_title": "Il grande maestro",
-      "year": "1967-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 3,
-      "episodes": 3,
-      "update": "2019-09-06 21:47:28",
       "iframe_src": ""
     },
     {
@@ -421,25 +458,6 @@
       "episodes_count": 130,
       "episodes": 130,
       "update": "2019-09-08 20:19:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 5148,
-      "title": "Нежный яд",
-      "kp_id": "422960",
-      "imdb_id": "tt0185823",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-05 10:08:23",
-      "orig_title": "Suave Veneno",
-      "year": "1999-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 135,
-      "episodes": 135,
-      "update": "2019-09-06 08:29:52",
       "iframe_src": ""
     },
     {
@@ -535,6 +553,26 @@
       "episodes_count": 20,
       "episodes": 20,
       "update": "2019-09-09 07:50:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 5054,
+      "title": "Игры ключей",
+      "kp_id": "1245696",
+      "imdb_id": "tt9863788",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-08-19 20:01:52",
+      "orig_title": "El Juego de las Llaves",
+      "year": "2019-08-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2019-09-10 19:07:27",
       "iframe_src": ""
     },
     {
@@ -638,27 +676,6 @@
       "iframe_src": ""
     },
     {
-      "id": 18886,
-      "title": "Ураган",
-      "kp_id": "1095374",
-      "imdb_id": "tt7515456",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-09-09 23:15:51",
-      "orig_title": "Hurricane",
-      "year": "2018-08-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-11 09:10:39",
-      "iframe_src": ""
-    },
-    {
       "id": 18717,
       "title": "Расправа",
       "kp_id": "1047839",
@@ -716,25 +733,6 @@
       "quality": "bd",
       "translation": "Полное дублирование",
       "update": "2020-09-11 11:01:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 2489,
-      "title": "С приветом по планетам",
-      "kp_id": "790322",
-      "imdb_id": "tt2252938",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-04-30 15:01:28",
-      "orig_title": "Wander Over Yonder",
-      "year": "2013-09-13",
-      "translations": [
-        "Полное дублирование (Невафильм)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 43,
-      "episodes": 22,
-      "update": "2019-09-06 22:11:43",
       "iframe_src": ""
     },
     {
