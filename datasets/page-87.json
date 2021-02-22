@@ -199,39 +199,75 @@
       "iframe_src": ""
     },
     {
-      "id": 46869,
-      "title": "Шерлок Холмс в Вашингтоне",
-      "kp_id": "202998",
-      "imdb_id": "tt0036349",
+      "id": 46688,
+      "title": "Марс и Апрель",
+      "kp_id": "520890",
+      "imdb_id": "tt1638277",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-10 15:18:20",
-      "orig_title": "Sherlock Holmes in Washington",
-      "year": "1943-03-24",
+      "add": "2021-01-05 07:21:16",
+      "orig_title": "Mars et Avril",
+      "year": "2012-07-02",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (DVD Classic)"
+        "Любительский (одноголосый закадровый) (allecs2010)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (DVD Classic)",
-      "update": "2021-01-12 16:00:01",
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый) (allecs2010)",
+      "update": "2021-01-13 09:15:31",
       "iframe_src": ""
     },
     {
-      "id": 46866,
-      "title": "Чумовая пятница",
-      "kp_id": "9851",
-      "imdb_id": "tt0076054",
+      "id": 46687,
+      "title": "Черный дождь",
+      "kp_id": "164752",
+      "imdb_id": "tt0097694",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-10 14:58:30",
-      "orig_title": "Freaky Friday",
-      "year": "1976-12-17",
+      "add": "2021-01-05 07:18:16",
+      "orig_title": "Kuroi ame",
+      "year": "1989-05-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2021-01-12 16:01:24",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-01-13 09:16:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 46681,
+      "title": "Игуана",
+      "kp_id": "14839",
+      "imdb_id": "tt0095354",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-04 16:51:42",
+      "orig_title": "Iguana",
+      "year": "1988-05-12",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов)",
+      "update": "2021-01-13 09:13:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 46672,
+      "title": "Черный монокль",
+      "kp_id": "126219",
+      "imdb_id": "tt0055191",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-04 07:55:49",
+      "orig_title": "Le monocle noir",
+      "year": "1961-08-29",
+      "translations": [
+        "Любительский (одноголосый закадровый) (lehachuev)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (lehachuev)",
+      "update": "2021-01-13 09:20:53",
       "iframe_src": ""
     },
     {
@@ -349,6 +385,45 @@
       "iframe_src": ""
     },
     {
+      "id": 8845,
+      "title": "Капитан Кракен и его команда",
+      "kp_id": "1101315",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-26 08:21:29",
+      "orig_title": "Капитан Кракен и его команда",
+      "year": "2017-09-16",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2020-09-26 11:55:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 8844,
+      "title": "Дилберт",
+      "kp_id": "395103",
+      "imdb_id": "tt0118984",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-26 08:03:03",
+      "orig_title": "Dilbert",
+      "year": "1999-01-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (2x2)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 30,
+      "episodes": 17,
+      "update": "2020-09-26 12:03:18",
+      "iframe_src": ""
+    },
+    {
       "id": 8843,
       "title": "Похождения нотариуса Неглинцева",
       "kp_id": "420333",
@@ -365,63 +440,6 @@
       "episodes_count": 12,
       "episodes": 12,
       "update": "2020-09-26 09:15:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 8842,
-      "title": "Просто представь, что мы знаем",
-      "kp_id": "1355058",
-      "imdb_id": "tt11966878",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-25 18:40:43",
-      "orig_title": "Just Imagine Things We Know",
-      "year": "2020-09-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-09-25 21:32:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 8835,
-      "title": "Грязеземье",
-      "kp_id": "574267",
-      "imdb_id": "tt1623133",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-24 10:01:51",
-      "orig_title": "Muddle Earth",
-      "year": "2010-03-15",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 26,
-      "episodes": 13,
-      "update": "2020-09-26 06:18:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 8834,
-      "title": "Директория смерти",
-      "kp_id": "400488",
-      "imdb_id": "tt4462814",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-24 09:11:43",
-      "orig_title": "Direktoriya smerti",
-      "year": "1999-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2020-09-26 06:30:24",
       "iframe_src": ""
     },
     {
@@ -444,44 +462,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8832,
-      "title": "Стыд. Бельгия",
-      "kp_id": "1235533",
-      "imdb_id": "tt9599524",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-24 07:57:17",
-      "orig_title": "Wtfock",
-      "year": "2018-10-05",
-      "translations": [
-        "Любительский (двухголосый закадровый) (GoldTeam)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 22,
-      "episodes": 10,
-      "update": "2020-09-26 06:42:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 8831,
-      "title": "Ведьмин клинок",
-      "kp_id": "230362",
-      "imdb_id": "tt0274298",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-24 07:20:38",
-      "orig_title": "Witchblade",
-      "year": "2001-06-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 24,
-      "episodes": 12,
-      "update": "2020-09-26 06:04:38",
-      "iframe_src": ""
-    },
-    {
       "id": 8826,
       "title": "Да, дорогая!",
       "kp_id": "421420",
@@ -498,6 +478,103 @@
       "episodes_count": 122,
       "episodes": 15,
       "update": "2020-09-26 10:31:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 8792,
+      "title": "Секретное шоу",
+      "kp_id": "335711",
+      "imdb_id": "tt0887233",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-20 10:52:42",
+      "orig_title": "The Secret Show",
+      "year": "2006-09-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 52,
+      "episodes": 26,
+      "update": "2020-09-26 11:59:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 8787,
+      "title": "Хитклифф",
+      "kp_id": "392520",
+      "imdb_id": "tt0285371",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-19 11:03:22",
+      "orig_title": "Heathcliff & the Catillac Cats",
+      "year": "1984-01-03",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2020-09-26 11:46:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 8786,
+      "title": "Лунатики",
+      "kp_id": "471710",
+      "imdb_id": "tt0476918",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-19 10:55:37",
+      "orig_title": "Loonatics Unleashed",
+      "year": "2005-09-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Полное дублирование"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 25,
+      "episodes": 13,
+      "update": "2020-09-26 11:42:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 8785,
+      "title": "Горец",
+      "kp_id": "229844",
+      "imdb_id": "tt0147773",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-19 10:43:24",
+      "orig_title": "Highlander: The Animated Series",
+      "year": "1994-09-18",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 32,
+      "episodes": 19,
+      "update": "2020-09-26 11:33:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 8781,
+      "title": "Домашнее видео",
+      "kp_id": "335717",
+      "imdb_id": "tt0197159",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-09-18 12:20:53",
+      "orig_title": "Home Movies",
+      "year": "1999-04-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (2x2)"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 52,
+      "episodes": 13,
+      "update": "2020-09-26 12:05:00",
       "iframe_src": ""
     },
     {
@@ -577,25 +654,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8755,
-      "title": "Дуда и Дада",
-      "kp_id": "957852",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-16 07:27:34",
-      "orig_title": "Duda and Dada",
-      "year": "2013-12-18",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 52,
-      "episodes": 26,
-      "update": "2020-09-26 08:35:30",
-      "iframe_src": ""
-    },
-    {
       "id": 8722,
       "title": "Фееринки",
       "kp_id": "1338322",
@@ -612,25 +670,6 @@
       "episodes_count": 12,
       "episodes": 12,
       "update": "2020-09-26 10:19:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 8681,
-      "title": "Манхэттенская любовная история",
-      "kp_id": "477598",
-      "imdb_id": "tt0420426",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-10 07:42:32",
-      "orig_title": "Manhattan rabu stôrî",
-      "year": "2003-10-09",
-      "translations": [
-        "Любительский (одноголосый закадровый) (GREEN TEA)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 11,
-      "episodes": 11,
-      "update": "2020-09-25 18:40:01",
       "iframe_src": ""
     },
     {
@@ -673,24 +712,6 @@
       "iframe_src": ""
     },
     {
-      "id": 38523,
-      "title": "Песчаная галька",
-      "kp_id": "5459",
-      "imdb_id": "tt0060934",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-25 09:02:17",
-      "orig_title": "The Sand Pebbles",
-      "year": "1966-12-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-      "update": "2021-01-12 15:57:51",
-      "iframe_src": ""
-    },
-    {
       "id": 37630,
       "title": "Герцогиня и Драный Лис",
       "kp_id": "15788",
@@ -710,39 +731,22 @@
       "iframe_src": ""
     },
     {
-      "id": 18218,
-      "title": "Болеро",
-      "kp_id": "7236",
-      "imdb_id": "tt0083260",
+      "id": 16328,
+      "title": "Смурфики: Рождественский гимн",
+      "kp_id": "627284",
+      "imdb_id": "tt2062677",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-11 00:36:36",
-      "orig_title": "Les uns et les autres",
-      "year": "1981-05-27",
+      "add": "2018-04-17 23:18:31",
+      "orig_title": "The Smurfs: A Christmas Carol",
+      "year": "2011-09-09",
       "translations": [
-        "Профессиональный (двухголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)",
+        "Полное дублирование"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2021-01-12 16:03:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 7536,
-      "title": "Жена Штирлица",
-      "kp_id": "696425",
-      "imdb_id": "tt12555746",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-20 11:14:56",
-      "orig_title": "Zhena Shtirlitsa",
-      "year": "2012-08-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-12 16:05:15",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-13 09:14:32",
       "iframe_src": ""
     }
   ]

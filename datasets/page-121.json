@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 46496,
+      "title": "Стандарт",
+      "kp_id": "1317364",
+      "imdb_id": "tt11157344",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-28 21:25:04",
+      "orig_title": "Estándar",
+      "year": "2020-08-15",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "ts",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-12-29 08:57:33",
+      "iframe_src": ""
+    },
+    {
       "id": 46455,
       "title": "Мой дорогой убийца",
       "kp_id": "105252",
@@ -91,25 +109,6 @@
       "iframe_src": ""
     },
     {
-      "id": 46421,
-      "title": "Во плоти",
-      "kp_id": "1091185",
-      "imdb_id": "tt7089314",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-27 14:57:53",
-      "orig_title": "In Corpore",
-      "year": "2020-11-26",
-      "translations": [
-        "Original (English)",
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2020-12-29 05:14:50",
-      "iframe_src": ""
-    },
-    {
       "id": 45409,
       "title": "Смертельный декабрь",
       "kp_id": "1213851",
@@ -148,23 +147,41 @@
       "iframe_src": ""
     },
     {
-      "id": 43998,
-      "title": "Внезапная смерть 2",
-      "kp_id": "1292018",
-      "imdb_id": "tt10804786",
+      "id": 8317,
+      "title": "Взаперти",
+      "kp_id": "1390617",
+      "imdb_id": null,
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-30 08:15:39",
-      "orig_title": "Welcome to Sudden Death",
-      "year": "2020-09-29",
+      "type": "serial",
+      "add": "2020-08-01 22:49:10",
+      "orig_title": "Взаперти",
+      "year": "2020-07-28",
       "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)",
-        "Полное дублирование (iTunes)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-12-29 05:34:23",
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2020-08-02 09:59:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 8308,
+      "title": "Подозрения",
+      "kp_id": "774485",
+      "imdb_id": "tt0388644",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-08-01 10:47:48",
+      "orig_title": "Soupçons",
+      "year": "2004-10-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 13,
+      "episodes": 13,
+      "update": "2020-08-01 20:20:31",
       "iframe_src": ""
     },
     {
@@ -263,44 +280,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8297,
-      "title": "Мушкетёры Екатерины",
-      "kp_id": "419537",
-      "imdb_id": "tt7214422",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-07-31 07:59:51",
-      "orig_title": "Mushketory Yekateriny",
-      "year": "2009-03-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2020-07-31 13:06:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 8296,
-      "title": "Катя: Военная история",
-      "kp_id": "460140",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-07-31 07:53:41",
-      "orig_title": "Katya: Voyennaya istoriya",
-      "year": "2009-05-04",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2020-07-31 13:23:09",
-      "iframe_src": ""
-    },
-    {
       "id": 8295,
       "title": "Основная версия",
       "kp_id": "481450",
@@ -317,25 +296,6 @@
       "episodes_count": 12,
       "episodes": 12,
       "update": "2020-07-31 13:43:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 8294,
-      "title": "Контраптус — гений!",
-      "kp_id": "661153",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-07-31 06:03:37",
-      "orig_title": "Contraptus",
-      "year": "2009-01-01",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 78,
-      "episodes": 78,
-      "update": "2020-07-31 13:36:51",
       "iframe_src": ""
     },
     {
@@ -396,23 +356,23 @@
       "iframe_src": ""
     },
     {
-      "id": 8268,
-      "title": "Ударная сила",
-      "kp_id": "431166",
-      "imdb_id": "tt4573374",
+      "id": 8251,
+      "title": "Научные глупости",
+      "kp_id": "841632",
+      "imdb_id": "tt3824414",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-07-27 21:26:23",
-      "orig_title": "Udarnaya sila",
-      "year": "2002-07-01",
+      "add": "2020-07-25 16:54:55",
+      "orig_title": "Science of Stupid",
+      "year": "2014-06-13",
       "translations": [
-        "Оригинальная дорожка",
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (многоголосый закадровый) (Велес)",
+        "Профессиональный (одноголосый закадровый)"
       ],
-      "seasons_count": 1,
-      "episodes_count": 176,
-      "episodes": 176,
-      "update": "2020-07-31 10:44:58",
+      "seasons_count": 8,
+      "episodes_count": 133,
+      "episodes": 16,
+      "update": "2020-08-02 15:26:14",
       "iframe_src": ""
     },
     {
@@ -460,6 +420,25 @@
       "iframe_src": ""
     },
     {
+      "id": 7387,
+      "title": "Джинн в доме",
+      "kp_id": "396490",
+      "imdb_id": "tt0795111",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-05-04 10:13:45",
+      "orig_title": "Genie in the House",
+      "year": "2006-05-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 76,
+      "episodes": 26,
+      "update": "2020-08-02 14:17:12",
+      "iframe_src": ""
+    },
+    {
       "id": 6964,
       "title": "Хиндафинг",
       "kp_id": null,
@@ -476,6 +455,25 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2020-07-31 18:28:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 36620,
+      "title": "Проклятие монахини Роуз",
+      "kp_id": "1109169",
+      "imdb_id": "tt7461372",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-02-20 08:47:05",
+      "orig_title": "The Dawn",
+      "year": "2019-09-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-29 08:24:44",
       "iframe_src": ""
     },
     {
@@ -498,6 +496,69 @@
       "iframe_src": ""
     },
     {
+      "id": 30937,
+      "title": "Высшая форма",
+      "kp_id": "1033145",
+      "imdb_id": "tt6222286",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-17 22:49:24",
+      "orig_title": "Perfect",
+      "year": "2018-03-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-29 08:26:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 28482,
+      "title": "Идеальное Рождество",
+      "kp_id": "260585",
+      "imdb_id": "tt0841032",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-07-02 13:07:56",
+      "orig_title": "The Perfect Holiday",
+      "year": "2007-12-12",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Гранкин)",
+        "Авторский (одноголосый закадровый) (Гранкин)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Гранкин)",
+      "update": "2020-12-29 08:21:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 4542,
+      "title": "Кровь и сокровища",
+      "kp_id": "1127589",
+      "imdb_id": "tt7712598",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-05-23 12:16:31",
+      "orig_title": "Blood & Treasure",
+      "year": "2019-05-21",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Любительский (двухголосый закадровый) (KerobTV)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (TVShows)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Профессиональный (двухголосый закадровый) (TUMBLER Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 14,
+      "episodes": 15,
+      "update": "2020-08-02 05:21:52",
+      "iframe_src": ""
+    },
+    {
       "id": 25411,
       "title": "Северное сияние",
       "kp_id": "41043",
@@ -514,6 +575,27 @@
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
       "update": "2020-12-29 08:15:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 4390,
+      "title": "Ник вам покажет",
+      "kp_id": "1198679",
+      "imdb_id": "tt9039142",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-04-17 17:32:14",
+      "orig_title": "No Good Nick",
+      "year": "2019-04-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Полное дублирование (Netflix)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 20,
+      "episodes": 10,
+      "update": "2020-08-01 20:12:40",
       "iframe_src": ""
     },
     {
@@ -542,64 +624,25 @@
       "iframe_src": ""
     },
     {
-      "id": 4151,
-      "title": "Маленькие убийства",
-      "kp_id": "1097438",
-      "imdb_id": "tt7535994",
+      "id": 3762,
+      "title": "Берлинские легавые",
+      "kp_id": "1183607",
+      "imdb_id": "tt6839788",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-02-25 12:06:02",
-      "orig_title": "Ufak Tefek Cinayetler",
-      "year": "2017-10-24",
+      "add": "2018-12-26 10:17:46",
+      "orig_title": "Dogs of Berlin",
+      "year": "2018-12-07",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Профессиональный (многоголосый закадровый) (Gold Cinema)"
+        "Любительский (двухголосый закадровый) (GoldTeam)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (двухголосый закадровый) (Gears Media)"
       ],
       "seasons_count": 1,
-      "episodes_count": 32,
-      "episodes": 32,
-      "update": "2020-07-31 11:29:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 2866,
-      "title": "Щит",
-      "kp_id": "229080",
-      "imdb_id": "tt0286486",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-06-25 10:09:14",
-      "orig_title": "The Shield",
-      "year": "2002-03-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СТС)",
-        "Профессиональный (многоголосый закадровый) (Selena International)"
-      ],
-      "seasons_count": 7,
-      "episodes_count": 88,
-      "episodes": 13,
-      "update": "2020-07-31 08:05:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 15042,
-      "title": "Четыре Рождества",
-      "kp_id": "393067",
-      "imdb_id": "tt0369436",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-02 05:38:58",
-      "orig_title": "Four Christmases",
-      "year": "2008-11-20",
-      "translations": [
-        "Полное дублирование",
-        "Полное дублирование",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-12-29 06:47:35",
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2020-08-02 05:29:45",
       "iframe_src": ""
     },
     {
@@ -619,6 +662,25 @@
       "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-12-29 08:14:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 8760,
+      "title": "Зимняя сказка, или Королева, потерявшая имя",
+      "kp_id": "905585",
+      "imdb_id": "tt4637050",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-09 11:31:46",
+      "orig_title": "Fräulein: una fiaba d'inverno",
+      "year": "2016-05-26",
+      "translations": [
+        "Любительский (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (IVI)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-12-29 08:23:04",
       "iframe_src": ""
     },
     {
@@ -665,29 +727,6 @@
       "iframe_src": ""
     },
     {
-      "id": 265,
-      "title": "Ты, я, она",
-      "kp_id": "982768",
-      "imdb_id": "tt5179408",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-07-06 13:40:05",
-      "orig_title": "You Me Her",
-      "year": "2016-03-22",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Kiitos)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)",
-        "Любительский (двухголосый закадровый) (GoldTeam)",
-        "Любительский (многоголосый закадровый) (Octopus)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 50,
-      "episodes": 10,
-      "update": "2020-07-31 10:31:48",
-      "iframe_src": ""
-    },
-    {
       "id": 3666,
       "title": "Новая рождественская сказка",
       "kp_id": "9262",
@@ -710,62 +749,6 @@
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2020-12-29 07:10:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 2308,
-      "title": "Гринч – похититель Рождества",
-      "kp_id": "5056",
-      "imdb_id": "tt0170016",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-05-17 19:35:10",
-      "orig_title": "How the Grinch Stole Christmas",
-      "year": "2000-11-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Живов)",
-        "Original (English)",
-        "Полное дублирование",
-        "Профессиональный (многоголосый закадровый) (Карусель)",
-        "Профессиональный (многоголосый закадровый) (Премьер Видео Фильм)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-12-29 06:55:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 1381,
-      "title": "Рэмбо: Первая кровь 2",
-      "kp_id": "6352",
-      "imdb_id": "tt0089880",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-21 09:11:27",
-      "orig_title": "Rambo: First Blood Part II",
-      "year": "1985-05-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Гоблин | Пучков)",
-        "Авторский (одноголосый закадровый) (Гаврилов)",
-        "Авторский (одноголосый закадровый) (Горчаков)",
-        "Авторский (одноголосый закадровый) (Либергал)",
-        "Авторский (одноголосый закадровый) (Визгунов)",
-        "Авторский (одноголосый закадровый) (Живов)",
-        "Original (English)",
-        "Профессиональный (двухголосый закадровый) (РенТВ)",
-        "Профессиональный (многоголосый закадровый) (CP Digital)",
-        "Профессиональный (многоголосый закадровый) (Киномания)",
-        "Профессиональный (многоголосый закадровый) (Позитив)",
-        "Авторский (одноголосый закадровый) (Кузнецов)",
-        "Профессиональный (многоголосый закадровый) (СТС)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-12-29 06:40:26",
       "iframe_src": ""
     },
     {

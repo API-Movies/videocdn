@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 47774,
+      "title": "Дважды два",
+      "kp_id": "1405916",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-08 20:33:52",
+      "orig_title": "Дважды два",
+      "year": "2021-02-04",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "ts",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-02-08 22:32:47",
+      "iframe_src": ""
+    },
+    {
       "id": 47772,
       "title": "Не сдавайся",
       "kp_id": "4297113",
@@ -16,6 +34,60 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-02-08 21:33:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 47770,
+      "title": "Охота на аллозавров",
+      "kp_id": "1446112",
+      "imdb_id": "tt13399406",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-08 18:11:24",
+      "orig_title": "Triassic Hunt",
+      "year": "2021-01-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-09 07:56:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 47765,
+      "title": "Разговор",
+      "kp_id": "923641",
+      "imdb_id": "tt4862096",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-08 16:44:37",
+      "orig_title": "The Talk",
+      "year": "2015-12-09",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeeAFilm Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (DeeAFilm Studio)",
+      "update": "2021-02-09 05:19:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 47763,
+      "title": "Разборка",
+      "kp_id": "18893",
+      "imdb_id": "tt0070687",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-08 15:30:05",
+      "orig_title": "Showdown",
+      "year": "1973-06-20",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2021-02-09 05:20:57",
       "iframe_src": ""
     },
     {
@@ -181,78 +253,6 @@
       "iframe_src": ""
     },
     {
-      "id": 47713,
-      "title": "Серебряные трубы",
-      "kp_id": "474665",
-      "imdb_id": "tt2942750",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-07 13:31:27",
-      "orig_title": "Serebryanye truby",
-      "year": "1971-03-22",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:12:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 47712,
-      "title": "Так начиналась легенда",
-      "kp_id": "42186",
-      "imdb_id": "tt0075304",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-07 13:28:53",
-      "orig_title": "Tak nachinalas legenda",
-      "year": "1976-04-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:11:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 47711,
-      "title": "Комэск",
-      "kp_id": "472200",
-      "imdb_id": "tt9357278",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-07 13:25:03",
-      "orig_title": "Komesk",
-      "year": "1965-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:09:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 47710,
-      "title": "Золотые слова",
-      "kp_id": "668175",
-      "imdb_id": "tt7972470",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-07 13:21:42",
-      "orig_title": "Zolotye Slova",
-      "year": "1989-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:08:39",
-      "iframe_src": ""
-    },
-    {
       "id": 47572,
       "title": "Свинья",
       "kp_id": "1278277",
@@ -286,25 +286,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-02-08 16:48:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 9720,
-      "title": "Тростинка на ветру",
-      "kp_id": "1421533",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-01-13 18:20:59",
-      "orig_title": "Тростинка на ветру",
-      "year": "2020-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2021-01-14 08:27:36",
       "iframe_src": ""
     },
     {
@@ -346,22 +327,22 @@
       "iframe_src": ""
     },
     {
-      "id": 9714,
-      "title": "Отель «Адлон»: Семейная сага",
-      "kp_id": "727170",
-      "imdb_id": "tt2293522",
+      "id": 9711,
+      "title": "Тайна Эммы Филдинг",
+      "kp_id": "1440367",
+      "imdb_id": "tt13303050",
       "world_art_id": null,
       "type": "serial",
-      "add": "2021-01-13 13:13:21",
-      "orig_title": "Das Adlon. Eine Familiensaga",
-      "year": "2013-01-06",
+      "add": "2021-01-13 06:16:57",
+      "orig_title": "Emma Fielding Mysteries",
+      "year": "2017-06-04",
       "translations": [
-        "Любительский (многоголосый закадровый) (Dream Records)"
+        "Любительский (многоголосый закадровый) (ColdFilm)"
       ],
       "seasons_count": 1,
       "episodes_count": 3,
       "episodes": 3,
-      "update": "2021-01-14 07:46:22",
+      "update": "2021-01-15 08:08:29",
       "iframe_src": ""
     },
     {
@@ -384,6 +365,25 @@
       "iframe_src": ""
     },
     {
+      "id": 9694,
+      "title": "Напарники",
+      "kp_id": "4290686",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-01-11 11:06:34",
+      "orig_title": "Напарники",
+      "year": "2021-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2021-01-15 06:46:07",
+      "iframe_src": ""
+    },
+    {
       "id": 9677,
       "title": "Я — шпион",
       "kp_id": "277940",
@@ -403,22 +403,22 @@
       "iframe_src": ""
     },
     {
-      "id": 9676,
-      "title": "Новые Мстители",
-      "kp_id": "229482",
-      "imdb_id": "tt0074031",
+      "id": 9659,
+      "title": "Солнечный круг",
+      "kp_id": "1004220",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2021-01-07 20:03:38",
-      "orig_title": "The New Avengers",
-      "year": "1976-09-28",
+      "add": "2021-01-05 06:24:57",
+      "orig_title": "Солнечный круг",
+      "year": "2021-01-04",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Оригинальная дорожка"
       ],
-      "seasons_count": 2,
-      "episodes_count": 11,
-      "episodes": 3,
-      "update": "2021-01-13 12:09:46",
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2021-01-14 23:48:09",
       "iframe_src": ""
     },
     {
@@ -460,23 +460,22 @@
       "iframe_src": ""
     },
     {
-      "id": 9243,
-      "title": "Стартап",
-      "kp_id": "1320414",
-      "imdb_id": "tt12867810",
+      "id": 9650,
+      "title": "Любовь до смерти",
+      "kp_id": "505767",
+      "imdb_id": "tt1389028",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-11-10 05:55:40",
-      "orig_title": "Seutateueop",
-      "year": "2020-10-17",
+      "add": "2021-01-04 12:24:08",
+      "orig_title": "La quiero a morir",
+      "year": "2008-07-16",
       "translations": [
-        "Любительский (двухголосый закадровый) (AniStar)",
-        "Любительский (двухголосый закадровый) (SoftBox)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2021-01-14 08:15:17",
+      "episodes_count": 128,
+      "episodes": 128,
+      "update": "2021-01-14 21:02:34",
       "iframe_src": ""
     },
     {
@@ -523,24 +522,22 @@
       "iframe_src": ""
     },
     {
-      "id": 7327,
-      "title": "Король: Правитель вечности",
-      "kp_id": "1262941",
-      "imdb_id": "tt11228748",
+      "id": 42416,
+      "title": "Астрал. Онлайн",
+      "kp_id": "1398864",
+      "imdb_id": "tt12749596",
       "world_art_id": null,
-      "type": "serial",
-      "add": "2020-04-28 15:52:16",
-      "orig_title": "The King: Youngwonui Gunjoo",
-      "year": "2020-04-17",
+      "type": "movie",
+      "add": "2020-08-11 08:34:07",
+      "orig_title": "Host",
+      "year": "2020-07-30",
       "translations": [
-        "Любительский (многоголосый закадровый) (Voice Project Studio)",
-        "Любительский (многоголосый закадровый) (OnisFilms)",
-        "Любительский (двухголосый закадровый) (SoftBox)"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Полное дублирование"
       ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2021-01-13 14:58:42",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-09 05:51:07",
       "iframe_src": ""
     },
     {
@@ -563,25 +560,24 @@
       "iframe_src": ""
     },
     {
-      "id": 5884,
-      "title": "В неведении",
-      "kp_id": "1175360",
-      "imdb_id": "tt8679520",
+      "id": 6317,
+      "title": "Сита и Рама",
+      "kp_id": "1007352",
+      "imdb_id": "tt5700398",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-11-28 12:58:17",
-      "orig_title": "The Sleepers",
-      "year": "2019-09-12",
+      "add": "2020-01-11 14:10:34",
+      "orig_title": "Siya Ke Ram",
+      "year": "2015-11-16",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Профессиональный (двухголосый закадровый) (ViruseProject)",
-        "Профессиональный (многоголосый закадровый) (Novamedia)"
+        "Любительский (одноголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Кондор)",
+        "Любительский (двухголосый закадровый)"
       ],
       "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2021-01-13 08:52:55",
+      "episodes_count": 304,
+      "episodes": 304,
+      "update": "2021-01-15 08:59:30",
       "iframe_src": ""
     },
     {
@@ -889,26 +885,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5051,
-      "title": "Кунг-фу",
-      "kp_id": "230596",
-      "imdb_id": "tt0068093",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-08-19 12:26:23",
-      "orig_title": "Kung Fu",
-      "year": "1972-10-14",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 61,
-      "episodes": 24,
-      "update": "2021-01-13 11:31:11",
-      "iframe_src": ""
-    },
-    {
       "id": 640,
       "title": "Задержи этот звук!",
       "kp_id": "1248827",
@@ -1107,6 +1083,28 @@
       "iframe_src": ""
     },
     {
+      "id": 4627,
+      "title": "Хроники Асдала",
+      "kp_id": "1114921",
+      "imdb_id": "tt8750956",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-06-04 05:59:20",
+      "orig_title": "Aseudal Yeondaegi",
+      "year": "2019-06-01",
+      "translations": [
+        "Любительский (многоголосый закадровый)",
+        "Любительский (двухголосый закадровый) (SoftBox)",
+        "Любительский (двухголосый закадровый) (Храм Дорам ТВ)",
+        "Любительский (многоголосый закадровый) (Voice Project Studio)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 18,
+      "episodes": 6,
+      "update": "2021-01-15 08:56:18",
+      "iframe_src": ""
+    },
+    {
       "id": 618,
       "title": "Умираю! Экода",
       "kp_id": null,
@@ -1292,25 +1290,6 @@
       "iframe_src": ""
     },
     {
-      "id": 18348,
-      "title": "Ловушка для одинокого мужчины",
-      "kp_id": "45121",
-      "imdb_id": "tt0100069",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-16 13:25:12",
-      "orig_title": "Lovushka dlya odinokogo muzhchiny",
-      "year": "1990-12-01",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-08 15:10:31",
-      "iframe_src": ""
-    },
-    {
       "id": 159,
       "title": "Сквозь пространство и время с Морганом Фрименом: Загадка черных дыр",
       "kp_id": "542041",
@@ -1448,6 +1427,29 @@
       "iframe_src": ""
     },
     {
+      "id": 2333,
+      "title": "Испытание невиновностью",
+      "kp_id": "1047995",
+      "imdb_id": "tt6118426",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-04-03 15:01:29",
+      "orig_title": "Ordeal by Innocence",
+      "year": "2018-04-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (LostFilm)",
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (Культура)",
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2021-01-15 12:24:36",
+      "iframe_src": ""
+    },
+    {
       "id": 128,
       "title": "Смертельный укус",
       "kp_id": "1112075",
@@ -1489,6 +1491,30 @@
       "iframe_src": ""
     },
     {
+      "id": 1161,
+      "title": "Американский папаша",
+      "kp_id": "258054",
+      "imdb_id": "tt0397306",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-04-04 13:06:49",
+      "orig_title": "American Dad!",
+      "year": "2005-02-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (2x2)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Любительский (одноголосый закадровый)",
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Любительский (одноголосый закадровый) (RedRussian1337)",
+        "Любительский (многоголосый закадровый) (ColdFilm)"
+      ],
+      "seasons_count": 15,
+      "episodes_count": 293,
+      "episodes": 24,
+      "update": "2021-01-14 21:04:05",
+      "iframe_src": ""
+    },
+    {
       "id": 913,
       "title": "Семейка Крудс. Начало",
       "kp_id": "949000",
@@ -1506,26 +1532,6 @@
       "episodes_count": 26,
       "episodes": 13,
       "update": "2021-01-14 20:15:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 724,
-      "title": "Шумный Дом",
-      "kp_id": "999627",
-      "imdb_id": "tt4859164",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-12-22 19:42:51",
-      "orig_title": "The Loud House",
-      "year": "2016-05-02",
-      "translations": [
-        "Полное дублирование",
-        "Полное дублирование (Nickelodeon)"
-      ],
-      "seasons_count": 4,
-      "episodes_count": 83,
-      "episodes": 17,
-      "update": "2021-01-13 21:07:13",
       "iframe_src": ""
     },
     {
