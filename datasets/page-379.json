@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 42123,
+      "title": "Мороженое в шкафу",
+      "kp_id": "1053912",
+      "imdb_id": "tt7027690",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-29 20:34:40",
+      "orig_title": "Ice Cream in the Cupboard",
+      "year": "2019-08-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-07-30 13:14:42",
+      "iframe_src": ""
+    },
+    {
       "id": 42122,
       "title": "Леса",
       "kp_id": "926642",
@@ -34,24 +52,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-07-30 10:17:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 42101,
-      "title": "В поисках Везунчика",
-      "kp_id": "1314987",
-      "imdb_id": "tt8425414",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-07-29 12:08:41",
-      "orig_title": "Looking for Lucky",
-      "year": "2018-03-01",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2020-07-29 16:25:14",
       "iframe_src": ""
     },
     {
@@ -127,39 +127,93 @@
       "iframe_src": ""
     },
     {
-      "id": 42096,
-      "title": "Стих",
-      "kp_id": "1055033",
-      "imdb_id": "tt6037866",
+      "id": 42091,
+      "title": "Шуша",
+      "kp_id": "135231",
+      "imdb_id": "tt0038913",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-07-29 11:39:52",
-      "orig_title": "Slam",
-      "year": "2019-10-17",
+      "add": "2020-07-28 21:05:07",
+      "orig_title": "Sciuscià",
+      "year": "1946-04-27",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-07-29 16:23:39",
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-07-30 20:06:42",
       "iframe_src": ""
     },
     {
-      "id": 42095,
-      "title": "С чего мы начинаем",
-      "kp_id": "1127927",
-      "imdb_id": "tt7861076",
+      "id": 42090,
+      "title": "Заразный дом",
+      "kp_id": "182990",
+      "imdb_id": "tt0451197",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-07-29 11:35:23",
-      "orig_title": "Where We Begin",
-      "year": "2020-05-05",
+      "add": "2020-07-28 20:59:16",
+      "orig_title": "The Sickhouse",
+      "year": "2008-03-18",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (одноголосый закадровый) (den904)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-07-29 16:22:33",
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2020-07-30 20:07:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 42089,
+      "title": "Ужасный Генри",
+      "kp_id": "551930",
+      "imdb_id": "tt1684555",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-28 20:57:34",
+      "orig_title": "Horrid Henry: The Movie",
+      "year": "2011-07-29",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "hdtv",
+      "translation": "Полное дублирование",
+      "update": "2020-07-30 20:08:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 42088,
+      "title": "Диагноз любовь",
+      "kp_id": "644815",
+      "imdb_id": "tt1946177",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-28 20:52:57",
+      "orig_title": "Coming & Going",
+      "year": "2011-07-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-07-30 20:08:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 42087,
+      "title": "Вымирание — Хроники генной модификации",
+      "kp_id": "477300",
+      "imdb_id": "tt1416336",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-28 20:50:59",
+      "orig_title": "Extinction: The G.M.O. Chronicles",
+      "year": "2011-11-17",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2020-07-30 20:09:45",
       "iframe_src": ""
     },
     {
@@ -271,6 +325,26 @@
       "iframe_src": ""
     },
     {
+      "id": 41788,
+      "title": "Еноты-убийцы 2: Мрачное рождество во мраке",
+      "kp_id": "1143007",
+      "imdb_id": "tt8042004",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-16 09:00:47",
+      "orig_title": "Killer Raccoons 2: Dark Christmas in the Dark",
+      "year": "2020-07-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-07-30 11:32:19",
+      "iframe_src": ""
+    },
+    {
       "id": 41706,
       "title": "Слава: Мюзикл",
       "kp_id": null,
@@ -290,60 +364,98 @@
       "iframe_src": ""
     },
     {
-      "id": 39426,
-      "title": "Услышь меня",
-      "kp_id": "1209570",
+      "id": 3182,
+      "title": "Шаг за шагом",
+      "kp_id": null,
+      "imdb_id": "tt6314340",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-09-18 08:02:02",
+      "orig_title": "Play by Play",
+      "year": "2017-07-27",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GoldTeam)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2018-09-18 21:53:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 3180,
+      "title": "Кем мы не станем",
+      "kp_id": "1142530",
       "imdb_id": null,
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-17 08:20:12",
-      "orig_title": "Услышь меня",
-      "year": "2020-03-12",
+      "type": "serial",
+      "add": "2018-09-17 09:51:17",
+      "orig_title": "Кем мы не станем",
+      "year": "2018-09-14",
       "translations": [
-        "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-07-29 14:02:48",
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2018-09-18 07:38:06",
       "iframe_src": ""
     },
     {
-      "id": 23652,
-      "title": "Неподдающиеся",
-      "kp_id": "46403",
-      "imdb_id": "tt0147081",
+      "id": 3177,
+      "title": "Сухарь",
+      "kp_id": "1187968",
+      "imdb_id": null,
       "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-29 19:07:17",
-      "orig_title": "Nepoddayushchiyesya",
-      "year": "1959-06-20",
+      "type": "serial",
+      "add": "2018-09-17 09:19:32",
+      "orig_title": "Сухарь",
+      "year": "2018-09-15",
       "translations": [
-        "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-07-29 13:59:45",
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2018-09-17 23:25:57",
       "iframe_src": ""
     },
     {
-      "id": 23540,
-      "title": "Одиноким предоставляется общежитие",
-      "kp_id": "42727",
-      "imdb_id": "tt0174997",
+      "id": 3174,
+      "title": "Семейное дело",
+      "kp_id": "1189857",
+      "imdb_id": null,
       "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-27 09:07:14",
-      "orig_title": "Odinokim predostavlyaetsya obshchezhitiye",
-      "year": "1984-01-02",
+      "type": "serial",
+      "add": "2018-09-16 18:07:39",
+      "orig_title": "Семейное дело",
+      "year": "2018-09-15",
       "translations": [
-        "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-07-29 14:00:59",
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2018-09-17 09:18:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 3168,
+      "title": "Городок",
+      "kp_id": null,
+      "imdb_id": "tt7244854",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-09-14 10:00:58",
+      "orig_title": "Småstaden",
+      "year": "2017-08-27",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GoldTeam)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2018-09-14 23:12:44",
       "iframe_src": ""
     },
     {
@@ -404,155 +516,22 @@
       "iframe_src": ""
     },
     {
-      "id": 3154,
-      "title": "Смотри, что ты наделал",
-      "kp_id": "1115160",
-      "imdb_id": "tt7117634",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-11 08:54:02",
-      "orig_title": "Mira lo que has hecho",
-      "year": "2018-02-06",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Sunshine Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2018-09-12 10:56:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 3153,
-      "title": "Лес",
-      "kp_id": "1007544",
-      "imdb_id": "tt4475198",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-11 08:31:45",
-      "orig_title": "Il bosco",
-      "year": "2015-02-20",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2018-09-12 08:11:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 3151,
-      "title": "Судьба обмену не подлежит",
-      "kp_id": "1186141",
+      "id": 3146,
+      "title": "Родные люди",
+      "kp_id": "1043627",
       "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-09-10 11:48:23",
-      "orig_title": "Доля обміну не підлягає",
-      "year": "2018-09-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2018-09-11 12:11:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 3149,
-      "title": "Разоблачение Единорога",
-      "kp_id": "1187947",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-10 08:20:03",
-      "orig_title": "Разоблачение Единорога",
+      "add": "2018-09-10 08:00:33",
+      "orig_title": "Родные люди",
       "year": "2018-09-08",
       "translations": [
         "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2018-09-11 09:13:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 3148,
-      "title": "Зорко лишь сердце",
-      "kp_id": "1183604",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-10 08:12:20",
-      "orig_title": "Зорко лишь сердце",
-      "year": "2018-09-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2018-09-11 09:17:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 3144,
-      "title": "На качелях судьбы",
-      "kp_id": "1183605",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-10 04:33:02",
-      "orig_title": "На качелях судьбы",
-      "year": "2018-09-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2018-09-10 17:59:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 3127,
-      "title": "О детях",
-      "kp_id": "1165796",
-      "imdb_id": "tt8507402",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-05 08:52:04",
-      "orig_title": "On Children",
-      "year": "2018-07-07",
-      "translations": [
-        "Любительский (двухголосый закадровый) (GoldTeam)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2018-09-12 08:07:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 3125,
-      "title": "Райн Хансен Раскрывает Преступления на ТВ",
-      "kp_id": "1071366",
-      "imdb_id": "tt7068580",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-05 08:35:51",
-      "orig_title": "Ryan Hansen Solves Crimes on Television",
-      "year": "2017-10-25",
-      "translations": [
-        "Любительский (двухголосый закадровый) (GoldTeam)"
       ],
       "seasons_count": 1,
       "episodes_count": 8,
       "episodes": 8,
-      "update": "2018-09-12 11:59:21",
+      "update": "2018-09-17 23:28:13",
       "iframe_src": ""
     },
     {
@@ -575,25 +554,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3111,
-      "title": "Бернард",
-      "kp_id": "271926",
-      "imdb_id": "tt0891369",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-01 18:42:52",
-      "orig_title": "Bernard",
-      "year": "2006-12-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 52,
-      "episodes": 52,
-      "update": "2018-09-11 11:58:20",
-      "iframe_src": ""
-    },
-    {
       "id": 3087,
       "title": "Большая игра",
       "kp_id": "1162854",
@@ -613,23 +573,22 @@
       "iframe_src": ""
     },
     {
-      "id": 3067,
-      "title": "Самурай Джек",
-      "kp_id": "295050",
-      "imdb_id": "tt0278238",
+      "id": 3066,
+      "title": "Дракоша Тоша",
+      "kp_id": "1049335",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-08-23 07:25:03",
-      "orig_title": "Samurai Jack",
-      "year": "2001-08-10",
+      "add": "2018-08-23 07:19:13",
+      "orig_title": "Дракоша Тоша",
+      "year": "2017-10-01",
       "translations": [
-        "Полное дублирование (Cartoon Network)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)"
+        "Оригинальная дорожка"
       ],
-      "seasons_count": 5,
-      "episodes_count": 62,
-      "episodes": 10,
-      "update": "2018-09-11 12:07:51",
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2018-09-19 07:43:14",
       "iframe_src": ""
     },
     {
@@ -652,22 +611,41 @@
       "iframe_src": ""
     },
     {
-      "id": 3011,
-      "title": "Клеймо",
-      "kp_id": "493917",
-      "imdb_id": null,
+      "id": 3034,
+      "title": "Тревожные звоночки",
+      "kp_id": "1119454",
+      "imdb_id": "tt7411444",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-08-09 06:21:16",
-      "orig_title": "Клеймо",
-      "year": "2010-01-01",
+      "add": "2018-08-16 13:37:36",
+      "orig_title": "Hang Ups",
+      "year": "2018-08-08",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (Ozz.tv)"
       ],
       "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2018-09-11 19:33:44",
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2018-09-18 09:49:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 2969,
+      "title": "В поисках...",
+      "kp_id": "1167862",
+      "imdb_id": "tt8005322",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-07-26 14:14:55",
+      "orig_title": "In Search of...",
+      "year": "2018-07-20",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Sunshine Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2018-09-18 16:54:57",
       "iframe_src": ""
     },
     {
@@ -691,22 +669,23 @@
       "iframe_src": ""
     },
     {
-      "id": 15276,
-      "title": "Судьба человека",
-      "kp_id": "44027",
-      "imdb_id": "tt0053317",
+      "id": 2236,
+      "title": "Год жизни по-библейски",
+      "kp_id": "463159",
+      "imdb_id": "tt1048176",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-24 00:11:08",
-      "orig_title": "Sudba cheloveka",
-      "year": "1959-04-12",
+      "type": "serial",
+      "add": "2018-03-16 11:08:12",
+      "orig_title": "Living Biblically",
+      "year": "2018-02-26",
       "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
       ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-07-29 14:01:49",
+      "seasons_count": 1,
+      "episodes_count": 13,
+      "episodes": 13,
+      "update": "2018-09-18 22:03:41",
       "iframe_src": ""
     },
     {
@@ -726,6 +705,26 @@
       "episodes_count": 40,
       "episodes": 20,
       "update": "2018-09-13 16:57:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 610,
+      "title": "Стрелок",
+      "kp_id": "929482",
+      "imdb_id": "tt4181172",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-11-20 16:29:55",
+      "orig_title": "Shooter",
+      "year": "2016-11-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
+        "Профессиональный (многоголосый закадровый) (LostFilm)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 31,
+      "episodes": 13,
+      "update": "2018-09-16 14:00:38",
       "iframe_src": ""
     },
     {

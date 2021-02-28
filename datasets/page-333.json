@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": 42975,
-      "title": "Воронье гнездо",
-      "kp_id": "1392183",
-      "imdb_id": "tt11373084",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-31 07:55:37",
-      "orig_title": "Ravenstein",
-      "year": "2020-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-31 09:43:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 42972,
-      "title": "Денежные отношения",
-      "kp_id": "1156689",
-      "imdb_id": "tt7807388",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-31 07:24:09",
-      "orig_title": "Cash Nexus",
-      "year": "2019-03-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-31 10:50:19",
-      "iframe_src": ""
-    },
-    {
       "id": 42971,
       "title": "Затуманенный взгляд",
       "kp_id": "1058631",
@@ -73,39 +37,93 @@
       "iframe_src": ""
     },
     {
-      "id": 42966,
-      "title": "Тайное происхождение",
-      "kp_id": "1066440",
-      "imdb_id": "tt5827790",
+      "id": 42928,
+      "title": "Развратная жизнь Жерара Флока",
+      "kp_id": "21663",
+      "imdb_id": "tt0094264",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-31 05:25:29",
-      "orig_title": "Orígenes secretos",
-      "year": "2020-08-28",
+      "add": "2020-08-30 06:56:21",
+      "orig_title": "La vie dissolue de Gérard Floque",
+      "year": "1986-12-24",
       "translations": [
-        "Любительский (двухголосый закадровый) (OnisFilms)"
+        "Профессиональный (многоголосый закадровый) (РТР | Россия)"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (OnisFilms)",
-      "update": "2020-08-31 09:13:53",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (РТР | Россия)",
+      "update": "2020-08-31 11:58:44",
       "iframe_src": ""
     },
     {
-      "id": 42965,
-      "title": "Титаник: Тайна раскрыта",
-      "kp_id": null,
-      "imdb_id": "tt2302931",
+      "id": 42926,
+      "title": "С 9:00 до 18:00",
+      "kp_id": "639382",
+      "imdb_id": "tt6840834",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-31 04:58:10",
-      "orig_title": "Titanic at 100: Mystery Solved",
-      "year": "2012-04-15",
+      "add": "2020-08-30 06:51:32",
+      "orig_title": "S 9:00 do 18:00",
+      "year": "1987-01-01",
       "translations": [
-        "Полное дублирование"
+        "Оригинальная дорожка"
       ],
-      "quality": "hdtv",
-      "translation": "Полное дублирование",
-      "update": "2020-08-31 10:50:55",
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-31 11:56:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 42925,
+      "title": "Наследники",
+      "kp_id": "450437",
+      "imdb_id": "tt1389782",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-30 06:50:25",
+      "orig_title": "Nasledniki",
+      "year": "2009-02-20",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-31 11:55:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 42924,
+      "title": "Месть",
+      "kp_id": "46616",
+      "imdb_id": "tt0102497",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-30 06:43:57",
+      "orig_title": "Mest",
+      "year": "1992-07-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-31 11:54:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 42920,
+      "title": "Богат и знаменит",
+      "kp_id": "5367",
+      "imdb_id": "tt0093306",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-30 06:38:47",
+      "orig_title": "Gong woo ching",
+      "year": "1987-05-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2020-08-31 11:50:52",
       "iframe_src": ""
     },
     {
@@ -205,6 +223,82 @@
       "iframe_src": ""
     },
     {
+      "id": 4346,
+      "title": "Гений пустого места",
+      "kp_id": "447322",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-04-01 04:33:09",
+      "orig_title": "Гений пустого места",
+      "year": "2011-02-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-04-01 05:54:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 4343,
+      "title": "Самозванка",
+      "kp_id": "661150",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-04-01 04:17:09",
+      "orig_title": "Самозванка",
+      "year": "2012-03-31",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-04-01 05:48:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 4341,
+      "title": "Всё о его бывшей",
+      "kp_id": "1048093",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-04-01 04:09:07",
+      "orig_title": "Всё о его бывшей",
+      "year": "2018-04-20",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-04-01 05:45:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 4339,
+      "title": "Транзит для дьявола",
+      "kp_id": "427084",
+      "imdb_id": "tt6273222",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-04-01 04:03:31",
+      "orig_title": "Tranzit dlya dyavola",
+      "year": "2002-07-22",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2019-04-01 05:53:04",
+      "iframe_src": ""
+    },
+    {
       "id": 4331,
       "title": "А у нас во дворе 2",
       "kp_id": "1246989",
@@ -221,6 +315,44 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2019-03-29 07:29:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 4328,
+      "title": "Лига WatchCar. Битвы чемпионов",
+      "kp_id": "1009127",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-27 22:30:29",
+      "orig_title": "Power Battle WatchCar",
+      "year": "2016-01-01",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 50,
+      "episodes": 50,
+      "update": "2019-04-02 11:03:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 4327,
+      "title": "Лунная река",
+      "kp_id": "1047363",
+      "imdb_id": "tt6420780",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-27 11:41:01",
+      "orig_title": "Moon River",
+      "year": "2015-09-09",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Julia Prosenuk)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "episodes": 30,
+      "update": "2019-03-31 08:25:45",
       "iframe_src": ""
     },
     {
@@ -243,98 +375,22 @@
       "iframe_src": ""
     },
     {
-      "id": 4321,
-      "title": "Один день, одна ночь",
-      "kp_id": "933775",
+      "id": 4315,
+      "title": "Годунов. Продолжение",
+      "kp_id": "1248317",
       "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-03-26 07:52:29",
-      "orig_title": "Один день, одна ночь",
-      "year": "2015-10-10",
+      "add": "2019-03-26 04:00:35",
+      "orig_title": "Годунов. Продолжение",
+      "year": "2019-03-25",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-03-26 09:18:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 4319,
-      "title": "Арена для убийства",
-      "kp_id": "1103870",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-26 06:23:24",
-      "orig_title": "Арена для убийства",
-      "year": "2018-03-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-03-26 08:13:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 4318,
-      "title": "Беглянка",
-      "kp_id": "1199681",
-      "imdb_id": "tt9278376",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-26 06:21:59",
-      "orig_title": "Beglyanka",
-      "year": "2018-11-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-03-26 08:16:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 4317,
-      "title": "Скарлетт",
-      "kp_id": "79583",
-      "imdb_id": "tt0108915",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-26 06:12:10",
-      "orig_title": "Scarlett",
-      "year": "1994-11-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2019-03-26 08:54:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 4314,
-      "title": "Моя семья и другие животные",
-      "kp_id": "464914",
-      "imdb_id": "tt0166450",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-25 23:43:09",
-      "orig_title": "My Family and Other Animals",
-      "year": "1987-10-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2019-03-26 04:30:58",
+      "episodes_count": 9,
+      "episodes": 9,
+      "update": "2019-03-31 15:19:15",
       "iframe_src": ""
     },
     {
@@ -395,44 +451,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4308,
-      "title": "Последний янычар",
-      "kp_id": "843445",
-      "imdb_id": "tt4353404",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-23 09:33:18",
-      "orig_title": "Posledniy yanychar",
-      "year": "2015-01-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 115,
-      "episodes": 115,
-      "update": "2019-03-26 20:28:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 4305,
-      "title": "Под Большой медведицей",
-      "kp_id": "423002",
-      "imdb_id": "tt4394024",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-23 06:36:27",
-      "orig_title": "Pod Bolshoy medveditsey",
-      "year": "2006-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2019-03-25 14:39:20",
-      "iframe_src": ""
-    },
-    {
       "id": 4300,
       "title": "Лучшие из молодых",
       "kp_id": "79912",
@@ -471,63 +489,25 @@
       "iframe_src": ""
     },
     {
-      "id": 4298,
-      "title": "Аквариум",
-      "kp_id": "193651",
-      "imdb_id": "tt0112314",
+      "id": 4263,
+      "title": "Брод Сити",
+      "kp_id": "724256",
+      "imdb_id": "tt2578560",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-03-22 11:59:43",
-      "orig_title": "Akwarium",
-      "year": "1996-10-04",
+      "add": "2019-03-14 12:43:03",
+      "orig_title": "Broad City",
+      "year": "2014-01-22",
       "translations": [
-        "Профессиональный (одноголосый закадровый)"
+        "Любительский (многоголосый закадровый) (Flux-Team)",
+        "Профессиональный (многоголосый закадровый) (TVShows)",
+        "Любительский (двухголосый закадровый) (Sunshine Studio)",
+        "Любительский (многоголосый закадровый) (ColdFilm)"
       ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-03-26 12:39:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 4291,
-      "title": "Гетто",
-      "kp_id": "401157",
-      "imdb_id": "tt0373732",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-20 15:01:53",
-      "orig_title": "The Boondocks",
-      "year": "2005-11-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (2x2)",
-        "Любительский (многоголосый закадровый)"
-      ],
-      "seasons_count": 4,
-      "episodes_count": 55,
+      "seasons_count": 5,
+      "episodes_count": 50,
       "episodes": 10,
-      "update": "2019-03-25 17:52:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 4283,
-      "title": "Пули",
-      "kp_id": "1157312",
-      "imdb_id": "tt7867522",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-18 13:50:06",
-      "orig_title": "Bullets",
-      "year": "2018-10-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Кравец)",
-        "Профессиональный (многоголосый закадровый) (Amedia)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2019-03-26 08:10:35",
+      "update": "2019-04-01 12:21:21",
       "iframe_src": ""
     },
     {
@@ -569,23 +549,80 @@
       "iframe_src": ""
     },
     {
-      "id": 21477,
-      "title": "Золушка и заколдованный принц",
-      "kp_id": "1102458",
-      "imdb_id": "tt6241270",
+      "id": 4065,
+      "title": "Мультяшки-объясняшки",
+      "kp_id": "1111721",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-02-12 17:56:54",
+      "orig_title": "Мультяшки-объясняшки",
+      "year": "2016-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2019-04-02 11:07:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 3780,
+      "title": "Сабрина - маленькая ведьма",
+      "kp_id": "161261",
+      "imdb_id": "tt0115341",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-27 16:42:59",
+      "orig_title": "Sabrina, the Teenage Witch",
+      "year": "1996-10-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)"
+      ],
+      "seasons_count": 7,
+      "episodes_count": 162,
+      "episodes": 21,
+      "update": "2019-04-02 05:38:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 3023,
+      "title": "Опер по вызову",
+      "kp_id": "1115295",
+      "imdb_id": "tt8135552",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-08-14 06:58:27",
+      "orig_title": "Опер по вызову",
+      "year": "2018-03-12",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 84,
+      "episodes": 32,
+      "update": "2019-03-30 12:35:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 16663,
+      "title": "Война",
+      "kp_id": "41431",
+      "imdb_id": "tt0309047",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-01-13 20:33:50",
-      "orig_title": "Cinderella and the Secret Prince",
-      "year": "2018-08-23",
+      "add": "2018-05-06 00:25:25",
+      "orig_title": "Voyna",
+      "year": "2002-08-27",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Оригинальная дорожка",
+        "Оригинальная дорожка",
+        "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-31 08:40:08",
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-31 11:48:35",
       "iframe_src": ""
     },
     {
@@ -627,25 +664,6 @@
       "iframe_src": ""
     },
     {
-      "id": 14223,
-      "title": "Пуговица",
-      "kp_id": "417769",
-      "imdb_id": "tt2308955",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-11-05 18:39:13",
-      "orig_title": "Pugovitsa",
-      "year": "2008-06-08",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-31 08:55:08",
-      "iframe_src": ""
-    },
-    {
       "id": 9282,
       "title": "Груз 200",
       "kp_id": "259251",
@@ -662,25 +680,6 @@
       "quality": "bd",
       "translation": "Оригинальная дорожка",
       "update": "2020-08-31 11:39:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 740,
-      "title": "Колодец забытых желаний",
-      "kp_id": "1008513",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-12-27 07:33:36",
-      "orig_title": "Колодец забытых желаний",
-      "year": "2016-12-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-03-26 08:58:02",
       "iframe_src": ""
     },
     {
@@ -741,22 +740,38 @@
       "iframe_src": ""
     },
     {
-      "id": 4766,
-      "title": "Форс-мажор",
-      "kp_id": "3781",
-      "imdb_id": "tt0124595",
+      "id": 2054,
+      "title": "Взвод",
+      "kp_id": "468",
+      "imdb_id": "tt0091763",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-29 07:54:34",
-      "orig_title": "Return to Paradise",
-      "year": "1998-08-10",
+      "add": "2016-05-10 17:38:56",
+      "orig_title": "Platoon",
+      "year": "1986-12-19",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Пучков Дмитрй| Гоблин)",
+        "Профессиональный (двухголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Авторский (одноголосый закадровый) (Пучков Дмитрй| Гоблин)",
+        "Авторский (одноголосый закадровый) (Горчаков Василий)",
+        "Авторский (одноголосый закадровый) (Сербин Юрий)",
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Полное дублирование (Варус-Видео)",
+        "Original (English)",
+        "Профессиональный (одноголосый закадровый) (НТВ)",
+        "Профессиональный (одноголосый закадровый) (MGM)",
+        "Профессиональный (двухголосый закадровый)",
+        "Профессиональный (двухголосый закадровый) (Lazer Video)",
+        "Профессиональный (двухголосый закадровый) (РТР | Россия)",
+        "Профессиональный (двухголосый закадровый) (SDI Media)",
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-08-31 09:02:41",
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-08-31 12:16:06",
       "iframe_src": ""
     }
   ]

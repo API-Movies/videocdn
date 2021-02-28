@@ -1,6 +1,78 @@
 {
   "data": [
     {
+      "id": 19493,
+      "title": "Бандит",
+      "kp_id": "71179",
+      "imdb_id": "tt0116231",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-10 23:39:51",
+      "orig_title": "Eskiya",
+      "year": "1996-11-29",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2018-10-11 06:46:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 19492,
+      "title": "Дикая жизнь",
+      "kp_id": "824418",
+      "imdb_id": "tt3480164",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-10 23:37:44",
+      "orig_title": "Vie sauvage",
+      "year": "2014-09-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-10-11 06:47:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 19489,
+      "title": "Нивхи",
+      "kp_id": "1177982",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-10 23:11:56",
+      "orig_title": "Нивхи",
+      "year": "2016-03-14",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-10-11 06:53:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 19479,
+      "title": "Кошмарный детектив",
+      "kp_id": "263512",
+      "imdb_id": "tt0852726",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-10 08:21:33",
+      "orig_title": "Akumu tantei",
+      "year": "2006-10-14",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-10-10 11:48:23",
+      "iframe_src": ""
+    },
+    {
       "id": 19476,
       "title": "Двадцать",
       "kp_id": "843616",
@@ -199,24 +271,6 @@
       "iframe_src": ""
     },
     {
-      "id": 19463,
-      "title": "Тонкий мир",
-      "kp_id": null,
-      "imdb_id": "tt7658354",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-09 23:04:06",
-      "orig_title": "A Thin Place",
-      "year": "2017-12-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-10-10 07:04:57",
-      "iframe_src": ""
-    },
-    {
       "id": 19462,
       "title": "Последний вампир",
       "kp_id": "261013",
@@ -235,111 +289,58 @@
       "iframe_src": ""
     },
     {
-      "id": 19461,
-      "title": "Остров исправления",
-      "kp_id": "1114892",
+      "id": 19379,
+      "title": "Бам-бам-боле",
+      "kp_id": "507721",
+      "imdb_id": "tt1629241",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-10-05 22:57:09",
+      "orig_title": "Bumm Bumm Bole",
+      "year": "2010-05-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-10-10 08:51:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 18754,
+      "title": "Три горы",
+      "kp_id": "968239",
+      "imdb_id": "tt5485522",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-02 23:31:42",
+      "orig_title": "Three Peaks",
+      "year": "2017-08-04",
+      "translations": [
+        "Любительский (двухголосый закадровый) (datynet & Galina Vasyukova)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (двухголосый закадровый) (datynet & Galina Vasyukova)",
+      "update": "2018-10-11 06:48:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 17027,
+      "title": "Анатомия измены",
+      "kp_id": "1047303",
       "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-10-09 08:27:50",
-      "orig_title": "Остров исправления",
-      "year": "2018-03-11",
+      "add": "2018-06-04 22:18:37",
+      "orig_title": "Анатомия измены",
+      "year": "2018-06-04",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2018-10-09 20:09:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 19356,
-      "title": "Маскарад",
-      "kp_id": "21202",
-      "imdb_id": "tt0095599",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-04 14:19:25",
-      "orig_title": "Masquerade",
-      "year": "1988-03-11",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2018-10-09 08:37:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 19355,
-      "title": "Последний ритуал",
-      "kp_id": "17290",
-      "imdb_id": "tt0095496",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-04 14:18:27",
-      "orig_title": "Last Rites",
-      "year": "1988-11-18",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2018-10-09 08:36:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 19354,
-      "title": "В трезвом уме и твердой памяти",
-      "kp_id": "2792",
-      "imdb_id": "tt0094884",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-04 14:17:09",
-      "orig_title": "Clean and Sober",
-      "year": "1988-08-10",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2018-10-09 08:35:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 19353,
-      "title": "Пробуждение желаний",
-      "kp_id": "28428",
-      "imdb_id": "tt0098165",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-04 14:16:07",
-      "orig_title": "The Rainbow",
-      "year": "1989-05-05",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев Антон)"
-      ],
-      "quality": "webdl",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
-      "update": "2018-10-09 08:34:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 19352,
-      "title": "Полночный переход",
-      "kp_id": "12825",
-      "imdb_id": "tt0095629",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-10-04 14:14:57",
-      "orig_title": "Midnight Crossing",
-      "year": "1988-05-13",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Михалёв Алексей)"
-      ],
-      "quality": "webdl",
-      "translation": "Авторский (одноголосый закадровый) (Михалёв Алексей)",
-      "update": "2018-10-09 08:33:54",
+      "update": "2018-10-11 06:58:03",
       "iframe_src": ""
     },
     {

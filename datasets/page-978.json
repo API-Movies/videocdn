@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 31400,
+      "title": "Иванов",
+      "kp_id": "1115455",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-02 10:00:03",
+      "orig_title": "Иванов",
+      "year": "2019-09-26",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "ts",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-10-02 17:27:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 31396,
+      "title": "6 недель на траве",
+      "kp_id": "839250",
+      "imdb_id": "tt1814930",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-01 20:03:30",
+      "orig_title": "Vegucated",
+      "year": "2011-09-10",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2019-10-02 13:36:06",
+      "iframe_src": ""
+    },
+    {
       "id": 31395,
       "title": "Ангелы апокалипсиса",
       "kp_id": "440028",
@@ -109,75 +145,21 @@
       "iframe_src": ""
     },
     {
-      "id": 31385,
-      "title": "Съемки в Палермо",
-      "kp_id": "325489",
-      "imdb_id": "tt1008017",
+      "id": 31371,
+      "title": "Дневник Елены Римбауер",
+      "kp_id": "149373",
+      "imdb_id": "tt0350811",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-10-01 19:14:45",
-      "orig_title": "Palermo Shooting",
-      "year": "2008-05-24",
+      "add": "2019-10-01 13:15:01",
+      "orig_title": "The Diary of Ellen Rimbauer",
+      "year": "2003-05-12",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (СТС)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-02 05:53:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 31381,
-      "title": "Психушка",
-      "kp_id": "262566",
-      "imdb_id": "tt0804443",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-01 19:03:15",
-      "orig_title": "Asylum",
-      "year": "2008-03-20",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2019-10-02 05:43:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 31378,
-      "title": "Смерть превыше бесчестья",
-      "kp_id": "47373",
-      "imdb_id": "tt0092854",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-01 18:57:35",
-      "orig_title": "Death Before Dishonor",
-      "year": "1987-02-20",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
-      "update": "2019-10-02 05:43:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 31374,
-      "title": "Создатель миров",
-      "kp_id": "460603",
-      "imdb_id": "tt1419113",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-10-01 18:51:10",
-      "orig_title": "World Builder",
-      "year": "2007-02-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-10-02 05:42:11",
+      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
+      "update": "2019-10-02 06:35:25",
       "iframe_src": ""
     },
     {
@@ -198,6 +180,42 @@
       "quality": "bd",
       "translation": "Original (English)",
       "update": "2019-10-02 06:33:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 31164,
+      "title": "Солнцестояние",
+      "kp_id": "1178137",
+      "imdb_id": "tt8772262",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-25 09:14:58",
+      "orig_title": "Midsommar",
+      "year": "2019-06-24",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2019-10-03 06:12:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 30423,
+      "title": "Эбигейл",
+      "kp_id": "991656",
+      "imdb_id": "tt7025388",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-08-31 23:02:24",
+      "orig_title": "Abigail",
+      "year": "2019-08-23",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2019-10-03 06:09:14",
       "iframe_src": ""
     },
     {
@@ -234,26 +252,6 @@
       "quality": "bd",
       "translation": "Полное дублирование",
       "update": "2019-10-02 05:57:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 21939,
-      "title": "Папаши",
-      "kp_id": "20903",
-      "imdb_id": "tt0085354",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-30 17:50:58",
-      "orig_title": "Les compères",
-      "year": "1983-11-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Полное дублирование",
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-02 05:52:54",
       "iframe_src": ""
     },
     {
@@ -330,39 +328,40 @@
       "iframe_src": ""
     },
     {
-      "id": 6230,
-      "title": "Леший",
-      "kp_id": "7933",
-      "imdb_id": "tt0290747",
+      "id": 7964,
+      "title": "Белая девушка",
+      "kp_id": "867057",
+      "imdb_id": "tt4129870",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-10-12 15:31:21",
-      "orig_title": "Man-Thing",
-      "year": "2005-04-21",
+      "add": "2016-12-09 17:09:34",
+      "orig_title": "White Girl",
+      "year": "2016-01-23",
       "translations": [
-        "Полное дублирование"
+        "Любительский (двухголосый закадровый) (RecentFilms)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-10-02 05:49:38",
+      "translation": "Любительский (двухголосый закадровый) (RecentFilms)",
+      "update": "2019-10-02 07:13:58",
       "iframe_src": ""
     },
     {
-      "id": 2148,
-      "title": "Кто такой Гарри Крамб?",
-      "kp_id": "2462",
-      "imdb_id": "tt0098645",
+      "id": 3726,
+      "title": "Разумное сомнение",
+      "kp_id": "406250",
+      "imdb_id": "tt1183251",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-12 18:33:42",
-      "orig_title": "Who's Harry Crumb?",
-      "year": "1989-02-03",
+      "add": "2016-07-06 11:07:28",
+      "orig_title": "Beyond a Reasonable Doubt",
+      "year": "2009-07-10",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Полное дублирование"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-10-02 05:48:30",
+      "translation": "Полное дублирование",
+      "update": "2019-10-02 06:34:51",
       "iframe_src": ""
     }
   ]
