@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 48067,
+      "title": "Шум из ниоткуда",
+      "kp_id": "1220637",
+      "imdb_id": "tt9377332",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-19 18:38:38",
+      "orig_title": "Noise in the Middle",
+      "year": "2020-10-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2021-02-19 20:28:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 48066,
+      "title": "Отдыхающие",
+      "kp_id": "1437596",
+      "imdb_id": "tt13281680",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-19 18:36:33",
+      "orig_title": "Weekenders",
+      "year": "2021-02-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "ts",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-19 20:29:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 48064,
+      "title": "Никоим образом",
+      "kp_id": "1309568",
+      "imdb_id": "tt10686668",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-19 18:32:02",
+      "orig_title": "By No Means",
+      "year": "2019-10-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-02-19 20:29:29",
+      "iframe_src": ""
+    },
+    {
       "id": 48058,
       "title": "Тайны призраков",
       "kp_id": "1307990",
@@ -145,24 +199,6 @@
       "iframe_src": ""
     },
     {
-      "id": 47986,
-      "title": "Осторожно, дети!",
-      "kp_id": "1445206",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-16 18:28:50",
-      "orig_title": "Осторожно, дети!",
-      "year": "2021-02-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-19 13:31:37",
-      "iframe_src": ""
-    },
-    {
       "id": 47912,
       "title": "Страна чудес Вилли",
       "kp_id": "1319046",
@@ -265,25 +301,6 @@
       "iframe_src": ""
     },
     {
-      "id": 9811,
-      "title": "Цветок в пыли",
-      "kp_id": "95391",
-      "imdb_id": "tt0052736",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-01-28 14:16:38",
-      "orig_title": "Dhool Ka Phool",
-      "year": "1959-01-01",
-      "translations": [
-        "Полное дублирование (Киностудия им. Горького)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2021-01-29 05:29:47",
-      "iframe_src": ""
-    },
-    {
       "id": 9810,
       "title": "Падение Берлина",
       "kp_id": "42867",
@@ -322,80 +339,44 @@
       "iframe_src": ""
     },
     {
-      "id": 9808,
-      "title": "Тайны разума",
-      "kp_id": "764755",
-      "imdb_id": "tt0229898",
+      "id": 9745,
+      "title": "Теряя Элис",
+      "kp_id": "1406228",
+      "imdb_id": "tt12398140",
       "world_art_id": null,
       "type": "serial",
-      "add": "2021-01-28 08:34:21",
-      "orig_title": "Fortier",
-      "year": "2001-01-01",
+      "add": "2021-01-17 15:03:31",
+      "orig_title": "Losing Alice",
+      "year": "2020-06-18",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 42,
-      "episodes": 8,
-      "update": "2021-01-28 16:40:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 9805,
-      "title": "Школа Вэйсайд",
-      "kp_id": "412160",
-      "imdb_id": "tt1059741",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-01-27 19:35:04",
-      "orig_title": "Wayside",
-      "year": "2007-03-16",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 24,
-      "episodes": 11,
-      "update": "2021-01-28 21:18:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 9802,
-      "title": "Исчезающие следы",
-      "kp_id": "1361528",
-      "imdb_id": "tt13912600",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-01-26 19:16:18",
-      "orig_title": "Ischezayushchie sledy",
-      "year": "2020-02-17",
-      "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Ultradox)",
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
       "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2021-01-29 05:23:00",
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2021-01-30 15:50:37",
       "iframe_src": ""
     },
     {
-      "id": 46547,
-      "title": "Девушка, подающая надежды",
-      "kp_id": "1236567",
-      "imdb_id": "tt9620292",
+      "id": 9692,
+      "title": "Земля любви",
+      "kp_id": "231137",
+      "imdb_id": "tt0202765",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-30 19:09:42",
-      "orig_title": "Promising Young Woman",
-      "year": "2020-01-25",
+      "type": "serial",
+      "add": "2021-01-10 17:33:15",
+      "orig_title": "Terra Nostra",
+      "year": "1999-09-20",
       "translations": [
-        "Original (English)",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Полное дублирование (iTunes)"
+        "Профессиональный (многоголосый закадровый) (Домашний)"
       ],
-      "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2021-02-19 13:41:49",
+      "seasons_count": 1,
+      "episodes_count": 67,
+      "episodes": 67,
+      "update": "2021-01-30 09:11:51",
       "iframe_src": ""
     },
     {
@@ -415,6 +396,25 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2021-02-19 16:22:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 9456,
+      "title": "Изменишь мне — умрёшь!",
+      "kp_id": "1390690",
+      "imdb_id": "tt13092070",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-12-03 14:33:42",
+      "orig_title": "Barampimyeon jukneunda",
+      "year": "2020-12-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Ultradox)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 32,
+      "episodes": 32,
+      "update": "2021-01-29 19:04:37",
       "iframe_src": ""
     },
     {
@@ -439,26 +439,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8083,
-      "title": "Скотт и Бейли",
-      "kp_id": "591852",
-      "imdb_id": "tt1843678",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-07-03 17:25:06",
-      "orig_title": "Scott & Bailey",
-      "year": "2011-05-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Fox Crime)",
-        "Любительский (многоголосый закадровый) (RedDiamond Studio)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 33,
-      "episodes": 3,
-      "update": "2021-01-28 16:54:13",
-      "iframe_src": ""
-    },
-    {
       "id": 8079,
       "title": "Слепцы",
       "kp_id": "1204240",
@@ -479,6 +459,52 @@
       "iframe_src": ""
     },
     {
+      "id": 8034,
+      "title": "Загадочные убийства Агаты Кристи",
+      "kp_id": "503296",
+      "imdb_id": "tt1349600",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-26 21:07:55",
+      "orig_title": "Les petits meurtres d'Agatha Christie",
+      "year": "2009-01-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
+        "Профессиональный (многоголосый закадровый) (Русский дубляж)",
+        "Любительский (многоголосый закадровый) (WestFilm)",
+        "Любительский (многоголосый закадровый) (Ultradox)"
+      ],
+      "seasons_count": 12,
+      "episodes_count": 39,
+      "episodes": 1,
+      "update": "2021-01-30 14:38:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 7831,
+      "title": "Постановка",
+      "kp_id": "1384808",
+      "imdb_id": "tt12369754",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-11 12:39:47",
+      "orig_title": "Staged",
+      "year": "2020-06-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (Ozz.tv)",
+        "Профессиональный (многоголосый закадровый) (AlexFilm)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)",
+        "Профессиональный (двухголосый закадровый) (Кубик в Кубе)",
+        "Любительский (многоголосый закадровый) (Ultradox)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 14,
+      "episodes": 8,
+      "update": "2021-01-30 11:12:49",
+      "iframe_src": ""
+    },
+    {
       "id": 41013,
       "title": "Свидание с Эмбер",
       "kp_id": "1907226",
@@ -495,43 +521,6 @@
       "quality": "webdl",
       "translation": "Original (English)",
       "update": "2021-02-19 19:19:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 40756,
-      "title": "Предчувствие",
-      "kp_id": "1379498",
-      "imdb_id": "tt12282598",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-28 19:23:49",
-      "orig_title": "La corazonada",
-      "year": "2020-05-28",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (ViruseProject)",
-      "update": "2021-02-19 13:39:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 7209,
-      "title": "Дорога домой",
-      "kp_id": "1239321",
-      "imdb_id": "tt10116688",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-04-17 06:05:08",
-      "orig_title": "Doroga domoy",
-      "year": "2019-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2021-01-28 12:31:31",
       "iframe_src": ""
     },
     {
@@ -1212,6 +1201,25 @@
       "episodes_count": 12,
       "episodes": 12,
       "update": "2020-03-21 09:10:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 4785,
+      "title": "След",
+      "kp_id": "411733",
+      "imdb_id": "tt1360087",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-07-04 08:24:16",
+      "orig_title": "Sled",
+      "year": "2007-09-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 7,
+      "episodes_count": 751,
+      "episodes": 101,
+      "update": "2021-01-30 12:39:04",
       "iframe_src": ""
     },
     {

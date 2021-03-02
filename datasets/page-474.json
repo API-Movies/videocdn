@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 40604,
+      "title": "Да, любовь моя",
+      "kp_id": null,
+      "imdb_id": "tt11734696",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-21 13:36:37",
+      "orig_title": "Sí mi amor, la película",
+      "year": "2020-01-23",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-05-21 20:17:27",
+      "iframe_src": ""
+    },
+    {
       "id": 40602,
       "title": "Любовь на повторе",
       "kp_id": "1165508",
@@ -52,6 +70,24 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-05-21 18:17:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 40598,
+      "title": "Паттон Освальт: Я люблю все",
+      "kp_id": "1369998",
+      "imdb_id": "tt12146952",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-21 13:25:06",
+      "orig_title": "Patton Oswalt: I Love Everything",
+      "year": "2020-05-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-05-21 20:10:49",
       "iframe_src": ""
     },
     {
@@ -253,42 +289,6 @@
       "iframe_src": ""
     },
     {
-      "id": 40542,
-      "title": "Юнион Бридж",
-      "kp_id": "1229125",
-      "imdb_id": "tt9557034",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-19 20:26:27",
-      "orig_title": "Union Bridge",
-      "year": "2019-10-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-20 07:28:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 40541,
-      "title": "Зизотек",
-      "kp_id": "1046468",
-      "imdb_id": "tt6793878",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-19 20:22:49",
-      "orig_title": "Zizotek",
-      "year": "2019-07-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-05-20 07:28:14",
-      "iframe_src": ""
-    },
-    {
       "id": 39326,
       "title": "Беглянки",
       "kp_id": "1018578",
@@ -363,6 +363,101 @@
       "quality": "webdl",
       "translation": "Полное дублирование",
       "update": "2020-05-20 13:31:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 747,
+      "title": "Жена напрокат",
+      "kp_id": "1008343",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-12-27 09:40:10",
+      "orig_title": "Жена напрокат",
+      "year": "2016-12-18",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2016-12-27 16:10:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 744,
+      "title": "Первокурсница",
+      "kp_id": "1008382",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-12-27 07:58:51",
+      "orig_title": "Первокурсница",
+      "year": "2016-12-17",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2016-12-27 13:25:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 743,
+      "title": "За лучшей жизнью",
+      "kp_id": "1007985",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-12-27 07:45:37",
+      "orig_title": "За лучшей жизнью",
+      "year": "2016-12-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2016-12-27 10:49:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 742,
+      "title": "Вероника не хочет умирать",
+      "kp_id": "1005064",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-12-27 07:43:24",
+      "orig_title": "Вероника не хочет умирать",
+      "year": "2016-12-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2016-12-27 13:53:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 741,
+      "title": "Коварные игры",
+      "kp_id": "1008136",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-12-27 07:36:04",
+      "orig_title": "Коварные игры",
+      "year": "2016-12-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2016-12-27 12:43:52",
       "iframe_src": ""
     },
     {
@@ -575,63 +670,6 @@
       "iframe_src": ""
     },
     {
-      "id": 722,
-      "title": "Vизитеры",
-      "kp_id": "453372",
-      "imdb_id": "tt1307824",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-12-22 15:06:44",
-      "orig_title": "V",
-      "year": "2009-11-03",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 22,
-      "episodes": 10,
-      "update": "2016-12-23 06:08:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 716,
-      "title": "Искусственный интеллект",
-      "kp_id": "740776",
-      "imdb_id": "tt2693776",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-12-21 14:40:51",
-      "orig_title": "Intelligence",
-      "year": "2014-01-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2016-12-22 13:24:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 715,
-      "title": "Доминион",
-      "kp_id": "784289",
-      "imdb_id": "tt3079768",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-12-21 10:34:25",
-      "orig_title": "Dominion",
-      "year": "2014-06-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 21,
-      "episodes": 13,
-      "update": "2016-12-22 13:06:31",
-      "iframe_src": ""
-    },
-    {
       "id": 710,
       "title": "Пьяная фирма",
       "kp_id": "915992",
@@ -705,44 +743,6 @@
       "episodes_count": 22,
       "episodes": 10,
       "update": "2016-12-27 10:32:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 552,
-      "title": "Последствия",
-      "kp_id": "1004201",
-      "imdb_id": "tt5797772",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-10-23 18:19:33",
-      "orig_title": "Aftermath",
-      "year": "2016-09-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Кравец)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2016-12-23 06:59:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 538,
-      "title": "Бродячие псы",
-      "kp_id": "975895",
-      "imdb_id": "tt5679720",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-10-19 06:20:28",
-      "orig_title": "Bungou Stray Dogs",
-      "year": "2016-04-07",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 23,
-      "episodes": 11,
-      "update": "2016-12-22 11:25:06",
       "iframe_src": ""
     }
   ]

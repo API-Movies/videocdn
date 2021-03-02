@@ -181,6 +181,24 @@
       "iframe_src": ""
     },
     {
+      "id": 44842,
+      "title": "Парадокс Клатоса",
+      "kp_id": "1395701",
+      "imdb_id": "tt11496780",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-10-27 14:05:13",
+      "orig_title": "The Klatos Paradox",
+      "year": "2020-10-23",
+      "translations": [
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Original (English)",
+      "update": "2020-11-06 10:48:57",
+      "iframe_src": ""
+    },
+    {
       "id": 44837,
       "title": "Curious George: Go West, Go Wild",
       "kp_id": "1411136",
@@ -199,21 +217,22 @@
       "iframe_src": ""
     },
     {
-      "id": 44833,
-      "title": "Холодок по спине",
-      "kp_id": "1396686",
-      "imdb_id": "tt12788198",
+      "id": 44834,
+      "title": "Схизма",
+      "kp_id": "1107105",
+      "imdb_id": "tt6335796",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-10-27 13:40:57",
-      "orig_title": "Chills Down Your Spine",
-      "year": "2020-09-05",
+      "add": "2020-10-27 13:45:45",
+      "orig_title": "Schism",
+      "year": "2020-10-24",
       "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
         "Original (English)"
       ],
       "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2020-11-06 07:49:57",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-11-06 10:43:37",
       "iframe_src": ""
     },
     {
@@ -357,22 +376,41 @@
       "iframe_src": ""
     },
     {
-      "id": 41029,
-      "title": "Клоунада",
-      "kp_id": "1205923",
-      "imdb_id": "tt9178004",
+      "id": 6737,
+      "title": "Волшебные холмы: Приключения Эльки и его друзей",
+      "kp_id": "255047",
+      "imdb_id": null,
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-08 05:17:39",
-      "orig_title": "Clownery",
-      "year": "2020-05-26",
+      "type": "serial",
+      "add": "2020-02-27 07:48:10",
+      "orig_title": "Volsebnie holmi: Priklycheniya Elki i ego druzey",
+      "year": "2005-01-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-11-06 07:51:07",
+      "seasons_count": 2,
+      "episodes_count": 20,
+      "episodes": 10,
+      "update": "2020-02-27 18:44:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 6736,
+      "title": "Железный человек",
+      "kp_id": "402967",
+      "imdb_id": "tt0115218",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-02-27 07:31:42",
+      "orig_title": "Iron Man",
+      "year": "1994-09-24",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 26,
+      "episodes": 13,
+      "update": "2020-02-27 17:14:56",
       "iframe_src": ""
     },
     {
@@ -392,6 +430,44 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2020-02-27 12:48:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 6733,
+      "title": "Не приходи ко мне во сне",
+      "kp_id": "1338304",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-02-26 20:42:47",
+      "orig_title": "Не приходи ко мне во сне",
+      "year": "2019-10-20",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2020-02-27 12:50:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 6731,
+      "title": "Будь, что будет",
+      "kp_id": "1328569",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-02-26 20:14:33",
+      "orig_title": "Будь, что будет",
+      "year": "2019-10-19",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2020-02-27 13:03:31",
       "iframe_src": ""
     },
     {
@@ -472,25 +548,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6720,
-      "title": "Фармацевт",
-      "kp_id": "1341575",
-      "imdb_id": "tt11600174",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-02-25 07:25:48",
-      "orig_title": "The Pharmacist",
-      "year": "2020-02-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (WestFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-02-25 11:54:01",
-      "iframe_src": ""
-    },
-    {
       "id": 6712,
       "title": "Мужчины в деле",
       "kp_id": "679843",
@@ -546,25 +603,6 @@
       "episodes_count": 39,
       "episodes": 15,
       "update": "2020-02-26 06:58:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 6658,
-      "title": "Лётчики",
-      "kp_id": "1280500",
-      "imdb_id": "tt9468278",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-02-17 09:54:36",
-      "orig_title": "Hoogvliegers",
-      "year": "2020-01-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (ColdFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-02-25 05:03:30",
       "iframe_src": ""
     },
     {
@@ -626,24 +664,23 @@
       "iframe_src": ""
     },
     {
-      "id": 6019,
-      "title": "Секс в другом городе: Поколение Q",
-      "kp_id": "1108737",
-      "imdb_id": "tt7661384",
+      "id": 3393,
+      "title": "Мой маленький пони: Дружба - это чудо",
+      "kp_id": "585100",
+      "imdb_id": "tt1751105",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-12-12 08:17:18",
-      "orig_title": "The L Word: Generation Q",
-      "year": "2019-12-08",
+      "add": "2018-10-26 09:43:28",
+      "orig_title": "My Little Pony: Friendship Is Magic",
+      "year": "2012-01-02",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Профессиональный (многоголосый закадровый) (Amedia)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)"
+        "Полное дублирование",
+        "Полное дублирование (СВ-Дубль)"
       ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-02-25 11:57:51",
+      "seasons_count": 9,
+      "episodes_count": 221,
+      "episodes": 26,
+      "update": "2020-02-27 14:56:38",
       "iframe_src": ""
     },
     {
@@ -686,57 +723,6 @@
       "episodes_count": 30,
       "episodes": 10,
       "update": "2020-02-26 07:10:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 946,
-      "title": "Молодой Морс",
-      "kp_id": "747494",
-      "imdb_id": "tt2701582",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-01-26 05:23:23",
-      "orig_title": "Endeavour",
-      "year": "2012-01-02",
-      "translations": [
-        "Любительский (одноголосый закадровый) (den904)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Профессиональный (многоголосый закадровый) (SDI Media)",
-        "Любительский (одноголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (ColdFilm)",
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Любительский (двухголосый закадровый) (KosharaSerials)",
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Любительский (многоголосый закадровый) (Octopus)"
-      ],
-      "seasons_count": 7,
-      "episodes_count": 30,
-      "episodes": 3,
-      "update": "2020-02-25 05:02:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 737,
-      "title": "Мыслить как преступник",
-      "kp_id": "355828",
-      "imdb_id": "tt0452046",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-12-26 09:46:43",
-      "orig_title": "Criminal Minds",
-      "year": "2005-09-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (FOX)",
-        "Профессиональный (многоголосый закадровый) (ДТВ)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (TVShows)"
-      ],
-      "seasons_count": 15,
-      "episodes_count": 322,
-      "episodes": 10,
-      "update": "2020-02-25 10:23:05",
       "iframe_src": ""
     },
     {

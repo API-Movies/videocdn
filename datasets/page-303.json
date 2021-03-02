@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 43497,
+      "title": "Ивась",
+      "kp_id": "818602",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-13 20:26:38",
+      "orig_title": "Ивась",
+      "year": "1940-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-16 11:47:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 43496,
+      "title": "Как мужья жён проучили",
+      "kp_id": "417625",
+      "imdb_id": "tt6493436",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-13 20:21:53",
+      "orig_title": "Kak muzhya zhyon prouchili",
+      "year": "1976-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-16 10:55:49",
+      "iframe_src": ""
+    },
+    {
       "id": 43495,
       "title": "На лесной тропе",
       "kp_id": "260222",
@@ -307,39 +343,41 @@
       "iframe_src": ""
     },
     {
-      "id": 43452,
-      "title": "Просчитался",
-      "kp_id": "1044386",
-      "imdb_id": "tt6782604",
+      "id": 5087,
+      "title": "Главный калибр",
+      "kp_id": "412378",
+      "imdb_id": null,
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-12 20:29:01",
-      "orig_title": "Proschitalsya",
-      "year": "1972-01-01",
+      "type": "serial",
+      "add": "2019-08-22 16:38:38",
+      "orig_title": "Главный калибр",
+      "year": "2007-06-24",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-09-16 07:49:15",
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2019-08-22 19:55:04",
       "iframe_src": ""
     },
     {
-      "id": 43451,
-      "title": "Отть в космосе",
-      "kp_id": "137829",
-      "imdb_id": "tt0452365",
+      "id": 5079,
+      "title": "Бэтмен: Отвага и смелость",
+      "kp_id": "466902",
+      "imdb_id": "tt1213218",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-12 20:25:44",
-      "orig_title": "Ott kosmoses",
-      "year": "1961-01-01",
+      "type": "serial",
+      "add": "2019-08-21 19:34:54",
+      "orig_title": "Batman: The Brave and the Bold",
+      "year": "2008-11-14",
       "translations": [
-        "Оригинальная дорожка"
+        "Полное дублирование (Пифагор)"
       ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-09-16 07:48:10",
+      "seasons_count": 3,
+      "episodes_count": 65,
+      "episodes": 13,
+      "update": "2019-08-22 19:33:51",
       "iframe_src": ""
     },
     {
@@ -359,6 +397,25 @@
       "episodes_count": 39,
       "episodes": 13,
       "update": "2019-08-22 07:32:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 5077,
+      "title": "Большое дело",
+      "kp_id": "1209781",
+      "imdb_id": "tt9772798",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-08-21 18:23:21",
+      "orig_title": "Big Issue",
+      "year": "2019-03-06",
+      "translations": [
+        "Любительский (двухголосый закадровый) (HighHopes)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2019-08-22 18:05:08",
       "iframe_src": ""
     },
     {
@@ -609,45 +666,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4154,
-      "title": "Стамбульская невеста",
-      "kp_id": "1045758",
-      "imdb_id": "tt6462806",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-02-25 12:45:37",
-      "orig_title": "Istanbullu Gelin",
-      "year": "2017-03-03",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 87,
-      "episodes": 34,
-      "update": "2019-08-19 10:05:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 3633,
-      "title": "Седьмой хранитель",
-      "kp_id": "1204202",
-      "imdb_id": "tt9158900",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-06 09:36:04",
-      "orig_title": "O Sétimo Guardião",
-      "year": "2018-11-12",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (двухголосый закадровый) (AveBrasil)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 113,
-      "episodes": 113,
-      "update": "2019-08-19 06:13:38",
-      "iframe_src": ""
-    },
-    {
       "id": 19180,
       "title": "Падре",
       "kp_id": "1090419",
@@ -664,50 +682,6 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2020-09-16 10:40:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 2952,
-      "title": "Маргинал",
-      "kp_id": "1048038",
-      "imdb_id": "tt5820976",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-07-21 18:02:07",
-      "orig_title": "El marginal",
-      "year": "2016-06-02",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 26,
-      "episodes": 9,
-      "update": "2019-08-19 08:58:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 2056,
-      "title": "Девственница Джейн",
-      "kp_id": "839908",
-      "imdb_id": "tt3566726",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-02-11 09:19:11",
-      "orig_title": "Jane the Virgin",
-      "year": "2014-10-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Greb&Creative)",
-        "Профессиональный (многоголосый закадровый) (Amedia)",
-        "Любительский (двухголосый закадровый) (Kiitos)",
-        "Профессиональный (многоголосый закадровый) (SunshineStudio)",
-        "Любительский (двухголосый закадровый) (Sunshine Studio)",
-        "Профессиональный (многоголосый закадровый) (TVShows)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 100,
-      "episodes": 19,
-      "update": "2019-08-19 08:52:04",
       "iframe_src": ""
     },
     {
@@ -730,23 +704,46 @@
       "iframe_src": ""
     },
     {
-      "id": 54,
-      "title": "Элементарно",
-      "kp_id": "661210",
-      "imdb_id": "tt2191671",
+      "id": 165,
+      "title": "По волчьим законам",
+      "kp_id": "928372",
+      "imdb_id": "tt5574490",
       "world_art_id": null,
       "type": "serial",
-      "add": "2016-04-07 09:01:00",
-      "orig_title": "Elementary",
-      "year": "2012-09-27",
+      "add": "2016-06-09 13:00:55",
+      "orig_title": "Animal Kingdom",
+      "year": "2016-06-14",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)"
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (LostFilm)"
       ],
-      "seasons_count": 7,
-      "episodes_count": 153,
+      "seasons_count": 4,
+      "episodes_count": 49,
       "episodes": 13,
-      "update": "2019-08-19 08:53:10",
+      "update": "2019-08-23 09:54:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 135,
+      "title": "В объезд",
+      "kp_id": "927628",
+      "imdb_id": "tt4903242",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-06-03 08:48:24",
+      "orig_title": "The Detour",
+      "year": "2016-04-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Несмертельное оружие)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (TUMBLER Studio)"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 42,
+      "episodes": 10,
+      "update": "2019-08-23 10:20:42",
       "iframe_src": ""
     }
   ]

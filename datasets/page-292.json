@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": 43775,
-      "title": "Мёртвые",
-      "kp_id": "1412469",
-      "imdb_id": "tt1482457",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-22 20:24:28",
-      "orig_title": "The Dead Ones",
-      "year": "2019-04-13",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-23 04:54:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 43774,
-      "title": "Барби и Кендра спасают Короля Тигров",
-      "kp_id": "1380630",
-      "imdb_id": "tt12338128",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-22 20:22:54",
-      "orig_title": "Barbie & Kendra Save the Tiger King",
-      "year": "2020-05-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-23 04:52:18",
-      "iframe_src": ""
-    },
-    {
       "id": 43772,
       "title": "Атлантический вал",
       "kp_id": "60219",
@@ -160,6 +124,42 @@
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2020-09-23 05:07:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 43691,
+      "title": "Отшельник и роза",
+      "kp_id": "259925",
+      "imdb_id": "tt6405654",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-20 16:14:40",
+      "orig_title": "Otshelnik i roza",
+      "year": "1980-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-23 06:44:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 43690,
+      "title": "Пересолил",
+      "kp_id": "632530",
+      "imdb_id": "tt4611560",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-20 16:08:24",
+      "orig_title": "Peresolil",
+      "year": "1959-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-23 06:41:52",
       "iframe_src": ""
     },
     {
@@ -361,6 +361,82 @@
       "iframe_src": ""
     },
     {
+      "id": 5352,
+      "title": "В руке",
+      "kp_id": "1232351",
+      "imdb_id": "tt9642406",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-01 07:50:54",
+      "orig_title": "In Hand",
+      "year": "2019-04-12",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Asian Miracle Group)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 11,
+      "episodes": 11,
+      "update": "2019-10-01 11:28:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 5349,
+      "title": "Крот",
+      "kp_id": "94083",
+      "imdb_id": "tt0277527",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-01 06:56:48",
+      "orig_title": "Krot",
+      "year": "2009-09-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 24,
+      "episodes": 12,
+      "update": "2019-10-01 11:56:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 5341,
+      "title": "Забывая обо всем",
+      "kp_id": "1302862",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-09-30 18:07:18",
+      "orig_title": "Забывая обо всем",
+      "year": "2019-09-28",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-10-01 11:28:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 5340,
+      "title": "Не ждали",
+      "kp_id": "1189762",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-09-30 17:19:45",
+      "orig_title": "Не ждали",
+      "year": "2018-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-10-01 11:27:38",
+      "iframe_src": ""
+    },
+    {
       "id": 5339,
       "title": "Маруся. Трудные взрослые",
       "kp_id": "1278925",
@@ -418,44 +494,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5331,
-      "title": "Горизонты",
-      "kp_id": "1268559",
-      "imdb_id": "tt9184970",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-27 20:17:12",
-      "orig_title": "Skylines",
-      "year": "2019-09-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Octopus)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2019-09-28 07:09:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 5316,
-      "title": "Бездна",
-      "kp_id": "597626",
-      "imdb_id": "tt5804852",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-27 10:30:55",
-      "orig_title": "Bezdna",
-      "year": "2013-05-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2019-09-28 13:53:07",
-      "iframe_src": ""
-    },
-    {
       "id": 5315,
       "title": "Каушики",
       "kp_id": "1121079",
@@ -491,25 +529,6 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2019-09-28 14:42:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 5311,
-      "title": "Расколотая битвой синева небес",
-      "kp_id": "1211155",
-      "imdb_id": "tt9248626",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-26 20:45:14",
-      "orig_title": "Dou Po Cang Qiong",
-      "year": "2018-09-03",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 45,
-      "episodes": 45,
-      "update": "2019-09-28 06:57:33",
       "iframe_src": ""
     },
     {
@@ -590,44 +609,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5235,
-      "title": "Псевдоним «Албанец»",
-      "kp_id": "256570",
-      "imdb_id": "tt4402004",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-18 08:55:53",
-      "orig_title": "Psevdonim «Albanets»",
-      "year": "2006-04-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 4,
-      "episodes_count": 60,
-      "episodes": 16,
-      "update": "2019-09-28 14:11:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 4773,
-      "title": "Ловушка для королевы",
-      "kp_id": "1278017",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-07-02 04:21:05",
-      "orig_title": "Ловушка для королевы",
-      "year": "2019-07-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2019-09-27 17:18:03",
-      "iframe_src": ""
-    },
-    {
       "id": 3747,
       "title": "Москва. Три вокзала",
       "kp_id": "540682",
@@ -683,6 +664,25 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2019-09-30 13:53:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 1414,
+      "title": "Паршивые овцы",
+      "kp_id": "512501",
+      "imdb_id": "tt4515754",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-07-24 05:29:32",
+      "orig_title": "Parshivye ovtsy",
+      "year": "2010-06-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-10-01 12:16:34",
       "iframe_src": ""
     },
     {

@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 45205,
+      "title": "Лифхебберы",
+      "kp_id": "1203090",
+      "imdb_id": "tt8908368",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-11 12:49:49",
+      "orig_title": "De liefhebbers",
+      "year": "2019-10-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-11-11 16:07:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 45203,
+      "title": "Странная кофейня",
+      "kp_id": null,
+      "imdb_id": "tt9884024",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-11 12:40:43",
+      "orig_title": "Chubby Café",
+      "year": "2019-10-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-11-11 16:04:40",
+      "iframe_src": ""
+    },
+    {
       "id": 45202,
       "title": "Алиси Жуниор",
       "kp_id": "1146248",
@@ -52,24 +88,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2020-11-11 16:01:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 45192,
-      "title": "Самозащита",
-      "kp_id": "1245344",
-      "imdb_id": "tt9916190",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-11 09:44:25",
-      "orig_title": "Safeguard",
-      "year": "2020-10-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-11-11 12:59:36",
       "iframe_src": ""
     },
     {
@@ -325,24 +343,6 @@
       "iframe_src": ""
     },
     {
-      "id": 45059,
-      "title": "В поисках Олуэн",
-      "kp_id": "455483",
-      "imdb_id": "tt9057904",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-05 18:50:17",
-      "orig_title": "V poiskakh Oluen",
-      "year": "1990-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-11 13:08:11",
-      "iframe_src": ""
-    },
-    {
       "id": 43680,
       "title": "Пропавшая",
       "kp_id": "1109034",
@@ -477,6 +477,25 @@
       "iframe_src": ""
     },
     {
+      "id": 6853,
+      "title": "Клиника страха",
+      "kp_id": "477389",
+      "imdb_id": "tt1461982",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-12 12:59:22",
+      "orig_title": "Fear Clinic",
+      "year": "2009-10-26",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Gravi-TV)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "episodes": 5,
+      "update": "2020-03-17 08:34:28",
+      "iframe_src": ""
+    },
+    {
       "id": 6851,
       "title": "Миссия ясновидения",
       "kp_id": "260925",
@@ -493,6 +512,25 @@
       "episodes_count": 55,
       "episodes": 19,
       "update": "2020-03-16 08:00:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 6850,
+      "title": "Сумеречная зона",
+      "kp_id": "229154",
+      "imdb_id": "tt0318252",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-11 19:53:47",
+      "orig_title": "The Twilight Zone",
+      "year": "2002-09-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ТВ3)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 43,
+      "episodes": 43,
+      "update": "2020-03-17 08:32:25",
       "iframe_src": ""
     },
     {
@@ -516,25 +554,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6843,
-      "title": "Портал юрского периода",
-      "kp_id": "343874",
-      "imdb_id": "tt0808096",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-11 08:01:23",
-      "orig_title": "Primeval",
-      "year": "2007-02-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ТВ3)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 36,
-      "episodes": 6,
-      "update": "2020-03-15 16:55:39",
-      "iframe_src": ""
-    },
-    {
       "id": 6841,
       "title": "Удивительные истории",
       "kp_id": "400729",
@@ -551,101 +570,6 @@
       "episodes_count": 45,
       "episodes": 21,
       "update": "2020-03-16 08:49:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 6836,
-      "title": "Государственная граница. Фильм 8. На дальнем пограничье",
-      "kp_id": "255317",
-      "imdb_id": "tt2693920",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-10 12:59:12",
-      "orig_title": "Gosudarstvennaya granitsa: Na dalnem pograniche",
-      "year": "1989-05-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-15 16:32:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 6835,
-      "title": "Государственная граница. Фильм 7. Соленый ветер",
-      "kp_id": "255290",
-      "imdb_id": "tt1542808",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-10 12:49:54",
-      "orig_title": "Gosudarstvennaya granitsa: Solyonyy veter",
-      "year": "1988-05-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-15 16:30:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 6834,
-      "title": "Государственная граница. Фильм 6. За порогом победы",
-      "kp_id": "255220",
-      "imdb_id": "tt2693872",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-10 12:47:25",
-      "orig_title": "Gosudarstvennaya granitsa: Za porogom pobedy",
-      "year": "1987-05-27",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-15 16:30:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 6833,
-      "title": "Государственная граница. Фильм 5. Год сорок первый",
-      "kp_id": "255219",
-      "imdb_id": "tt2693808",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-10 12:28:23",
-      "orig_title": "Gosudarstvennaya granitsa: God sorok pervyy",
-      "year": "1986-05-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-15 16:29:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 6831,
-      "title": "Государственная граница. Фильм 3. Восточный рубеж",
-      "kp_id": "255217",
-      "imdb_id": "tt2151641",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-10 12:21:01",
-      "orig_title": "Gosudarstvennaya granitsa: Vostochnyy rubezh",
-      "year": "1982-05-22",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-15 16:21:59",
       "iframe_src": ""
     },
     {
@@ -666,6 +590,27 @@
       "episodes_count": 13,
       "episodes": 13,
       "update": "2020-03-15 17:12:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 6414,
+      "title": "Маленькая Америка",
+      "kp_id": "1123604",
+      "imdb_id": "tt8000674",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-20 13:44:58",
+      "orig_title": "Little America",
+      "year": "2020-01-17",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (IdeaFilm)",
+        "Профессиональный (многоголосый закадровый) (TVShows)",
+        "Любительский (многоголосый закадровый) (WestFilm)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2020-03-16 16:47:42",
       "iframe_src": ""
     },
     {
@@ -708,6 +653,47 @@
       "iframe_src": ""
     },
     {
+      "id": 4727,
+      "title": "Компьютерщики",
+      "kp_id": "386715",
+      "imdb_id": "tt0487831",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-06-20 11:18:38",
+      "orig_title": "The IT Crowd",
+      "year": "2006-02-03",
+      "translations": [
+        "Профессиональный (одноголосый закадровый) (LostFilm)",
+        "Профессиональный (многоголосый закадровый) (LostFilm)"
+      ],
+      "seasons_count": 5,
+      "episodes_count": 25,
+      "episodes": 1,
+      "update": "2020-03-16 19:01:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 4713,
+      "title": "Любовь напоказ",
+      "kp_id": "1263595",
+      "imdb_id": "tt10324306",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-06-19 07:45:51",
+      "orig_title": "Afili Ask",
+      "year": "2019-06-12",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Любительский (двухголосый закадровый) (OnisFilms)",
+        "Любительский (двухголосый закадровый) (SesDizi | DiziMania)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 37,
+      "episodes": 37,
+      "update": "2020-03-16 23:32:17",
+      "iframe_src": ""
+    },
+    {
       "id": 4583,
       "title": "Клятва",
       "kp_id": "1241196",
@@ -725,6 +711,28 @@
       "episodes_count": 190,
       "episodes": 120,
       "update": "2020-03-15 23:09:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 3909,
+      "title": "Каин. Исключение из правил",
+      "kp_id": "804628",
+      "imdb_id": "tt2364258",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-01-19 15:33:48",
+      "orig_title": "Caïn",
+      "year": "2012-10-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Игмар)",
+        "Любительский (двухголосый закадровый) (GREEN TEA)",
+        "Любительский (двухголосый закадровый)",
+        "Любительский (многоголосый закадровый) (WestFilm)"
+      ],
+      "seasons_count": 7,
+      "episodes_count": 62,
+      "episodes": 8,
+      "update": "2020-03-17 04:40:07",
       "iframe_src": ""
     },
     {

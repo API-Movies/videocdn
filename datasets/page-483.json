@@ -235,24 +235,6 @@
       "iframe_src": ""
     },
     {
-      "id": 40381,
-      "title": "Увольнение",
-      "kp_id": "494816",
-      "imdb_id": "tt1577050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-13 20:10:09",
-      "orig_title": "Fired",
-      "year": "2010-01-29",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Хихикающий доктор)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Хихикающий доктор)",
-      "update": "2020-05-15 06:58:32",
-      "iframe_src": ""
-    },
-    {
       "id": 40369,
       "title": "Ярость",
       "kp_id": "564978",
@@ -308,21 +290,41 @@
       "iframe_src": ""
     },
     {
-      "id": 37585,
-      "title": "Великая сила любви",
-      "kp_id": "39709",
-      "imdb_id": "tt0088442",
+      "id": 25320,
+      "title": "Обратная тяга 2",
+      "kp_id": "1151301",
+      "imdb_id": "tt8172466",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-03-08 21:33:50",
-      "orig_title": "Zameen Aasmaan",
-      "year": "1984-06-01",
+      "add": "2019-04-25 21:03:07",
+      "orig_title": "Backdraft 2",
+      "year": "2019-05-14",
       "translations": [
-        "Профессиональный (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2020-05-15 07:00:25",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2020-05-15 12:05:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 24309,
+      "title": "Бэк Форк",
+      "kp_id": "1056152",
+      "imdb_id": "tt7155576",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-04-11 19:31:46",
+      "orig_title": "Back Fork",
+      "year": "2019-04-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2020-05-15 12:03:58",
       "iframe_src": ""
     },
     {
@@ -364,6 +366,44 @@
       "quality": "hdtv",
       "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
       "update": "2020-05-15 12:03:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 417,
+      "title": "Я рядом",
+      "kp_id": "771409",
+      "imdb_id": "tt3324542",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-07 17:00:26",
+      "orig_title": "Ya ryadom",
+      "year": "2013-09-04",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2016-09-08 06:19:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 416,
+      "title": "Старое ружьё",
+      "kp_id": "839299",
+      "imdb_id": "tt3439288",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-07 05:48:38",
+      "orig_title": "Staroe ruzhe",
+      "year": "2014-05-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2016-09-07 16:35:06",
       "iframe_src": ""
     },
     {
@@ -421,6 +461,44 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2016-09-05 04:03:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 399,
+      "title": "Код убийцы",
+      "kp_id": "840951",
+      "imdb_id": "tt3847626",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-04 11:36:32",
+      "orig_title": "Code of a Killer",
+      "year": "2015-04-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlexFilm)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2016-09-06 12:03:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 398,
+      "title": "Дилетант",
+      "kp_id": "996308",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-04 07:46:42",
+      "orig_title": "Дилетант",
+      "year": "2016-09-04",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2016-09-06 06:39:04",
       "iframe_src": ""
     },
     {
@@ -595,101 +673,6 @@
       "iframe_src": ""
     },
     {
-      "id": 383,
-      "title": "Знахарка",
-      "kp_id": "696423",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-08-29 05:28:32",
-      "orig_title": "Знахарка",
-      "year": "2012-08-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2016-08-29 07:10:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 382,
-      "title": "Судья 2",
-      "kp_id": "891355",
-      "imdb_id": "tt5013792",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-08-29 05:21:00",
-      "orig_title": "Sudya 2",
-      "year": "2015-02-22",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2016-08-29 07:33:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 381,
-      "title": "Судья",
-      "kp_id": "831533",
-      "imdb_id": "tt4061936",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-08-29 05:18:01",
-      "orig_title": "Sudya",
-      "year": "2014-02-16",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2016-08-29 07:35:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 380,
-      "title": "Братаны",
-      "kp_id": "447668",
-      "imdb_id": "tt1411594",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-08-29 05:13:06",
-      "orig_title": "Bratany",
-      "year": "2009-03-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2016-08-29 07:22:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 379,
-      "title": "Не того поля ягода",
-      "kp_id": "994694",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-08-29 04:37:21",
-      "orig_title": "Не того поля ягода",
-      "year": "2016-08-27",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2016-08-29 06:49:39",
-      "iframe_src": ""
-    },
-    {
       "id": 374,
       "title": "Дельта",
       "kp_id": "743170",
@@ -725,6 +708,25 @@
       "episodes_count": 24,
       "episodes": 24,
       "update": "2016-08-29 08:48:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 364,
+      "title": "Два отца и два сына",
+      "kp_id": "735001",
+      "imdb_id": "tt3329488",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-08-25 05:24:19",
+      "orig_title": "Dva ottsa i dva syna",
+      "year": "2013-10-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 60,
+      "episodes": 20,
+      "update": "2016-09-08 06:07:46",
       "iframe_src": ""
     },
     {

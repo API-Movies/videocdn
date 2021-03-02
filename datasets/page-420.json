@@ -19,6 +19,42 @@
       "iframe_src": ""
     },
     {
+      "id": 41460,
+      "title": "Параллельный лес",
+      "kp_id": null,
+      "imdb_id": "tt10944016",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-29 12:05:57",
+      "orig_title": "Parallel Forest",
+      "year": "2019-01-01",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-06-29 19:06:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 41458,
+      "title": "Дядя",
+      "kp_id": "1239036",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-29 12:01:31",
+      "orig_title": "Samchon",
+      "year": "2018-07-12",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-06-29 19:08:23",
+      "iframe_src": ""
+    },
+    {
       "id": 41455,
       "title": "Забытый",
       "kp_id": "1189768",
@@ -271,24 +307,6 @@
       "iframe_src": ""
     },
     {
-      "id": 41426,
-      "title": "Мы умрем вместе",
-      "kp_id": "258150",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-28 02:20:03",
-      "orig_title": "Мы умрем вместе",
-      "year": "2005-05-16",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-06-28 10:25:34",
-      "iframe_src": ""
-    },
-    {
       "id": 41425,
       "title": "Прах",
       "kp_id": "22857",
@@ -304,24 +322,6 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2020-06-28 16:35:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 41424,
-      "title": "Путь к славе",
-      "kp_id": "1140900",
-      "imdb_id": "tt7881550",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-28 02:12:15",
-      "orig_title": "Kaamyaab",
-      "year": "2018-10-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-06-28 10:25:12",
       "iframe_src": ""
     },
     {
@@ -418,41 +418,98 @@
       "iframe_src": ""
     },
     {
-      "id": 2130,
-      "title": "Крылья Пегаса",
-      "kp_id": "1108403",
-      "imdb_id": null,
+      "id": 2137,
+      "title": "Кто ты?",
+      "kp_id": "810901",
+      "imdb_id": "tt3159860",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-02-22 04:22:40",
-      "orig_title": "Крылья Пегаса",
-      "year": "2017-12-23",
+      "add": "2018-02-25 10:35:54",
+      "orig_title": "Nuguseyo?",
+      "year": "2008-03-05",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (двухголосый закадровый) (XDUB Dorama)"
       ],
       "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2018-02-22 09:03:03",
+      "episodes_count": 17,
+      "episodes": 17,
+      "update": "2018-03-05 13:41:52",
       "iframe_src": ""
     },
     {
-      "id": 2129,
-      "title": "Сёстры по наследству",
-      "kp_id": "1103809",
+      "id": 2136,
+      "title": "Гинтама: Мицуба",
+      "kp_id": null,
+      "imdb_id": "tt6937894",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-02-25 09:32:57",
+      "orig_title": "Gintama: Mitsuba hen",
+      "year": "2017-07-15",
+      "translations": [
+        "Любительский (двухголосый закадровый) (XDUB Dorama)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2018-03-05 12:47:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 2135,
+      "title": "Судмедэксперт Цинь Мин",
+      "kp_id": "1046534",
+      "imdb_id": "tt6342228",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-02-25 08:16:06",
+      "orig_title": "Fa yi Qin Ming",
+      "year": "2016-10-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (XDUB Dorama)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 20,
+      "episodes": 20,
+      "update": "2018-03-05 12:12:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 2133,
+      "title": "Чёрные бушлаты",
+      "kp_id": "855918",
       "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-02-22 04:14:31",
-      "orig_title": "Сёстры по наследству",
-      "year": "2018-02-18",
+      "add": "2018-02-23 09:23:24",
+      "orig_title": "Чёрные бушлаты",
+      "year": "2015-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
       "episodes_count": 4,
       "episodes": 4,
-      "update": "2018-02-22 09:00:16",
+      "update": "2018-03-05 06:56:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 2132,
+      "title": "Замёрзшие мертвецы",
+      "kp_id": "1008088",
+      "imdb_id": "tt5736758",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-02-22 04:42:14",
+      "orig_title": "Glacé",
+      "year": "2017-01-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2018-03-03 07:58:46",
       "iframe_src": ""
     },
     {
@@ -551,25 +608,6 @@
       "iframe_src": ""
     },
     {
-      "id": 2112,
-      "title": "Бандит (Прости меня, мама)",
-      "kp_id": "839311",
-      "imdb_id": "tt4976572",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-02-18 07:59:58",
-      "orig_title": "Bandit",
-      "year": "2014-07-24",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2018-02-20 12:02:51",
-      "iframe_src": ""
-    },
-    {
       "id": 2111,
       "title": "Поиски улик",
       "kp_id": "840717",
@@ -586,25 +624,6 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2018-03-02 15:27:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 2108,
-      "title": "Маша в законе",
-      "kp_id": "702066",
-      "imdb_id": "tt3577578",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-02-18 07:36:17",
-      "orig_title": "Masha v zakone",
-      "year": "2012-09-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 24,
-      "episodes": 8,
-      "update": "2018-02-20 11:46:41",
       "iframe_src": ""
     },
     {
@@ -682,25 +701,6 @@
       "episodes_count": 20,
       "episodes": 20,
       "update": "2018-02-28 23:31:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 1664,
-      "title": "Невский. Проверка на прочность",
-      "kp_id": "1007667",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-10-23 14:06:07",
-      "orig_title": "Невский. Проверка на прочность",
-      "year": "2017-10-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 32,
-      "episodes": 32,
-      "update": "2018-02-24 12:50:22",
       "iframe_src": ""
     },
     {

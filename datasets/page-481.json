@@ -55,6 +55,24 @@
       "iframe_src": ""
     },
     {
+      "id": 40418,
+      "title": "Выжги сцену: Фильм",
+      "kp_id": "1200750",
+      "imdb_id": "tt9151704",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-15 09:33:43",
+      "orig_title": "Burn the Stage: The Movie",
+      "year": "2018-11-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2020-05-16 07:57:18",
+      "iframe_src": ""
+    },
+    {
       "id": 40417,
       "title": "Гамсун",
       "kp_id": "15142",
@@ -108,24 +126,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-05-15 15:49:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 23336,
-      "title": "Книга монстров",
-      "kp_id": "1049023",
-      "imdb_id": "tt7260818",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-21 21:46:24",
-      "orig_title": "Book of Monsters",
-      "year": "2018-08-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2020-05-15 15:47:36",
       "iframe_src": ""
     },
     {
@@ -286,25 +286,6 @@
       "iframe_src": ""
     },
     {
-      "id": 17566,
-      "title": "Книжный клуб",
-      "kp_id": "1077873",
-      "imdb_id": "tt6857166",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-04 21:08:18",
-      "orig_title": "Book Club",
-      "year": "2018-05-17",
-      "translations": [
-        "Полное дублирование",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-05-15 15:47:16",
-      "iframe_src": ""
-    },
-    {
       "id": 17472,
       "title": "Калибр",
       "kp_id": "1012169",
@@ -381,6 +362,106 @@
       "quality": "bd",
       "translation": "Полное дублирование",
       "update": "2020-05-15 15:51:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 14796,
+      "title": "Кровоточащая сталь",
+      "kp_id": "988953",
+      "imdb_id": "tt5813366",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-01-04 22:30:18",
+      "orig_title": "Ji qi zhi xue",
+      "year": "2017-12-22",
+      "translations": [
+        "Полное дублирование (iTunes)",
+        "Любительский (многоголосый закадровый) (Колобок)",
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (Paradox & Omskbird records)",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-05-16 07:53:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 474,
+      "title": "Любить нельзя ненавидеть",
+      "kp_id": "943409",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-23 04:49:31",
+      "orig_title": "Любить нельзя ненавидеть",
+      "year": "2015-12-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2016-09-23 06:52:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 468,
+      "title": "Что знает Оливия?",
+      "kp_id": "784529",
+      "imdb_id": "tt3012698",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-22 06:26:35",
+      "orig_title": "Olive Kitteridge",
+      "year": "2014-11-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2016-09-22 11:55:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 467,
+      "title": "Игра",
+      "kp_id": "818776",
+      "imdb_id": "tt3159736",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-21 13:06:19",
+      "orig_title": "The Game",
+      "year": "2014-11-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2016-09-22 10:55:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 466,
+      "title": "Изгнанники",
+      "kp_id": "843210",
+      "imdb_id": "tt3508050",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-21 13:01:53",
+      "orig_title": "Banished",
+      "year": "2015-03-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2016-09-22 08:39:36",
       "iframe_src": ""
     },
     {
@@ -479,6 +560,25 @@
       "iframe_src": ""
     },
     {
+      "id": 454,
+      "title": "Бэкстром",
+      "kp_id": "838073",
+      "imdb_id": "tt2099034",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-09-19 08:49:20",
+      "orig_title": "Backstrom",
+      "year": "2015-01-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 13,
+      "episodes": 13,
+      "update": "2016-09-22 08:07:18",
+      "iframe_src": ""
+    },
+    {
       "id": 452,
       "title": "Отцовский инстинкт",
       "kp_id": "702035",
@@ -574,25 +674,6 @@
       "iframe_src": ""
     },
     {
-      "id": 447,
-      "title": "Отель последней надежды",
-      "kp_id": "996638",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-09-18 15:37:55",
-      "orig_title": "Отель последней надежды",
-      "year": "2016-09-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2016-09-19 05:24:10",
-      "iframe_src": ""
-    },
-    {
       "id": 446,
       "title": "Капитан полиции метро",
       "kp_id": "1001699",
@@ -631,25 +712,6 @@
       "iframe_src": ""
     },
     {
-      "id": 440,
-      "title": "Тиран",
-      "kp_id": "723534",
-      "imdb_id": "tt2568204",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-09-14 14:02:41",
-      "orig_title": "Tyrant",
-      "year": "2014-06-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (NewStudio)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 32,
-      "episodes": 10,
-      "update": "2016-09-15 11:06:37",
-      "iframe_src": ""
-    },
-    {
       "id": 436,
       "title": "Медсестра",
       "kp_id": "999459",
@@ -669,25 +731,6 @@
       "iframe_src": ""
     },
     {
-      "id": 412,
-      "title": "Жемчуга (Тайна русской жемчужины)",
-      "kp_id": "957750",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-09-06 06:07:09",
-      "orig_title": "Жемчуга (Тайна русской жемчужины)",
-      "year": "2016-09-05",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 24,
-      "episodes": 24,
-      "update": "2016-09-16 07:03:28",
-      "iframe_src": ""
-    },
-    {
       "id": 400,
       "title": "Один из нас",
       "kp_id": "994458",
@@ -704,44 +747,6 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2016-09-21 13:29:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 314,
-      "title": "Шаман",
-      "kp_id": "646791",
-      "imdb_id": "tt3172272",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-07-26 15:51:22",
-      "orig_title": "Shaman",
-      "year": "2011-12-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 80,
-      "episodes": 32,
-      "update": "2016-09-16 07:22:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 244,
-      "title": "Американская готика",
-      "kp_id": "958573",
-      "imdb_id": "tt5257744",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-07-03 06:44:36",
-      "orig_title": "American Gothic",
-      "year": "2016-06-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (NewStudio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2016-09-15 04:52:55",
       "iframe_src": ""
     },
     {

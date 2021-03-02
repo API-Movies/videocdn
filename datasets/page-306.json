@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 43387,
+      "title": "Снежная мельница",
+      "kp_id": "137821",
+      "imdb_id": "tt0452313",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-10 17:35:41",
+      "orig_title": "Lumeveski",
+      "year": "1970-01-01",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "vhs",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2020-09-15 14:14:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 43386,
+      "title": "Слушается дело о... Не очень комическая опера",
+      "kp_id": "477534",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-10 17:31:59",
+      "orig_title": "Слушается дело о... Не очень комическая опера",
+      "year": "1976-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-15 14:13:26",
+      "iframe_src": ""
+    },
+    {
       "id": 43385,
       "title": "Сказка о карасях, зайце и бубликах",
       "kp_id": "676949",
@@ -325,39 +361,22 @@
       "iframe_src": ""
     },
     {
-      "id": 43293,
-      "title": "Чужие окна",
-      "kp_id": "628586",
-      "imdb_id": null,
+      "id": 5007,
+      "title": "Монстры",
+      "kp_id": "295012",
+      "imdb_id": "tt0094512",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-08 17:51:03",
-      "orig_title": "Чужие окна",
-      "year": "1985-01-01",
+      "type": "serial",
+      "add": "2019-08-07 18:57:08",
+      "orig_title": "Monsters",
+      "year": "1988-10-22",
       "translations": [
-        "Оригинальная дорожка"
+        "Авторский (одноголосый закадровый) (Воронцов Владимир | Доцент)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-09-15 13:16:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 43291,
-      "title": "Северный дракон",
-      "kp_id": "137834",
-      "imdb_id": "tt0452385",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-08 17:39:53",
-      "orig_title": "Põhjakonn",
-      "year": "1959-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый)",
-      "update": "2020-09-15 13:12:10",
+      "seasons_count": 3,
+      "episodes_count": 72,
+      "episodes": 24,
+      "update": "2019-08-09 11:11:54",
       "iframe_src": ""
     },
     {
@@ -396,6 +415,25 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2019-08-06 19:31:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 5000,
+      "title": "Прислуга",
+      "kp_id": "1118169",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-08-06 10:15:15",
+      "orig_title": "Прислуга",
+      "year": "2018-04-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2019-08-08 16:30:50",
       "iframe_src": ""
     },
     {
@@ -476,25 +514,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4991,
-      "title": "Колдовская любовь 2",
-      "kp_id": "496801",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-08-02 22:18:51",
-      "orig_title": "Колдовская любовь 2",
-      "year": "2009-10-12",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2019-08-05 08:45:28",
-      "iframe_src": ""
-    },
-    {
       "id": 4987,
       "title": "Светка",
       "kp_id": "1049530",
@@ -511,25 +530,6 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2019-08-05 12:33:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 4983,
-      "title": "Скуби-Ду! Корпорация «Загадка»",
-      "kp_id": "566978",
-      "imdb_id": "tt1660055",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-08-01 11:14:13",
-      "orig_title": "Scooby-Doo! Mystery Incorporated",
-      "year": "2010-07-12",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 52,
-      "episodes": 26,
-      "update": "2019-08-02 12:49:56",
       "iframe_src": ""
     },
     {
@@ -553,25 +553,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4977,
-      "title": "Неизвестный: История Чоло Адриано",
-      "kp_id": "1263425",
-      "imdb_id": "tt6524440",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-07-31 10:40:44",
-      "orig_title": "El desconocido: la historia de El Cholo Adrián",
-      "year": "2018-12-01",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 5,
-      "episodes": 5,
-      "update": "2019-08-05 10:44:02",
-      "iframe_src": ""
-    },
-    {
       "id": 4964,
       "title": "Сталин: Live",
       "kp_id": "427883",
@@ -588,6 +569,26 @@
       "episodes_count": 40,
       "episodes": 40,
       "update": "2019-08-06 11:16:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 4955,
+      "title": "Никита",
+      "kp_id": "497178",
+      "imdb_id": "tt1592154",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-07-27 14:53:30",
+      "orig_title": "Nikita",
+      "year": "2010-09-09",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (NewStudio)",
+        "Профессиональный (двухголосый закадровый) (New Dream Media)"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 73,
+      "episodes": 12,
+      "update": "2019-08-09 07:51:43",
       "iframe_src": ""
     },
     {
@@ -631,6 +632,25 @@
       "iframe_src": ""
     },
     {
+      "id": 4764,
+      "title": "Спецкор отдела расследований",
+      "kp_id": "466553",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-06-28 19:48:01",
+      "orig_title": "Спецкор отдела расследований",
+      "year": "2009-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2019-08-09 11:47:52",
+      "iframe_src": ""
+    },
+    {
       "id": 4593,
       "title": "Машкины страшилки",
       "kp_id": "891359",
@@ -669,45 +689,22 @@
       "iframe_src": ""
     },
     {
-      "id": 3622,
-      "title": "Тоннель",
-      "kp_id": "1009255",
-      "imdb_id": "tt6356086",
+      "id": 3100,
+      "title": "Ранняя пташка",
+      "kp_id": "1162885",
+      "imdb_id": "tt8478162",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-04 23:33:23",
-      "orig_title": "Teoneol",
-      "year": "2017-03-25",
+      "add": "2018-08-29 18:59:49",
+      "orig_title": "Erkenci Kus",
+      "year": "2018-06-26",
       "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)",
-        "Любительский (двухголосый закадровый) (GREEN TEA)",
-        "Любительский (двухголосый закадровый) (JoyStudio)",
-        "Любительский (двухголосый закадровый) (HighHopes)"
+        "Любительский (двухголосый закадровый)"
       ],
       "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2019-08-02 15:31:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 3294,
-      "title": "Черепашки-ниндзя",
-      "kp_id": "584136",
-      "imdb_id": "tt1877889",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-14 09:21:52",
-      "orig_title": "Teenage Mutant Ninja Turtles",
-      "year": "2012-09-29",
-      "translations": [
-        "Полное дублирование",
-        "Полное дублирование (Nickelodeon)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 115,
-      "episodes": 15,
-      "update": "2019-08-02 12:33:00",
+      "episodes_count": 51,
+      "episodes": 51,
+      "update": "2019-08-08 15:33:44",
       "iframe_src": ""
     },
     {

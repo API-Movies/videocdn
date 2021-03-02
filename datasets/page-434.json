@@ -37,42 +37,6 @@
       "iframe_src": ""
     },
     {
-      "id": 41235,
-      "title": "Приманка",
-      "kp_id": "1083674",
-      "imdb_id": "tt6418570",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-16 21:34:04",
-      "orig_title": "The Luring",
-      "year": "2019-08-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-06-17 21:53:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 41234,
-      "title": "Папа-вампир",
-      "kp_id": "1059580",
-      "imdb_id": "tt7400952",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-16 21:31:13",
-      "orig_title": "Vampire Dad",
-      "year": "2018-10-31",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-06-17 21:53:00",
-      "iframe_src": ""
-    },
-    {
       "id": 41228,
       "title": "Тайны Хидден Орчеда. Ограбление Эйрбиэнби",
       "kp_id": "1324202",
@@ -88,6 +52,42 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-06-18 04:24:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 41200,
+      "title": "Освобождение",
+      "kp_id": "1254470",
+      "imdb_id": "tt10074536",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-15 20:38:22",
+      "orig_title": "Liberation",
+      "year": "2019-12-27",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-06-18 06:09:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 41199,
+      "title": "Легенда о Дидао",
+      "kp_id": null,
+      "imdb_id": "tt4614920",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-15 20:30:54",
+      "orig_title": "Xiao xi tian di dao chuan qi",
+      "year": "2015-08-07",
+      "translations": [
+        "Любительский (двухголосый закадровый) (East Dream)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (East Dream)",
+      "update": "2020-06-18 06:09:08",
       "iframe_src": ""
     },
     {
@@ -403,6 +403,25 @@
       "iframe_src": ""
     },
     {
+      "id": 1813,
+      "title": "Любовь на районе",
+      "kp_id": "432656",
+      "imdb_id": "tt1389650",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-12-06 09:05:03",
+      "orig_title": "Lyubov na rayone",
+      "year": "2008-12-19",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 48,
+      "episodes": 24,
+      "update": "2017-12-08 07:06:32",
+      "iframe_src": ""
+    },
+    {
       "id": 1811,
       "title": "Выйти замуж за генерала",
       "kp_id": "619951",
@@ -422,6 +441,44 @@
       "iframe_src": ""
     },
     {
+      "id": 1809,
+      "title": "Защита Красина",
+      "kp_id": "428974",
+      "imdb_id": "tt4127630",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-12-06 04:45:23",
+      "orig_title": "Zashchita Krasina",
+      "year": "2009-04-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2017-12-08 10:23:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 1808,
+      "title": "Защита Красина 2",
+      "kp_id": "428972",
+      "imdb_id": "tt4420592",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-12-06 04:40:44",
+      "orig_title": "Zashchita Krasina 2",
+      "year": "2009-03-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2017-12-08 12:10:10",
+      "iframe_src": ""
+    },
+    {
       "id": 1803,
       "title": "Счастливчик Пашка",
       "kp_id": "565145",
@@ -438,6 +495,25 @@
       "episodes_count": 12,
       "episodes": 12,
       "update": "2017-12-05 13:15:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 1802,
+      "title": "Погоня за тенью",
+      "kp_id": "565731",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-12-04 14:03:55",
+      "orig_title": "Погоня за тенью",
+      "year": "2011-02-14",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 24,
+      "episodes": 24,
+      "update": "2017-12-07 13:58:38",
       "iframe_src": ""
     },
     {
@@ -556,6 +632,25 @@
       "iframe_src": ""
     },
     {
+      "id": 1792,
+      "title": "Второе зрение",
+      "kp_id": "904910",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-12-01 06:57:48",
+      "orig_title": "Второе зрение",
+      "year": "2017-11-29",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2017-12-08 09:40:49",
+      "iframe_src": ""
+    },
+    {
       "id": 1790,
       "title": "Маэстро",
       "kp_id": "842414",
@@ -591,83 +686,6 @@
       "episodes_count": 77,
       "episodes": 20,
       "update": "2017-12-06 08:51:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 1788,
-      "title": "Все любят Рэймонда",
-      "kp_id": "277601",
-      "imdb_id": "tt0115167",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-11-30 09:58:04",
-      "orig_title": "Everybody Loves Raymond",
-      "year": "1996-09-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (SET)",
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "seasons_count": 6,
-      "episodes_count": 146,
-      "episodes": 25,
-      "update": "2017-12-02 20:50:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 1783,
-      "title": "Всё тип-топ, или Жизнь Зака и Коди",
-      "kp_id": "323192",
-      "imdb_id": "tt0426371",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-11-29 19:49:22",
-      "orig_title": "The Suite Life of Zack and Cody",
-      "year": "2005-03-18",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 87,
-      "episodes": 22,
-      "update": "2017-12-01 07:13:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 1780,
-      "title": "Вызов",
-      "kp_id": "673387",
-      "imdb_id": "tt2189221",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-11-28 10:23:01",
-      "orig_title": "Defiance",
-      "year": "2013-04-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 37,
-      "episodes": 12,
-      "update": "2017-12-01 11:27:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 1778,
-      "title": "Ей это нужно позарез",
-      "kp_id": "1046232",
-      "imdb_id": "tt3713588",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-11-28 09:43:41",
-      "orig_title": "She's Gotta Have It",
-      "year": "2017-11-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (NewStudio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2017-12-01 07:12:55",
       "iframe_src": ""
     },
     {
@@ -725,26 +743,6 @@
       "episodes_count": 267,
       "episodes": 267,
       "update": "2017-12-06 10:24:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 137,
-      "title": "Отвязный Дайс",
-      "kp_id": "971141",
-      "imdb_id": "tt4688512",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-06-05 14:07:30",
-      "orig_title": "Dice",
-      "year": "2016-04-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Несмертельное оружие)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 13,
-      "episodes": 7,
-      "update": "2017-12-04 07:52:53",
       "iframe_src": ""
     }
   ]

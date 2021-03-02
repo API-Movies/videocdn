@@ -19,6 +19,24 @@
       "iframe_src": ""
     },
     {
+      "id": 43990,
+      "title": "Неоновые дни",
+      "kp_id": "1131326",
+      "imdb_id": "tt7656446",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-29 21:03:22",
+      "orig_title": "Neon Days",
+      "year": "2019-03-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2020-09-30 06:38:08",
+      "iframe_src": ""
+    },
+    {
       "id": 43978,
       "title": "Под защитой мамки",
       "kp_id": "1004035",
@@ -88,6 +106,24 @@
       "quality": "dvdrip",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2020-09-29 15:53:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 43958,
+      "title": "Казанова Браун",
+      "kp_id": "3356",
+      "imdb_id": "tt0036699",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-29 08:24:08",
+      "orig_title": "Casanova Brown",
+      "year": "1944-08-23",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Яковлев)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Яковлев)",
+      "update": "2020-09-30 06:37:07",
       "iframe_src": ""
     },
     {
@@ -178,42 +214,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-09-29 08:13:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 43870,
-      "title": "Эх,ты! Ух,ты! Ишь,ты!",
-      "kp_id": "137813",
-      "imdb_id": "tt0452435",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-26 18:36:57",
-      "orig_title": "Uhti, uhti uhkesti!",
-      "year": "1969-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-09-29 07:31:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 43869,
-      "title": "Еще раз про квартет",
-      "kp_id": "861658",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-26 18:30:56",
-      "orig_title": "Еще раз про квартет",
-      "year": "1980-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-09-29 07:33:29",
       "iframe_src": ""
     },
     {
@@ -309,22 +309,98 @@
       "iframe_src": ""
     },
     {
-      "id": 5584,
-      "title": "Шангри-Ла",
-      "kp_id": "1274828",
-      "imdb_id": "tt9648804",
+      "id": 5603,
+      "title": "Миллионер из Балашихи",
+      "kp_id": "1270744",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-10-30 19:29:03",
-      "orig_title": "Shangri-La",
-      "year": "2019-07-12",
+      "add": "2019-11-02 10:26:09",
+      "orig_title": "Миллионер из Балашихи",
+      "year": "2019-02-25",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-10-31 17:32:25",
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2019-11-02 22:29:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 5586,
+      "title": "Без координат",
+      "kp_id": "496833",
+      "imdb_id": "tt1587694",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-30 19:52:59",
+      "orig_title": "Off the Map",
+      "year": "2011-01-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Fox Life)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 13,
+      "episodes": 13,
+      "update": "2019-11-02 20:49:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 5585,
+      "title": "Пером и шпагой",
+      "kp_id": "410939",
+      "imdb_id": "tt1266428",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-30 19:49:34",
+      "orig_title": "Perom i shpagoy",
+      "year": "2008-05-30",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2019-11-02 20:36:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 5583,
+      "title": "Прятки",
+      "kp_id": "1236291",
+      "imdb_id": "tt9612028",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-30 17:59:49",
+      "orig_title": "Pryatki",
+      "year": "2019-10-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2019-11-02 15:15:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 5582,
+      "title": "Самурай и кошка",
+      "kp_id": "897908",
+      "imdb_id": "tt3303752",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-30 11:59:22",
+      "orig_title": "Neko zamurai",
+      "year": "2013-10-13",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Arisu)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2019-11-02 11:46:24",
       "iframe_src": ""
     },
     {
@@ -443,50 +519,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5397,
-      "title": "Екатерина Великая",
-      "kp_id": "1115126",
-      "imdb_id": "tt7243884",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-10-06 04:51:31",
-      "orig_title": "Catherine the Great",
-      "year": "2019-10-03",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (Amedia)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-10-31 17:14:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 5040,
-      "title": "Почему женщины убивают",
-      "kp_id": "1197956",
-      "imdb_id": "tt9054904",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-08-16 11:38:29",
-      "orig_title": "Why Women Kill",
-      "year": "2019-07-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2019-10-31 17:12:33",
-      "iframe_src": ""
-    },
-    {
       "id": 5008,
       "title": "BH90210",
       "kp_id": "1167800",
@@ -505,49 +537,6 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2019-11-01 17:54:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 4945,
-      "title": "Другая жизнь",
-      "kp_id": "1146373",
-      "imdb_id": "tt8369840",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-07-25 13:22:37",
-      "orig_title": "Another Life",
-      "year": "2019-07-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Пифагор)",
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2019-10-31 16:24:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 4771,
-      "title": "Самый громкий голос",
-      "kp_id": "1162901",
-      "imdb_id": "tt6821044",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-07-01 11:58:49",
-      "orig_title": "The Loudest Voice",
-      "year": "2019-06-30",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (Amedia)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 7,
-      "episodes": 7,
-      "update": "2019-10-31 16:43:31",
       "iframe_src": ""
     },
     {

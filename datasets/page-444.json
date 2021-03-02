@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 41122,
+      "title": "Пленка",
+      "kp_id": "1158472",
+      "imdb_id": "tt5769790",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-11 13:07:33",
+      "orig_title": "Tape",
+      "year": "2020-03-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-06-11 20:55:12",
+      "iframe_src": ""
+    },
+    {
       "id": 41121,
       "title": "Вечеринка у бассейна 2015",
       "kp_id": "1270275",
@@ -19,6 +37,24 @@
       "iframe_src": ""
     },
     {
+      "id": 41119,
+      "title": "Женщина на грани",
+      "kp_id": "1339178",
+      "imdb_id": "tt11438476",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-11 13:02:13",
+      "orig_title": "Woman on the Edge",
+      "year": "2020-05-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-06-11 20:50:20",
+      "iframe_src": ""
+    },
+    {
       "id": 41106,
       "title": "Игра цвета слоновой кости",
       "kp_id": "997939",
@@ -34,24 +70,6 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
       "update": "2020-06-11 09:25:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 41093,
-      "title": "Чартер",
-      "kp_id": "1245637",
-      "imdb_id": "tt9850050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-10 06:49:40",
-      "orig_title": "Charter",
-      "year": "2020-01-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-06-10 15:35:38",
       "iframe_src": ""
     },
     {
@@ -124,24 +142,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-06-10 15:43:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 41086,
-      "title": "Тёрнер Риск",
-      "kp_id": "739145",
-      "imdb_id": "tt2717682",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-10 06:26:09",
-      "orig_title": "Turner Risk",
-      "year": "2019-10-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-06-10 15:37:09",
       "iframe_src": ""
     },
     {
@@ -294,6 +294,82 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2020-06-11 09:24:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 1539,
+      "title": "Садовник",
+      "kp_id": "542015",
+      "imdb_id": "tt3206088",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-09-13 17:36:01",
+      "orig_title": "Sadovnik",
+      "year": "2010-07-05",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2017-09-14 07:25:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 1538,
+      "title": "Манна небесная",
+      "kp_id": "583732",
+      "imdb_id": "tt4195042",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-09-13 17:34:08",
+      "orig_title": "Manna nebesnaya",
+      "year": "2011-08-04",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2017-09-15 15:19:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 1531,
+      "title": "Тайны и ложь",
+      "kp_id": "990839",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-09-08 06:33:34",
+      "orig_title": "Тайны и ложь",
+      "year": "2017-08-28",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2017-09-14 16:02:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 1527,
+      "title": "Участок",
+      "kp_id": "89595",
+      "imdb_id": "tt0407456",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-09-07 06:06:49",
+      "orig_title": "Uchastok",
+      "year": "2003-12-08",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2017-09-08 15:29:56",
       "iframe_src": ""
     },
     {
@@ -544,79 +620,22 @@
       "iframe_src": ""
     },
     {
-      "id": 1503,
-      "title": "Безопасность",
-      "kp_id": "927625",
-      "imdb_id": null,
+      "id": 1303,
+      "title": "Кровавая езда",
+      "kp_id": "1044571",
+      "imdb_id": "tt4898282",
       "world_art_id": null,
       "type": "serial",
-      "add": "2017-08-31 11:42:52",
-      "orig_title": "Безопасность",
-      "year": "2017-08-28",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2017-09-01 08:25:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 1499,
-      "title": "Тимон и Пумба",
-      "kp_id": "94672",
-      "imdb_id": "tt0112197",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-08-30 07:59:46",
-      "orig_title": "Timon & Pumbaa",
-      "year": "1995-09-08",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 85,
-      "episodes": 39,
-      "update": "2017-09-01 13:32:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 1498,
-      "title": "Страна фей",
-      "kp_id": "77309",
-      "imdb_id": "tt0205214",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-08-30 06:54:12",
-      "orig_title": "The Magical Legend of the Leprechauns",
-      "year": "1999-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2017-08-30 14:19:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 1496,
-      "title": "Тихий океан",
-      "kp_id": "426030",
-      "imdb_id": "tt0374463",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-08-29 11:20:09",
-      "orig_title": "The Pacific",
-      "year": "2010-03-14",
+      "add": "2017-06-13 18:28:32",
+      "orig_title": "Blood Drive",
+      "year": "2017-06-14",
       "translations": [
         "Профессиональный (многоголосый закадровый) (LostFilm)"
       ],
       "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2017-08-30 14:16:48",
+      "episodes_count": 13,
+      "episodes": 13,
+      "update": "2017-09-11 14:07:31",
       "iframe_src": ""
     },
     {
@@ -657,25 +676,6 @@
       "episodes_count": 36,
       "episodes": 10,
       "update": "2017-09-04 10:21:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 565,
-      "title": "Земляне",
-      "kp_id": "1006639",
-      "imdb_id": "tt4695530",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-11-03 10:44:03",
-      "orig_title": "People of Earth",
-      "year": "2016-10-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ColdFilm)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 15,
-      "episodes": 5,
-      "update": "2017-09-01 14:28:46",
       "iframe_src": ""
     },
     {

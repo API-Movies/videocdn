@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 45160,
+      "title": "Белая подушка",
+      "kp_id": "848996",
+      "imdb_id": "tt3819160",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-09 18:42:39",
+      "orig_title": "White Pillow",
+      "year": "2016-02-15",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-11-09 19:52:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 45159,
+      "title": "Саван призрака. Начало",
+      "kp_id": "1256989",
+      "imdb_id": "tt10092770",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-09 18:41:14",
+      "orig_title": "Pocong the Origin",
+      "year": "2019-04-18",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-11-09 19:52:24",
+      "iframe_src": ""
+    },
+    {
       "id": 45145,
       "title": "Дамский цирюльник",
       "kp_id": "72626",
@@ -218,42 +254,6 @@
       "iframe_src": ""
     },
     {
-      "id": 45129,
-      "title": "Зона отдыха",
-      "kp_id": null,
-      "imdb_id": "tt13370916",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-09 06:55:06",
-      "orig_title": "Rest Area",
-      "year": "2020-10-31",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-11-09 09:47:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 45126,
-      "title": "У папы нет плана",
-      "kp_id": "1089564",
-      "imdb_id": "tt7516218",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-09 06:19:53",
-      "orig_title": "Papa hat keinen Plan",
-      "year": "2019-04-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-11-09 09:45:32",
-      "iframe_src": ""
-    },
-    {
       "id": 44840,
       "title": "Охотницы за сумками",
       "kp_id": "1276278",
@@ -368,6 +368,63 @@
       "iframe_src": ""
     },
     {
+      "id": 6785,
+      "title": "BBC: Прогулки с динозаврами",
+      "kp_id": "258253",
+      "imdb_id": "tt0214382",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-05 06:49:07",
+      "orig_title": "BBC: Walking with Dinosaurs",
+      "year": "1999-10-04",
+      "translations": [
+        "Профессиональный (одноголосый закадровый) (Николай Дроздов)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-03-05 20:57:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 6781,
+      "title": "Кайл XY",
+      "kp_id": "279077",
+      "imdb_id": "tt0756509",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-04 20:40:25",
+      "orig_title": "Kyle XY",
+      "year": "2006-06-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AXN Sci-Fi)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 43,
+      "episodes": 10,
+      "update": "2020-03-05 21:01:27",
+      "iframe_src": ""
+    },
+    {
+      "id": 6780,
+      "title": "187 Детройт",
+      "kp_id": "493199",
+      "imdb_id": "tt1578258",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-04 20:21:38",
+      "orig_title": "Detroit 1-8-7",
+      "year": "2010-09-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Fox Crime)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 18,
+      "episodes": 18,
+      "update": "2020-03-05 21:12:16",
+      "iframe_src": ""
+    },
+    {
       "id": 6778,
       "title": "Жуткий монстр по имени мировая экономика",
       "kp_id": "1234804",
@@ -403,82 +460,6 @@
       "episodes_count": 2,
       "episodes": 2,
       "update": "2020-03-04 12:04:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 6775,
-      "title": "Пророк Моисей: Вождь-освободитель",
-      "kp_id": "94271",
-      "imdb_id": "tt0117086",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-04 08:25:22",
-      "orig_title": "Moses",
-      "year": "1996-04-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-04 11:12:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 6774,
-      "title": "Царь Давид: Идеальный властитель",
-      "kp_id": "81279",
-      "imdb_id": "tt0118933",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-04 08:23:21",
-      "orig_title": "David",
-      "year": "1997-04-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-04 10:41:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 6773,
-      "title": "Иосиф Прекрасный: Наместник фараона",
-      "kp_id": "94012",
-      "imdb_id": "tt0113483",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-04 08:13:02",
-      "orig_title": "Joseph",
-      "year": "1995-04-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-04 11:10:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 6772,
-      "title": "Библейские сказания: Авраам: Хранитель веры",
-      "kp_id": "88683",
-      "imdb_id": "tt0109036",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-04 07:44:36",
-      "orig_title": "Abraham",
-      "year": "1993-12-12",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-03-04 09:59:37",
       "iframe_src": ""
     },
     {
@@ -578,25 +559,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6742,
-      "title": "Джуна",
-      "kp_id": "842257",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-02-28 04:58:26",
-      "orig_title": "Джуна",
-      "year": "2015-09-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2020-03-04 11:43:54",
-      "iframe_src": ""
-    },
-    {
       "id": 6729,
       "title": "Мне это не нравится",
       "kp_id": "1261983",
@@ -633,6 +595,25 @@
       "episodes_count": 12,
       "episodes": 12,
       "update": "2020-03-05 08:48:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 6594,
+      "title": "Триггер",
+      "kp_id": "1100777",
+      "imdb_id": "tt9011124",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-02-07 21:43:10",
+      "orig_title": "Trigger",
+      "year": "2018-10-14",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2020-03-06 05:15:37",
       "iframe_src": ""
     },
     {
@@ -710,6 +691,26 @@
       "episodes_count": 23,
       "episodes": 23,
       "update": "2020-03-04 20:24:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 4666,
+      "title": "Год кролика",
+      "kp_id": "1201556",
+      "imdb_id": "tt8530456",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-06-16 09:07:19",
+      "orig_title": "Year of the Rabbit",
+      "year": "2019-06-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Профессиональный (многоголосый закадровый) (TVShows)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-03-05 20:52:43",
       "iframe_src": ""
     },
     {

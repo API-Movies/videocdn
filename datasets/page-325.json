@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": 43149,
-      "title": "Перемирие",
-      "kp_id": "34086",
-      "imdb_id": "tt0060678",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-06 22:56:01",
-      "orig_title": "Matinee Mouse",
-      "year": "1966-07-14",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-09-07 07:08:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 43148,
-      "title": "Дикий снежный кот",
-      "kp_id": "34083",
-      "imdb_id": "tt0060055",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-06 22:52:47",
-      "orig_title": "The A-Tom-inable Snowman",
-      "year": "1966-08-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-09-07 07:10:03",
-      "iframe_src": ""
-    },
-    {
       "id": 43147,
       "title": "Рыбки хочется",
       "kp_id": "34085",
@@ -290,6 +254,25 @@
       "iframe_src": ""
     },
     {
+      "id": 34794,
+      "title": "Нотр-Дам",
+      "kp_id": "1219490",
+      "imdb_id": "tt9431080",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-01-06 15:42:20",
+      "orig_title": "Notre Dame",
+      "year": "2019-08-11",
+      "translations": [
+        "Полное дублирование",
+        "Полное дублирование (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2020-09-07 08:09:56",
+      "iframe_src": ""
+    },
+    {
       "id": 27992,
       "title": "Диджей Золушка",
       "kp_id": "1230602",
@@ -306,6 +289,63 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-09-07 08:06:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 4567,
+      "title": "Драгоценности",
+      "kp_id": "81225",
+      "imdb_id": "tt0104051",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-05-28 15:33:56",
+      "orig_title": "Jewels",
+      "year": "1992-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-05-28 17:17:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 4566,
+      "title": "Фронт в тылу врага",
+      "kp_id": "44439",
+      "imdb_id": "tt0082421",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-05-28 15:04:09",
+      "orig_title": "Front v tylu vraga",
+      "year": "1982-05-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-05-28 17:16:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 4560,
+      "title": "Возраст против красоты",
+      "kp_id": "1181558",
+      "imdb_id": "tt6268466",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-05-27 07:44:37",
+      "orig_title": "Age Before Beauty",
+      "year": "2018-07-31",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Victory-Films)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2019-05-28 10:13:16",
       "iframe_src": ""
     },
     {
@@ -344,6 +384,44 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2019-05-26 11:10:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 4546,
+      "title": "Кавендиш",
+      "kp_id": "1194703",
+      "imdb_id": "tt9031152",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-05-24 17:49:16",
+      "orig_title": "Cavendish",
+      "year": "2019-01-08",
+      "translations": [
+        "Любительский (двухголосый закадровый) (KosharaSerials)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2019-05-28 17:28:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 4545,
+      "title": "Жених",
+      "kp_id": "1199050",
+      "imdb_id": "tt9046512",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-05-24 17:42:55",
+      "orig_title": "Groom",
+      "year": "2018-09-19",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GoldTeam)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2019-05-28 17:48:38",
       "iframe_src": ""
     },
     {
@@ -401,44 +479,6 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2019-05-23 18:27:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 4529,
-      "title": "Пуля-дура 5: Изумрудное дело агента",
-      "kp_id": "581285",
-      "imdb_id": "tt5245292",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-05-20 12:45:41",
-      "orig_title": "Pulya-Dura 5: Izumrudnoje delo agenta",
-      "year": "2011-05-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-05-22 10:50:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 4528,
-      "title": "Пуля-дура 4: Агент и сокровище нации",
-      "kp_id": "581284",
-      "imdb_id": "tt5245284",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-05-20 12:43:46",
-      "orig_title": "Pulya-Dura 4: Agent i sokrovishe natsii",
-      "year": "2011-03-06",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-05-22 10:46:59",
       "iframe_src": ""
     },
     {
@@ -518,6 +558,24 @@
       "iframe_src": ""
     },
     {
+      "id": 23224,
+      "title": "ВМаяковский",
+      "kp_id": "682395",
+      "imdb_id": "tt9113970",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-03-18 22:01:29",
+      "orig_title": "VMayakovsky",
+      "year": "2018-09-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-09-07 08:12:18",
+      "iframe_src": ""
+    },
+    {
       "id": 4172,
       "title": "Запретная страсть",
       "kp_id": "731868",
@@ -552,26 +610,6 @@
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
       "update": "2020-09-07 08:01:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 4006,
-      "title": "Вавилон",
-      "kp_id": "1206874",
-      "imdb_id": "tt9467014",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-01-31 09:24:43",
-      "orig_title": "Babel",
-      "year": "2019-01-27",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)",
-        "Любительский (двухголосый закадровый) (HighHopes)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2019-05-22 13:52:32",
       "iframe_src": ""
     },
     {
@@ -632,25 +670,6 @@
       "iframe_src": ""
     },
     {
-      "id": 1492,
-      "title": "Раскосяченные",
-      "kp_id": "1044418",
-      "imdb_id": "tt5884792",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-08-29 05:34:33",
-      "orig_title": "Disjointed",
-      "year": "2017-08-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (NewStudio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2019-05-23 07:29:29",
-      "iframe_src": ""
-    },
-    {
       "id": 1166,
       "title": "Консультант",
       "kp_id": "984307",
@@ -667,26 +686,6 @@
       "episodes_count": 20,
       "episodes": 10,
       "update": "2019-05-25 08:05:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 547,
-      "title": "Любовь не понимает слов",
-      "kp_id": "994676",
-      "imdb_id": "tt5768632",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-10-21 12:19:03",
-      "orig_title": "Ask Laftan Anlamaz",
-      "year": "2016-06-15",
-      "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Котова Ирина)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 31,
-      "episodes": 31,
-      "update": "2019-05-22 13:24:26",
       "iframe_src": ""
     },
     {

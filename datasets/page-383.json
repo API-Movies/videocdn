@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 42049,
+      "title": "Кровавый дождь",
+      "kp_id": "122492",
+      "imdb_id": "tt0462684",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-27 17:26:48",
+      "orig_title": "Hyeoleui nu",
+      "year": "2005-05-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-07-29 08:02:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 42047,
+      "title": "Вторая кожа",
+      "kp_id": "16963",
+      "imdb_id": "tt0232611",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-27 17:24:27",
+      "orig_title": "Segunda piel",
+      "year": "2000-01-14",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-07-29 07:51:51",
+      "iframe_src": ""
+    },
+    {
       "id": 42040,
       "title": "Медвежонок на дороге",
       "kp_id": "258044",
@@ -253,42 +289,6 @@
       "iframe_src": ""
     },
     {
-      "id": 42000,
-      "title": "Дитя солнца",
-      "kp_id": "818474",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-07-24 20:53:40",
-      "orig_title": "Дитя солнца",
-      "year": "1957-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-07-29 05:30:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 41999,
-      "title": "Дерево гномов",
-      "kp_id": "118699",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-07-24 20:50:42",
-      "orig_title": "Дерево гномов",
-      "year": "1991-12-23",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-07-29 05:29:30",
-      "iframe_src": ""
-    },
-    {
       "id": 24182,
       "title": "Умка",
       "kp_id": "438262",
@@ -517,25 +517,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3059,
-      "title": "Альянс советников",
-      "kp_id": "1118140",
-      "imdb_id": "tt7070302",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-08-22 10:38:05",
-      "orig_title": "Da jun shi si ma yi zhi jun shi lian meng",
-      "year": "2017-06-22",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 1,
-      "episodes": 1,
-      "update": "2018-08-23 01:20:19",
-      "iframe_src": ""
-    },
-    {
       "id": 3058,
       "title": "Древняя песнь любви",
       "kp_id": "1045474",
@@ -575,22 +556,22 @@
       "iframe_src": ""
     },
     {
-      "id": 3045,
-      "title": "Финальная жизнь",
-      "kp_id": "1049715",
-      "imdb_id": "tt7336254",
+      "id": 3040,
+      "title": "Голубая планета",
+      "kp_id": "252059",
+      "imdb_id": "tt0296310",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-08-18 07:48:34",
-      "orig_title": "Fainaru raifu: Ashita, kimi ga kietemo",
-      "year": "2017-09-08",
+      "add": "2018-08-17 11:46:14",
+      "orig_title": "The Blue Planet",
+      "year": "2001-09-12",
       "translations": [
-        "Любительский (двухголосый закадровый)"
+        "Профессиональный (одноголосый закадровый)"
       ],
       "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2018-08-23 01:02:18",
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2018-08-28 07:58:10",
       "iframe_src": ""
     },
     {
@@ -610,63 +591,6 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2018-08-23 06:48:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 3037,
-      "title": "Замерзшая планета",
-      "kp_id": "652564",
-      "imdb_id": "tt2092588",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-08-17 11:34:09",
-      "orig_title": "Frozen Planet",
-      "year": "2011-10-26",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Курдов Владимир)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2018-08-22 11:35:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 3036,
-      "title": "Песнь моей единственной любви",
-      "kp_id": "1008242",
-      "imdb_id": "tt6125832",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-08-17 10:15:23",
-      "orig_title": "Ma-i On-li Leo-beu-song",
-      "year": "2017-06-09",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2018-08-22 15:57:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 3033,
-      "title": "Гражданская война",
-      "kp_id": "521770",
-      "imdb_id": "tt0098769",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-08-15 11:38:24",
-      "orig_title": "The Civil War",
-      "year": "1990-09-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (RusFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 9,
-      "episodes": 9,
-      "update": "2018-08-22 11:25:36",
       "iframe_src": ""
     },
     {
@@ -708,6 +632,25 @@
       "iframe_src": ""
     },
     {
+      "id": 2951,
+      "title": "Методом проб и ошибок",
+      "kp_id": "968930",
+      "imdb_id": "tt5511512",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-07-21 17:49:19",
+      "orig_title": "Trial & Error",
+      "year": "2017-03-14",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Sunshine Studio)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 23,
+      "episodes": 10,
+      "update": "2018-08-28 07:01:49",
+      "iframe_src": ""
+    },
+    {
       "id": 1771,
       "title": "Тупик",
       "kp_id": "993177",
@@ -743,6 +686,64 @@
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
       "update": "2020-07-29 05:53:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 1559,
+      "title": "Мерьем",
+      "kp_id": "1048085",
+      "imdb_id": "tt7224504",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-09-25 10:19:58",
+      "orig_title": "Meryem",
+      "year": "2017-08-02",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Любительский (одноголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 30,
+      "episodes": 30,
+      "update": "2018-08-27 18:45:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 1294,
+      "title": "Искушение",
+      "kp_id": "1044787",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-06-12 17:21:27",
+      "orig_title": "Искушение",
+      "year": "2017-04-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 41,
+      "episodes": 17,
+      "update": "2018-08-28 16:42:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 150,
+      "title": "Оттенки синего",
+      "kp_id": "890417",
+      "imdb_id": "tt4118584",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-06-07 04:40:17",
+      "orig_title": "Shades of Blue",
+      "year": "2016-01-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (NewStudio)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 36,
+      "episodes": 10,
+      "update": "2018-08-28 07:59:11",
       "iframe_src": ""
     }
   ]

@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 44915,
+      "title": "Мисс",
+      "kp_id": "1253449",
+      "imdb_id": "tt10123698",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-10-30 19:16:29",
+      "orig_title": "Miss",
+      "year": "2020-01-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "ts",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-10-30 20:35:47",
+      "iframe_src": ""
+    },
+    {
       "id": 44911,
       "title": "Жестокий",
       "kp_id": "309777",
@@ -127,24 +145,6 @@
       "iframe_src": ""
     },
     {
-      "id": 44891,
-      "title": "Голоса",
-      "kp_id": null,
-      "imdb_id": "tt8640928",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-10-29 11:04:22",
-      "orig_title": "Voices",
-      "year": "2020-10-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-10-29 14:16:15",
-      "iframe_src": ""
-    },
-    {
       "id": 44890,
       "title": "Восхождение убийцы",
       "kp_id": "1389444",
@@ -199,23 +199,22 @@
       "iframe_src": ""
     },
     {
-      "id": 41303,
-      "title": "Чудо-детки: Непутевые волшебники",
-      "kp_id": "1207341",
-      "imdb_id": "tt9208214",
+      "id": 44542,
+      "title": "Шесть минут до полуночи",
+      "kp_id": "1002605",
+      "imdb_id": "tt5114840",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-06-19 19:43:55",
-      "orig_title": "Die Wolf-Gäng",
-      "year": "2020-01-23",
+      "add": "2020-10-18 00:21:03",
+      "orig_title": "Six Minutes to Midnight",
+      "year": "2020-10-15",
       "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
         "Полное дублирование",
         "Полное дублирование (iTunes)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-10-29 09:20:50",
+      "translation": "Полное дублирование",
+      "update": "2020-10-30 07:35:30",
       "iframe_src": ""
     },
     {
@@ -237,6 +236,63 @@
       "quality": "dvdrip",
       "translation": "Авторский (одноголосый закадровый) (Карцев Пётр)",
       "update": "2020-10-30 06:07:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 6544,
+      "title": "Гражданка Катерина",
+      "kp_id": "880730",
+      "imdb_id": "tt9466008",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-02-03 13:26:48",
+      "orig_title": "Grazhdanka Katerina",
+      "year": "2015-05-17",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2020-02-03 19:26:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 6536,
+      "title": "Звездные врата: Бесконечность",
+      "kp_id": "452764",
+      "imdb_id": "tt0320969",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-02-03 05:37:03",
+      "orig_title": "Stargate: Infinity",
+      "year": "2002-09-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2020-02-03 18:43:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 6535,
+      "title": "Габриэла",
+      "kp_id": "693484",
+      "imdb_id": "tt2249420",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-02-03 05:23:12",
+      "orig_title": "Gabriela",
+      "year": "2012-06-18",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 36,
+      "episodes": 36,
+      "update": "2020-02-03 18:15:27",
       "iframe_src": ""
     },
     {
@@ -294,6 +350,25 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2020-02-02 04:39:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 6523,
+      "title": "Братья Карамазовы",
+      "kp_id": "46217",
+      "imdb_id": "tt0062757",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-31 12:06:23",
+      "orig_title": "Bratya Karamazovy",
+      "year": "1969-01-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2020-02-03 19:28:13",
       "iframe_src": ""
     },
     {
@@ -370,103 +445,6 @@
       "episodes_count": 44,
       "episodes": 22,
       "update": "2020-01-31 13:12:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 6517,
-      "title": "Соседи из ада",
-      "kp_id": "496862",
-      "imdb_id": "tt1592270",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-30 13:36:26",
-      "orig_title": "Neighbors from Hell",
-      "year": "2010-06-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (2x2)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2020-01-30 21:41:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 6515,
-      "title": "Живые и мертвые",
-      "kp_id": "45336",
-      "imdb_id": "tt0057717",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-30 13:03:30",
-      "orig_title": "Zhivye i myortvye",
-      "year": "1964-02-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-01-30 21:31:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 6512,
-      "title": "Клиент всегда мертв",
-      "kp_id": "181807",
-      "imdb_id": "tt0248654",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-30 08:31:10",
-      "orig_title": "Six Feet Under",
-      "year": "2001-06-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (NovaFilm)",
-        "Профессиональный (одноголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Сербин Юрий)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 63,
-      "episodes": 12,
-      "update": "2020-01-30 19:43:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 6510,
-      "title": "Жёны заключенных",
-      "kp_id": "679664",
-      "imdb_id": "tt2188249",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-29 22:47:31",
-      "orig_title": "Prisoners Wives",
-      "year": "2012-01-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-01-30 21:35:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 6508,
-      "title": "Обитель тьмы Гарта Маренги",
-      "kp_id": "471995",
-      "imdb_id": "tt0397150",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-29 20:54:39",
-      "orig_title": "Garth Marenghi's Darkplace",
-      "year": "2004-01-29",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Ozz.tv)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-01-30 21:30:31",
       "iframe_src": ""
     },
     {
@@ -603,6 +581,25 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2020-01-30 23:22:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 4976,
+      "title": "Ералаш",
+      "kp_id": "258382",
+      "imdb_id": "tt5495796",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-07-30 16:59:05",
+      "orig_title": "Eralash",
+      "year": "1974-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 27,
+      "episodes_count": 257,
+      "episodes": 6,
+      "update": "2020-02-03 18:30:56",
       "iframe_src": ""
     },
     {
