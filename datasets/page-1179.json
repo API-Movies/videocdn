@@ -1,6 +1,78 @@
 {
   "data": [
     {
+      "id": 28215,
+      "title": "Обещание отомстить",
+      "kp_id": null,
+      "imdb_id": "tt8840882",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-23 22:27:57",
+      "orig_title": "Revenge Is a Promise",
+      "year": "2018-09-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-06-24 05:21:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 28206,
+      "title": "Один шаг за пределы",
+      "kp_id": "1168459",
+      "imdb_id": "tt8011450",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-23 22:07:15",
+      "orig_title": "Itlauli Barrah",
+      "year": "2018-02-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-06-24 05:18:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 28198,
+      "title": "Всё хорошо",
+      "kp_id": "1209842",
+      "imdb_id": "tt7776430",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-23 21:34:58",
+      "orig_title": "Alles ist gut",
+      "year": "2018-07-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
+      "update": "2019-06-24 05:17:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 28189,
+      "title": "Перевал Дятлова. Конец истории",
+      "kp_id": "1045901",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-22 21:05:24",
+      "orig_title": "Перевал Дятлова. Конец истории",
+      "year": "2016-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-06-23 06:46:40",
+      "iframe_src": ""
+    },
+    {
       "id": 28188,
       "title": "Тварь",
       "kp_id": "1105807",
@@ -37,21 +109,93 @@
       "iframe_src": ""
     },
     {
-      "id": 28164,
-      "title": "Сашенька",
-      "kp_id": "1141295",
-      "imdb_id": "tt7914282",
+      "id": 28186,
+      "title": "Порез",
+      "kp_id": "927553",
+      "imdb_id": "tt3638444",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-06-22 14:04:51",
-      "orig_title": "Sashinka",
-      "year": "2017-10-13",
+      "add": "2019-06-22 20:32:07",
+      "orig_title": "Sever",
+      "year": "2018-01-01",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-06-23 05:59:32",
+      "update": "2019-06-23 06:39:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 28185,
+      "title": "Качественные проблемы",
+      "kp_id": "909244",
+      "imdb_id": "tt4653808",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-22 20:30:02",
+      "orig_title": "Quality Problems",
+      "year": "2017-03-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-06-23 06:37:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 28168,
+      "title": "Последний романтик",
+      "kp_id": "1046044",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-22 17:49:27",
+      "orig_title": "Последний романтик",
+      "year": "2017-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-06-23 06:59:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 28165,
+      "title": "Сваты",
+      "kp_id": "1227806",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-22 14:11:59",
+      "orig_title": "Сваты",
+      "year": "2018-12-27",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "hdtv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-06-23 06:57:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 28163,
+      "title": "Кинотеатр кошмаров",
+      "kp_id": "1083500",
+      "imdb_id": "tt7349910",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-22 14:01:51",
+      "orig_title": "Nightmare Cinema",
+      "year": "2018-07-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-06-23 06:22:28",
       "iframe_src": ""
     },
     {
@@ -73,6 +217,24 @@
       "iframe_src": ""
     },
     {
+      "id": 28161,
+      "title": "Кисэки",
+      "kp_id": "993482",
+      "imdb_id": "tt5778092",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-22 13:48:51",
+      "orig_title": "Kiseki: ano hi no Sobito",
+      "year": "2017-01-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2019-06-23 07:01:05",
+      "iframe_src": ""
+    },
+    {
       "id": 28159,
       "title": "Промедление",
       "kp_id": "1006179",
@@ -88,6 +250,24 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2019-06-23 06:21:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 28158,
+      "title": "Сожги свои карты",
+      "kp_id": "923200",
+      "imdb_id": "tt4882548",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-22 13:43:00",
+      "orig_title": "Burn Your Maps",
+      "year": "2016-09-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-06-23 07:02:18",
       "iframe_src": ""
     },
     {
@@ -127,168 +307,6 @@
       "iframe_src": ""
     },
     {
-      "id": 28154,
-      "title": "Зона 51, Невада",
-      "kp_id": "1054913",
-      "imdb_id": "tt7491968",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-22 13:23:31",
-      "orig_title": "51 Nevada",
-      "year": "2018-04-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (AlphaProject)",
-      "update": "2019-06-23 06:01:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 28122,
-      "title": "Финал",
-      "kp_id": "1085616",
-      "imdb_id": "tt7141030",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-22 07:41:17",
-      "orig_title": "La finale",
-      "year": "2018-01-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-06-22 14:25:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 28120,
-      "title": "Мисс Дали",
-      "kp_id": null,
-      "imdb_id": "tt6688832",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-22 07:24:31",
-      "orig_title": "Miss Dalí",
-      "year": "2018-11-16",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-06-22 14:23:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 28119,
-      "title": "Жаркое солнце",
-      "kp_id": "1015178",
-      "imdb_id": "tt6029350",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-22 07:22:01",
-      "orig_title": "Soleil battant",
-      "year": "2017-10-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-06-22 14:22:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 28118,
-      "title": "Основные цвета",
-      "kp_id": "1566",
-      "imdb_id": "tt0119942",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-22 07:13:30",
-      "orig_title": "Primary Colors",
-      "year": "1998-03-20",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-06-22 14:17:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 28117,
-      "title": "Путешествие к высокогорью",
-      "kp_id": "1092572",
-      "imdb_id": "tt6821206",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-21 10:51:50",
-      "orig_title": "Run for the High Country",
-      "year": "2018-10-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-06-21 19:34:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 28055,
-      "title": "Простые вещи",
-      "kp_id": "263978",
-      "imdb_id": "tt0846069",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-20 16:17:44",
-      "orig_title": "Prostye veshchi",
-      "year": "2007-07-05",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-06-21 08:13:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 28054,
-      "title": "Судьба Марии",
-      "kp_id": "739479",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-06-20 16:13:50",
-      "orig_title": "Судьба Марии",
-      "year": "2013-03-03",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-06-21 08:14:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 25958,
-      "title": "Спасибо деду за победу",
-      "kp_id": "1007492",
-      "imdb_id": "tt10308674",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-04 19:09:12",
-      "orig_title": "Spasibo dedu za pobedu",
-      "year": "2019-05-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-06-22 14:26:31",
-      "iframe_src": ""
-    },
-    {
       "id": 24557,
       "title": "Бизнесмены",
       "kp_id": "1190148",
@@ -307,39 +325,21 @@
       "iframe_src": ""
     },
     {
-      "id": 20694,
-      "title": "Семь пар нечистых",
-      "kp_id": "984366",
-      "imdb_id": null,
+      "id": 20927,
+      "title": "Последние любовники",
+      "kp_id": "898304",
+      "imdb_id": "tt4446472",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-12 14:45:05",
-      "orig_title": "Семь пар нечистых",
-      "year": "2018-12-06",
+      "add": "2018-12-23 00:22:47",
+      "orig_title": "Porto",
+      "year": "2016-09-19",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый) (iTunes)"
       ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2019-06-22 14:27:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 13048,
-      "title": "Заклятые друзья",
-      "kp_id": "586331",
-      "imdb_id": "tt1865368",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-20 07:36:54",
-      "orig_title": "Frenemies",
-      "year": "2012-01-13",
-      "translations": [
-        "Полное дублирование (Disney Channel)"
-      ],
-      "quality": "hdtv",
-      "translation": "Полное дублирование (Disney Channel)",
-      "update": "2019-06-21 18:01:04",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
+      "update": "2019-06-24 04:58:14",
       "iframe_src": ""
     },
     {

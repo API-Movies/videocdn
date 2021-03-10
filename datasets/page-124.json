@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 47041,
+      "title": "Папье-Маше",
+      "kp_id": "1399018",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-13 12:36:29",
+      "orig_title": "Папье-Маше",
+      "year": "2020-12-18",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-01-13 18:12:58",
+      "iframe_src": ""
+    },
+    {
       "id": 47040,
       "title": "Безоружный",
       "kp_id": "1249326",
@@ -55,39 +73,21 @@
       "iframe_src": ""
     },
     {
-      "id": 47037,
-      "title": "Мумия Уиджа",
-      "kp_id": "1182312",
-      "imdb_id": "tt8834658",
+      "id": 47035,
+      "title": "Массовая истерия",
+      "kp_id": "1176078",
+      "imdb_id": "tt7569226",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-13 11:24:56",
-      "orig_title": "Ouija Mummy",
-      "year": "2019-08-25",
+      "add": "2021-01-13 11:22:03",
+      "orig_title": "Mass Hysteria",
+      "year": "2019-01-01",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-13 14:14:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 47036,
-      "title": "Моя несносная девушка",
-      "kp_id": "1281885",
-      "imdb_id": "tt10080834",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-13 11:23:35",
-      "orig_title": "Yêu Em Bât Châp",
-      "year": "2018-04-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-13 14:14:44",
+      "update": "2021-01-13 14:20:46",
       "iframe_src": ""
     },
     {
@@ -109,262 +109,239 @@
       "iframe_src": ""
     },
     {
-      "id": 47029,
-      "title": "Не выключай свет",
-      "kp_id": "603051",
-      "imdb_id": "tt2011953",
+      "id": 47033,
+      "title": "Близняшки-обманщики",
+      "kp_id": "1284264",
+      "imdb_id": "tt10627210",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-13 10:57:03",
-      "orig_title": "Keep the Lights On",
-      "year": "2012-07-27",
+      "add": "2021-01-13 11:18:32",
+      "orig_title": "Insincere Twins",
+      "year": "2019-06-01",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (Elrom)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-13 14:20:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 47032,
+      "title": "Жить одним днем",
+      "kp_id": "1177832",
+      "imdb_id": "tt8622174",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-13 11:17:00",
+      "orig_title": "In the Moment",
+      "year": "2019-06-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-13 14:20:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 47019,
+      "title": "Угрызения 4: Театральный кружок",
+      "kp_id": "582756",
+      "imdb_id": "tt1833845",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-12 22:05:36",
+      "orig_title": "Eating Out: Drama Camp",
+      "year": "2011-07-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кошкин Василий)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Кошкин Василий)",
+      "update": "2021-01-13 20:46:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 47017,
+      "title": "Дикий тростник",
+      "kp_id": "35031",
+      "imdb_id": "tt0111019",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-12 22:00:47",
+      "orig_title": "Les roseaux sauvages",
+      "year": "1994-06-01",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Иванов Михаил)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Иванов Михаил)",
+      "update": "2021-01-13 20:47:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 47016,
+      "title": "Угрызения",
+      "kp_id": "41933",
+      "imdb_id": "tt0372884",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-12 21:56:19",
+      "orig_title": "Eating Out",
+      "year": "2004-02-14",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-01-13 20:48:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 47014,
+      "title": "Угрызения 5: Отвязный уик-энд",
+      "kp_id": "582755",
+      "imdb_id": "tt1833846",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-12 21:50:46",
+      "orig_title": "Eating Out: The Open Weekend",
+      "year": "2011-10-08",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Кошкин Василий)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Кошкин Василий)",
+      "update": "2021-01-13 20:53:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 47013,
+      "title": "Кузены",
+      "kp_id": "1287847",
+      "imdb_id": "tt10622790",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-12 21:47:48",
+      "orig_title": "Primos",
+      "year": "2019-05-29",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Ашмарин Анатолий)"
       ],
       "quality": "hdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (Elrom)",
-      "update": "2021-01-13 14:13:00",
+      "translation": "Любительский (одноголосый закадровый) (Ашмарин Анатолий)",
+      "update": "2021-01-13 20:54:06",
       "iframe_src": ""
     },
     {
-      "id": 47027,
-      "title": "Вива",
-      "kp_id": "885202",
-      "imdb_id": "tt4334482",
+      "id": 47012,
+      "title": "Сияние моря",
+      "kp_id": "922225",
+      "imdb_id": "tt4810828",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-13 10:41:09",
-      "orig_title": "Viva",
-      "year": "2015-09-04",
+      "add": "2021-01-12 21:43:36",
+      "orig_title": "Lichtes Meer",
+      "year": "2015-04-24",
       "translations": [
-        "Любительский (двухголосый закадровый)"
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "hdrip",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-01-13 20:54:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 47011,
+      "title": "Улица плохих парней",
+      "kp_id": "690808",
+      "imdb_id": "tt2240764",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-12 21:40:13",
+      "orig_title": "Bad Boy Street",
+      "year": "2012-07-19",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2021-01-13 14:05:32",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-01-13 20:55:02",
       "iframe_src": ""
     },
     {
-      "id": 47026,
-      "title": "Давайте забудем об этом",
-      "kp_id": "661566",
-      "imdb_id": "tt2181867",
+      "id": 47009,
+      "title": "Голыми, как пришли",
+      "kp_id": "807068",
+      "imdb_id": "tt1754257",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-13 10:35:00",
-      "orig_title": "Come non detto",
-      "year": "2012-09-07",
+      "add": "2021-01-12 21:32:50",
+      "orig_title": "Naked As We Came",
+      "year": "2012-06-24",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
+        "Любительский (одноголосый закадровый) (datynet)"
       ],
       "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2021-01-13 14:05:01",
+      "translation": "Любительский (одноголосый закадровый) (datynet)",
+      "update": "2021-01-13 21:01:27",
       "iframe_src": ""
     },
     {
-      "id": 47024,
-      "title": "Поцелуй солнца",
-      "kp_id": "276039",
-      "imdb_id": "tt0807767",
+      "id": 46914,
+      "title": "Кристофер и ему подобные",
+      "kp_id": "518330",
+      "imdb_id": "tt1651062",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-13 10:20:33",
-      "orig_title": "Sun Kissed",
-      "year": "2008-03-27",
+      "add": "2021-01-11 19:41:22",
+      "orig_title": "Christopher and His Kind",
+      "year": "2011-02-20",
       "translations": [
-        "Original (English)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Original (English)",
-      "update": "2021-01-13 13:57:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 46972,
-      "title": "Nanny Danger",
-      "kp_id": "1345215",
-      "imdb_id": "tt11685364",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 13:33:03",
-      "orig_title": "Nanny Danger",
-      "year": "2020-07-01",
-      "translations": [
-        "Original (English)"
+        "Original (English)",
+        "Любительский (одноголосый закадровый)"
       ],
       "quality": "hdtv",
       "translation": "Original (English)",
-      "update": "2021-01-13 12:48:37",
+      "update": "2021-01-13 20:48:20",
       "iframe_src": ""
     },
     {
-      "id": 46969,
-      "title": "Сердце дома",
-      "kp_id": null,
-      "imdb_id": "tt8247902",
+      "id": 46871,
+      "title": "Девушки Харви",
+      "kp_id": "13270",
+      "imdb_id": "tt0038589",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-12 13:28:47",
-      "orig_title": "Heart of the Home",
-      "year": "2021-01-12",
+      "add": "2021-01-10 15:30:23",
+      "orig_title": "The Harvey Girls",
+      "year": "1946-01-18",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-13 14:49:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 46113,
+      "title": "В омут с головой",
+      "kp_id": "1381270",
+      "imdb_id": "tt12312466",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-16 08:40:52",
+      "orig_title": "Into the Flames",
+      "year": "2020-12-10",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)",
         "Original (English)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-13 12:37:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 46967,
-      "title": "The Bid",
-      "kp_id": null,
-      "imdb_id": "tt12272978",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 13:26:21",
-      "orig_title": "The Bid",
-      "year": "2021-01-12",
-      "translations": [
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2021-01-13 12:29:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 46966,
-      "title": "Советы доктора Бёрда для грустных поэтов",
-      "kp_id": "811252",
-      "imdb_id": "tt3301314",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 13:21:03",
-      "orig_title": "Dr. Bird's Advice for Sad Poets",
-      "year": "2021-01-12",
-      "translations": [
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2021-01-13 12:41:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 46826,
-      "title": "Звёзды упали на Алабаму",
-      "kp_id": "1313250",
-      "imdb_id": "tt10712928",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-09 09:49:25",
-      "orig_title": "Stars Fell on Alabama",
-      "year": "2021-01-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-13 12:31:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 46758,
-      "title": "Наследие Хоуп",
-      "kp_id": "1273901",
-      "imdb_id": "tt10413092",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-06 21:47:56",
-      "orig_title": "Hope's Legacy",
-      "year": "2021-01-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-13 12:36:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 46757,
-      "title": "Американская мечта",
-      "kp_id": "602963",
-      "imdb_id": "tt1998389",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-06 21:45:49",
-      "orig_title": "American Dream",
-      "year": "2021-01-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2021-01-13 12:47:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 46711,
-      "title": "COVID-21: Смертоносный вирус",
-      "kp_id": "1329033",
-      "imdb_id": "tt11246434",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-05 18:59:28",
-      "orig_title": "COVID-21: Lethal Virus",
-      "year": "2021-01-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-13 12:42:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 46176,
-      "title": "Вор с родео",
-      "kp_id": "1385488",
-      "imdb_id": "tt12364630",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-18 06:25:31",
-      "orig_title": "The Rodeo Thief",
-      "year": "2020-12-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2021-01-13 12:23:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 42795,
-      "title": "Макс Уинслоу и дом тайн",
-      "kp_id": "1212812",
-      "imdb_id": "tt8896632",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-26 04:20:45",
-      "orig_title": "Max Winslow and the House of Secrets",
-      "year": "2019-09-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-13 12:32:49",
+      "update": "2021-01-13 14:48:33",
       "iframe_src": ""
     },
     {
@@ -541,27 +518,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4758,
-      "title": "Когда они нас увидят",
-      "kp_id": "1174230",
-      "imdb_id": "tt7137906",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-06-27 10:58:34",
-      "orig_title": "When They See Us",
-      "year": "2019-05-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (TVShows)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-08-07 07:42:21",
-      "iframe_src": ""
-    },
-    {
       "id": 4645,
       "title": "Городские истории",
       "kp_id": "1150413",
@@ -657,23 +613,48 @@
       "iframe_src": ""
     },
     {
-      "id": 3696,
-      "title": "Убей меня, исцели меня",
-      "kp_id": "885737",
-      "imdb_id": "tt4339192",
+      "id": 3781,
+      "title": "План любви",
+      "kp_id": "1218668",
+      "imdb_id": "tt9170638",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-12-14 09:31:05",
-      "orig_title": "Kilmi, hilmi",
-      "year": "2015-01-07",
+      "add": "2018-12-28 19:38:04",
+      "orig_title": "Plan Coeur",
+      "year": "2018-12-07",
       "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)",
-        "Профессиональный (двухголосый закадровый) (Нарышкин)"
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (TVShows)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 14,
+      "episodes": 6,
+      "update": "2020-08-08 15:10:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 3433,
+      "title": "Маленькая барабанщица",
+      "kp_id": "1100408",
+      "imdb_id": "tt7598448",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-02 07:05:17",
+      "orig_title": "The Little Drummer Girl",
+      "year": "2018-10-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (LostFilm)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (Ozz.tv)",
+        "Профессиональный (многоголосый закадровый) (TVShows)",
+        "Профессиональный (двухголосый закадровый) (Кубик в Кубе)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)"
       ],
       "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2020-08-07 11:59:29",
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-08-08 15:26:24",
       "iframe_src": ""
     },
     {
@@ -696,26 +677,6 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2020-08-08 14:24:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 3167,
-      "title": "Незнакомцы",
-      "kp_id": "1189945",
-      "imdb_id": "tt7551216",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-09-14 09:56:16",
-      "orig_title": "Strangers",
-      "year": "2018-09-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-08-07 13:19:59",
       "iframe_src": ""
     },
     {
@@ -742,6 +703,30 @@
       "iframe_src": ""
     },
     {
+      "id": 2150,
+      "title": "Призрачная башня",
+      "kp_id": "1046113",
+      "imdb_id": "tt6474236",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-03-01 14:02:05",
+      "orig_title": "The Looming Tower",
+      "year": "2018-02-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (LostFilm)",
+        "Профессиональный (многоголосый закадровый) (OMSKBIRD records)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Профессиональный (многоголосый закадровый) (AMS)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2020-08-08 16:09:05",
+      "iframe_src": ""
+    },
+    {
       "id": 1594,
       "title": "Одаренные",
       "kp_id": "888096",
@@ -763,6 +748,27 @@
       "episodes_count": 30,
       "episodes": 16,
       "update": "2020-08-08 14:50:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 7012,
+      "title": "Побег невозможен",
+      "kp_id": "2277",
+      "imdb_id": "tt0110678",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-03 12:51:30",
+      "orig_title": "No Escape",
+      "year": "1994-04-29",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Видеосервис)",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Чадов Михаил)",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Видеосервис)",
+      "update": "2021-01-13 14:49:40",
       "iframe_src": ""
     },
     {
