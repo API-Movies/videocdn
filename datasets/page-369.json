@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": 42825,
-      "title": "Перезагрузка",
-      "kp_id": "879780",
-      "imdb_id": "tt4194608",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 09:30:57",
-      "orig_title": "ReRUN",
-      "year": "2018-09-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-08-27 11:36:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 42818,
-      "title": "Люби меня или покинь меня",
-      "kp_id": "27090",
-      "imdb_id": "tt0048317",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 05:17:49",
-      "orig_title": "Love Me or Leave Me",
-      "year": "1955-05-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Культура)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Культура)",
-      "update": "2020-08-27 12:53:05",
-      "iframe_src": ""
-    },
-    {
       "id": 42813,
       "title": "Финке: гонка туда и обратно",
       "kp_id": "1267946",
@@ -181,6 +145,25 @@
       "iframe_src": ""
     },
     {
+      "id": 41684,
+      "title": "Противостояние",
+      "kp_id": "933517",
+      "imdb_id": "tt4549224",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-07-09 20:24:00",
+      "orig_title": "The Standoff",
+      "year": "2016-09-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2020-08-27 15:52:18",
+      "iframe_src": ""
+    },
+    {
       "id": 23357,
       "title": "Варежка",
       "kp_id": "258016",
@@ -292,6 +275,25 @@
       "episodes_count": 12,
       "episodes": 12,
       "update": "2018-11-29 07:13:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 3586,
+      "title": "Дрянная девчонка",
+      "kp_id": "1007734",
+      "imdb_id": "tt6175760",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-28 11:39:21",
+      "orig_title": "Yeopgijeogin Geunyeo",
+      "year": "2017-05-29",
+      "translations": [
+        "Любительский (двухголосый закадровый) (SoftBox)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2018-12-03 10:33:26",
       "iframe_src": ""
     },
     {
@@ -426,25 +428,6 @@
       "episodes_count": 20,
       "episodes": 20,
       "update": "2018-11-30 10:30:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 3560,
-      "title": "Великолепное искушение",
-      "kp_id": "981275",
-      "imdb_id": "tt5129048",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-11-24 11:12:38",
-      "orig_title": "Hwaryeohan yuhok",
-      "year": "2015-10-05",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 39,
-      "episodes": 39,
-      "update": "2018-11-28 12:03:19",
       "iframe_src": ""
     },
     {
@@ -584,6 +567,48 @@
       "iframe_src": ""
     },
     {
+      "id": 17780,
+      "title": "Ты водишь!",
+      "kp_id": "759874",
+      "imdb_id": "tt2854926",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-18 12:57:49",
+      "orig_title": "Tag",
+      "year": "2018-06-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-08-27 15:51:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 16897,
+      "title": "Хан Соло: Звёздные Войны. Истории",
+      "kp_id": "841277",
+      "imdb_id": "tt3778644",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-05-24 20:58:02",
+      "orig_title": "Solo: A Star Wars Story",
+      "year": "2018-05-10",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-08-27 15:50:47",
+      "iframe_src": ""
+    },
+    {
       "id": 16120,
       "title": "Солнечные псы",
       "kp_id": "975913",
@@ -661,30 +686,6 @@
       "quality": "hdtv",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2020-08-27 13:02:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 15077,
-      "title": "Парадокс Кловерфилда",
-      "kp_id": "722816",
-      "imdb_id": "tt2548396",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-05 22:12:01",
-      "orig_title": "The Cloverfield Paradox",
-      "year": "2018-02-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-08-27 13:00:23",
       "iframe_src": ""
     },
     {

@@ -253,42 +253,6 @@
       "iframe_src": ""
     },
     {
-      "id": 46166,
-      "title": "Батька",
-      "kp_id": "46040",
-      "imdb_id": "tt0312432",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-17 16:05:11",
-      "orig_title": "Batka",
-      "year": "1972-05-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-22 11:33:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 46165,
-      "title": "Земля, до востребования",
-      "kp_id": "45273",
-      "imdb_id": "tt0314941",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-17 15:56:56",
-      "orig_title": "Zemlya, do vostrebovaniya",
-      "year": "1973-03-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-22 11:33:07",
-      "iframe_src": ""
-    },
-    {
       "id": 46164,
       "title": "Заряженные смертью",
       "kp_id": "45236",
@@ -307,21 +271,60 @@
       "iframe_src": ""
     },
     {
-      "id": 46163,
-      "title": "Всё для Вас",
-      "kp_id": "45944",
-      "imdb_id": "tt0184994",
+      "id": 44894,
+      "title": "Оргазмо",
+      "kp_id": "28619",
+      "imdb_id": "tt0063413",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-17 15:51:38",
-      "orig_title": "Vsyo dlya vas",
-      "year": "1965-06-14",
+      "add": "2020-10-29 17:15:03",
+      "orig_title": "Orgasmo",
+      "year": "1969-02-07",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Andi)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (Andi)",
+      "update": "2020-12-22 13:20:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 44631,
+      "title": "Пылающая кровать",
+      "kp_id": "277843",
+      "imdb_id": "tt0087010",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-10-20 15:20:08",
+      "orig_title": "The Burning Bed",
+      "year": "1984-10-08",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-12-22 13:20:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 7569,
+      "title": "Приключения кота Леопольда",
+      "kp_id": "325788",
+      "imdb_id": "tt1074757",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-05-19 07:58:32",
+      "orig_title": "Kot Leopold",
+      "year": "1975-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-22 11:33:07",
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2020-05-19 08:22:21",
       "iframe_src": ""
     },
     {
@@ -512,25 +515,6 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2020-05-17 07:58:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 7504,
-      "title": "Любовь и наказания",
-      "kp_id": "502027",
-      "imdb_id": "tt1580811",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-05-14 09:39:15",
-      "orig_title": "Ask ve ceza",
-      "year": "2010-01-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 62,
-      "episodes": 39,
-      "update": "2020-05-16 11:08:11",
       "iframe_src": ""
     },
     {
@@ -760,6 +744,28 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2020-05-18 06:41:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 2022,
+      "title": "Дон Жуан де Марко",
+      "kp_id": "7142",
+      "imdb_id": "tt0112883",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-10 15:38:50",
+      "orig_title": "Don Juan DeMarco",
+      "year": "1995-04-07",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Сербин Юрий)",
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый) (Союз Видео)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Сербин Юрий)",
+      "update": "2020-12-22 13:12:15",
       "iframe_src": ""
     }
   ]

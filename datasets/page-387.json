@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 42386,
+      "title": "Будь здоров, зеленый лес!",
+      "kp_id": "1044849",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-09 00:56:42",
+      "orig_title": "Будь здоров, зеленый лес!",
+      "year": "1976-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-17 07:19:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 42385,
+      "title": "Воробьишко",
+      "kp_id": "540841",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-09 00:52:17",
+      "orig_title": "Воробьишко",
+      "year": "1984-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-17 07:18:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 42384,
+      "title": "Дедушка Мазай и зайцы",
+      "kp_id": "581842",
+      "imdb_id": "tt2570130",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-09 00:48:58",
+      "orig_title": "Dedushka Mazay i zaytsy",
+      "year": "1980-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-08-17 07:17:25",
+      "iframe_src": ""
+    },
+    {
       "id": 42383,
       "title": "Кто расскажет небылицу?",
       "kp_id": "422427",
@@ -307,60 +361,6 @@
       "iframe_src": ""
     },
     {
-      "id": 42319,
-      "title": "Обезьяна с острова Саругасима",
-      "kp_id": "257985",
-      "imdb_id": "tt4584618",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-06 20:16:38",
-      "orig_title": "Obezyana s ostrova Sarugasima",
-      "year": "1970-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-17 06:01:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 42208,
-      "title": "Разноцветная история",
-      "kp_id": "630082",
-      "imdb_id": "tt2320003",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-02 18:50:55",
-      "orig_title": "Raznotsvetnaya istoriya",
-      "year": "1986-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-17 06:00:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 42203,
-      "title": "Я нарисую солнце",
-      "kp_id": "586429",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-02 18:30:14",
-      "orig_title": "Я нарисую солнце",
-      "year": "1970-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-17 05:59:32",
-      "iframe_src": ""
-    },
-    {
       "id": 3113,
       "title": "Доктор Улитка",
       "kp_id": "1181573",
@@ -589,25 +589,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3063,
-      "title": "Дыши",
-      "kp_id": "1111817",
-      "imdb_id": "tt6466208",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-08-23 06:55:08",
-      "orig_title": "Breathe",
-      "year": "2018-01-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2018-08-29 08:03:16",
-      "iframe_src": ""
-    },
-    {
       "id": 3051,
       "title": "Шелест. Большой передел",
       "kp_id": "1048638",
@@ -685,6 +666,25 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2018-09-02 00:11:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 2504,
+      "title": "Травма",
+      "kp_id": "494644",
+      "imdb_id": "tt1534994",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-05-03 12:43:23",
+      "orig_title": "Trauma",
+      "year": "2010-01-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 5,
+      "episodes_count": 54,
+      "episodes": 12,
+      "update": "2018-09-03 18:37:04",
       "iframe_src": ""
     },
     {
