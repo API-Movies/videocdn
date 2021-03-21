@@ -1,184 +1,219 @@
 {
   "data": [
     {
-      "id": 43104,
-      "title": "Богоматерь Нила",
-      "kp_id": "1232333",
-      "imdb_id": "tt8690948",
+      "id": 43157,
+      "title": "Мышь-невидимка",
+      "kp_id": "33838",
+      "imdb_id": "tt0059533",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-09-06 10:24:36",
-      "orig_title": "Notre-Dame du Nil",
-      "year": "2019-09-05",
+      "add": "2020-09-06 23:20:48",
+      "orig_title": "Of Feline Bondage",
+      "year": "1965-05-19",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый)",
+      "update": "2020-09-07 06:57:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 43156,
+      "title": "Доигрались",
+      "kp_id": "33841",
+      "imdb_id": "tt0059818",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 23:17:52",
+      "orig_title": "The Year of the Mouse",
+      "year": "1965-06-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 06:58:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 43155,
+      "title": "Маленький, да удаленький",
+      "kp_id": "33834",
+      "imdb_id": "tt0059018",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 23:14:55",
+      "orig_title": "The Cat's Me-Ouch",
+      "year": "1965-12-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 06:59:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 43154,
+      "title": "Кошачий тупик",
+      "kp_id": "34084",
+      "imdb_id": "tt0060222",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 23:12:32",
+      "orig_title": "Catty-Cornered",
+      "year": "1966-09-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 07:01:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 43153,
+      "title": "Дуэль",
+      "kp_id": "33829",
+      "imdb_id": "tt0060354",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 23:09:27",
+      "orig_title": "Duel Personality",
+      "year": "1966-01-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 07:03:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 43152,
+      "title": "Джерри-лунатик",
+      "kp_id": "33830",
+      "imdb_id": "tt0060557",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 23:06:36",
+      "orig_title": "Jerry, Jerry, Quite Contrary",
+      "year": "1966-02-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 07:04:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 43151,
+      "title": "Ценный подарок",
+      "kp_id": "33831",
+      "imdb_id": "tt0060639",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 23:03:25",
+      "orig_title": "Love Me, Love My Mouse",
+      "year": "1966-04-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 07:05:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 43150,
+      "title": "В порту",
+      "kp_id": "34087",
+      "imdb_id": "tt0060869",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 22:59:23",
+      "orig_title": "Puss 'N' Boats",
+      "year": "1966-05-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 07:06:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 43149,
+      "title": "Перемирие",
+      "kp_id": "34086",
+      "imdb_id": "tt0060678",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 22:56:01",
+      "orig_title": "Matinee Mouse",
+      "year": "1966-07-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 07:08:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 43148,
+      "title": "Дикий снежный кот",
+      "kp_id": "34083",
+      "imdb_id": "tt0060055",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 22:52:47",
+      "orig_title": "The A-Tom-inable Snowman",
+      "year": "1966-08-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 07:10:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 43147,
+      "title": "Рыбки хочется",
+      "kp_id": "34085",
+      "imdb_id": "tt0060409",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 22:49:37",
+      "orig_title": "Filet Meow",
+      "year": "1966-06-30",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-09-07 07:11:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 43135,
+      "title": "На краю сознания",
+      "kp_id": "1322310",
+      "imdb_id": "tt11273394",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 19:35:28",
+      "orig_title": "Darkest Edge",
+      "year": "2020-03-15",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-06 15:10:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 43100,
-      "title": "Тиа и Пиуджук",
-      "kp_id": "1159039",
-      "imdb_id": "tt8420530",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-06 09:47:34",
-      "orig_title": "Tia and Piujuq",
-      "year": "2018-10-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-06 15:07:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 43099,
-      "title": "Жить, чтобы петь",
-      "kp_id": "1261610",
-      "imdb_id": "tt10225288",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-06 09:41:03",
-      "orig_title": "Huo zhe chang zhe",
-      "year": "2019-05-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-06 14:53:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 43098,
-      "title": "Невыносимый страх",
-      "kp_id": "882332",
-      "imdb_id": "tt4343130",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-06 09:36:04",
-      "orig_title": "Uptake Fear",
-      "year": "2016-08-26",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2020-09-06 14:53:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 43094,
-      "title": "Страстное желание",
-      "kp_id": "482623",
-      "imdb_id": "tt1535432",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-05 19:35:52",
-      "orig_title": "Crave",
-      "year": "2012-09-22",
-      "translations": [
-        "Любительский (одноголосый закадровый) (lord666)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (lord666)",
-      "update": "2020-09-06 15:21:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 43091,
-      "title": "Мелодия мира боевых искусств",
-      "kp_id": "1274427",
-      "imdb_id": "tt10396030",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-05 16:19:22",
-      "orig_title": "Assassin on the String",
-      "year": "2019-05-13",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2020-09-05 18:34:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 43090,
-      "title": "Змея 2",
-      "kp_id": "1210745",
-      "imdb_id": "tt9169974",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-05 10:24:43",
-      "orig_title": "Nakee 2",
-      "year": "2018-10-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-06 07:30:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 43089,
-      "title": "Дочери Абриль",
-      "kp_id": "1022100",
-      "imdb_id": "tt6397762",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-05 08:56:22",
-      "orig_title": "Las hijas de Abril",
-      "year": "2017-05-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-09-06 07:31:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 43085,
-      "title": "Любовь гарантирована",
-      "kp_id": "1311358",
-      "imdb_id": "tt11100856",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-04 19:55:06",
-      "orig_title": "Love, Guaranteed",
-      "year": "2020-09-03",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Любительский (двухголосый закадровый) (OnisFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-05 15:22:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 43075,
-      "title": "Технобосс",
-      "kp_id": "1222287",
-      "imdb_id": "tt9442780",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-04 06:46:44",
-      "orig_title": "Technoboss",
-      "year": "2019-08-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-06 18:27:30",
+      "update": "2020-09-07 07:12:17",
       "iframe_src": ""
     },
     {
@@ -200,173 +235,58 @@
       "iframe_src": ""
     },
     {
-      "id": 43038,
-      "title": "Дом на компанию",
-      "kp_id": null,
-      "imdb_id": "tt11889268",
+      "id": 43072,
+      "title": "Зомби",
+      "kp_id": "911599",
+      "imdb_id": "tt4603510",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-09-03 07:47:53",
-      "orig_title": "The Rental",
-      "year": "2019-10-25",
+      "add": "2020-09-04 06:00:02",
+      "orig_title": "Zombie",
+      "year": "2017-10-31",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-05 15:20:28",
+      "update": "2020-09-06 18:28:47",
       "iframe_src": ""
     },
     {
-      "id": 43037,
-      "title": "Лина из Лимы",
-      "kp_id": "1287213",
-      "imdb_id": "tt10374236",
+      "id": 43071,
+      "title": "Истории из каштанового леса",
+      "kp_id": "993927",
+      "imdb_id": "tt5905336",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-09-03 07:45:49",
-      "orig_title": "Lina de Lima",
-      "year": "2019-09-05",
+      "add": "2020-09-04 05:32:05",
+      "orig_title": "Zgodbe iz kostanjevih gozdov",
+      "year": "2019-09-08",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-09-05 15:20:58",
+      "update": "2020-09-06 18:28:55",
       "iframe_src": ""
     },
     {
-      "id": 43036,
-      "title": "Матч",
-      "kp_id": "1180240",
-      "imdb_id": "tt8776686",
+      "id": 39878,
+      "title": "Дружить по-русски!",
+      "kp_id": "1246627",
+      "imdb_id": "tt9811374",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-09-03 07:25:35",
-      "orig_title": "La partita",
-      "year": "2019-07-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-05 15:21:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 42983,
-      "title": "Сантана",
-      "kp_id": "1346885",
-      "imdb_id": "tt11769162",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-31 16:59:01",
-      "orig_title": "Santana",
-      "year": "2020-05-15",
-      "translations": [
-        "Original (English)",
-        "Любительский (двухголосый закадровый) (OnisFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2020-09-05 15:20:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 42955,
-      "title": "Ключ времени",
-      "kp_id": "1261545",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-31 03:47:28",
-      "orig_title": "Ключ времени",
-      "year": "2020-08-06",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "ts",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-09-05 17:35:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 42897,
-      "title": "Вздрюченные",
-      "kp_id": "1236325",
-      "imdb_id": "tt9735758",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-28 20:20:16",
-      "orig_title": "Boyz in the Wood",
-      "year": "2019-03-08",
+      "add": "2020-04-27 11:42:17",
+      "orig_title": "Inséparables",
+      "year": "2019-09-04",
       "translations": [
         "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Полное дублирование"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-09-05 22:45:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 41011,
-      "title": "100% Волк",
-      "kp_id": "1204003",
-      "imdb_id": "tt8774798",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-07 17:37:48",
-      "orig_title": "100% Wolf",
-      "year": "2020-03-19",
-      "translations": [
-        "Original (English)",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Original (English)",
-      "update": "2020-09-05 18:49:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 40515,
-      "title": "Видеорегистратор",
-      "kp_id": "1165740",
-      "imdb_id": "tt8179024",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-05-18 22:04:21",
-      "orig_title": "Body Cam",
-      "year": "2020-05-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Original (English)",
-        "Полное дублирование (iTunes)",
-        "Любительский (многоголосый закадровый) (Mallorn Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-09-06 04:43:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 39365,
-      "title": "Томирис",
-      "kp_id": "1127372",
-      "imdb_id": "tt7985648",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-16 03:41:55",
-      "orig_title": "Tomiris",
-      "year": "2019-10-01",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "sat",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2020-09-06 04:37:50",
+      "update": "2020-09-06 20:13:46",
       "iframe_src": ""
     },
     {
@@ -386,6 +306,63 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2018-12-27 11:30:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 3766,
+      "title": "Арне Даль: К вершине горы",
+      "kp_id": "727373",
+      "imdb_id": "tt2208264",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-26 14:05:42",
+      "orig_title": "Arne Dahl: Upp till toppen av berget",
+      "year": "2012-11-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ShowJet)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2018-12-27 12:57:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 3765,
+      "title": "Арне Даль: Мудрая кровь",
+      "kp_id": "648482",
+      "imdb_id": "tt2113149",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-26 14:01:33",
+      "orig_title": "Arne Dahl: Ont blod",
+      "year": "2012-10-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ShowJet)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2018-12-27 12:53:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 3764,
+      "title": "Арне Даль: Мистериозо",
+      "kp_id": "648571",
+      "imdb_id": "tt2113148",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-12-26 13:57:12",
+      "orig_title": "Arne Dahl: Misterioso",
+      "year": "2011-12-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ShowJet)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2018-12-27 12:48:14",
       "iframe_src": ""
     },
     {
@@ -560,44 +537,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3728,
-      "title": "Гаргульи: Хроники Голиафа",
-      "kp_id": "258193",
-      "imdb_id": "tt0115184",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-19 19:46:34",
-      "orig_title": "Gargoyles: The Goliath Chronicles",
-      "year": "1996-09-07",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2018-12-22 09:23:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 3719,
-      "title": "Пуля",
-      "kp_id": "1111897",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-12-18 00:42:10",
-      "orig_title": "Пуля",
-      "year": "2018-12-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2018-12-23 01:10:30",
-      "iframe_src": ""
-    },
-    {
       "id": 3709,
       "title": "Приключения Джеки Чана",
       "kp_id": "181548",
@@ -714,22 +653,86 @@
       "iframe_src": ""
     },
     {
-      "id": 1601,
-      "title": "Улица",
-      "kp_id": "1049171",
-      "imdb_id": null,
+      "id": 19034,
+      "title": "Опасная",
+      "kp_id": "1033766",
+      "imdb_id": "tt6504538",
       "world_art_id": null,
-      "type": "serial",
-      "add": "2017-10-05 11:39:55",
-      "orig_title": "Улица",
-      "year": "2017-10-02",
+      "type": "movie",
+      "add": "2018-09-16 22:09:32",
+      "orig_title": "Danger One",
+      "year": "2018-09-14",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Полное дублирование (iTunes)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
-      "seasons_count": 3,
-      "episodes_count": 180,
-      "episodes": 66,
-      "update": "2018-12-21 12:03:28",
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-07 05:40:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 19028,
+      "title": "Земля устойчивых привычек",
+      "kp_id": "1027381",
+      "imdb_id": "tt6485928",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-16 21:41:49",
+      "orig_title": "The Land of Steady Habits",
+      "year": "2018-09-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-07 05:45:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 18959,
+      "title": "Окончательный счёт",
+      "kp_id": "987169",
+      "imdb_id": "tt5254610",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-09-13 23:16:50",
+      "orig_title": "Final Score",
+      "year": "2018-09-07",
+      "translations": [
+        "Полное дублирование (iTunes)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-09-07 05:40:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 17505,
+      "title": "Шпионская игра",
+      "kp_id": "1006101",
+      "imdb_id": "tt4602066",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-07-02 01:09:38",
+      "orig_title": "The Catcher Was a Spy",
+      "year": "2018-01-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-09-07 05:44:51",
       "iframe_src": ""
     },
     {
