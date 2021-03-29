@@ -1,382 +1,363 @@
 {
   "data": [
     {
-      "id": 26188,
-      "title": "Сдаётся комната",
-      "kp_id": "1071510",
-      "imdb_id": "tt6747818",
+      "id": 26222,
+      "title": "Ночной таверны огонек",
+      "kp_id": "660708",
+      "imdb_id": "tt3562816",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-09 06:04:10",
-      "orig_title": "Room for Rent",
-      "year": "2019-02-23",
+      "add": "2019-05-09 20:58:56",
+      "orig_title": "Nochnoy taverny ogonyok",
+      "year": "2012-01-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 05:46:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 26221,
+      "title": "Неизвестный солдат",
+      "kp_id": "231024",
+      "imdb_id": "tt0263782",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:57:31",
+      "orig_title": "Neizvestnyy soldat",
+      "year": "1984-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 05:39:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 26219,
+      "title": "Музыкальная история",
+      "kp_id": "46749",
+      "imdb_id": "tt0032825",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:54:54",
+      "orig_title": "Muzykalnaya istoriya",
+      "year": "1940-10-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 05:36:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 26218,
+      "title": "Марианна",
+      "kp_id": "46540",
+      "imdb_id": "tt0291329",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:53:06",
+      "orig_title": "Marianna",
+      "year": "1967-11-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 05:33:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 26217,
+      "title": "Внимание, ведьмы!",
+      "kp_id": "447117",
+      "imdb_id": "tt5759450",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:52:38",
+      "orig_title": "Vnimaniye, vedmy!",
+      "year": "1991-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 05:34:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 26216,
+      "title": "Любви целительная сила",
+      "kp_id": "671696",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:51:56",
+      "orig_title": "Любви целительная сила",
+      "year": "2012-03-18",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "iptv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 05:32:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 26215,
+      "title": "Горя бояться – счастья не видать",
+      "kp_id": "472235",
+      "imdb_id": "tt4718892",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:50:40",
+      "orig_title": "Gorya boyatsya: schastya ne vidat",
+      "year": "1974-12-30",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 05:31:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 26214,
+      "title": "Евразиец",
+      "kp_id": "521569",
+      "imdb_id": "tt1679595",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:49:19",
+      "orig_title": "Indigène d'Eurasie",
+      "year": "2010-02-11",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 05:10:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 26213,
+      "title": "Убийство свидетеля",
+      "kp_id": "64090",
+      "imdb_id": "tt0384631",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:48:30",
+      "orig_title": "Ubiystvo svidetelya",
+      "year": "1990-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 04:55:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 26212,
+      "title": "Эксперимент доктора Абста",
+      "kp_id": "41984",
+      "imdb_id": "tt0062928",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:47:54",
+      "orig_title": "Eksperiment doktora Absta",
+      "year": "1969-06-16",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 04:54:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 26211,
+      "title": "Болотная street, или Средство против секса",
+      "kp_id": "46170",
+      "imdb_id": "tt0101495",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:46:21",
+      "orig_title": "Bolotnaya strit, ili sredstvo protiv seksa",
+      "year": "1991-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 04:53:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 26210,
+      "title": "Ахиллесова пята",
+      "kp_id": "693621",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:34:38",
+      "orig_title": "Ахиллесова пята",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2019-05-10 04:51:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 26209,
+      "title": "Танцуй, детка, танцуй",
+      "kp_id": "852919",
+      "imdb_id": "tt3565066",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-05-09 20:16:41",
+      "orig_title": "Dance Baby Dance",
+      "year": "2018-01-19",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2019-05-09 07:19:58",
+      "update": "2019-05-10 04:49:15",
       "iframe_src": ""
     },
     {
-      "id": 20935,
-      "title": "Мальчик на троих",
-      "kp_id": "105012",
-      "imdb_id": "tt0456554",
+      "id": 26208,
+      "title": "Апелляционный суд",
+      "kp_id": "1061111",
+      "imdb_id": "tt7390102",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-23 09:56:29",
-      "orig_title": "Grandma's Boy",
-      "year": "2006-01-06",
+      "add": "2019-05-09 20:15:00",
+      "orig_title": "Court of Appeals",
+      "year": "2018-01-01",
       "translations": [
-        "Полное дублирование",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2019-05-09 06:33:21",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-10 04:48:14",
       "iframe_src": ""
     },
     {
-      "id": 20902,
-      "title": "Белая графиня",
-      "kp_id": "77528",
-      "imdb_id": "tt0384686",
+      "id": 26207,
+      "title": "Смертельная исповедь",
+      "kp_id": "1096048",
+      "imdb_id": "tt7278120",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-21 14:04:40",
-      "orig_title": "The White Countess",
-      "year": "2005-10-30",
+      "add": "2019-05-09 19:59:48",
+      "orig_title": "Dr. Jekyll Better Hide",
+      "year": "2019-01-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 07:18:43",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-10 04:46:57",
       "iframe_src": ""
     },
     {
-      "id": 20901,
-      "title": "Всё о моей родне",
-      "kp_id": "85576",
-      "imdb_id": "tt0429177",
+      "id": 26204,
+      "title": "Банди и убийца с Грин-Ривер",
+      "kp_id": "1163880",
+      "imdb_id": "tt8549254",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-21 14:03:43",
-      "orig_title": "The Thing About My Folks",
-      "year": "2005-06-02",
+      "add": "2019-05-09 16:47:11",
+      "orig_title": "Bundy and the Green River Killer",
+      "year": "2019-05-07",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 07:17:57",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-09 19:02:45",
       "iframe_src": ""
     },
     {
-      "id": 20900,
-      "title": "В ясный день увидишь вечность",
-      "kp_id": "4219",
-      "imdb_id": "tt0066181",
+      "id": 26201,
+      "title": "Новые деньги",
+      "kp_id": "1097978",
+      "imdb_id": "tt7493184",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-21 14:02:36",
-      "orig_title": "On a Clear Day You Can See Forever",
-      "year": "1970-06-17",
+      "add": "2019-05-09 16:37:25",
+      "orig_title": "New Money",
+      "year": "2018-03-01",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 07:06:14",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-10 04:10:12",
       "iframe_src": ""
     },
     {
-      "id": 20899,
-      "title": "В ясный день",
-      "kp_id": "81486",
-      "imdb_id": "tt0410400",
+      "id": 26199,
+      "title": "Где кроется безумие",
+      "kp_id": null,
+      "imdb_id": "tt6264264",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-21 14:01:45",
-      "orig_title": "On a Clear Day",
-      "year": "2005-08-05",
+      "add": "2019-05-09 07:06:08",
+      "orig_title": "That Way Madness Lies...",
+      "year": "2018-12-14",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 07:05:27",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-09 11:32:01",
       "iframe_src": ""
     },
     {
-      "id": 20898,
-      "title": "Чумовые боты",
-      "kp_id": "86881",
-      "imdb_id": "tt0434124",
+      "id": 26197,
+      "title": "Любовь на расстоянии 50 метров",
+      "kp_id": "1200948",
+      "imdb_id": "tt9033534",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-21 14:00:31",
-      "orig_title": "Kinky Boots",
-      "year": "2005-10-07",
+      "add": "2019-05-09 06:58:29",
+      "orig_title": "Wu shi mi zhi lian",
+      "year": "2019-02-14",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 06:34:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 20895,
-      "title": "Крутой и цыпочки",
-      "kp_id": "24674",
-      "imdb_id": "tt0331933",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-21 13:55:48",
-      "orig_title": "Man of the House",
-      "year": "2005-02-25",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-05-09 06:36:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 20894,
-      "title": "Кто первый к заднице прильнет",
-      "kp_id": "95150",
-      "imdb_id": "tt0452671",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-21 13:53:03",
-      "orig_title": "Race You to the Bottom",
-      "year": "2005-04-06",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Алексеев Антон)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
-      "update": "2019-05-09 07:07:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 20834,
-      "title": "Помощник сатаны",
-      "kp_id": "50646",
-      "imdb_id": "tt0380687",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-18 14:36:27",
-      "orig_title": "Satan's Little Helper",
-      "year": "2004-05-06",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 07:09:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 20833,
-      "title": "Аферисты",
-      "kp_id": "4458",
-      "imdb_id": "tt0362526",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-18 14:34:24",
-      "orig_title": "Criminal",
-      "year": "2004-06-12",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (Tycoon)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (Tycoon)",
-      "update": "2019-05-09 06:32:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 20832,
-      "title": "Тварь",
-      "kp_id": "77350",
-      "imdb_id": "tt0395443",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-18 14:33:12",
-      "orig_title": "Alien Lockdown",
-      "year": "2004-03-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 06:30:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 20831,
-      "title": "Короли Солнца",
-      "kp_id": "14609",
-      "imdb_id": "tt0057225",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-18 14:32:02",
-      "orig_title": "Kings of the Sun",
-      "year": "1963-12-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2019-05-09 06:27:40",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-09 11:32:53",
       "iframe_src": ""
     },
     {
-      "id": 20830,
-      "title": "Охотник на убийц",
-      "kp_id": "3757",
-      "imdb_id": "tt0324127",
+      "id": 26196,
+      "title": "Невидимый свидетель",
+      "kp_id": "1122985",
+      "imdb_id": "tt7735502",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-12-18 14:30:33",
-      "orig_title": "Suspect Zero",
-      "year": "2004-08-27",
+      "add": "2019-05-09 06:53:35",
+      "orig_title": "Il testimone invisibile",
+      "year": "2018-12-13",
       "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Original (English)"
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-05-09 07:11:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 20828,
-      "title": "Властелин мира",
-      "kp_id": "13601",
-      "imdb_id": "tt0055152",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-18 14:27:48",
-      "orig_title": "Master of the World",
-      "year": "1961-09-11",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-05-09 06:28:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 20720,
-      "title": "Поющий детектив",
-      "kp_id": "1654",
-      "imdb_id": "tt0314676",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-13 14:11:28",
-      "orig_title": "The Singing Detective",
-      "year": "2003-01-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 07:14:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 20719,
-      "title": "Бурый кролик",
-      "kp_id": "11056",
-      "imdb_id": "tt0330099",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-13 14:10:26",
-      "orig_title": "The Brown Bunny",
-      "year": "2003-05-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2019-05-09 07:12:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 20716,
-      "title": "Дестри снова в седле",
-      "kp_id": "8457",
-      "imdb_id": "tt0031225",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-13 14:05:35",
-      "orig_title": "Destry Rides Again",
-      "year": "1939-11-30",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (РенТВ)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (РенТВ)",
-      "update": "2019-05-09 06:15:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 20714,
-      "title": "Игрок",
-      "kp_id": "10987",
-      "imdb_id": "tt0338467",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-13 14:03:33",
-      "orig_title": "Stuey",
-      "year": "2003-05-01",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-05-09 07:10:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 20712,
-      "title": "Все настоящие девушки",
-      "kp_id": "15670",
-      "imdb_id": "tt0299458",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-13 14:01:20",
-      "orig_title": "All the Real Girls",
-      "year": "2003-01-19",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2019-05-09 06:31:16",
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2019-05-09 11:36:09",
       "iframe_src": ""
     }
   ]
