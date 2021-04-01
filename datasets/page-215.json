@@ -1,132 +1,383 @@
 {
   "data": [
     {
-      "id": 46387,
-      "title": "Метеор на ринге",
-      "kp_id": "470391",
-      "imdb_id": "tt5560750",
+      "id": 46465,
+      "title": "А теперь, дамы и господа...",
+      "kp_id": "8002",
+      "imdb_id": "tt0283883",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-25 20:52:53",
-      "orig_title": "Meteor na ringe",
-      "year": "1970-01-01",
+      "add": "2020-12-28 13:21:17",
+      "orig_title": "And Now... Ladies and Gentlemen...",
+      "year": "2002-05-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-12-28 14:16:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 46397,
+      "title": "Три процента риска",
+      "kp_id": "224043",
+      "imdb_id": "tt0265900",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-26 18:47:19",
+      "orig_title": "Tri protsenta riska",
+      "year": "1985-08-12",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:13:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 46396,
+      "title": "У меня все нормально",
+      "kp_id": "42475",
+      "imdb_id": "tt0078434",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-26 18:45:10",
+      "orig_title": "U menya vsyo normalno",
+      "year": "1978-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:12:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 46395,
+      "title": "Черный капитан",
+      "kp_id": "45557",
+      "imdb_id": "tt0069880",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-26 18:35:11",
+      "orig_title": "Chyornyy kapitan",
+      "year": "1973-12-31",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:11:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 46385,
+      "title": "Непоседы",
+      "kp_id": "46407",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-25 18:59:06",
+      "orig_title": "Непоседы",
+      "year": "1968-06-17",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:11:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 46383,
+      "title": "На дальней точке",
+      "kp_id": "652042",
+      "imdb_id": "tt5290830",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-25 18:38:42",
+      "orig_title": "Na dalney tochke",
+      "year": "1970-05-09",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:10:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 46382,
+      "title": "Любимая",
+      "kp_id": "424033",
+      "imdb_id": "tt5038340",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-25 18:36:26",
+      "orig_title": "Lyubimaya",
+      "year": "1965-10-04",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "iptv",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:09:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 46381,
+      "title": "Красная юрта",
+      "kp_id": "581832",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-25 18:34:00",
+      "orig_title": "Красная юрта",
+      "year": "1982-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:09:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 46380,
+      "title": "Гранитные острова",
+      "kp_id": "331811",
+      "imdb_id": "tt0373871",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-25 18:21:42",
+      "orig_title": "Granitnye ostrova",
+      "year": "1976-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:08:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 46379,
+      "title": "Гонка с преследованием",
+      "kp_id": "44550",
+      "imdb_id": "tt0361662",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-25 18:19:34",
+      "orig_title": "Gonka s presledovaniem",
+      "year": "1979-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-26 05:58:36",
+      "update": "2020-12-28 14:06:51",
       "iframe_src": ""
     },
     {
-      "id": 46372,
-      "title": "Будущая невеста",
-      "kp_id": "1040837",
-      "imdb_id": "tt6638536",
+      "id": 46378,
+      "title": "Серебристый фургон",
+      "kp_id": "668495",
+      "imdb_id": "tt2254125",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-25 18:06:50",
-      "orig_title": "This Much",
-      "year": "2020-04-29",
+      "add": "2020-12-25 18:17:20",
+      "orig_title": "Serebristyy furgon",
+      "year": "1982-09-11",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-25 21:15:50",
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:05:38",
       "iframe_src": ""
     },
     {
-      "id": 46366,
-      "title": "Штамм 100",
-      "kp_id": "969036",
-      "imdb_id": "tt5170778",
+      "id": 46377,
+      "title": "Дюма на Кавказе",
+      "kp_id": "279590",
+      "imdb_id": "tt0976203",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-25 17:58:13",
-      "orig_title": "Strain 100",
-      "year": "2020-05-10",
+      "add": "2020-12-25 18:14:59",
+      "orig_title": "Dyuma na Kavkaze",
+      "year": "1980-10-13",
       "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-12-25 21:16:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 46365,
-      "title": "Невесты",
-      "kp_id": "61377",
-      "imdb_id": "tt0368619",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-25 16:47:40",
-      "orig_title": "Nyfes",
-      "year": "2004-09-14",
-      "translations": [
-        "Любительский (двухголосый закадровый)"
+        "Оригинальная дорожка"
       ],
       "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-12-26 06:00:20",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:04:44",
       "iframe_src": ""
     },
     {
-      "id": 44019,
-      "title": "Лапусик",
-      "kp_id": "1245686",
-      "imdb_id": "tt9861288",
+      "id": 46376,
+      "title": "Большие перегоны",
+      "kp_id": "585022",
+      "imdb_id": "tt3211276",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-09-30 22:24:45",
-      "orig_title": "Boutchou",
-      "year": "2020-09-23",
+      "add": "2020-12-25 18:12:57",
+      "orig_title": "Bolshiye peregony",
+      "year": "1972-03-23",
       "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-12-26 07:26:41",
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:03:22",
       "iframe_src": ""
     },
     {
-      "id": 42422,
-      "title": "Дядя Дятел",
-      "kp_id": "1344413",
-      "imdb_id": "tt11695654",
+      "id": 46374,
+      "title": "Атака",
+      "kp_id": "43548",
+      "imdb_id": "tt0265049",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-11 21:56:33",
-      "orig_title": "Uncle Peckerhead",
-      "year": "2020-01-25",
+      "add": "2020-12-25 18:08:53",
+      "orig_title": "Ataka",
+      "year": "1986-06-30",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (IVI)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-25 15:17:08",
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:02:42",
       "iframe_src": ""
     },
     {
-      "id": 41453,
-      "title": "Прах Бездомного",
-      "kp_id": "911345",
-      "imdb_id": "tt4677134",
+      "id": 46371,
+      "title": "Без особого риска",
+      "kp_id": "46108",
+      "imdb_id": "tt0085237",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-06-29 04:22:48",
-      "orig_title": "Homeless Ashes",
-      "year": "2019-09-23",
+      "add": "2020-12-25 18:06:45",
+      "orig_title": "Bez osobogo riska",
+      "year": "1983-01-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
+        "Оригинальная дорожка"
       ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-25 15:20:27",
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:01:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 46369,
+      "title": "Большая новогодняя ночь",
+      "kp_id": "471093",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-25 18:04:06",
+      "orig_title": "Большая новогодняя ночь",
+      "year": "1978-12-30",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:01:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 46361,
+      "title": "Налим",
+      "kp_id": "706024",
+      "imdb_id": "tt11310568",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-24 18:08:45",
+      "orig_title": "Nalim",
+      "year": "1938-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "vhs",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 14:00:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 46360,
+      "title": "Пришел солдат с фронта",
+      "kp_id": "43270",
+      "imdb_id": "tt0171661",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-24 18:02:29",
+      "orig_title": "Prishyol soldat s fronta",
+      "year": "1972-02-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 13:57:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 46359,
+      "title": "Корзина с еловыми шишками",
+      "kp_id": "1255031",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-24 17:59:27",
+      "orig_title": "Корзина с еловыми шишками",
+      "year": "1989-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdscr",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-28 13:56:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 7121,
+      "title": "Компаньоны",
+      "kp_id": "504724",
+      "imdb_id": "tt1600199",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-04-07 12:28:41",
+      "orig_title": "Franklin & Bash",
+      "year": "2011-06-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SET)"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 40,
+      "episodes": 10,
+      "update": "2020-04-08 14:34:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 7118,
+      "title": "Изящный цветок",
+      "kp_id": "297213",
+      "imdb_id": "tt0101050",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-04-07 11:31:37",
+      "orig_title": "Blossom",
+      "year": "1991-01-03",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 14,
+      "episodes": 14,
+      "update": "2020-04-08 14:03:44",
       "iframe_src": ""
     },
     {
@@ -168,22 +419,60 @@
       "iframe_src": ""
     },
     {
-      "id": 7102,
-      "title": "Спецназ: Сан-Диего",
-      "kp_id": "574774",
-      "imdb_id": "tt1783495",
+      "id": 7107,
+      "title": "Новая школа императора",
+      "kp_id": "425974",
+      "imdb_id": "tt0465327",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-04-06 11:52:01",
-      "orig_title": "NTSF:SD:SUV",
-      "year": "2011-07-21",
+      "add": "2020-04-06 12:38:05",
+      "orig_title": "The Emperor's New School",
+      "year": "2006-01-27",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (2x2)"
+        "Полное дублирование"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 51,
+      "episodes": 30,
+      "update": "2020-04-08 11:08:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 7106,
+      "title": "Миллеры в разводе",
+      "kp_id": "741597",
+      "imdb_id": "tt2737290",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-04-06 12:37:20",
+      "orig_title": "The Millers",
+      "year": "2013-09-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Amedia)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 34,
+      "episodes": 11,
+      "update": "2020-04-07 21:28:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 7105,
+      "title": "Истина в вине",
+      "kp_id": "843822",
+      "imdb_id": "tt8428510",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-04-06 12:33:20",
+      "orig_title": "Istina v vine",
+      "year": "2015-05-03",
+      "translations": [
+        "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2020-04-06 14:12:44",
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2020-04-08 13:38:58",
       "iframe_src": ""
     },
     {
@@ -245,136 +534,41 @@
       "iframe_src": ""
     },
     {
-      "id": 7097,
-      "title": "Панчаят",
-      "kp_id": "1359425",
-      "imdb_id": "tt12004706",
+      "id": 7094,
+      "title": "Сумасшедшие за стеклом",
+      "kp_id": "276360",
+      "imdb_id": "tt0386180",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-04-06 06:02:00",
-      "orig_title": "Panchayat",
-      "year": "2020-04-03",
+      "add": "2020-04-05 09:59:08",
+      "orig_title": "Drawn Together",
+      "year": "2004-10-27",
       "translations": [
-        "Любительский (многоголосый закадровый) (Octopus)"
+        "Полное дублирование"
       ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-04-06 18:55:59",
+      "seasons_count": 3,
+      "episodes_count": 36,
+      "episodes": 14,
+      "update": "2020-04-08 13:31:00",
       "iframe_src": ""
     },
     {
-      "id": 7096,
-      "title": "Игра лжецов",
-      "kp_id": "843783",
-      "imdb_id": "tt4073180",
+      "id": 7090,
+      "title": "Титаник: Кровь и сталь",
+      "kp_id": "574451",
+      "imdb_id": "tt1695366",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-04-05 14:34:12",
-      "orig_title": "Liar Game",
-      "year": "2014-10-20",
+      "add": "2020-04-05 09:47:11",
+      "orig_title": "Titanic: Blood and Steel",
+      "year": "2012-04-22",
       "translations": [
-        "Любительский (одноголосый закадровый) (GREEN TEA)"
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
       ],
       "seasons_count": 1,
       "episodes_count": 12,
       "episodes": 12,
-      "update": "2020-04-06 09:33:45",
-      "iframe_src": ""
-    },
-    {
-      "id": 7095,
-      "title": "Англия в общем и в частности",
-      "kp_id": "842253",
-      "imdb_id": "tt4553876",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-04-05 14:32:00",
-      "orig_title": "Angliya v obshchem i v chastnosti",
-      "year": "2014-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2020-04-06 08:38:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 7092,
-      "title": "Счастье можно дарить",
-      "kp_id": "1162850",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-04-05 09:53:38",
-      "orig_title": "Счастье можно дарить",
-      "year": "2020-04-04",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2020-04-05 19:26:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 7089,
-      "title": "1790 год",
-      "kp_id": "803788",
-      "imdb_id": "tt2078818",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-04-04 14:56:49",
-      "orig_title": "Anno 1790",
-      "year": "2011-10-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2020-04-06 14:42:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 7080,
-      "title": "Час",
-      "kp_id": "574433",
-      "imdb_id": "tt1778108",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-04-03 20:18:43",
-      "orig_title": "The Hour",
-      "year": "2011-07-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Кинопоказ)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-04-05 16:57:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 7057,
-      "title": "Чyдаки",
-      "kp_id": "207010",
-      "imdb_id": "tt0264263",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-04-02 13:50:41",
-      "orig_title": "Jackass",
-      "year": "2000-04-12",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 25,
-      "episodes": 9,
-      "update": "2020-04-06 13:39:12",
+      "update": "2020-04-08 11:52:56",
       "iframe_src": ""
     },
     {
@@ -397,22 +591,62 @@
       "iframe_src": ""
     },
     {
-      "id": 6972,
-      "title": "Моланг",
-      "kp_id": "1004207",
-      "imdb_id": "tt6046238",
+      "id": 7012,
+      "title": "Киллерши",
+      "kp_id": "1200818",
+      "imdb_id": "tt9041792",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-03-23 22:02:09",
-      "orig_title": "Molang",
-      "year": "2015-12-31",
+      "add": "2020-03-27 15:48:12",
+      "orig_title": "Hitmen",
+      "year": "2020-03-25",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (Lucky Production)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-04-08 11:30:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 6927,
+      "title": "Проспект обороны",
+      "kp_id": "1042518",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-03-18 15:11:15",
+      "orig_title": "Проспект обороны",
+      "year": "2020-03-18",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "seasons_count": 3,
-      "episodes_count": 156,
-      "episodes": 52,
-      "update": "2020-04-06 17:03:36",
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2020-04-08 02:26:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 4947,
+      "title": "Правосудие",
+      "kp_id": "500600",
+      "imdb_id": "tt1489428",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-07-25 20:21:36",
+      "orig_title": "Justified",
+      "year": "2010-03-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Fox Crime)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)"
+      ],
+      "seasons_count": 6,
+      "episodes_count": 78,
+      "episodes": 13,
+      "update": "2020-04-08 13:56:04",
       "iframe_src": ""
     },
     {
@@ -436,21 +670,22 @@
       "iframe_src": ""
     },
     {
-      "id": 27266,
-      "title": "Старый Новый год",
-      "kp_id": "43986",
-      "imdb_id": "tt0081557",
+      "id": 27970,
+      "title": "Могила льва",
+      "kp_id": "46665",
+      "imdb_id": "tt0154891",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-30 20:52:21",
-      "orig_title": "Staryy novyy god",
-      "year": "1981-01-01",
+      "add": "2019-06-18 15:52:29",
+      "orig_title": "Mogila lva",
+      "year": "1971-10-02",
       "translations": [
+        "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
+      "quality": "sat",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-25 13:07:54",
+      "update": "2020-12-28 13:59:07",
       "iframe_src": ""
     },
     {
@@ -476,158 +711,6 @@
       "iframe_src": ""
     },
     {
-      "id": 25238,
-      "title": "Сказ про то, как царь Петр арапа женил",
-      "kp_id": "43805",
-      "imdb_id": "tt0075225",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-24 08:44:40",
-      "orig_title": "Skaz pro to, kak tsar Pyotr arapa zhenil",
-      "year": "1976-12-06",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-25 11:36:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 23050,
-      "title": "Новогодние приключения Маши и Вити",
-      "kp_id": "252037",
-      "imdb_id": "tt0756321",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-03-14 07:06:11",
-      "orig_title": "Novogodnie priklyucheniya Mashi i Viti",
-      "year": "1975-01-01",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-25 13:02:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 21072,
-      "title": "Сирота казанская",
-      "kp_id": "41058",
-      "imdb_id": "tt0129380",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-28 10:30:22",
-      "orig_title": "Sirota kazanskaya",
-      "year": "1997-12-05",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "hdtv",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-25 13:06:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 2460,
-      "title": "Шале",
-      "kp_id": null,
-      "imdb_id": "tt8168678",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-04-26 09:06:15",
-      "orig_title": "Le chalet",
-      "year": "2018-03-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (BaibaKo)",
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-04-05 17:02:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 12831,
-      "title": "Со мною вот что происходит",
-      "kp_id": "659909",
-      "imdb_id": "tt2569398",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-08-07 15:30:52",
-      "orig_title": "So mnoyu vot chto proiskhodit",
-      "year": "2012-11-19",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-25 13:04:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 10917,
-      "title": "Невеста",
-      "kp_id": "277556",
-      "imdb_id": "tt2441862",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-04-12 14:52:43",
-      "orig_title": "Nevesta",
-      "year": "2006-12-10",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-25 13:01:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 10602,
-      "title": "Молодость, больница, любовь",
-      "kp_id": "2883",
-      "imdb_id": "tt0084938",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-03-29 16:44:10",
-      "orig_title": "Young Doctors in Love",
-      "year": "1982-07-16",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Михалёв Алексей)",
-        "Авторский (одноголосый закадровый) (Санаев Павел)",
-        "Авторский (одноголосый закадровый) (Яроцкий Михаил | Kyberpunk)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Михалёв Алексей)",
-      "update": "2020-12-25 12:40:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 10583,
-      "title": "С новым годом, мамы!",
-      "kp_id": "674498",
-      "imdb_id": "tt2592500",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-03-29 10:29:52",
-      "orig_title": "S Novym godom, mamy!",
-      "year": "2013-01-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-25 13:03:43",
-      "iframe_src": ""
-    },
-    {
       "id": 719,
       "title": "Гавайи 5.0",
       "kp_id": "503148",
@@ -644,30 +727,6 @@
       "episodes_count": 240,
       "episodes": 22,
       "update": "2020-04-07 06:11:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 7502,
-      "title": "По соображениям совести",
-      "kp_id": "649917",
-      "imdb_id": "tt2119532",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-19 09:12:28",
-      "orig_title": "Hacksaw Ridge",
-      "year": "2016-09-04",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Paradox & Omskbird records)",
-        "Полное дублирование",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Есарев Дмитрий)",
-        "Авторский (одноголосый закадровый) (Сербин Юрий)",
-        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Paradox & Omskbird records)",
-      "update": "2020-12-25 12:51:52",
       "iframe_src": ""
     },
     {
@@ -692,89 +751,6 @@
       "episodes_count": 52,
       "episodes": 13,
       "update": "2020-04-07 03:58:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 4304,
-      "title": "Карнавальная ночь",
-      "kp_id": "44720",
-      "imdb_id": "tt0049397",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-04 13:43:30",
-      "orig_title": "Karnavalnaya noch",
-      "year": "1957-07-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-25 13:09:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 4085,
-      "title": "Тумстоун: Легенда дикого запада",
-      "kp_id": "2221",
-      "imdb_id": "tt0108358",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-07-20 21:45:09",
-      "orig_title": "Tombstone",
-      "year": "1993-12-25",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2020-12-25 17:00:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 3292,
-      "title": "Афера",
-      "kp_id": "383",
-      "imdb_id": "tt0070735",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-06-21 10:36:09",
-      "orig_title": "The Sting",
-      "year": "1973-12-25",
-      "translations": [
-        "Профессиональный (многоголосый)",
-        "Полное дублирование (Первый канал | ОРТ)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2020-12-25 12:58:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 2,
-      "title": "Выживший",
-      "kp_id": "522941",
-      "imdb_id": "tt1663202",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-02-04 10:50:47",
-      "orig_title": "The Revenant",
-      "year": "2015-12-16",
-      "translations": [
-        "Полное дублирование (iTunes)",
-        "Original (English)",
-        "Авторский (одноголосый закадровый) (Есарев Дмитрий)",
-        "Авторский (одноголосый закадровый) (Сербин Юрий)",
-        "Авторский (одноголосый закадровый) (Живов Юрий)",
-        "Полное дублирование",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование (iTunes)",
-      "update": "2020-12-25 12:47:05",
       "iframe_src": ""
     }
   ]
