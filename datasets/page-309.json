@@ -1,6 +1,78 @@
 {
   "data": [
     {
+      "id": 45005,
+      "title": "Три пингвина",
+      "kp_id": "260037",
+      "imdb_id": "tt6301976",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-03 19:08:10",
+      "orig_title": "Tri pingvina",
+      "year": "1961-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-11-06 07:48:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 45004,
+      "title": "Снегурка",
+      "kp_id": "260079",
+      "imdb_id": "tt5898006",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-03 19:04:53",
+      "orig_title": "Snegurka",
+      "year": "1969-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-11-06 07:47:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 45003,
+      "title": "Снегурята",
+      "kp_id": "566902",
+      "imdb_id": "tt8152594",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-03 19:02:28",
+      "orig_title": "Sneguryata",
+      "year": "1986-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-11-06 07:46:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 45002,
+      "title": "Рикэ-хохолок",
+      "kp_id": "654752",
+      "imdb_id": "tt8347644",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-03 18:59:45",
+      "orig_title": "Rike-hoholok",
+      "year": "1985-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "dvdrip",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-11-06 07:45:58",
+      "iframe_src": ""
+    },
+    {
       "id": 45001,
       "title": "Каша из топора",
       "kp_id": "481589",
@@ -199,165 +271,134 @@
       "iframe_src": ""
     },
     {
-      "id": 44972,
-      "title": "Влюбчивая ворона",
-      "kp_id": "260042",
-      "imdb_id": "tt3443782",
+      "id": 44837,
+      "title": "Curious George: Go West, Go Wild",
+      "kp_id": "1411136",
+      "imdb_id": "tt13071908",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-11-02 19:13:27",
-      "orig_title": "Vlyubchivaya vorona",
-      "year": "1988-01-01",
+      "add": "2020-10-27 13:50:17",
+      "orig_title": "Curious George: Go West, Go Wild",
+      "year": "2020-09-08",
       "translations": [
-        "Оригинальная дорожка"
+        "Original (English)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 07:33:52",
+      "quality": "webdl",
+      "translation": "Original (English)",
+      "update": "2020-11-06 07:53:40",
       "iframe_src": ""
     },
     {
-      "id": 44970,
-      "title": "Водопровод на огород",
-      "kp_id": "594872",
+      "id": 44833,
+      "title": "Холодок по спине",
+      "kp_id": "1396686",
+      "imdb_id": "tt12788198",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-10-27 13:40:57",
+      "orig_title": "Chills Down Your Spine",
+      "year": "2020-09-05",
+      "translations": [
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Original (English)",
+      "update": "2020-11-06 07:49:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 43668,
+      "title": "Элиты побережья",
+      "kp_id": "1390900",
+      "imdb_id": "tt12587564",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-18 18:32:27",
+      "orig_title": "Coastal Elites",
+      "year": "2020-09-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-11-06 07:52:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 42527,
+      "title": "Император",
+      "kp_id": "1167664",
+      "imdb_id": "tt8354752",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-17 12:26:52",
+      "orig_title": "Emperor",
+      "year": "2020-08-18",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-11-06 07:54:46",
+      "iframe_src": ""
+    },
+    {
+      "id": 41029,
+      "title": "Клоунада",
+      "kp_id": "1205923",
+      "imdb_id": "tt9178004",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-08 05:17:39",
+      "orig_title": "Clownery",
+      "year": "2020-05-26",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-11-06 07:51:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 5371,
+      "title": "Доктор Живаго",
+      "kp_id": "89676",
+      "imdb_id": "tt0417319",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-02 08:35:33",
+      "orig_title": "Doktor Zhivago",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 11,
+      "episodes": 11,
+      "update": "2019-10-03 06:44:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 5370,
+      "title": "М.У.Р",
+      "kp_id": "539681",
       "imdb_id": null,
       "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-02 18:55:39",
-      "orig_title": "Водопровод на огород",
-      "year": "1964-01-01",
+      "type": "serial",
+      "add": "2019-10-02 08:32:08",
+      "orig_title": "М.У.Р",
+      "year": "2012-04-01",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 07:32:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 44969,
-      "title": "Волшебная лопата",
-      "kp_id": "627364",
-      "imdb_id": "tt5894418",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-02 18:49:05",
-      "orig_title": "Volshebnaya lopata",
-      "year": "1984-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 07:31:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 44968,
-      "title": "Волшебный ковер",
-      "kp_id": "46497",
-      "imdb_id": "tt0145892",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-02 18:38:41",
-      "orig_title": "Kakhardakan gorg",
-      "year": "1948-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 07:30:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 44967,
-      "title": "Волшебный магазин",
-      "kp_id": "257886",
-      "imdb_id": "tt1795042",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-02 18:31:32",
-      "orig_title": "Volshebnyy magazin",
-      "year": "1953-03-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 07:31:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 44966,
-      "title": "Вот какой рассеянный",
-      "kp_id": "481439",
-      "imdb_id": "tt2602136",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-02 18:28:31",
-      "orig_title": "Vot kakoy rasseyannyy",
-      "year": "1975-03-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 06:26:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 44965,
-      "title": "Вот так тигр!",
-      "kp_id": "452847",
-      "imdb_id": "tt2311802",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-02 18:23:16",
-      "orig_title": "Vot tak tigr!",
-      "year": "1963-04-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 06:24:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 44964,
-      "title": "Левша",
-      "kp_id": "258462",
-      "imdb_id": "tt0487694",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-02 18:20:07",
-      "orig_title": "Levsha",
-      "year": "1964-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 06:21:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 44963,
-      "title": "Петушок — Золотой гребешок",
-      "kp_id": "258107",
-      "imdb_id": "tt4637392",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-02 18:16:29",
-      "orig_title": "Petushok: zolotoy grebeshok",
-      "year": "1955-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "bd",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-11-06 06:19:23",
+      "seasons_count": 1,
+      "episodes_count": 20,
+      "episodes": 20,
+      "update": "2019-10-03 07:08:18",
       "iframe_src": ""
     },
     {
@@ -377,25 +418,6 @@
       "episodes_count": 7,
       "episodes": 7,
       "update": "2019-10-02 09:39:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 5363,
-      "title": "Петля",
-      "kp_id": "309420",
-      "imdb_id": "tt4625096",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-10-01 14:40:57",
-      "orig_title": "Petlya",
-      "year": "1984-03-11",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 3,
-      "episodes": 3,
-      "update": "2019-10-01 20:10:32",
       "iframe_src": ""
     },
     {
@@ -530,25 +552,6 @@
       "episodes_count": 3,
       "episodes": 3,
       "update": "2019-10-02 11:38:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 5345,
-      "title": "Виражи судьбы",
-      "kp_id": "1304540",
-      "imdb_id": "tt10978366",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-30 20:06:02",
-      "orig_title": "Twists of Fate",
-      "year": "2019-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-10-01 12:34:04",
       "iframe_src": ""
     },
     {
@@ -705,22 +708,22 @@
       "iframe_src": ""
     },
     {
-      "id": 1414,
-      "title": "Паршивые овцы",
-      "kp_id": "512501",
-      "imdb_id": "tt4515754",
+      "id": 3925,
+      "title": "Огги и тараканы",
+      "kp_id": "260398",
+      "imdb_id": "tt0213363",
       "world_art_id": null,
       "type": "serial",
-      "add": "2017-07-24 05:29:32",
-      "orig_title": "Parshivye ovtsy",
-      "year": "2010-06-10",
+      "add": "2019-01-22 08:19:16",
+      "orig_title": "Oggy et les cafards",
+      "year": "1998-09-06",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-10-01 12:16:34",
+      "seasons_count": 4,
+      "episodes_count": 269,
+      "episodes": 74,
+      "update": "2019-10-03 07:37:53",
       "iframe_src": ""
     },
     {
