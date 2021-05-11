@@ -1,6 +1,78 @@
 {
   "data": [
     {
+      "id": 49185,
+      "title": "Обследование",
+      "kp_id": "1256266",
+      "imdb_id": "tt10121508",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-29 20:42:53",
+      "orig_title": "Test Pattern",
+      "year": "2021-02-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-03-29 21:58:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 49179,
+      "title": "Адские колокола",
+      "kp_id": "1223521",
+      "imdb_id": "tt9471424",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-29 20:23:58",
+      "orig_title": "Hell's Bells",
+      "year": "2020-04-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-03-29 22:02:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 49178,
+      "title": "Хайд",
+      "kp_id": "1150813",
+      "imdb_id": "tt8338100",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-29 20:22:00",
+      "orig_title": "Hyde",
+      "year": "2021-03-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-03-29 21:53:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 49177,
+      "title": "Летний лагерь",
+      "kp_id": "797666",
+      "imdb_id": "tt3161448",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-29 20:12:25",
+      "orig_title": "Bunks",
+      "year": "2013-10-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-03-29 21:54:44",
+      "iframe_src": ""
+    },
+    {
       "id": 49173,
       "title": "Снятие наличных",
       "kp_id": "1047537",
@@ -35,24 +107,6 @@
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
       "update": "2021-03-29 16:46:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 49167,
-      "title": "Три страшных рассказа",
-      "kp_id": "19136",
-      "imdb_id": "tt0057608",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-03-29 05:12:45",
-      "orig_title": "Twice-Told Tales",
-      "year": "1963-10-30",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2021-03-29 14:21:09",
       "iframe_src": ""
     },
     {
@@ -110,6 +164,62 @@
       "iframe_src": ""
     },
     {
+      "id": 49139,
+      "title": "Закон Мойсея",
+      "kp_id": "1054310",
+      "imdb_id": "tt5515396",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-27 21:10:00",
+      "orig_title": "The Law of Moises",
+      "year": "2019-02-22",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-03-29 23:17:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 9300,
+      "title": "Преимущество двух слонов",
+      "kp_id": "1435467",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-11-16 16:47:54",
+      "orig_title": "Преимущество двух слонов",
+      "year": "2020-10-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2020-11-16 21:19:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 9298,
+      "title": "BBC: Ганг",
+      "kp_id": "464905",
+      "imdb_id": "tt1307922",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-11-16 15:15:58",
+      "orig_title": "Ganges",
+      "year": "2007-08-01",
+      "translations": [
+        "Профессиональный (одноголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2020-11-17 05:52:09",
+      "iframe_src": ""
+    },
+    {
       "id": 9288,
       "title": "Средство от смерти",
       "kp_id": "688073",
@@ -126,25 +236,6 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2020-11-16 07:28:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 9286,
-      "title": "Мумбаи",
-      "kp_id": "1408654",
-      "imdb_id": "tt12753390",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-14 13:42:54",
-      "orig_title": "Mum Bhai",
-      "year": "2020-11-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2020-11-14 19:23:09",
       "iframe_src": ""
     },
     {
@@ -167,22 +258,22 @@
       "iframe_src": ""
     },
     {
-      "id": 9283,
-      "title": "Война женщин",
-      "kp_id": "416792",
-      "imdb_id": "tt0312139",
+      "id": 9268,
+      "title": "Милагрос",
+      "kp_id": "422998",
+      "imdb_id": "tt0287251",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-11-14 11:38:52",
-      "orig_title": "Guerra de Mujeres",
-      "year": "2001-01-01",
+      "add": "2020-11-11 19:40:03",
+      "orig_title": "Milagros",
+      "year": "2000-01-01",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
       ],
       "seasons_count": 1,
-      "episodes_count": 141,
-      "episodes": 141,
-      "update": "2020-11-14 19:44:28",
+      "episodes_count": 220,
+      "episodes": 220,
+      "update": "2020-11-16 20:23:03",
       "iframe_src": ""
     },
     {
@@ -204,26 +295,6 @@
       "episodes_count": 331,
       "episodes": 23,
       "update": "2020-11-16 11:49:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 9218,
-      "title": "Земля страстей",
-      "kp_id": "408917",
-      "imdb_id": "tt0459693",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-06 18:00:49",
-      "orig_title": "Tierra de Pasiones",
-      "year": "2006-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 172,
-      "episodes": 172,
-      "update": "2020-11-14 18:10:28",
       "iframe_src": ""
     },
     {
@@ -266,25 +337,6 @@
       "episodes_count": 6,
       "episodes": 6,
       "update": "2020-11-15 09:06:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 9205,
-      "title": "Скорая помощь 3",
-      "kp_id": "1443822",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-05 10:49:29",
-      "orig_title": "Скорая помощь 3",
-      "year": "2020-11-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2020-11-14 07:55:31",
       "iframe_src": ""
     },
     {
@@ -406,29 +458,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8879,
-      "title": "Отчизна",
-      "kp_id": "1357451",
-      "imdb_id": "tt6625730",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-09-30 05:48:04",
-      "orig_title": "Patria",
-      "year": "2020-09-27",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Любительский (двухголосый закадровый) (KerobTV)",
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
-        "Любительский (многоголосый закадровый) (KerobTV)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-11-14 07:58:35",
-      "iframe_src": ""
-    },
-    {
       "id": 40013,
       "title": "Пришелец из Сказки",
       "kp_id": "1058741",
@@ -444,26 +473,6 @@
       "quality": "webdl",
       "translation": "Полное дублирование (Netflix)",
       "update": "2021-03-29 18:48:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 6793,
-      "title": "Глюкотехники",
-      "kp_id": "1356066",
-      "imdb_id": "tt7697062",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-03-05 19:30:59",
-      "orig_title": "Glitch Techs",
-      "year": "2020-02-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (NewStation)",
-        "Любительский (многоголосый закадровый) (Flarrow Films)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 19,
-      "episodes": 10,
-      "update": "2020-11-14 20:01:13",
       "iframe_src": ""
     },
     {
@@ -491,61 +500,44 @@
       "iframe_src": ""
     },
     {
-      "id": 30350,
-      "title": "Американский оборотень в Париже",
-      "kp_id": "14941",
-      "imdb_id": "tt0118604",
+      "id": 6098,
+      "title": "История хоррора с Элаем Ротом",
+      "kp_id": "1202991",
+      "imdb_id": "tt7406320",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-28 19:03:52",
-      "orig_title": "An American Werewolf in Paris",
-      "year": "1997-10-18",
+      "type": "serial",
+      "add": "2019-12-21 22:21:25",
+      "orig_title": "History of Horror",
+      "year": "2018-10-14",
       "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Сербин Юрий)"
+        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
+        "Профессиональный (двухголосый закадровый) (IdeaFilm)",
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (Ozz.tv)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2021-03-29 14:20:18",
+      "seasons_count": 2,
+      "episodes_count": 13,
+      "episodes": 6,
+      "update": "2020-11-17 04:48:47",
       "iframe_src": ""
     },
     {
-      "id": 22524,
-      "title": "Затерянные во льдах",
-      "kp_id": "1069265",
-      "imdb_id": "tt6820256",
+      "id": 4968,
+      "title": "Раскрутка",
+      "kp_id": "474181",
+      "imdb_id": "tt3829660",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-24 21:34:01",
-      "orig_title": "Arctic",
-      "year": "2018-05-10",
+      "type": "serial",
+      "add": "2019-07-29 20:10:57",
+      "orig_title": "Raskrutka",
+      "year": "2010-01-01",
       "translations": [
-        "Полное дублирование",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (Good People)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Оригинальная дорожка"
       ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2021-03-29 14:31:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 22517,
-      "title": "Властелины хаоса",
-      "kp_id": "909809",
-      "imdb_id": "tt4669296",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-24 21:19:21",
-      "orig_title": "Lords of Chaos",
-      "year": "2018-01-23",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2021-03-29 14:31:41",
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2020-11-16 15:48:04",
       "iframe_src": ""
     },
     {
@@ -606,27 +598,6 @@
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
       "update": "2021-03-29 14:33:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 22124,
-      "title": "Взвод",
-      "kp_id": "1001084",
-      "imdb_id": "tt5855164",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-02-07 22:42:51",
-      "orig_title": "Point Man",
-      "year": "2018-03-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-03-29 14:31:54",
       "iframe_src": ""
     },
     {
@@ -732,6 +703,25 @@
       "iframe_src": ""
     },
     {
+      "id": 3012,
+      "title": "Не женское дело",
+      "kp_id": "766187",
+      "imdb_id": "tt2950252",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-08-09 06:23:01",
+      "orig_title": "Ne zhenskoe delo",
+      "year": "2013-12-16",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2020-11-16 18:44:00",
+      "iframe_src": ""
+    },
+    {
       "id": 2810,
       "title": "Что случилось с секретарём Ким?",
       "kp_id": "1112966",
@@ -755,22 +745,27 @@
       "iframe_src": ""
     },
     {
-      "id": 2760,
-      "title": "Хулиганы",
-      "kp_id": "77444",
-      "imdb_id": "tt0385002",
+      "id": 14728,
+      "title": "Яркость",
+      "kp_id": "978838",
+      "imdb_id": "tt5519340",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-31 07:15:59",
-      "orig_title": "Hooligans",
-      "year": "2005-03-12",
+      "add": "2017-12-24 21:47:12",
+      "orig_title": "Bright",
+      "year": "2017-12-22",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (Tycoon)"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)",
+        "Профессиональный (многоголосый закадровый) (AlexFilm)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
+        "Любительский (многоголосый закадровый) (RusFilm)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-03-29 14:22:57",
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+      "update": "2021-03-29 21:54:13",
       "iframe_src": ""
     },
     {

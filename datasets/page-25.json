@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 49992,
+      "title": "Ад в Манитобе",
+      "kp_id": "108150",
+      "imdb_id": "tt0059296",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-04-29 16:25:25",
+      "orig_title": "Die Hölle von Manitoba",
+      "year": "1965-07-27",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Живов Юрий)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Живов Юрий)",
+      "update": "2021-04-30 06:00:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 49989,
+      "title": "Тело",
+      "kp_id": "14863",
+      "imdb_id": "tt0201485",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-04-29 11:17:28",
+      "orig_title": "The Body",
+      "year": "2001-01-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-04-29 15:16:50",
+      "iframe_src": ""
+    },
+    {
       "id": 49988,
       "title": "Частная жизнь Дон Жуана",
       "kp_id": "17889",
@@ -127,24 +163,6 @@
       "iframe_src": ""
     },
     {
-      "id": 49979,
-      "title": "Гиппокампус: Монстры 21 века",
-      "kp_id": "921364",
-      "imdb_id": "tt4337718",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-04-28 18:44:35",
-      "orig_title": "Hippocampus M 21th",
-      "year": "2014-11-14",
-      "translations": [
-        "Любительский (одноголосый закадровый) (den904)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (den904)",
-      "update": "2021-04-29 07:34:43",
-      "iframe_src": ""
-    },
-    {
       "id": 49978,
       "title": "Макар Нечай",
       "kp_id": "46510",
@@ -183,6 +201,44 @@
       "iframe_src": ""
     },
     {
+      "id": 10413,
+      "title": "Взаперти",
+      "kp_id": null,
+      "imdb_id": "tt7604546",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-11 11:50:07",
+      "orig_title": "Inhibidos",
+      "year": "2017-11-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Crazy Cat Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2021-04-11 18:19:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 10412,
+      "title": "Буферизация сердца",
+      "kp_id": null,
+      "imdb_id": "tt8273440",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-11 11:45:19",
+      "orig_title": "Dil Buffering",
+      "year": "2017-09-29",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Crazy Cat Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2021-04-11 14:22:15",
+      "iframe_src": ""
+    },
+    {
       "id": 10408,
       "title": "Защита от сумасшествия",
       "kp_id": "1273926",
@@ -199,6 +255,63 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2021-04-10 21:20:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 10406,
+      "title": "ААФАТ",
+      "kp_id": "1196618",
+      "imdb_id": "tt9025262",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-10 17:25:11",
+      "orig_title": "Aafat",
+      "year": "2019-02-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Crazy Cat Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2021-04-11 14:23:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 10401,
+      "title": "Обольститель",
+      "kp_id": null,
+      "imdb_id": "tt5297288",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-10 16:11:50",
+      "orig_title": "El encantador",
+      "year": "2010-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 43,
+      "episodes": 43,
+      "update": "2021-04-11 18:46:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 10391,
+      "title": "Падение орлов",
+      "kp_id": "717557",
+      "imdb_id": "tt0207885",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-09 13:22:39",
+      "orig_title": "Fall of Eagles",
+      "year": "1974-03-15",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2021-04-11 16:57:52",
       "iframe_src": ""
     },
     {
@@ -240,25 +353,6 @@
       "iframe_src": ""
     },
     {
-      "id": 10386,
-      "title": "Зять 2.0",
-      "kp_id": "1291852",
-      "imdb_id": "tt10810796",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-04-08 13:38:57",
-      "orig_title": "Jamai 2.0",
-      "year": "2019-09-10",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Crazy Cat Studio)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 20,
-      "episodes": 10,
-      "update": "2021-04-08 20:14:56",
-      "iframe_src": ""
-    },
-    {
       "id": 10371,
       "title": "Уличное правосудие",
       "kp_id": "1390624",
@@ -295,27 +389,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2021-04-29 10:57:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 10287,
-      "title": "Кто убил Сару?",
-      "kp_id": null,
-      "imdb_id": "tt11937816",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-03-24 10:18:36",
-      "orig_title": "¿Quién Mató a Sara?",
-      "year": "2021-03-24",
-      "translations": [
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2021-04-08 18:30:21",
       "iframe_src": ""
     },
     {
@@ -382,75 +455,22 @@
       "iframe_src": ""
     },
     {
-      "id": 47169,
-      "title": "Операция «Вундерланд»",
-      "kp_id": "42780",
-      "imdb_id": "tt0286872",
+      "id": 10024,
+      "title": "Селеста, всегда Селеста",
+      "kp_id": "255337",
+      "imdb_id": "tt0199196",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-16 22:52:58",
-      "orig_title": "Operatsia 'Vunderlandi'",
-      "year": "1989-01-01",
+      "type": "serial",
+      "add": "2021-02-24 19:56:53",
+      "orig_title": "Celeste, siempre Celeste",
+      "year": "1993-04-12",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-04-29 07:37:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 47166,
-      "title": "Здесь, на моей земле",
-      "kp_id": "45255",
-      "imdb_id": "tt0080168",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-16 22:45:37",
-      "orig_title": "Zdes, na moey zemle",
-      "year": "1979-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-04-29 07:37:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 47165,
-      "title": "Исход",
-      "kp_id": "469666",
-      "imdb_id": "tt5766412",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-16 22:43:02",
-      "orig_title": "Iskhod",
-      "year": "1990-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-04-29 07:36:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 47161,
-      "title": "Спасенное имя",
-      "kp_id": "843920",
-      "imdb_id": "tt5332260",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-16 22:35:07",
-      "orig_title": "Spasyonnoye imya",
-      "year": "1973-05-14",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-04-29 07:35:28",
+      "seasons_count": 1,
+      "episodes_count": 199,
+      "episodes": 199,
+      "update": "2021-04-11 18:31:50",
       "iframe_src": ""
     },
     {
@@ -1072,6 +1092,33 @@
       "iframe_src": ""
     },
     {
+      "id": 33474,
+      "title": "Ирландец",
+      "kp_id": "462305",
+      "imdb_id": "tt1302006",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-11-27 10:48:39",
+      "orig_title": "The Irishman",
+      "year": "2019-09-27",
+      "translations": [
+        "Полное дублирование (Пифагор)",
+        "Original (English)",
+        "Полное дублирование (Netflix)",
+        "Профессиональный (двухголосый закадровый) (Кубик в Кубе)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Авторский (одноголосый закадровый) (Сербин Юрий)",
+        "Авторский (одноголосый закадровый) (Гаевский Евгений)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование (Пифагор)",
+      "update": "2021-04-29 16:08:36",
+      "iframe_src": ""
+    },
+    {
       "id": 681,
       "title": "Астра, затерянная в космосе",
       "kp_id": "1282043",
@@ -1131,35 +1178,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4330,
-      "title": "Чем мы занимаемся в тени",
-      "kp_id": "1113116",
-      "imdb_id": "tt7908628",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-28 05:40:41",
-      "orig_title": "What We Do in the Shadows",
-      "year": "2019-03-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (FOX)",
-        "Профессиональный (многоголосый закадровый) (Ozz.tv)",
-        "Профессиональный (двухголосый закадровый) (Кубик в Кубе)",
-        "Любительский (многоголосый закадровый) (RG.Paravozik)",
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Любительский (многоголосый закадровый) (KerobTV)",
-        "Любительский (двухголосый закадровый) (KerobTV)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 20,
-      "episodes": 10,
-      "update": "2021-04-08 18:41:17",
-      "iframe_src": ""
-    },
-    {
       "id": 4257,
       "title": "Плохие мамочки",
       "kp_id": "1214987",
@@ -1177,28 +1195,6 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2021-04-10 13:54:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 4062,
-      "title": "4лен",
-      "kp_id": "1131480",
-      "imdb_id": "tt8324422",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-02-12 12:43:56",
-      "orig_title": "PEN15",
-      "year": "2019-02-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (TVShows)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 17,
-      "episodes": 7,
-      "update": "2021-04-08 18:32:12",
       "iframe_src": ""
     },
     {
@@ -1397,31 +1393,6 @@
       "iframe_src": ""
     },
     {
-      "id": 2150,
-      "title": "Призрачная башня",
-      "kp_id": "1046113",
-      "imdb_id": "tt6474236",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-03-01 14:02:05",
-      "orig_title": "The Looming Tower",
-      "year": "2018-02-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (многоголосый закадровый) (OMSKBIRD records)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Профессиональный (многоголосый закадровый) (AMS)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (Кравец)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2021-04-08 17:17:20",
-      "iframe_src": ""
-    },
-    {
       "id": 39,
       "title": "Судьба: Начало",
       "kp_id": "629401",
@@ -1438,6 +1409,28 @@
       "episodes_count": 25,
       "episodes": 12,
       "update": "2020-04-18 08:47:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 11564,
+      "title": "Ресторан господина Септима",
+      "kp_id": "81475",
+      "imdb_id": "tt0061728",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-05-16 05:29:01",
+      "orig_title": "Le grand restaurant",
+      "year": "1966-09-09",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (НТВ)",
+        "Профессиональный (многоголосый закадровый) (Cinema Prestige)",
+        "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
+        "Полное дублирование (Союзмультфильм)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-04-29 16:19:21",
       "iframe_src": ""
     },
     {
@@ -1534,25 +1527,22 @@
       "iframe_src": ""
     },
     {
-      "id": 2073,
-      "title": "Ягуар",
-      "kp_id": "14292",
-      "imdb_id": "tt0116676",
+      "id": 2575,
+      "title": "Сила веры",
+      "kp_id": "6371",
+      "imdb_id": "tt0104695",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-05-11 14:43:04",
-      "orig_title": "Le jaguar",
-      "year": "1996-10-09",
+      "add": "2016-05-25 13:48:36",
+      "orig_title": "Leap of Faith",
+      "year": "1992-12-17",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
-        "Профессиональный (двухголосый закадровый) (СТС)",
-        "Профессиональный (многоголосый закадровый) (Amalgama)",
-        "Профессиональный (многоголосый закадровый) (СВ-Дубль)"
+        "Профессиональный (двухголосый закадровый) (Премьер Видео Фильм)"
       ],
-      "quality": "bd",
+      "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-04-29 07:30:13",
+      "update": "2021-04-29 14:59:03",
       "iframe_src": ""
     },
     {
@@ -1575,6 +1565,27 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2021-04-29 14:37:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 48,
+      "title": "После нашей эры",
+      "kp_id": "577285",
+      "imdb_id": "tt1815862",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-02-08 10:09:52",
+      "orig_title": "After Earth",
+      "year": "2013-05-01",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Горчаков Василий)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-04-29 16:13:02",
       "iframe_src": ""
     }
   ]

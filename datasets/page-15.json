@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 50122,
+      "title": "Подростки из Химеры",
+      "kp_id": "1407799",
+      "imdb_id": "tt12837402",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-04 21:10:20",
+      "orig_title": "Adolescents of Chymera",
+      "year": "2021-02-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-05-05 06:46:04",
+      "iframe_src": ""
+    },
+    {
       "id": 50106,
       "title": "Тень женщины-детектива",
       "kp_id": "1149463",
@@ -55,24 +73,6 @@
       "iframe_src": ""
     },
     {
-      "id": 50102,
-      "title": "Жизненная история",
-      "kp_id": "1311743",
-      "imdb_id": "tt11081744",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-04 07:22:21",
-      "orig_title": "Realna prica",
-      "year": "2019-11-12",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2021-05-04 15:33:59",
-      "iframe_src": ""
-    },
-    {
       "id": 50101,
       "title": "Руанда",
       "kp_id": "1160627",
@@ -88,24 +88,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-05-04 15:34:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 50100,
-      "title": "Просто другой",
-      "kp_id": "1449574",
-      "imdb_id": "tt10500666",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-04 07:03:05",
-      "orig_title": "Just Different",
-      "year": "2020-10-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-04 10:47:33",
       "iframe_src": ""
     },
     {
@@ -163,39 +145,57 @@
       "iframe_src": ""
     },
     {
-      "id": 50096,
-      "title": "Семеро сыновей моих",
-      "kp_id": "581659",
-      "imdb_id": "tt2158877",
+      "id": 50094,
+      "title": "Бегство в автомобиле",
+      "kp_id": "2159",
+      "imdb_id": "tt0005571",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-05-03 20:32:50",
-      "orig_title": "Yeddi Ogul Istäräm",
-      "year": "1970-09-07",
+      "add": "2021-05-03 14:42:56",
+      "orig_title": "A Jitney Elopement",
+      "year": "1915-04-01",
       "translations": [
-        "Полное дублирование"
+        "Original (English)"
       ],
-      "quality": "vhs",
-      "translation": "Полное дублирование",
-      "update": "2021-05-04 15:20:39",
+      "quality": "bd",
+      "translation": "Original (English)",
+      "update": "2021-05-05 06:21:47",
       "iframe_src": ""
     },
     {
-      "id": 50095,
-      "title": "Падение династии Романовых",
-      "kp_id": "42869",
-      "imdb_id": "tt0018246",
+      "id": 50093,
+      "title": "Команда разрушителей",
+      "kp_id": "20380",
+      "imdb_id": "tt0065225",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-05-03 20:24:47",
-      "orig_title": "Padenie dinastii Romanovykh",
-      "year": "1927-03-11",
+      "add": "2021-05-03 14:39:43",
+      "orig_title": "The Wrecking Crew",
+      "year": "1968-12-25",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-05-04 15:18:57",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-05-05 06:23:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 50092,
+      "title": "Остров сокровищ",
+      "kp_id": "10460",
+      "imdb_id": "tt0025907",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-03 14:37:55",
+      "orig_title": "Treasure Island",
+      "year": "1934-08-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Светла)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (Светла)",
+      "update": "2021-05-05 06:24:59",
       "iframe_src": ""
     },
     {
@@ -232,6 +232,101 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-05-04 20:30:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 10533,
+      "title": "Жизнь и смерть Леньки Пантелеева",
+      "kp_id": "427093",
+      "imdb_id": "tt4996524",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-29 09:44:56",
+      "orig_title": "Zhizn i smert Lyonki Panteleeva",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2021-04-29 13:02:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 10532,
+      "title": "Альфонса в президенты",
+      "kp_id": null,
+      "imdb_id": "tt6386696",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-28 18:53:35",
+      "orig_title": "Alphonse Président",
+      "year": "2017-11-23",
+      "translations": [
+        "Любительский (многоголосый закадровый) (WestFilm)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2021-04-29 07:43:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 10529,
+      "title": "Долина динозавров",
+      "kp_id": "432569",
+      "imdb_id": "tt0805825",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-28 13:58:45",
+      "orig_title": "Dinosapien",
+      "year": "2007-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "episodes": 15,
+      "update": "2021-04-29 12:17:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 10528,
+      "title": "Доктор Айболит",
+      "kp_id": "44245",
+      "imdb_id": "tt0218940",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-28 12:10:53",
+      "orig_title": "Doktor Aybolit",
+      "year": "1984-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2021-04-29 07:53:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 10527,
+      "title": "Бархатные пальчики",
+      "kp_id": "244384",
+      "imdb_id": "tt0423651",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-28 11:54:51",
+      "orig_title": "Fingersmith",
+      "year": "2005-03-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2021-04-28 23:16:20",
       "iframe_src": ""
     },
     {
@@ -311,81 +406,6 @@
       "iframe_src": ""
     },
     {
-      "id": 49943,
-      "title": "Весь день впереди",
-      "kp_id": "1356483",
-      "imdb_id": "tt11946272",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-04-27 13:49:37",
-      "orig_title": "Tutto Il Giorno Davanti",
-      "year": "2020-03-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-04 15:33:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 10518,
-      "title": "Фатма",
-      "kp_id": "1408082",
-      "imdb_id": "tt11961378",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-04-27 13:02:58",
-      "orig_title": "Fatma",
-      "year": "2021-04-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Ultradox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2021-04-27 22:47:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 10513,
-      "title": "СОБР",
-      "kp_id": "567990",
-      "imdb_id": "tt4070872",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-04-26 15:01:14",
-      "orig_title": "SOBR",
-      "year": "2012-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2021-04-27 16:17:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 10498,
-      "title": "Фиск",
-      "kp_id": "4404797",
-      "imdb_id": "tt13353168",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-04-25 18:08:19",
-      "orig_title": "Fisk",
-      "year": "2021-03-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (WestFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2021-04-28 06:55:58",
-      "iframe_src": ""
-    },
-    {
       "id": 10451,
       "title": "Южный Чикаго",
       "kp_id": null,
@@ -443,47 +463,42 @@
       "iframe_src": ""
     },
     {
-      "id": 10155,
-      "title": "Дилер",
-      "kp_id": "4355985",
-      "imdb_id": "tt13702252",
+      "id": 10352,
+      "title": "Однажды на Кипре",
+      "kp_id": "4298731",
+      "imdb_id": "tt13381804",
       "world_art_id": null,
       "type": "serial",
-      "add": "2021-03-10 10:19:20",
-      "orig_title": "Caïd",
-      "year": "2021-03-10",
+      "add": "2021-04-02 10:28:13",
+      "orig_title": "Bir Zamanlar Kibris",
+      "year": "2021-04-01",
       "translations": [
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Любительский (многоголосый закадровый) (Ultradox)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio 18+)",
-        "Профессиональный (многоголосый закадровый) (LostFilm)"
+        "Любительский (двухголосый закадровый) (SesDizi | DiziMania)"
       ],
       "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2021-04-28 06:55:17",
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2021-04-29 07:06:52",
       "iframe_src": ""
     },
     {
-      "id": 10113,
-      "title": "Вы окружены",
-      "kp_id": "839244",
-      "imdb_id": "tt3693428",
+      "id": 48494,
+      "title": "Десять секунд до ада",
+      "kp_id": "168961",
+      "imdb_id": "tt0053341",
       "world_art_id": null,
-      "type": "serial",
-      "add": "2021-03-06 09:55:01",
-      "orig_title": "Neo-hui-deul-eun po-wi-dwaess-da",
-      "year": "2014-05-07",
+      "type": "movie",
+      "add": "2021-03-06 16:10:42",
+      "orig_title": "Ten Seconds to Hell",
+      "year": "1959-04-23",
       "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)",
-        "Любительский (многоголосый закадровый) (STEPonee)"
+        "Профессиональный (двухголосый закадровый) (НТВ)",
+        "Original (English)",
+        "Любительский (одноголосый закадровый) (Линда)"
       ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2021-04-27 16:31:40",
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
+      "update": "2021-05-05 06:28:02",
       "iframe_src": ""
     },
     {
@@ -503,6 +518,25 @@
       "quality": "bd",
       "translation": "Original (English)",
       "update": "2021-05-04 19:58:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 9281,
+      "title": "По законам военного времени. Победа",
+      "kp_id": "1390621",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-11-13 23:31:25",
+      "orig_title": "По законам военного времени. Победа",
+      "year": "2020-11-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "episodes": 5,
+      "update": "2021-04-29 12:10:31",
       "iframe_src": ""
     },
     {
@@ -1151,25 +1185,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5349,
-      "title": "Крот",
-      "kp_id": "94083",
-      "imdb_id": "tt0277527",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-10-01 06:56:48",
-      "orig_title": "Krot",
-      "year": "2009-09-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 24,
-      "episodes": 12,
-      "update": "2021-04-27 19:36:47",
-      "iframe_src": ""
-    },
-    {
       "id": 5142,
       "title": "Wu-Tang: Американская сага",
       "kp_id": "1200696",
@@ -1190,59 +1205,6 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2021-04-28 13:32:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 29798,
-      "title": "Пятница",
-      "kp_id": "4809",
-      "imdb_id": "tt0113118",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-08-06 19:15:01",
-      "orig_title": "Friday",
-      "year": "1995-04-26",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Санаев Павел)",
-        "Профессиональный (многоголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Санаев Павел)",
-        "Original (English)",
-        "Профессиональный (одноголосый закадровый) (диктор CDV)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Санаев Павел)",
-      "update": "2021-05-04 10:48:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 4615,
-      "title": "Страна Рождества",
-      "kp_id": "1192755",
-      "imdb_id": "tt5194792",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-06-02 17:50:57",
-      "orig_title": "NOS4A2",
-      "year": "2019-06-02",
-      "translations": [
-        "Любительский (двухголосый закадровый) (KerobTV)",
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (АРК-ТВ Studio)",
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Любительский (многоголосый закадровый) (Octopus)",
-        "Профессиональный (двухголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Любительский (многоголосый закадровый) (RG.Paravozik)",
-        "Любительский (многоголосый закадровый) (KerobTV)",
-        "Профессиональный (многоголосый закадровый) (AlexFilm)",
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Профессиональный (многоголосый закадровый) (АРК-ТВ & VSI)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 20,
-      "episodes": 10,
-      "update": "2021-04-28 07:48:37",
       "iframe_src": ""
     },
     {
@@ -1300,6 +1262,32 @@
       "episodes_count": 4,
       "episodes": 1,
       "update": "2020-11-05 11:05:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 3309,
+      "title": "Всеамериканский",
+      "kp_id": "1117951",
+      "imdb_id": "tt7414406",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-10-15 07:38:59",
+      "orig_title": "All American",
+      "year": "2018-10-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (TVShows)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (Jaskier)",
+        "Original (English)",
+        "Любительский (многоголосый закадровый) (Ultradox)",
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 43,
+      "episodes": 11,
+      "update": "2021-04-29 07:37:05",
       "iframe_src": ""
     },
     {
@@ -1536,23 +1524,22 @@
       "iframe_src": ""
     },
     {
-      "id": 1355,
-      "title": "Мастер не на все руки",
-      "kp_id": "938852",
-      "imdb_id": "tt4635276",
+      "id": 5533,
+      "title": "Вскрытие",
+      "kp_id": "102458",
+      "imdb_id": "tt0443435",
       "world_art_id": null,
-      "type": "serial",
-      "add": "2017-07-04 05:14:19",
-      "orig_title": "Master of None",
-      "year": "2015-11-06",
+      "type": "movie",
+      "add": "2016-09-27 08:29:43",
+      "orig_title": "Autopsy",
+      "year": "2008-08-24",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (Ozz.tv)",
-        "Профессиональный (многоголосый закадровый) (IdeaFilm)"
+        "Профессиональный (двухголосый закадровый)",
+        "Полное дублирование (IVI)"
       ],
-      "seasons_count": 2,
-      "episodes_count": 20,
-      "episodes": 10,
-      "update": "2021-04-28 07:23:08",
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2021-05-05 06:19:35",
       "iframe_src": ""
     },
     {

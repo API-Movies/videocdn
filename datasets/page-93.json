@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 49222,
+      "title": "Очаровательная идиотка",
+      "kp_id": "9755",
+      "imdb_id": "tt0058703",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-31 06:36:40",
+      "orig_title": "Une ravissante idiote",
+      "year": "1964-03-13",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (РенТВ)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый) (РенТВ)",
+      "update": "2021-03-31 08:49:39",
+      "iframe_src": ""
+    },
+    {
       "id": 49220,
       "title": "Возвращение призрака",
       "kp_id": "708358",
@@ -16,6 +34,24 @@
       "quality": "hdtv",
       "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
       "update": "2021-03-31 06:27:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 49217,
+      "title": "Жена шпиона",
+      "kp_id": "1388683",
+      "imdb_id": "tt11917942",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-31 05:11:29",
+      "orig_title": "Spy no Tsuma",
+      "year": "2020-06-06",
+      "translations": [
+        "Любительский (двухголосый закадровый) (STEPonee)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (STEPonee)",
+      "update": "2021-03-31 10:26:12",
       "iframe_src": ""
     },
     {
@@ -37,42 +73,6 @@
       "iframe_src": ""
     },
     {
-      "id": 49207,
-      "title": "Тихий вор",
-      "kp_id": "596319",
-      "imdb_id": "tt1972803",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-03-30 10:36:03",
-      "orig_title": "The Silent Thief",
-      "year": "2012-04-15",
-      "translations": [
-        "Любительский (одноголосый закадровый) (datynet)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (datynet)",
-      "update": "2021-03-30 17:58:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 49206,
-      "title": "Следуй своему сердцу",
-      "kp_id": "1172133",
-      "imdb_id": "tt7754486",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-03-30 10:16:25",
-      "orig_title": "Manasuku Nachindhi",
-      "year": "2018-02-16",
-      "translations": [
-        "Любительский (двухголосый закадровый) (OnisFilms)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (двухголосый закадровый) (OnisFilms)",
-      "update": "2021-03-30 17:55:07",
-      "iframe_src": ""
-    },
-    {
       "id": 49197,
       "title": "Хильда Крейн",
       "kp_id": "51396",
@@ -88,6 +88,44 @@
       "quality": "bd",
       "translation": "Авторский (одноголосый закадровый) (Яковлев Алексей)",
       "update": "2021-03-31 07:51:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 9383,
+      "title": "Женщины мафии",
+      "kp_id": "1178159",
+      "imdb_id": "tt8793970",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-11-25 06:19:41",
+      "orig_title": "Kobiety mafii",
+      "year": "2018-05-30",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-11-25 15:31:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 9376,
+      "title": "Кодекс мафии: Взгляд изнутри",
+      "kp_id": "757628",
+      "imdb_id": "tt2854116",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-11-24 17:22:21",
+      "orig_title": "Inside the Gangsters Code",
+      "year": "2013-02-27",
+      "translations": [
+        "Профессиональный (одноголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "episodes": 5,
+      "update": "2020-11-25 17:52:37",
       "iframe_src": ""
     },
     {
@@ -126,44 +164,6 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2020-11-24 09:06:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 9360,
-      "title": "Виктор Гюго: Враг государства",
-      "kp_id": "1148826",
-      "imdb_id": "tt8126120",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-22 16:04:11",
-      "orig_title": "Victor Hugo, ennemi d'État",
-      "year": "2018-09-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (SDI Media)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-11-23 08:07:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 9352,
-      "title": "Салон красоты",
-      "kp_id": "426060",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-21 10:44:44",
-      "orig_title": "Салон красоты",
-      "year": "2000-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 50,
-      "episodes": 50,
-      "update": "2020-11-23 11:55:06",
       "iframe_src": ""
     },
     {
@@ -243,6 +243,45 @@
       "iframe_src": ""
     },
     {
+      "id": 9324,
+      "title": "Бобы Боу-Боу",
+      "kp_id": "760411",
+      "imdb_id": "tt0470640",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-11-19 18:49:11",
+      "orig_title": "Bobobobs",
+      "year": "1988-02-03",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2020-11-25 21:06:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 9323,
+      "title": "Братья Лукас",
+      "kp_id": "926560",
+      "imdb_id": "tt3042900",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-11-19 18:40:59",
+      "orig_title": "Lucas Bros Moving Co",
+      "year": "2013-11-23",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Jimmy J.)",
+        "Любительский (одноголосый закадровый) (Jimmy J.)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 14,
+      "episodes": 8,
+      "update": "2020-11-25 20:55:47",
+      "iframe_src": ""
+    },
+    {
       "id": 9322,
       "title": "Крохи",
       "kp_id": "392514",
@@ -281,22 +320,22 @@
       "iframe_src": ""
     },
     {
-      "id": 9314,
-      "title": "Нелегалы",
-      "kp_id": "1162963",
-      "imdb_id": "tt8589990",
+      "id": 9301,
+      "title": "Навеки Джулия",
+      "kp_id": "419527",
+      "imdb_id": "tt0346383",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-11-18 20:29:32",
-      "orig_title": "Nielegalni",
-      "year": "2018-10-21",
+      "add": "2020-11-16 20:10:48",
+      "orig_title": "Resistiré",
+      "year": "2003-01-13",
       "translations": [
-        "Любительский (многоголосый закадровый) (WestFilm)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2020-11-23 10:14:54",
+      "episodes_count": 219,
+      "episodes": 219,
+      "update": "2020-11-24 21:41:06",
       "iframe_src": ""
     },
     {
@@ -338,25 +377,6 @@
       "iframe_src": ""
     },
     {
-      "id": 9233,
-      "title": "Волк идет",
-      "kp_id": "1380230",
-      "imdb_id": "tt11823102",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-09 06:26:27",
-      "orig_title": "Ulven kommer",
-      "year": "2020-10-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-11-23 07:27:40",
-      "iframe_src": ""
-    },
-    {
       "id": 9192,
       "title": "СамСам: Приключения Супергероя",
       "kp_id": "428670",
@@ -373,46 +393,6 @@
       "episodes_count": 49,
       "episodes": 49,
       "update": "2020-11-24 17:30:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 9189,
-      "title": "Такая жизнь",
-      "kp_id": "1284316",
-      "imdb_id": "tt10122020",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-04 05:24:55",
-      "orig_title": "Life",
-      "year": "2020-09-29",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (Кубик в Кубе)",
-        "Любительский (многоголосый закадровый) (WestFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-11-23 08:14:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 9071,
-      "title": "Красавчик по соседству",
-      "kp_id": "721079",
-      "imdb_id": "tt2748124",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-10-21 12:28:29",
-      "orig_title": "Flower Boy Next Door",
-      "year": "2013-01-07",
-      "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)",
-        "Любительский (двухголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2020-11-23 11:43:55",
       "iframe_src": ""
     },
     {
@@ -512,6 +492,26 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
       "update": "2021-03-31 07:16:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 4794,
+      "title": "Психометрик",
+      "kp_id": "1216942",
+      "imdb_id": "tt9696162",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-07-04 22:30:47",
+      "orig_title": "Saikometeuri Geunyeoseok",
+      "year": "2019-03-11",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GREEN TEA)",
+        "Любительский (двухголосый закадровый) (SoftBox)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2020-11-24 17:30:30",
       "iframe_src": ""
     },
     {
@@ -635,26 +635,6 @@
       "iframe_src": ""
     },
     {
-      "id": 21944,
-      "title": "Тени на дороге",
-      "kp_id": "1060462",
-      "imdb_id": "tt7391194",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-30 18:59:07",
-      "orig_title": "Shadows on the Road",
-      "year": "2018-06-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (HiWayGrope)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-03-30 18:49:25",
-      "iframe_src": ""
-    },
-    {
       "id": 21886,
       "title": "Гадюшник",
       "kp_id": "1026645",
@@ -671,45 +651,6 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
       "update": "2021-03-31 06:03:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 21589,
-      "title": "Неделимое",
-      "kp_id": "1097031",
-      "imdb_id": "tt6512428",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-17 21:11:49",
-      "orig_title": "Indivisible",
-      "year": "2018-10-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2021-03-30 18:48:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 20556,
-      "title": "Маугли: Легенда джунглей",
-      "kp_id": "680072",
-      "imdb_id": "tt2388771",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-08 09:27:58",
-      "orig_title": "Mowgli",
-      "year": "2018-11-25",
-      "translations": [
-        "Полное дублирование",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2021-03-30 18:49:01",
       "iframe_src": ""
     },
     {
@@ -732,24 +673,51 @@
       "iframe_src": ""
     },
     {
-      "id": 19857,
-      "title": "Счастливый Лазарь",
-      "kp_id": "1094629",
-      "imdb_id": "tt6752992",
+      "id": 19411,
+      "title": "Закат: Вампиры в изгнании",
+      "kp_id": "2786",
+      "imdb_id": "tt0098412",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-10-30 00:10:06",
-      "orig_title": "Lazzaro felice",
-      "year": "2018-05-13",
+      "add": "2018-10-07 13:10:15",
+      "orig_title": "Sundown: The Vampire in Retreat",
+      "year": "1990-01-13",
       "translations": [
-        "Любительский (двухголосый закадровый) (LakeFilms)",
-        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (ТВ3)",
+        "Авторский (одноголосый закадровый) (Карцев Пётр)",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (ТВ3)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (ТВ3)",
+      "update": "2021-03-31 09:23:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 7404,
+      "title": "Сверхновая",
+      "kp_id": "4621",
+      "imdb_id": "tt0134983",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-11-13 12:37:28",
+      "orig_title": "Supernova",
+      "year": "2000-01-14",
+      "translations": [
         "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Полное дублирование (ТВ3)",
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Original (English)",
+        "Любительский (одноголосый закадровый)",
+        "Профессиональный (двухголосый закадровый) (НТВ)",
+        "Профессиональный (двухголосый закадровый) (Союз Видео)",
+        "Профессиональный (многоголосый закадровый) (DDV)"
       ],
       "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (LakeFilms)",
-      "update": "2021-03-30 18:48:46",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-03-31 09:33:14",
       "iframe_src": ""
     },
     {
@@ -769,6 +737,61 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2021-03-31 07:50:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 3326,
+      "title": "В джазе только девушки",
+      "kp_id": "356",
+      "imdb_id": "tt0053291",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-23 11:21:51",
+      "orig_title": "Some Like It Hot",
+      "year": "1959-03-19",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Original (English)",
+        "Любительский (одноголосый закадровый) (Огородников Валерий | Лектор)",
+        "Профессиональный (двухголосый закадровый)",
+        "Профессиональный (двухголосый закадровый) (НТВ)",
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Позитив)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-03-31 09:12:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 2120,
+      "title": "Братья Гримм",
+      "kp_id": "13469",
+      "imdb_id": "tt0355295",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-12 17:45:27",
+      "orig_title": "The Brothers Grimm",
+      "year": "2005-08-26",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Авторский (одноголосый закадровый) (Гранкин Евгений)",
+        "Авторский (одноголосый закадровый) (Рябов Сергей)",
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Полное дублирование (Пифагор)",
+        "Original (English)",
+        "Любительский (одноголосый закадровый) (Солодухин Евгений | Solod)",
+        "Профессиональный (двухголосый закадровый) (Гланц + Королёва)",
+        "Профессиональный (двухголосый закадровый) (Tycoon)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-03-31 09:43:02",
       "iframe_src": ""
     }
   ]
