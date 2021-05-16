@@ -1,6 +1,25 @@
 {
   "data": [
     {
+      "id": 43961,
+      "title": "Подушка с дурманом",
+      "kp_id": "21932",
+      "imdb_id": "tt0115487",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-29 15:22:56",
+      "orig_title": "Airbag",
+      "year": "1997-06-20",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Карповский Антон)",
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Карповский Антон)",
+      "update": "2020-11-10 11:45:18",
+      "iframe_src": ""
+    },
+    {
       "id": 43490,
       "title": "Паркер Кейн",
       "kp_id": "326153",
@@ -17,25 +36,6 @@
       "quality": "hdtv",
       "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
       "update": "2020-11-10 10:58:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 43474,
-      "title": "Париж горит",
-      "kp_id": "61132",
-      "imdb_id": "tt0100332",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-13 18:32:16",
-      "orig_title": "Paris Is Burning",
-      "year": "1990-06-09",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
-      "update": "2020-11-10 08:30:06",
       "iframe_src": ""
     },
     {
@@ -115,22 +115,23 @@
       "iframe_src": ""
     },
     {
-      "id": 42938,
-      "title": "Страшный покойник",
-      "kp_id": "60318",
-      "imdb_id": "tt0091898",
+      "id": 42978,
+      "title": "Аламо",
+      "kp_id": "1356",
+      "imdb_id": "tt0053580",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-08-30 20:06:30",
-      "orig_title": "Scared Stiff",
-      "year": "1987-05-15",
+      "add": "2020-08-31 12:49:38",
+      "orig_title": "The Alamo",
+      "year": "1960-10-24",
       "translations": [
-        "Авторский (одноголосый закадровый) (Дольский Андрей)",
-        "Original (English)"
+        "Профессиональный (двухголосый закадровый)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый) (НТВ)"
       ],
-      "quality": "bd",
-      "translation": "Авторский (одноголосый закадровый) (Дольский Андрей)",
-      "update": "2020-11-10 08:34:54",
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-11-10 11:46:19",
       "iframe_src": ""
     },
     {
@@ -188,25 +189,6 @@
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый)",
       "update": "2020-11-10 09:27:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 42832,
-      "title": "Шёлк",
-      "kp_id": "232441",
-      "imdb_id": "tt0091957",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 17:18:04",
-      "orig_title": "Silk",
-      "year": "1986-12-01",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Sephiroth)",
-        "Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (Sephiroth)",
-      "update": "2020-11-10 08:35:42",
       "iframe_src": ""
     },
     {
@@ -270,6 +252,25 @@
       "iframe_src": ""
     },
     {
+      "id": 4314,
+      "title": "Моя семья и другие животные",
+      "kp_id": "464914",
+      "imdb_id": "tt0166450",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-25 23:43:09",
+      "orig_title": "My Family and Other Animals",
+      "year": "1987-10-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2019-03-26 04:30:58",
+      "iframe_src": ""
+    },
+    {
       "id": 4306,
       "title": "Тишина",
       "kp_id": "567093",
@@ -286,6 +287,25 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2019-03-25 07:10:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 4305,
+      "title": "Под Большой медведицей",
+      "kp_id": "423002",
+      "imdb_id": "tt4394024",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-23 06:36:27",
+      "orig_title": "Pod Bolshoy medveditsey",
+      "year": "2006-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2019-03-25 14:39:20",
       "iframe_src": ""
     },
     {
@@ -441,6 +461,27 @@
       "iframe_src": ""
     },
     {
+      "id": 4291,
+      "title": "Гетто",
+      "kp_id": "401157",
+      "imdb_id": "tt0373732",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-20 15:01:53",
+      "orig_title": "The Boondocks",
+      "year": "2005-11-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (2x2)",
+        "Любительский (многоголосый закадровый)"
+      ],
+      "seasons_count": 4,
+      "episodes_count": 55,
+      "episodes": 10,
+      "update": "2019-03-25 17:52:53",
+      "iframe_src": ""
+    },
+    {
       "id": 4290,
       "title": "Звезда, покорившая Луну 2",
       "kp_id": null,
@@ -479,25 +520,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4288,
-      "title": "Кубик-рубик",
-      "kp_id": null,
-      "imdb_id": "tt8805588",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-20 14:38:28",
-      "orig_title": "Cubic",
-      "year": "2014-01-01",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Julia Prosenuk)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2019-03-21 10:51:00",
-      "iframe_src": ""
-    },
-    {
       "id": 4287,
       "title": "Ангелы в Америке",
       "kp_id": "103151",
@@ -533,44 +555,6 @@
       "episodes_count": 3,
       "episodes": 3,
       "update": "2019-03-21 20:25:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 4273,
-      "title": "Дно",
-      "kp_id": "1118069",
-      "imdb_id": "tt7999996",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-17 21:49:27",
-      "orig_title": "Dip",
-      "year": "2018-03-30",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2019-03-20 19:50:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 4272,
-      "title": "Сестра Золушки",
-      "kp_id": "574890",
-      "imdb_id": "tt2299807",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-17 21:36:10",
-      "orig_title": "Cinderella's Sister",
-      "year": "2019-03-31",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2019-03-20 19:58:58",
       "iframe_src": ""
     },
     {
@@ -670,6 +654,28 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-11-10 10:59:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 18185,
+      "title": "Пожиратели плоти 2",
+      "kp_id": "36715",
+      "imdb_id": "tt0096511",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-09 00:10:52",
+      "orig_title": "Zombi 3",
+      "year": "1988-07-29",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Штейн Владимир)",
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+      "update": "2020-11-10 11:43:28",
       "iframe_src": ""
     },
     {

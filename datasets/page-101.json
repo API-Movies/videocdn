@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 49247,
+      "title": "Осенний сон",
+      "kp_id": null,
+      "imdb_id": "tt11788294",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-31 20:38:08",
+      "orig_title": "Autumnal Sleeps",
+      "year": "2019-12-06",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-03-31 21:39:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 49245,
+      "title": "Товар",
+      "kp_id": "936710",
+      "imdb_id": "tt5069194",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-03-31 20:31:37",
+      "orig_title": "Gear",
+      "year": "2017-10-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-03-31 21:38:46",
+      "iframe_src": ""
+    },
+    {
       "id": 49239,
       "title": "Вне рая",
       "kp_id": "1080614",
@@ -200,6 +236,25 @@
       "iframe_src": ""
     },
     {
+      "id": 9298,
+      "title": "BBC: Ганг",
+      "kp_id": "464905",
+      "imdb_id": "tt1307922",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-11-16 15:15:58",
+      "orig_title": "Ganges",
+      "year": "2007-08-01",
+      "translations": [
+        "Профессиональный (одноголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2020-11-17 05:52:09",
+      "iframe_src": ""
+    },
+    {
       "id": 9288,
       "title": "Средство от смерти",
       "kp_id": "688073",
@@ -216,44 +271,6 @@
       "episodes_count": 16,
       "episodes": 16,
       "update": "2020-11-16 07:28:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 9285,
-      "title": "Различие",
-      "kp_id": "1328345",
-      "imdb_id": "tt11301642",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-14 13:40:47",
-      "orig_title": "Bir Baskadir",
-      "year": "2020-11-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-11-14 20:26:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 9283,
-      "title": "Война женщин",
-      "kp_id": "416792",
-      "imdb_id": "tt0312139",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-11-14 11:38:52",
-      "orig_title": "Guerra de Mujeres",
-      "year": "2001-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 141,
-      "episodes": 141,
-      "update": "2020-11-14 19:44:28",
       "iframe_src": ""
     },
     {
@@ -457,23 +474,66 @@
       "iframe_src": ""
     },
     {
-      "id": 6793,
-      "title": "Глюкотехники",
-      "kp_id": "1356066",
-      "imdb_id": "tt7697062",
+      "id": 8303,
+      "title": "Под прикрытием",
+      "kp_id": "1252420",
+      "imdb_id": "tt7263154",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-03-05 19:30:59",
-      "orig_title": "Glitch Techs",
-      "year": "2020-02-21",
+      "add": "2020-07-31 11:04:14",
+      "orig_title": "Undercover",
+      "year": "2019-02-24",
       "translations": [
-        "Любительский (многоголосый закадровый) (NewStation)",
-        "Любительский (многоголосый закадровый) (Flarrow Films)"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (двухголосый закадровый) (ViruseProject)",
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Профессиональный (двухголосый закадровый) (Gears Media)",
+        "Любительский (двухголосый закадровый) (KerobTV)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
       ],
       "seasons_count": 2,
-      "episodes_count": 19,
+      "episodes_count": 20,
       "episodes": 10,
-      "update": "2020-11-14 20:01:13",
+      "update": "2020-11-17 06:51:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 39333,
+      "title": "Бичи в Майами",
+      "kp_id": "1307770",
+      "imdb_id": "tt10993566",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-15 06:47:08",
+      "orig_title": "Miami Bici",
+      "year": "2020-02-21",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)",
+        "Любительский (одноголосый закадровый) (porcellus)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2021-04-01 06:07:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 39246,
+      "title": "Приходи в сентябре",
+      "kp_id": "29679",
+      "imdb_id": "tt0054759",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-13 09:57:53",
+      "orig_title": "Come September",
+      "year": "1961-08-09",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-04-01 06:14:40",
       "iframe_src": ""
     },
     {
@@ -498,6 +558,48 @@
       "episodes_count": 31,
       "episodes": 8,
       "update": "2020-11-15 22:21:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 6098,
+      "title": "История хоррора с Элаем Ротом",
+      "kp_id": "1202991",
+      "imdb_id": "tt7406320",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-12-21 22:21:25",
+      "orig_title": "History of Horror",
+      "year": "2018-10-14",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
+        "Профессиональный (двухголосый закадровый) (IdeaFilm)",
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (многоголосый закадровый) (Ozz.tv)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 13,
+      "episodes": 6,
+      "update": "2020-11-17 04:48:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 5487,
+      "title": "Тебе не спрятаться",
+      "kp_id": "1277297",
+      "imdb_id": "tt10367990",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-17 19:51:09",
+      "orig_title": "No te puedes esconder",
+      "year": "2019-09-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Профессиональный (двухголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2020-11-17 06:54:05",
       "iframe_src": ""
     },
     {
@@ -558,85 +660,6 @@
       "iframe_src": ""
     },
     {
-      "id": 21943,
-      "title": "Нас не проведешь",
-      "kp_id": "1151378",
-      "imdb_id": "tt8097306",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-30 18:57:33",
-      "orig_title": "Nobody's Fool",
-      "year": "2018-10-31",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Полное дублирование (iTunes)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-03-31 14:18:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 21930,
-      "title": "Убийственная вечеринка",
-      "kp_id": "1148761",
-      "imdb_id": "tt8236214",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-30 04:42:40",
-      "orig_title": "Slasher Party",
-      "year": "2019-01-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2021-03-31 14:17:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 21855,
-      "title": "Катастрофа \"Челленджера\"",
-      "kp_id": "1127531",
-      "imdb_id": "tt7783966",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-27 00:14:20",
-      "orig_title": "The Challenger Disaster",
-      "year": "2019-01-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2021-03-31 14:17:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 21721,
-      "title": "Новый роман",
-      "kp_id": "1065346",
-      "imdb_id": "tt7456534",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-01-21 22:41:45",
-      "orig_title": "The New Romantic",
-      "year": "2018-03-11",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (iTunes)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (iTunes)",
-      "update": "2021-03-31 14:17:18",
-      "iframe_src": ""
-    },
-    {
       "id": 21609,
       "title": "Ио",
       "kp_id": "806417",
@@ -673,27 +696,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-03-31 14:20:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 3805,
-      "title": "Вера",
-      "kp_id": "692425",
-      "imdb_id": "tt2373094",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-01-01 15:23:22",
-      "orig_title": "Shinui",
-      "year": "2012-08-13",
-      "translations": [
-        "Любительский (двухголосый закадровый) (GREEN TEA)",
-        "Любительский (двухголосый закадровый) (Amazing Dubbing)",
-        "Профессиональный (многоголосый закадровый) (Мобильное телевидение)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 24,
-      "episodes": 24,
-      "update": "2020-11-14 21:24:19",
       "iframe_src": ""
     },
     {

@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": 46750,
-      "title": "Человек, который брал интервью",
-      "kp_id": "45474",
-      "imdb_id": "tt0275254",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-06 17:54:02",
-      "orig_title": "Chelovek, kotoryy bral intervyu",
-      "year": "1987-06-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvb",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-08 07:55:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 46749,
-      "title": "Снайпер",
-      "kp_id": "43886",
-      "imdb_id": "tt0129386",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-06 17:51:44",
-      "orig_title": "Snayper",
-      "year": "1932-01-02",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-08 07:59:03",
-      "iframe_src": ""
-    },
-    {
       "id": 46748,
       "title": "Поддубенские частушки",
       "kp_id": "43043",
@@ -145,6 +109,44 @@
       "iframe_src": ""
     },
     {
+      "id": 45728,
+      "title": "Последний закат",
+      "kp_id": "11935",
+      "imdb_id": "tt0055073",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-01 09:35:06",
+      "orig_title": "The Last Sunset",
+      "year": "1961-06-08",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Selena International)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Selena International)",
+      "update": "2021-01-08 08:29:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 45713,
+      "title": "На линии огня",
+      "kp_id": "1384",
+      "imdb_id": "tt0036824",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-30 15:53:49",
+      "orig_title": "The Fighting Seabees",
+      "year": "1944-01-27",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-08 08:31:50",
+      "iframe_src": ""
+    },
+    {
       "id": 45711,
       "title": "Трансеры 2",
       "kp_id": "22225",
@@ -180,6 +182,25 @@
       "quality": "bd",
       "translation": "Профессиональный (двухголосый закадровый) (Варус-Видео)",
       "update": "2021-01-08 08:26:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 45708,
+      "title": "Горбун Собора Парижской Богоматери",
+      "kp_id": "8429",
+      "imdb_id": "tt0031455",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-30 14:59:35",
+      "orig_title": "The Hunchback of Notre Dame",
+      "year": "1939-08-31",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (DVD Classic)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (DVD Classic)",
+      "update": "2021-01-08 08:31:06",
       "iframe_src": ""
     },
     {
@@ -397,6 +418,25 @@
       "iframe_src": ""
     },
     {
+      "id": 6411,
+      "title": "Монстры и пираты",
+      "kp_id": "469548",
+      "imdb_id": "tt4763634",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-20 12:45:29",
+      "orig_title": "Monsters & Pirates",
+      "year": "2009-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 26,
+      "episodes": 26,
+      "update": "2020-01-20 20:59:02",
+      "iframe_src": ""
+    },
+    {
       "id": 6409,
       "title": "Возвращение в Эдем",
       "kp_id": "79456",
@@ -413,6 +453,25 @@
       "episodes_count": 3,
       "episodes": 3,
       "update": "2020-01-20 20:41:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 6408,
+      "title": "Возвращение в Эдем 2",
+      "kp_id": "408419",
+      "imdb_id": "tt0423723",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-20 09:44:32",
+      "orig_title": "Return to Eden",
+      "year": "1986-02-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 22,
+      "episodes": 22,
+      "update": "2020-01-20 20:48:10",
       "iframe_src": ""
     },
     {
@@ -514,22 +573,22 @@
       "iframe_src": ""
     },
     {
-      "id": 6383,
-      "title": "Девочки мои",
-      "kp_id": "1231444",
-      "imdb_id": "tt9553030",
+      "id": 6371,
+      "title": "Естественный отбор",
+      "kp_id": "449444",
+      "imdb_id": "tt4445864",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-01-17 13:33:05",
-      "orig_title": "Devochki moi",
-      "year": "2018-12-22",
+      "add": "2020-01-16 17:36:26",
+      "orig_title": "Естественный отбор",
+      "year": "2011-06-23",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2020-01-18 07:32:20",
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2020-01-20 21:27:16",
       "iframe_src": ""
     },
     {
@@ -590,25 +649,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6335,
-      "title": "Про Веру",
-      "kp_id": "993594",
-      "imdb_id": "tt7025644",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-13 12:45:56",
-      "orig_title": "Pro Veru",
-      "year": "2020-01-13",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-01-18 07:55:59",
-      "iframe_src": ""
-    },
-    {
       "id": 6316,
       "title": "Физика или химия",
       "kp_id": "481554",
@@ -650,30 +690,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5964,
-      "title": "По правде говоря",
-      "kp_id": "1140088",
-      "imdb_id": "tt7821582",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-12-06 21:54:38",
-      "orig_title": "Truth Be Told",
-      "year": "2019-12-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Профессиональный (двухголосый закадровый) (Gears Media)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Любительский (многоголосый закадровый) (Octopus)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-01-18 07:36:51",
-      "iframe_src": ""
-    },
-    {
       "id": 5473,
       "title": "Дублинские убийства",
       "kp_id": "1301516",
@@ -712,24 +728,6 @@
       "episodes_count": 14,
       "episodes": 14,
       "update": "2020-01-19 07:51:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 24943,
-      "title": "Снайперы",
-      "kp_id": "43887",
-      "imdb_id": "tt0175183",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-04-20 21:29:57",
-      "orig_title": "Snaypery",
-      "year": "1986-02-14",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-08 07:54:26",
       "iframe_src": ""
     },
     {

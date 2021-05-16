@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 46636,
+      "title": "Minor Premise",
+      "kp_id": "1395511",
+      "imdb_id": "tt12680508",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-03 15:09:57",
+      "orig_title": "Minor Premise",
+      "year": "2020-08-29",
+      "translations": [
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Original (English)",
+      "update": "2021-01-04 11:32:41",
+      "iframe_src": ""
+    },
+    {
       "id": 46635,
       "title": "Рождественская свадьба",
       "kp_id": "697448",
@@ -16,24 +34,6 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
       "update": "2021-01-04 11:07:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 46625,
-      "title": "Миф",
-      "kp_id": "1320566",
-      "imdb_id": "tt11229134",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-03 09:21:08",
-      "orig_title": "Durgamati: The Myth",
-      "year": "2020-12-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (FanStudio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (FanStudio)",
-      "update": "2021-01-04 10:57:53",
       "iframe_src": ""
     },
     {
@@ -155,25 +155,6 @@
       "iframe_src": ""
     },
     {
-      "id": 44926,
-      "title": "Вдова",
-      "kp_id": "999460",
-      "imdb_id": "tt12057234",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-01 09:31:59",
-      "orig_title": "Vdova",
-      "year": "2020-10-29",
-      "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "ts",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-04 10:50:45",
-      "iframe_src": ""
-    },
-    {
       "id": 44674,
       "title": "Преступить черту",
       "kp_id": "936653",
@@ -210,25 +191,6 @@
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
       "update": "2021-01-04 11:20:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 42974,
-      "title": "Деньги не пахнут",
-      "kp_id": "1245849",
-      "imdb_id": "tt9894894",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-31 07:48:47",
-      "orig_title": "Kaviar",
-      "year": "2019-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Профессиональный (многоголосый закадровый) (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2021-01-04 10:56:58",
       "iframe_src": ""
     },
     {
@@ -296,6 +258,26 @@
       "iframe_src": ""
     },
     {
+      "id": 39143,
+      "title": "8 кусков",
+      "kp_id": "1143625",
+      "imdb_id": "tt7906978",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-11 04:23:43",
+      "orig_title": "8 Slices",
+      "year": "2019-02-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Профессиональный (многоголосый закадровый) (IVI)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-04 11:33:23",
+      "iframe_src": ""
+    },
+    {
       "id": 39010,
       "title": "Пункт назначения. Аквапарк",
       "kp_id": "1068711",
@@ -312,6 +294,64 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-01-04 11:04:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 6199,
+      "title": "Русские амазонки",
+      "kp_id": "439962",
+      "imdb_id": "tt4763252",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-02 09:05:52",
+      "orig_title": "Russkie amazonki",
+      "year": "2002-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 24,
+      "episodes": 12,
+      "update": "2020-01-02 13:00:02",
+      "iframe_src": ""
+    },
+    {
+      "id": 6194,
+      "title": "Цена жизни",
+      "kp_id": "702742",
+      "imdb_id": "tt2346574",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-01 12:36:29",
+      "orig_title": "Tsena zhizni",
+      "year": "2013-10-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2020-01-01 13:43:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 6193,
+      "title": "Сосед",
+      "kp_id": "1236775",
+      "imdb_id": "tt9731222",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-01 07:27:47",
+      "orig_title": "El vecino",
+      "year": "2019-12-31",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2020-01-01 15:38:31",
       "iframe_src": ""
     },
     {
@@ -391,25 +431,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6185,
-      "title": "Бомбила. Продолжение",
-      "kp_id": "743541",
-      "imdb_id": "tt3218382",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-12-30 08:38:23",
-      "orig_title": "Bombila. Prodolzhenie",
-      "year": "2013-08-26",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 24,
-      "episodes": 24,
-      "update": "2019-12-30 11:28:08",
-      "iframe_src": ""
-    },
-    {
       "id": 6184,
       "title": "Дворняжка Ляля",
       "kp_id": "841559",
@@ -464,25 +485,6 @@
       "episodes_count": 89,
       "episodes": 89,
       "update": "2019-12-30 20:38:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 6180,
-      "title": "BBC: Самые таинственные убийства",
-      "kp_id": "299292",
-      "imdb_id": "tt9141642",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-12-30 06:44:36",
-      "orig_title": "Julian Fellowes Investigates: A Most Mysterious Murder - The Case of Charles Bravo",
-      "year": "2004-10-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 5,
-      "episodes": 5,
-      "update": "2019-12-30 10:07:51",
       "iframe_src": ""
     },
     {
@@ -657,25 +659,6 @@
       "iframe_src": ""
     },
     {
-      "id": 4619,
-      "title": "Короче",
-      "kp_id": "1197711",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-06-03 08:21:28",
-      "orig_title": "Короче",
-      "year": "2019-06-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2019-12-30 08:58:04",
-      "iframe_src": ""
-    },
-    {
       "id": 2076,
       "title": "Чума",
       "kp_id": "1112543",
@@ -713,6 +696,26 @@
       "episodes_count": 20,
       "episodes": 10,
       "update": "2019-12-31 08:28:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 11996,
+      "title": "Охотник на зомби",
+      "kp_id": "714436",
+      "imdb_id": "tt2446502",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-06-18 07:00:27",
+      "orig_title": "Zombie Hunter",
+      "year": "2013-07-26",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)",
+        "Профессиональный (многоголосый закадровый) (НТВ)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2021-01-04 11:31:22",
       "iframe_src": ""
     },
     {

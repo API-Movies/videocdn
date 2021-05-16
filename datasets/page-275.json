@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 46755,
+      "title": "Ножовка",
+      "kp_id": "1147238",
+      "imdb_id": "tt7736042",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-06 21:42:35",
+      "orig_title": "Hacksaw",
+      "year": "2021-01-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-07 07:09:24",
+      "iframe_src": ""
+    },
+    {
       "id": 46728,
       "title": "Проклятие Ла Йороны",
       "kp_id": "1442099",
@@ -52,42 +70,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-01-06 22:01:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 46706,
-      "title": "Встреча в ущелье смерти",
-      "kp_id": "45935",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-05 16:31:02",
-      "orig_title": "Встреча в ущелье смерти",
-      "year": "1980-12-04",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-06 10:59:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 46705,
-      "title": "Генерал Рахимов",
-      "kp_id": "44485",
-      "imdb_id": "tt0347053",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-05 16:27:36",
-      "orig_title": "General Rakhimov",
-      "year": "1968-02-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-06 10:58:55",
       "iframe_src": ""
     },
     {
@@ -404,6 +386,26 @@
       "iframe_src": ""
     },
     {
+      "id": 6315,
+      "title": "Приключения Сары Джейн",
+      "kp_id": "431245",
+      "imdb_id": "tt0862620",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-11 12:20:55",
+      "orig_title": "The Sarah Jane Adventures",
+      "year": "2007-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (ВГТРК)"
+      ],
+      "seasons_count": 5,
+      "episodes_count": 53,
+      "episodes": 6,
+      "update": "2020-01-12 17:46:05",
+      "iframe_src": ""
+    },
+    {
       "id": 6307,
       "title": "Две жены",
       "kp_id": "1097468",
@@ -538,25 +540,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6295,
-      "title": "Легион экстраординарных танцоров",
-      "kp_id": "571317",
-      "imdb_id": "tt1743034",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-09 19:46:11",
-      "orig_title": "The LXD: The Legion of Extraordinary Dancers",
-      "year": "2010-07-07",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СТС)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 20,
-      "episodes": 10,
-      "update": "2020-01-10 12:37:34",
-      "iframe_src": ""
-    },
-    {
       "id": 6293,
       "title": "Хостел Дейз",
       "kp_id": "1330988",
@@ -634,22 +617,22 @@
       "iframe_src": ""
     },
     {
-      "id": 6280,
-      "title": "Тайный знак",
-      "kp_id": "276272",
-      "imdb_id": "tt2842958",
+      "id": 6276,
+      "title": "Династия",
+      "kp_id": "161278",
+      "imdb_id": "tt0081856",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-01-09 08:42:00",
-      "orig_title": "Taynyy znak",
-      "year": "2002-04-01",
+      "add": "2020-01-08 20:12:19",
+      "orig_title": "Dynasty",
+      "year": "1981-01-12",
       "translations": [
-        "Оригинальная дорожка"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "seasons_count": 3,
-      "episodes_count": 24,
-      "episodes": 8,
-      "update": "2020-01-10 12:50:53",
+      "seasons_count": 9,
+      "episodes_count": 216,
+      "episodes": 22,
+      "update": "2020-01-12 14:34:56",
       "iframe_src": ""
     },
     {
@@ -672,6 +655,25 @@
       "iframe_src": ""
     },
     {
+      "id": 6128,
+      "title": "Смурфики",
+      "kp_id": "392517",
+      "imdb_id": "tt0081933",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-12-24 17:52:16",
+      "orig_title": "Smurfs",
+      "year": "1981-09-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 9,
+      "episodes_count": 235,
+      "episodes": 23,
+      "update": "2020-01-12 18:11:47",
+      "iframe_src": ""
+    },
+    {
       "id": 5598,
       "title": "Виноград",
       "kp_id": "1243570",
@@ -688,6 +690,25 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2020-01-11 17:48:22",
+      "iframe_src": ""
+    },
+    {
+      "id": 31358,
+      "title": "Ночь в Касабланке",
+      "kp_id": "1741",
+      "imdb_id": "tt0038777",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-09-30 21:17:12",
+      "orig_title": "A Night in Casablanca",
+      "year": "1946-05-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-07 07:08:25",
       "iframe_src": ""
     },
     {
@@ -712,41 +733,22 @@
       "iframe_src": ""
     },
     {
-      "id": 5203,
-      "title": "Чема",
-      "kp_id": "1009621",
-      "imdb_id": "tt5730624",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-09-16 10:14:10",
-      "orig_title": "El Chema",
-      "year": "2016-12-06",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 11,
-      "episodes": 11,
-      "update": "2020-01-10 12:31:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 26241,
-      "title": "В 26-го не стрелять",
-      "kp_id": "45582",
-      "imdb_id": "tt0170744",
+      "id": 25220,
+      "title": "Сюрприз",
+      "kp_id": "455587",
+      "imdb_id": "tt2120146",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-05-09 21:21:15",
-      "orig_title": "V 26-go ne strelyat",
-      "year": "1967-06-02",
+      "add": "2019-04-23 21:04:14",
+      "orig_title": "Syurpriz",
+      "year": "2008-01-01",
       "translations": [
         "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
-      "quality": "sat",
+      "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
-      "update": "2021-01-06 10:58:22",
+      "update": "2021-01-07 07:09:36",
       "iframe_src": ""
     },
     {

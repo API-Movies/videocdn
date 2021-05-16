@@ -1,60 +1,6 @@
 {
   "data": [
     {
-      "id": 43342,
-      "title": "Хочу быть дирижером",
-      "kp_id": "221807",
-      "imdb_id": "tt0042569",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-09 09:38:10",
-      "orig_title": "Tom and Jerry in the Hollywood Bowl",
-      "year": "1950-09-16",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-09-10 08:35:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 43341,
-      "title": "Любимая косточка",
-      "kp_id": "221806",
-      "imdb_id": "tt0042476",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-09 09:36:24",
-      "orig_title": "The Framed Cat",
-      "year": "1950-10-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-09-10 08:37:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 43340,
-      "title": "Однажды в бильярдной",
-      "kp_id": "221805",
-      "imdb_id": "tt0042360",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-09 09:34:32",
-      "orig_title": "Cue Ball Cat",
-      "year": "1950-11-25",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-09-10 08:38:51",
-      "iframe_src": ""
-    },
-    {
       "id": 43339,
       "title": "Кот-соблазнитель",
       "kp_id": "205535",
@@ -239,6 +185,44 @@
       "iframe_src": ""
     },
     {
+      "id": 43102,
+      "title": "Обмен",
+      "kp_id": "1162497",
+      "imdb_id": "tt8068826",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 10:19:12",
+      "orig_title": "Switched",
+      "year": "2020-08-13",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-10 12:25:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 43101,
+      "title": "Аргумент",
+      "kp_id": "1263455",
+      "imdb_id": "tt10307856",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-06 09:51:37",
+      "orig_title": "The Argument",
+      "year": "2020-09-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-09-10 12:37:44",
+      "iframe_src": ""
+    },
+    {
       "id": 43083,
       "title": "Старше",
       "kp_id": "823869",
@@ -255,6 +239,25 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-09-10 12:16:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 43080,
+      "title": "Всё ещё здесь",
+      "kp_id": "917930",
+      "imdb_id": "tt4789618",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-04 19:19:17",
+      "orig_title": "Still Here",
+      "year": "2020-08-27",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-09-10 12:23:00",
       "iframe_src": ""
     },
     {
@@ -413,6 +416,44 @@
       "iframe_src": ""
     },
     {
+      "id": 1779,
+      "title": "Социопат",
+      "kp_id": "757563",
+      "imdb_id": "tt2355844",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-11-28 10:07:24",
+      "orig_title": "Twisted",
+      "year": "2013-06-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SET)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 19,
+      "episodes": 19,
+      "update": "2017-11-30 07:26:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 1775,
+      "title": "Небо и земля",
+      "kp_id": "79570",
+      "imdb_id": "tt0406445",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-11-27 17:37:44",
+      "orig_title": "Nebo i zemlya",
+      "year": "2004-03-22",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2017-11-29 16:56:01",
+      "iframe_src": ""
+    },
+    {
       "id": 1774,
       "title": "Тайга. Курс выживания",
       "kp_id": "405633",
@@ -505,6 +546,27 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2017-11-28 12:44:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 1765,
+      "title": "Байки из склепа",
+      "kp_id": "271501",
+      "imdb_id": "tt0096708",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-11-24 21:21:24",
+      "orig_title": "Tales from the Crypt",
+      "year": "1989-06-10",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Позитив)",
+        "Профессиональный (многоголосый закадровый) (ТВ3)",
+        "Профессиональный (многоголосый закадровый) (НТВ)"
+      ],
+      "seasons_count": 7,
+      "episodes_count": 93,
+      "episodes": 13,
+      "update": "2017-11-29 19:09:17",
       "iframe_src": ""
     },
     {
@@ -622,44 +684,6 @@
       "iframe_src": ""
     },
     {
-      "id": 1753,
-      "title": "Башня Познания",
-      "kp_id": "477595",
-      "imdb_id": "tt1480669",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-11-21 05:52:47",
-      "orig_title": "Tower Prep",
-      "year": "2010-10-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СТС)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2017-11-22 13:23:14",
-      "iframe_src": ""
-    },
-    {
-      "id": 1749,
-      "title": "Чудотворец",
-      "kp_id": "837647",
-      "imdb_id": "tt4195046",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-11-20 05:26:35",
-      "orig_title": "Chudotvorets",
-      "year": "2014-10-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2017-11-21 09:33:15",
-      "iframe_src": ""
-    },
-    {
       "id": 1738,
       "title": "Спецы",
       "kp_id": "1100365",
@@ -676,25 +700,6 @@
       "episodes_count": 20,
       "episodes": 20,
       "update": "2017-11-23 12:33:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 1615,
-      "title": "Вымирание",
-      "kp_id": "1000181",
-      "imdb_id": "tt5926494",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-10-09 07:35:10",
-      "orig_title": "Extinct",
-      "year": "2017-10-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2017-11-22 12:59:05",
       "iframe_src": ""
     },
     {

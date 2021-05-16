@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 42871,
+      "title": "Взлёты и падения: отбросы",
+      "kp_id": "1320551",
+      "imdb_id": "tt11135936",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-28 08:08:37",
+      "orig_title": "High & Low: The Worst",
+      "year": "2019-10-04",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-08-28 10:08:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 42870,
+      "title": "В ловушке: День ужаса",
+      "kp_id": "1276382",
+      "imdb_id": "tt10425358",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-08-28 08:08:02",
+      "orig_title": "Entrapped: a day of terror",
+      "year": "2019-07-04",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2020-08-28 10:08:04",
+      "iframe_src": ""
+    },
+    {
       "id": 42869,
       "title": "Моя первая свадьба",
       "kp_id": "77722",
@@ -88,60 +124,6 @@
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
       "update": "2020-08-28 05:07:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 42861,
-      "title": "Тебе, Москва!",
-      "kp_id": "627791",
-      "imdb_id": "tt1943018",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 21:44:07",
-      "orig_title": "To You, Moscow",
-      "year": "1947-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-28 05:05:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 42860,
-      "title": "Терехина таратайка",
-      "kp_id": "644949",
-      "imdb_id": "tt7002462",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 21:40:43",
-      "orig_title": "Teryokhina taratayka",
-      "year": "1985-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-28 05:04:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 42859,
-      "title": "Тихая пристань",
-      "kp_id": "818435",
-      "imdb_id": "tt7003564",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-08-27 21:38:06",
-      "orig_title": "Tikhaya pristan",
-      "year": "1957-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-08-28 05:03:59",
       "iframe_src": ""
     },
     {
@@ -362,6 +344,63 @@
       "iframe_src": ""
     },
     {
+      "id": 1124,
+      "title": "Брачные игры",
+      "kp_id": "1026110",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-03-21 05:22:57",
+      "orig_title": "Брачные игры",
+      "year": "2017-03-11",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2017-03-22 05:13:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 1123,
+      "title": "Вера",
+      "kp_id": "1026224",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-03-21 05:20:51",
+      "orig_title": "Вера",
+      "year": "2017-03-12",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2017-03-22 05:09:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 1122,
+      "title": "Родное сердце",
+      "kp_id": "1039202",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-03-21 05:16:16",
+      "orig_title": "Родное сердце",
+      "year": "2017-03-19",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2017-03-22 05:06:34",
+      "iframe_src": ""
+    },
+    {
       "id": 1121,
       "title": "Напрасные надежды",
       "kp_id": "1039201",
@@ -454,25 +493,6 @@
       "episodes_count": 2,
       "episodes": 2,
       "update": "2017-03-16 11:25:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 1109,
-      "title": "Я никогда не плачу",
-      "kp_id": "1009650",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-03-15 06:19:31",
-      "orig_title": "Я никогда не плачу",
-      "year": "2017-02-04",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2017-03-15 11:11:35",
       "iframe_src": ""
     },
     {
@@ -647,44 +667,6 @@
       "iframe_src": ""
     },
     {
-      "id": 1098,
-      "title": "Дальнобойщики 2",
-      "kp_id": "446052",
-      "imdb_id": "tt4178954",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-03-13 12:10:05",
-      "orig_title": "Dalnoboyshiki dva",
-      "year": "2004-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2017-03-15 11:37:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 1097,
-      "title": "Дальнобойщики",
-      "kp_id": "94088",
-      "imdb_id": "tt0313055",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-03-13 12:07:51",
-      "orig_title": "Dalnoboyshchiki",
-      "year": "2001-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2017-03-15 06:36:39",
-      "iframe_src": ""
-    },
-    {
       "id": 1091,
       "title": "Мурка",
       "kp_id": "957472",
@@ -720,6 +702,28 @@
       "episodes_count": 26,
       "episodes": 26,
       "update": "2017-03-17 13:24:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 6474,
+      "title": "Синий бархат",
+      "kp_id": "5893",
+      "imdb_id": "tt0090756",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-19 16:26:52",
+      "orig_title": "Blue Velvet",
+      "year": "1986-08-30",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый) (НТВ)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-08-28 09:50:15",
       "iframe_src": ""
     },
     {

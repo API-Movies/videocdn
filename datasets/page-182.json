@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "id": 48172,
-      "title": "Нет",
-      "kp_id": "1144176",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-23 06:42:57",
-      "orig_title": "Нет",
-      "year": "2013-06-03",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-23 08:36:00",
-      "iframe_src": ""
-    },
-    {
       "id": 48171,
       "title": "Эвтаназия",
       "kp_id": "1272455",
@@ -37,21 +19,57 @@
       "iframe_src": ""
     },
     {
-      "id": 48169,
-      "title": "Чудак",
-      "kp_id": "96921",
-      "imdb_id": "tt0390929",
+      "id": 48168,
+      "title": "Месяц август",
+      "kp_id": "474544",
+      "imdb_id": "tt3238494",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-02-22 17:26:14",
-      "orig_title": "Bin Badal Barsaat",
-      "year": "1963-11-17",
+      "add": "2021-02-22 16:43:27",
+      "orig_title": "Mesyats avgust",
+      "year": "1972-05-29",
       "translations": [
-        "Профессиональный (многоголосый закадровый)"
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-02-23 09:11:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 48166,
+      "title": "Моя ошибка",
+      "kp_id": "994084",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-22 16:37:29",
+      "orig_title": "Моя ошибка",
+      "year": "1957-01-01",
+      "translations": [
+        "Оригинальная дорожка"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-02-23 08:11:06",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-02-23 09:10:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 48165,
+      "title": "Юбилейное танго",
+      "kp_id": "478828",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-02-22 16:33:49",
+      "orig_title": "Юбилейное танго",
+      "year": "1989-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "tv",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-02-23 09:08:43",
       "iframe_src": ""
     },
     {
@@ -106,42 +124,6 @@
       "quality": "dvb",
       "translation": "Оригинальная дорожка",
       "update": "2021-02-23 09:05:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 48155,
-      "title": "Кресты",
-      "kp_id": "1412524",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-22 12:53:18",
-      "orig_title": "Кресты",
-      "year": "2020-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-02-23 07:21:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 48154,
-      "title": "Возвращение на дикий пляж",
-      "kp_id": "35289",
-      "imdb_id": "tt0127759",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-22 12:34:15",
-      "orig_title": "L.E.T.H.A.L. Ladies: Return to Savage Beach",
-      "year": "2006-02-14",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "hdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2021-02-23 07:23:06",
       "iframe_src": ""
     },
     {
@@ -343,6 +325,25 @@
       "iframe_src": ""
     },
     {
+      "id": 7997,
+      "title": "Золотой запас",
+      "kp_id": "612711",
+      "imdb_id": "tt1926763",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-24 13:22:57",
+      "orig_title": "Zolotoy zapas",
+      "year": "2012-08-13",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 24,
+      "episodes": 24,
+      "update": "2020-06-25 13:44:14",
+      "iframe_src": ""
+    },
+    {
       "id": 7996,
       "title": "Верю",
       "kp_id": "690730",
@@ -476,44 +477,6 @@
       "iframe_src": ""
     },
     {
-      "id": 7969,
-      "title": "Параноик",
-      "kp_id": "989174",
-      "imdb_id": "tt5839454",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-06-22 06:52:06",
-      "orig_title": "Paranoid",
-      "year": "2016-09-22",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Project Web Mania)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-06-24 19:00:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 7954,
-      "title": "Зимнее Солнце",
-      "kp_id": "1007041",
-      "imdb_id": "tt7180934",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-06-19 12:00:07",
-      "orig_title": "Kış Güneşi",
-      "year": "2016-02-23",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Котова Ирина)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 18,
-      "episodes": 18,
-      "update": "2020-06-24 17:49:55",
-      "iframe_src": ""
-    },
-    {
       "id": 7928,
       "title": "Непобедимые",
       "kp_id": "739602",
@@ -549,6 +512,25 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2020-06-25 08:22:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 7926,
+      "title": "Последняя минута",
+      "kp_id": "577181",
+      "imdb_id": "tt4000528",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-17 10:30:25",
+      "orig_title": "Последняя минута",
+      "year": "2011-01-16",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2020-06-25 10:41:28",
       "iframe_src": ""
     },
     {
@@ -685,25 +667,45 @@
       "iframe_src": ""
     },
     {
-      "id": 7199,
-      "title": "Дьяволы",
-      "kp_id": "1186085",
-      "imdb_id": "tt7939218",
+      "id": 7541,
+      "title": "Всё ещё мертвы",
+      "kp_id": "1273165",
+      "imdb_id": "tt10413648",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-04-15 09:42:58",
-      "orig_title": "Devils",
-      "year": "2020-04-17",
+      "add": "2020-05-17 04:49:29",
+      "orig_title": "Dead Still",
+      "year": "2020-05-15",
       "translations": [
-        "Любительский (многоголосый закадровый) (KerobTV)",
-        "Любительский (многоголосый закадровый) (Octopus)",
         "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Профессиональный (многоголосый закадровый) (Кравец)"
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Профессиональный (многоголосый закадровый) (IdeaFilm)",
+        "Профессиональный (многоголосый закадровый) (TVShows)",
+        "Профессиональный (многоголосый закадровый) (Ozz.tv)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
       ],
       "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2020-06-24 19:00:27",
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-06-25 14:00:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 27359,
+      "title": "Гибель 31-го отдела",
+      "kp_id": "279558",
+      "imdb_id": "tt0193191",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-06-02 20:54:57",
+      "orig_title": "31. osakonna hukk",
+      "year": "1980-06-13",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "sat",
+      "translation": "Полное дублирование",
+      "update": "2021-02-23 09:12:36",
       "iframe_src": ""
     },
     {

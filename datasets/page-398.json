@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 44698,
+      "title": "Нечеловеческая природа",
+      "kp_id": null,
+      "imdb_id": "tt7637160",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-10-22 19:04:47",
+      "orig_title": "Unhuman Nature",
+      "year": "2020-10-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-10-23 03:02:27",
+      "iframe_src": ""
+    },
+    {
       "id": 44696,
       "title": "Первая любовь навсегда",
       "kp_id": "1274437",
@@ -145,24 +163,6 @@
       "iframe_src": ""
     },
     {
-      "id": 44634,
-      "title": "История пионового фонаря — невеста из ада",
-      "kp_id": "362632",
-      "imdb_id": "tt0163985",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-10-20 17:43:23",
-      "orig_title": "Botan-dorô",
-      "year": "1968-06-15",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Воротилин Олег)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Воротилин Олег)",
-      "update": "2020-10-22 09:50:48",
-      "iframe_src": ""
-    },
-    {
       "id": 44633,
       "title": "Не вижу смерти",
       "kp_id": "1275173",
@@ -289,39 +289,23 @@
       "iframe_src": ""
     },
     {
-      "id": 44624,
-      "title": "Смерть в старом особняке",
-      "kp_id": "99777",
-      "imdb_id": "tt0170011",
+      "id": 42903,
+      "title": "Кутёж",
+      "kp_id": "1307468",
+      "imdb_id": "tt10994688",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-10-20 12:46:18",
-      "orig_title": "Honjin satsujin jiken",
-      "year": "1976-06-01",
+      "add": "2020-08-29 06:23:20",
+      "orig_title": "The Binge",
+      "year": "2020-08-28",
       "translations": [
-        "Любительский (одноголосый закадровый) (Воротилин Олег)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Воротилин Олег)",
-      "update": "2020-10-22 09:48:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 44491,
-      "title": "Отт Тянак",
-      "kp_id": "1361482",
-      "imdb_id": "tt9904844",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-10-16 09:31:25",
-      "orig_title": "Ott Tänak: The Movie",
-      "year": "2019-04-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+        "Original (English)",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-10-22 09:45:24",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-10-23 07:02:09",
       "iframe_src": ""
     },
     {
@@ -360,6 +344,63 @@
       "quality": "dvdrip",
       "translation": "Оригинальная дорожка",
       "update": "2020-10-22 13:39:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 3465,
+      "title": "Лишь ты",
+      "kp_id": "793569",
+      "imdb_id": "tt3076512",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-07 23:29:41",
+      "orig_title": "Chiu shih yao ni ai shang wo",
+      "year": "2013-06-21",
+      "translations": [
+        "Любительский (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 21,
+      "episodes": 21,
+      "update": "2018-11-08 07:28:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 3464,
+      "title": "Набросок",
+      "kp_id": "1100381",
+      "imdb_id": "tt8269322",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-07 09:17:26",
+      "orig_title": "Seukechi",
+      "year": "2018-05-25",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 16,
+      "update": "2018-11-08 08:01:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 3463,
+      "title": "Маруся",
+      "kp_id": "1204207",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-07 09:13:56",
+      "orig_title": "Маруся",
+      "year": "2018-11-03",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2018-11-08 08:16:02",
       "iframe_src": ""
     },
     {
@@ -515,25 +556,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3442,
-      "title": "Взрослые женщины",
-      "kp_id": null,
-      "imdb_id": "tt4976536",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-11-04 21:57:04",
-      "orig_title": "Otona Joshi",
-      "year": "2015-10-15",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2018-11-05 12:15:25",
-      "iframe_src": ""
-    },
-    {
       "id": 3440,
       "title": "Безумный художник",
       "kp_id": "1048289",
@@ -588,25 +610,6 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2018-11-05 12:28:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 3416,
-      "title": "В чужом краю",
-      "kp_id": "1048987",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-30 20:19:58",
-      "orig_title": "В чужом краю",
-      "year": "2018-10-29",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2018-11-04 07:22:19",
       "iframe_src": ""
     },
     {
@@ -728,23 +731,24 @@
       "iframe_src": ""
     },
     {
-      "id": 341,
-      "title": "Карточный домик",
-      "kp_id": "581937",
-      "imdb_id": "tt1856010",
+      "id": 2740,
+      "title": "Самый жестокий год",
+      "kp_id": "765147",
+      "imdb_id": "tt2937898",
       "world_art_id": null,
-      "type": "serial",
-      "add": "2016-08-17 10:22:32",
-      "orig_title": "House of Cards",
-      "year": "2013-02-01",
+      "type": "movie",
+      "add": "2016-05-30 21:58:15",
+      "orig_title": "A Most Violent Year",
+      "year": "2014-11-06",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
-        "Профессиональный (многоголосый закадровый) (Amedia)"
+        "Любительский (двухголосый закадровый) (ColdFilm)",
+        "Любительский (одноголосый закадровый)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (iTunes)"
       ],
-      "seasons_count": 6,
-      "episodes_count": 73,
-      "episodes": 8,
-      "update": "2018-11-05 09:51:42",
+      "quality": "bd",
+      "translation": "Любительский (двухголосый закадровый) (ColdFilm)",
+      "update": "2020-10-23 07:06:14",
       "iframe_src": ""
     }
   ]
