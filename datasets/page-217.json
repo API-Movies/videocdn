@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": 47809,
-      "title": "Война наркокартелей",
-      "kp_id": "1274833",
-      "imdb_id": "tt10342228",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-09 19:14:42",
-      "orig_title": "Narco Sub",
-      "year": "2021-02-05",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2021-02-10 04:46:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 47804,
-      "title": "Совсем непрекрасный принц",
-      "kp_id": "4294583",
-      "imdb_id": "tt13603660",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-09 18:47:30",
-      "orig_title": "The Wrong Prince Charming",
-      "year": "2021-01-22",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2021-02-09 20:14:07",
-      "iframe_src": ""
-    },
-    {
       "id": 47802,
       "title": "Игра с огнем",
       "kp_id": "917365",
@@ -52,60 +16,6 @@
       "quality": "webdl",
       "translation": "Любительский (одноголосый закадровый)",
       "update": "2021-02-10 06:03:28",
-      "iframe_src": ""
-    },
-    {
-      "id": 47773,
-      "title": "И в болезни",
-      "kp_id": "919633",
-      "imdb_id": "tt4823664",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-08 18:18:03",
-      "orig_title": "In Sickness",
-      "year": "2020-12-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2021-02-09 20:13:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 47771,
-      "title": "Коронавирус: Система",
-      "kp_id": null,
-      "imdb_id": "tt13446050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-08 18:13:47",
-      "orig_title": "COVID-19: The System",
-      "year": "2020-11-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-02-09 20:13:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 47769,
-      "title": "Ассандира",
-      "kp_id": "1395423",
-      "imdb_id": "tt12792400",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-02-08 18:07:08",
-      "orig_title": "Assandira",
-      "year": "2020-09-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-02-09 20:13:01",
       "iframe_src": ""
     },
     {
@@ -200,6 +110,27 @@
       "iframe_src": ""
     },
     {
+      "id": 46300,
+      "title": "Зулусы",
+      "kp_id": "17949",
+      "imdb_id": "tt0058777",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-22 14:28:32",
+      "orig_title": "Zulu",
+      "year": "1964-01-22",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)",
+        "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (Премьер Видео Фильм)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
+      "update": "2021-02-10 09:38:58",
+      "iframe_src": ""
+    },
+    {
       "id": 44752,
       "title": "Растворяться",
       "kp_id": "1299350",
@@ -276,22 +207,22 @@
       "iframe_src": ""
     },
     {
-      "id": 7435,
-      "title": "Расширяющаяся вселенная Эшли Гарсиа",
-      "kp_id": "1307541",
-      "imdb_id": "tt10380934",
+      "id": 7439,
+      "title": "Пока меня не было",
+      "kp_id": "1248400",
+      "imdb_id": "tt10034574",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-05-07 20:34:56",
-      "orig_title": "The Expanding Universe of Ashley Garcia",
-      "year": "2020-02-17",
+      "add": "2020-05-08 08:29:45",
+      "orig_title": "Mentre ero via",
+      "year": "2019-03-28",
       "translations": [
         "Любительский (многоголосый закадровый) (Octopus)"
       ],
       "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-05-08 05:55:10",
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-05-09 21:05:35",
       "iframe_src": ""
     },
     {
@@ -311,44 +242,6 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2020-05-09 11:59:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 7430,
-      "title": "Возвращение чемпиона",
-      "kp_id": "1033117",
-      "imdb_id": "tt5154952",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-05-07 12:15:33",
-      "orig_title": "Vechtershart",
-      "year": "2015-11-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (ShowJet)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 18,
-      "episodes": 10,
-      "update": "2020-05-07 21:27:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 7423,
-      "title": "Гнилые",
-      "kp_id": "1111973",
-      "imdb_id": "tt7763662",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-05-06 20:04:51",
-      "orig_title": "Rotten",
-      "year": "2018-01-05",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2020-05-07 21:16:21",
       "iframe_src": ""
     },
     {
@@ -486,6 +379,26 @@
       "iframe_src": ""
     },
     {
+      "id": 7383,
+      "title": "Вина по Фердинанду фон Шираху",
+      "kp_id": "900045",
+      "imdb_id": "tt3689304",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-05-04 04:44:49",
+      "orig_title": "Schuld",
+      "year": "2015-02-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ViruseProject)",
+        "Профессиональный (двухголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 14,
+      "episodes": 4,
+      "update": "2020-05-10 09:06:22",
+      "iframe_src": ""
+    },
+    {
       "id": 7360,
       "title": "Трансформеры: Зверо-роботы",
       "kp_id": "229208",
@@ -565,22 +478,65 @@
       "iframe_src": ""
     },
     {
-      "id": 5421,
-      "title": "Параллельные миры",
-      "kp_id": "89587",
-      "imdb_id": "tt0112167",
+      "id": 31695,
+      "title": "Черное Рождество",
+      "kp_id": "29836",
+      "imdb_id": "tt0071222",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-10-10 17:41:46",
+      "orig_title": "Black Christmas",
+      "year": "1974-10-11",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Дольский Андрей)",
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)",
+        "Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2021-02-10 09:14:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 4018,
+      "title": "Ещё четыре шота, пожалуйста",
+      "kp_id": "1144278",
+      "imdb_id": "tt8242548",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-10-08 11:59:58",
-      "orig_title": "Sliders",
-      "year": "1995-03-22",
+      "add": "2019-02-03 22:41:07",
+      "orig_title": "Four More Shots Please",
+      "year": "2018-12-25",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (AXN Sci-Fi)"
+        "Любительский (двухголосый закадровый) (KosharaSerials)",
+        "Любительский (многоголосый закадровый) (Octopus)"
       ],
-      "seasons_count": 5,
-      "episodes_count": 87,
-      "episodes": 18,
-      "update": "2020-05-08 09:39:39",
+      "seasons_count": 2,
+      "episodes_count": 20,
+      "episodes": 10,
+      "update": "2020-05-09 17:45:26",
+      "iframe_src": ""
+    },
+    {
+      "id": 3386,
+      "title": "Дикий округ",
+      "kp_id": "1140871",
+      "imdb_id": "tt8105958",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-10-25 08:43:50",
+      "orig_title": "Distrito Salvaje",
+      "year": "2018-10-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (BaibaKo)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 20,
+      "episodes": 10,
+      "update": "2020-05-09 17:38:37",
       "iframe_src": ""
     },
     {
@@ -623,27 +579,6 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2021-02-10 06:10:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 2667,
-      "title": "Спаси меня",
-      "kp_id": "1115038",
-      "imdb_id": "tt6538034",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-05-27 09:35:20",
-      "orig_title": "Save Me",
-      "year": "2018-02-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (BaibaKo)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Любительский (многоголосый закадровый) (ColdFilm)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 12,
-      "episodes": 6,
-      "update": "2020-05-08 06:04:55",
       "iframe_src": ""
     },
     {
@@ -738,6 +673,77 @@
       "iframe_src": ""
     },
     {
+      "id": 505,
+      "title": "Мир Дикого запада",
+      "kp_id": "195523",
+      "imdb_id": "tt0475784",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-10-03 14:13:29",
+      "orig_title": "Westworld",
+      "year": "2016-10-02",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Полное дублирование (Кравец)",
+        "Профессиональный (многоголосый закадровый) (AlexFilm)",
+        "Любительский (многоголосый закадровый) (Octopus)",
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Любительский (многоголосый закадровый) (KerobTV)"
+      ],
+      "seasons_count": 3,
+      "episodes_count": 28,
+      "episodes": 8,
+      "update": "2020-05-09 14:30:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 5113,
+      "title": "Дикий, дикий Запад",
+      "kp_id": "2762",
+      "imdb_id": "tt0120891",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-09-08 06:48:26",
+      "orig_title": "Wild Wild West",
+      "year": "1999-06-30",
+      "translations": [
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Кашкин Александр | Первомайский)",
+        "Авторский (одноголосый закадровый) (Санаев Павел)",
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (РТР | Россия)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-02-10 09:35:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 4760,
+      "title": "Честная куртизанка",
+      "kp_id": "15095",
+      "imdb_id": "tt0118892",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-08-29 07:46:42",
+      "orig_title": "Dangerous Beauty",
+      "year": "1998-02-20",
+      "translations": [
+        "Полное дублирование (Невафильм | Нева-1)",
+        "Авторский (одноголосый закадровый) (Кашкин Александр | Первомайский)",
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый) (Гемини)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование (Невафильм | Нева-1)",
+      "update": "2021-02-10 09:30:12",
+      "iframe_src": ""
+    },
+    {
       "id": 2942,
       "title": "Транс",
       "kp_id": "586399",
@@ -782,6 +788,26 @@
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2021-02-10 06:29:49",
+      "iframe_src": ""
+    },
+    {
+      "id": 814,
+      "title": "Черная книга",
+      "kp_id": "78079",
+      "imdb_id": "tt0389557",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-08 16:28:05",
+      "orig_title": "Zwartboek",
+      "year": "2006-09-01",
+      "translations": [
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Алексеев Антон)",
+        "Полное дублирование (Пифагор)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-02-10 09:10:41",
       "iframe_src": ""
     }
   ]
