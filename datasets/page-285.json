@@ -1,328 +1,281 @@
 {
   "data": [
     {
-      "id": 47050,
-      "title": "Красный свиток",
-      "kp_id": "1072045",
-      "imdb_id": "tt6744264",
+      "id": 47112,
+      "title": "Два отца",
+      "kp_id": "1355414",
+      "imdb_id": "tt11821818",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-13 18:11:34",
-      "orig_title": "The Red Scroll",
-      "year": "2020-10-22",
+      "add": "2021-01-15 10:52:19",
+      "orig_title": "Um Pai no Meio do Caminho",
+      "year": "2021-01-15",
+      "translations": [
+        "Полное дублирование (Netflix)"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование (Netflix)",
+      "update": "2021-01-15 15:04:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 47111,
+      "title": "Испытание",
+      "kp_id": "1087374",
+      "imdb_id": "tt7212878",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-15 10:28:18",
+      "orig_title": "The Experience",
+      "year": "2019-11-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-15 14:09:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 47110,
+      "title": "Музыка продолжала играть",
+      "kp_id": "503851",
+      "imdb_id": "tt1613062",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-15 09:26:31",
+      "orig_title": "The Music Never Stopped",
+      "year": "2011-01-20",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Багичев Алексей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Багичев Алексей)",
+      "update": "2021-01-15 10:47:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 47108,
+      "title": "Земля",
+      "kp_id": "1302359",
+      "imdb_id": "tt10893170",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-15 07:55:11",
+      "orig_title": "Bhoomi",
+      "year": "2021-01-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-15 14:42:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 47103,
+      "title": "Полночь FM",
+      "kp_id": "579524",
+      "imdb_id": "tt1825955",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-15 06:07:55",
+      "orig_title": "Simyaui FM",
+      "year": "2010-10-14",
+      "translations": [
+        "Любительский (одноголосый закадровый) (den904)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2021-01-15 12:53:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 47102,
+      "title": "Локдаун",
+      "kp_id": "1406397",
+      "imdb_id": "tt13061914",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-14 22:03:50",
+      "orig_title": "Locked Down",
+      "year": "2021-01-14",
+      "translations": [
+        "Original (English)",
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Original (English)",
+      "update": "2021-01-15 14:38:09",
+      "iframe_src": ""
+    },
+    {
+      "id": 46971,
+      "title": "Бэтмен: Душа дракона",
+      "kp_id": "1402177",
+      "imdb_id": "tt12885852",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-12 13:31:48",
+      "orig_title": "Batman: Soul of the Dragon",
+      "year": "2021-01-12",
+      "translations": [
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (NewComers)"
+      ],
+      "quality": "webdl",
+      "translation": "Original (English)",
+      "update": "2021-01-15 23:05:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 46870,
+      "title": "Да здравствует судья!",
+      "kp_id": "93525",
+      "imdb_id": "tt0110201",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-10 15:28:54",
+      "orig_title": "Gau ban ji ma goon: Bak min Bau Ching Tin",
+      "year": "1994-03-26",
+      "translations": [
+        "Любительский (одноголосый закадровый) (Акира)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый) (Акира)",
+      "update": "2021-01-15 08:47:55",
+      "iframe_src": ""
+    },
+    {
+      "id": 46868,
+      "title": "Каскадеры",
+      "kp_id": "4656",
+      "imdb_id": "tt0076776",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-10 15:10:08",
+      "orig_title": "Stunts",
+      "year": "1977-05-15",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "webdl",
       "translation": "Полное дублирование",
-      "update": "2021-01-14 08:25:37",
+      "update": "2021-01-15 08:41:54",
       "iframe_src": ""
     },
     {
-      "id": 47044,
-      "title": "Стоянка — три часа",
-      "kp_id": "460513",
-      "imdb_id": "tt4840062",
+      "id": 46867,
+      "title": "Мужчина, который мне нравится",
+      "kp_id": "19196",
+      "imdb_id": "tt0065146",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-13 15:38:43",
-      "orig_title": "Stoyanka - tri chasa",
-      "year": "1975-11-10",
+      "add": "2021-01-10 15:06:50",
+      "orig_title": "Un homme qui me plaît",
+      "year": "1969-12-03",
       "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:50:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 47043,
-      "title": "Капитан первого ранга",
-      "kp_id": "118673",
-      "imdb_id": "tt0447023",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-13 15:35:40",
-      "orig_title": "Esimese järgu kapten",
-      "year": "1959-01-13",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:35:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 47042,
-      "title": "55 градусов ниже нуля",
-      "kp_id": "46799",
-      "imdb_id": "tt0265015",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-13 15:29:56",
-      "orig_title": "55 gradusov nizhe nulya",
-      "year": "1986-12-22",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:34:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 46997,
-      "title": "Победитель",
-      "kp_id": "427000",
-      "imdb_id": "tt4054920",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 19:32:11",
-      "orig_title": "Pobeditel",
-      "year": "1976-11-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:33:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 46995,
-      "title": "Серебряное ревю",
-      "kp_id": "43692",
-      "imdb_id": "tt0251990",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 19:08:26",
-      "orig_title": "Serebryanoye revyu",
-      "year": "1982-03-14",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:32:39",
-      "iframe_src": ""
-    },
-    {
-      "id": 46994,
-      "title": "Стервятники на дорогах",
-      "kp_id": "43996",
-      "imdb_id": "tt0100693",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 19:06:14",
-      "orig_title": "Stervyatniki na dorogakh",
-      "year": "1990-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:30:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 46993,
-      "title": "Звезда экрана",
-      "kp_id": "45411",
-      "imdb_id": "tt0131660",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 19:04:19",
-      "orig_title": "Zvezda ekrana",
-      "year": "1974-09-09",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:27:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 46992,
-      "title": "Белая мгла",
-      "kp_id": "994645",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 19:00:54",
-      "orig_title": "Белая мгла",
-      "year": "1977-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:26:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 46990,
-      "title": "Киевские мелодии",
-      "kp_id": "732181",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 18:53:09",
-      "orig_title": "Киевские мелодии",
-      "year": "1967-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:24:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 46947,
-      "title": "Чувства",
-      "kp_id": "225275",
-      "imdb_id": "tt0151113",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 09:47:18",
-      "orig_title": "Jausmai",
-      "year": "1968-09-01",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "quality": "dvdrip",
-      "translation": "Полное дублирование",
-      "update": "2021-01-14 08:22:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 46945,
-      "title": "Друзья и годы",
-      "kp_id": "44308",
-      "imdb_id": "tt0166585",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 09:44:26",
-      "orig_title": "Druzya i gody",
-      "year": "1966-08-29",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:20:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 46944,
-      "title": "Цена",
-      "kp_id": "42341",
-      "imdb_id": "tt0197979",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 09:40:09",
-      "orig_title": "Tsena",
-      "year": "1969-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:19:21",
-      "iframe_src": ""
-    },
-    {
-      "id": 46943,
-      "title": "Подарок одинокой женщине",
-      "kp_id": "423238",
-      "imdb_id": "tt1283895",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 09:34:28",
-      "orig_title": "Davana vientulai sievietei",
-      "year": "1973-03-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:18:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 46942,
-      "title": "Последний жулик",
-      "kp_id": "466584",
-      "imdb_id": "tt2062992",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 09:32:24",
-      "orig_title": "Posledniy zhulik",
-      "year": "1967-02-20",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:16:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 46941,
-      "title": "Господа авантюристы",
-      "kp_id": "46042",
-      "imdb_id": "tt0264653",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 09:29:44",
-      "orig_title": "Batono avanturistebo",
-      "year": "1985-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:15:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 46940,
-      "title": "Живая вода",
-      "kp_id": "710856",
-      "imdb_id": "tt4680670",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-12 09:27:08",
-      "orig_title": "Zhivaya voda",
-      "year": "1972-03-06",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:14:41",
-      "iframe_src": ""
-    },
-    {
-      "id": 46338,
-      "title": "Цену смерти спроси у мертвых",
-      "kp_id": "109220",
-      "imdb_id": "tt0174538",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-23 16:00:12",
-      "orig_title": "Surma hinda küsi surnutelt",
-      "year": "1978-06-08",
-      "translations": [
-        "Полное дублирование",
-        "Оригинальная дорожка"
+        "Авторский (одноголосый закадровый) (Янкелевич Роман)"
       ],
       "quality": "webdl",
-      "translation": "Полное дублирование",
-      "update": "2021-01-14 08:20:12",
+      "translation": "Авторский (одноголосый закадровый) (Янкелевич Роман)",
+      "update": "2021-01-15 08:40:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 6295,
+      "title": "Легион экстраординарных танцоров",
+      "kp_id": "571317",
+      "imdb_id": "tt1743034",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-09 19:46:11",
+      "orig_title": "The LXD: The Legion of Extraordinary Dancers",
+      "year": "2010-07-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (СТС)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 20,
+      "episodes": 10,
+      "update": "2020-01-10 12:37:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 6294,
+      "title": "Мыслить как преступник: Поведение подозреваемого",
+      "kp_id": "569674",
+      "imdb_id": "tt1703874",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-09 19:42:12",
+      "orig_title": "Criminal Minds: Suspect Behavior",
+      "year": "2011-02-16",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Fox Crime)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 13,
+      "episodes": 13,
+      "update": "2020-01-10 12:26:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 6292,
+      "title": "Не верь су*** из квартиры 23",
+      "kp_id": "591840",
+      "imdb_id": "tt1819509",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-09 15:17:25",
+      "orig_title": "Don't Trust the B---- in Apartment 23",
+      "year": "2012-04-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Novamedia)",
+        "Любительский (двухголосый закадровый) (Несмертельное оружие)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 26,
+      "episodes": 19,
+      "update": "2020-01-10 10:33:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 6291,
+      "title": "Кладовая жизни",
+      "kp_id": "1115466",
+      "imdb_id": "tt10107886",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-09 12:48:45",
+      "orig_title": "Kladovaya zhizni",
+      "year": "2018-03-19",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2020-01-10 12:18:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 6286,
+      "title": "Регентша. Жена правителя",
+      "kp_id": "586673",
+      "imdb_id": "tt0121678",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-09 09:39:43",
+      "orig_title": "La regenta",
+      "year": "1995-01-17",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2020-01-09 17:27:21",
       "iframe_src": ""
     },
     {
@@ -364,22 +317,60 @@
       "iframe_src": ""
     },
     {
-      "id": 6266,
-      "title": "Нелюбимая",
-      "kp_id": "839947",
-      "imdb_id": "tt3632744",
+      "id": 6274,
+      "title": "Семейка Аддамс",
+      "kp_id": "229550",
+      "imdb_id": "tt0057729",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-01-07 12:23:36",
-      "orig_title": "La Malquerida",
-      "year": "2014-06-02",
+      "add": "2020-01-08 14:18:02",
+      "orig_title": "The Addams Family",
+      "year": "1964-09-18",
       "translations": [
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 64,
+      "episodes": 30,
+      "update": "2020-01-09 19:18:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 6270,
+      "title": "Изысканная Нэнси Клэнси",
+      "kp_id": "666764",
+      "imdb_id": "tt2229129",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-07 21:40:45",
+      "orig_title": "Fancy Nancy",
+      "year": "2018-07-13",
+      "translations": [
+        "Полное дублирование"
       ],
       "seasons_count": 1,
-      "episodes_count": 106,
-      "episodes": 106,
-      "update": "2020-01-08 17:12:49",
+      "episodes_count": 47,
+      "episodes": 47,
+      "update": "2020-01-10 12:14:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 6269,
+      "title": "Отступник",
+      "kp_id": "94161",
+      "imdb_id": "tt0103524",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-01-07 20:55:07",
+      "orig_title": "Renegade",
+      "year": "1992-09-19",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Визгунов Сергей)"
+      ],
+      "seasons_count": 5,
+      "episodes_count": 73,
+      "episodes": 4,
+      "update": "2020-01-09 20:30:57",
       "iframe_src": ""
     },
     {
@@ -421,25 +412,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6256,
-      "title": "Ее звали Никита",
-      "kp_id": "161262",
-      "imdb_id": "tt0118379",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-06 18:44:46",
-      "orig_title": "La Femme Nikita",
-      "year": "1997-01-13",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 5,
-      "episodes_count": 96,
-      "episodes": 8,
-      "update": "2020-01-08 18:41:25",
-      "iframe_src": ""
-    },
-    {
       "id": 6255,
       "title": "Кряк-Бряк",
       "kp_id": "229177",
@@ -478,82 +450,6 @@
       "iframe_src": ""
     },
     {
-      "id": 6252,
-      "title": "Приключения мультяшек",
-      "kp_id": "298154",
-      "imdb_id": "tt0098929",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-06 16:14:02",
-      "orig_title": "Tiny Toon Adventures",
-      "year": "1990-09-14",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 99,
-      "episodes": 21,
-      "update": "2020-01-08 20:06:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 6246,
-      "title": "Стрелок 3. Возвращение героя",
-      "kp_id": "1115227",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-06 09:36:38",
-      "orig_title": "Стрелок 3. Возвращение героя",
-      "year": "2018-03-25",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 3,
-      "episodes": 3,
-      "update": "2020-01-08 20:18:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 6245,
-      "title": "Игра на выбывание",
-      "kp_id": "260913",
-      "imdb_id": "tt1426767",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-06 09:30:22",
-      "orig_title": "Igra na vybyvaniye",
-      "year": "2004-12-14",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-01-08 20:17:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 6244,
-      "title": "Райские яблочки",
-      "kp_id": "422915",
-      "imdb_id": "tt4361778",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-01-06 09:24:36",
-      "orig_title": "Rayskiye yablochki",
-      "year": "2008-12-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2020-01-08 20:07:02",
-      "iframe_src": ""
-    },
-    {
       "id": 6241,
       "title": "Закон",
       "kp_id": "374721",
@@ -573,141 +469,118 @@
       "iframe_src": ""
     },
     {
-      "id": 5292,
-      "title": "Преступник: Германия",
-      "kp_id": "1306251",
-      "imdb_id": "tt10986056",
+      "id": 6240,
+      "title": "Балерина",
+      "kp_id": "1049628",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-09-25 11:54:20",
-      "orig_title": "Criminal: Germany",
-      "year": "2019-09-20",
+      "add": "2020-01-06 05:20:55",
+      "orig_title": "Балерина",
+      "year": "2017-10-10",
       "translations": [
-        "Профессиональный (двухголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (LostFilm)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 3,
-      "episodes": 3,
-      "update": "2020-01-09 07:34:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 26483,
-      "title": "Ночь над Чили",
-      "kp_id": "46451",
-      "imdb_id": "tt0076465",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-14 07:46:37",
-      "orig_title": "Noch nad Chili",
-      "year": "1977-05-17",
-      "translations": [
-        "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:13:11",
-      "iframe_src": ""
-    },
-    {
-      "id": 3350,
-      "title": "Смех в Вайкики",
-      "kp_id": "1105436",
-      "imdb_id": "tt7890304",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-22 06:17:53",
-      "orig_title": "Eulachacha Waikiki",
-      "year": "2018-02-05",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 36,
-      "episodes": 16,
-      "update": "2020-01-09 06:47:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 2893,
-      "title": "Полумиры",
-      "kp_id": "924344",
-      "imdb_id": "tt4766568",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-07-06 07:37:16",
-      "orig_title": "Halfworlds",
-      "year": "2015-01-29",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (ViruseProject)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 16,
+      "seasons_count": 1,
+      "episodes_count": 8,
       "episodes": 8,
-      "update": "2020-01-08 19:57:41",
+      "update": "2020-01-09 17:25:39",
       "iframe_src": ""
     },
     {
-      "id": 2450,
-      "title": "Госпиталь Хорошей Кармы",
-      "kp_id": "1042539",
-      "imdb_id": "tt6441720",
+      "id": 5203,
+      "title": "Чема",
+      "kp_id": "1009621",
+      "imdb_id": "tt5730624",
       "world_art_id": null,
       "type": "serial",
-      "add": "2018-04-24 13:43:04",
-      "orig_title": "The Good Karma Hospital",
-      "year": "2017-01-30",
+      "add": "2019-09-16 10:14:10",
+      "orig_title": "El Chema",
+      "year": "2016-12-06",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (SunshineStudio)",
-        "Любительский (многоголосый закадровый) (ColdFilm)"
+        "Любительский (одноголосый закадровый)"
       ],
-      "seasons_count": 3,
-      "episodes_count": 18,
-      "episodes": 6,
-      "update": "2020-01-08 18:44:15",
+      "seasons_count": 1,
+      "episodes_count": 11,
+      "episodes": 11,
+      "update": "2020-01-10 12:31:39",
       "iframe_src": ""
     },
     {
-      "id": 16241,
-      "title": "Дети Дон-Кихота",
-      "kp_id": "44159",
-      "imdb_id": "tt0129035",
+      "id": 24447,
+      "title": "Времена детства",
+      "kp_id": "1252551",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-04-13 22:21:13",
-      "orig_title": "Deti Don-Kikhota",
-      "year": "1966-02-28",
+      "add": "2019-04-12 20:39:37",
+      "orig_title": "Времена детства",
+      "year": "2018-01-01",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2021-01-14 08:59:55",
+      "update": "2021-01-15 15:30:37",
       "iframe_src": ""
     },
     {
-      "id": 1450,
-      "title": "Достать коротышку",
-      "kp_id": "1007465",
-      "imdb_id": "tt5761496",
+      "id": 22065,
+      "title": "Клуши",
+      "kp_id": "708675",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2019-02-05 09:11:11",
+      "orig_title": "Клуши",
+      "year": "2012-09-23",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-01-15 14:39:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 3755,
+      "title": "Доктор Плюшева",
+      "kp_id": "574512",
+      "imdb_id": "tt1710295",
       "world_art_id": null,
       "type": "serial",
-      "add": "2017-08-06 12:19:41",
-      "orig_title": "Get Shorty",
-      "year": "2017-08-13",
+      "add": "2018-12-25 12:46:47",
+      "orig_title": "Doc McStuffins",
+      "year": "2012-03-23",
       "translations": [
-        "Любительский (двухголосый закадровый) (Sunshine Studio)",
-        "Профессиональный (многоголосый закадровый) (SDI Media)",
-        "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
+        "Полное дублирование"
       ],
-      "seasons_count": 3,
-      "episodes_count": 27,
-      "episodes": 7,
-      "update": "2020-01-09 07:41:16",
+      "seasons_count": 2,
+      "episodes_count": 52,
+      "episodes": 26,
+      "update": "2020-01-10 06:33:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 16156,
+      "title": "Тихое место",
+      "kp_id": "1044906",
+      "imdb_id": "tt6644200",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-04-09 22:28:12",
+      "orig_title": "A Quiet Place",
+      "year": "2018-03-09",
+      "translations": [
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-01-15 12:45:52",
       "iframe_src": ""
     },
     {
@@ -724,12 +597,34 @@
         "Профессиональный (многоголосый закадровый) (LostFilm)",
         "Профессиональный (многоголосый закадровый) (BaibaKo)",
         "Профессиональный (многоголосый закадровый) (NewStudio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (двухголосый закадровый) (Кубик в Кубе)"
       ],
       "seasons_count": 3,
       "episodes_count": 30,
       "episodes": 10,
       "update": "2020-01-09 13:01:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 8770,
+      "title": "Веселая пасха",
+      "kp_id": "15086",
+      "imdb_id": "tt0087514",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-01-10 06:53:23",
+      "orig_title": "Joyeuses Pâques",
+      "year": "1984-10-24",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (двухголосый закадровый) (Первый канал | ОРТ)",
+        "Профессиональный (многоголосый закадровый) (НТВ)",
+        "Профессиональный (многоголосый закадровый) (RUSCICO)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-15 08:23:33",
       "iframe_src": ""
     },
     {
@@ -752,6 +647,134 @@
       "episodes_count": 24,
       "episodes": 8,
       "update": "2020-01-09 10:51:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 6197,
+      "title": "Пойманный в раю",
+      "kp_id": "4940",
+      "imdb_id": "tt0111477",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-12 05:42:43",
+      "orig_title": "Trapped in Paradise",
+      "year": "1994-11-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Профессиональный (многоголосый закадровый)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-15 15:36:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 6055,
+      "title": "Школа рока",
+      "kp_id": "2519",
+      "imdb_id": "tt0332379",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-10-10 15:32:51",
+      "orig_title": "The School of Rock",
+      "year": "2003-09-09",
+      "translations": [
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Рудой Евгений)",
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый) (Tycoon)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-01-15 08:30:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 3409,
+      "title": "Заклятие 2",
+      "kp_id": "780392",
+      "imdb_id": "tt3065204",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-06-28 04:16:05",
+      "orig_title": "The Conjuring 2",
+      "year": "2016-05-13",
+      "translations": [
+        "Полное дублирование (iTunes)",
+        "Профессиональный (двухголосый закадровый) (SDI Media)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2021-01-15 12:27:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 2047,
+      "title": "Эдвард руки-ножницы",
+      "kp_id": "8421",
+      "imdb_id": "tt0099487",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-10 17:28:21",
+      "orig_title": "Edward Scissorhands",
+      "year": "1990-12-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+        "Профессиональный (многоголосый закадровый) (Киномания)",
+        "Профессиональный (двухголосый закадровый) (Tycoon)",
+        "Профессиональный (двухголосый закадровый) (Премьер Видео Фильм)",
+        "Original (English)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-15 15:27:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 1598,
+      "title": "Эрагон",
+      "kp_id": "103644",
+      "imdb_id": "tt0449010",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-24 10:28:59",
+      "orig_title": "Eragon",
+      "year": "2006-12-13",
+      "translations": [
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Немахов Юрий)",
+        "Полное дублирование",
+        "Original (English)",
+        "Профессиональный (многоголосый закадровый) (Киномания)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-01-15 08:36:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 410,
+      "title": "Заклятие",
+      "kp_id": "468994",
+      "imdb_id": "tt1457767",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-01 15:32:33",
+      "orig_title": "The Conjuring",
+      "year": "2013-06-08",
+      "translations": [
+        "Полное дублирование",
+        "Профессиональный (двухголосый закадровый) (SDI Media)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-01-15 12:29:13",
       "iframe_src": ""
     }
   ]
