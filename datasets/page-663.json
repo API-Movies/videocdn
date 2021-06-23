@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 40878,
+      "title": "Одичавшая",
+      "kp_id": "1237098",
+      "imdb_id": "tt9686730",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-06-02 11:53:36",
+      "orig_title": "Feral",
+      "year": "2019-04-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-06-02 15:51:34",
+      "iframe_src": ""
+    },
+    {
       "id": 40867,
       "title": "Парень из Гунтура",
       "kp_id": "1101862",
@@ -19,24 +37,6 @@
       "iframe_src": ""
     },
     {
-      "id": 40866,
-      "title": "Пан Т",
-      "kp_id": "1245658",
-      "imdb_id": "tt9856606",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-01 19:17:56",
-      "orig_title": "Pan T.",
-      "year": "2019-09-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-06-02 07:44:02",
-      "iframe_src": ""
-    },
-    {
       "id": 40865,
       "title": "В поисках Евы",
       "kp_id": "1237977",
@@ -52,24 +52,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-06-02 07:46:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 40864,
-      "title": "Иисус показывает тебе путь к шоссе",
-      "kp_id": "1180961",
-      "imdb_id": "tt8550514",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-01 19:15:55",
-      "orig_title": "Jesus Shows You the Way to the Highway",
-      "year": "2019-07-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-06-02 07:45:02",
       "iframe_src": ""
     },
     {
@@ -106,24 +88,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-06-02 07:48:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 40860,
-      "title": "Амин",
-      "kp_id": "1060822",
-      "imdb_id": "tt7434928",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-06-01 18:21:19",
-      "orig_title": "Amin",
-      "year": "2018-05-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-06-02 07:43:27",
       "iframe_src": ""
     },
     {
@@ -181,21 +145,57 @@
       "iframe_src": ""
     },
     {
-      "id": 40856,
-      "title": "Дядя Венки",
-      "kp_id": "1229085",
-      "imdb_id": "tt9564774",
+      "id": 40796,
+      "title": "Воскресная женщина",
+      "kp_id": "25546",
+      "imdb_id": "tt0074423",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-06-01 18:15:47",
-      "orig_title": "Venky Mama",
-      "year": "2019-12-12",
+      "add": "2020-05-30 07:39:30",
+      "orig_title": "La donna della domenica",
+      "year": "1975-12-16",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Профессиональный (двухголосый закадровый)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-06-02 07:43:03",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2020-06-02 08:11:31",
+      "iframe_src": ""
+    },
+    {
+      "id": 40795,
+      "title": "Твою мать!",
+      "kp_id": "1184889",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-30 07:38:22",
+      "orig_title": "Твою мать!",
+      "year": "2018-03-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-06-02 08:10:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 40794,
+      "title": "Однажды в Трубчевске",
+      "kp_id": "1261584",
+      "imdb_id": "tt10287616",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-05-30 07:35:14",
+      "orig_title": "Once in Trubchevsk",
+      "year": "2019-05-23",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-06-02 08:09:17",
       "iframe_src": ""
     },
     {
