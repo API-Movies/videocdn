@@ -1,312 +1,440 @@
 {
   "data": [
     {
-      "id": 50752,
-      "title": "Приключения в Тридесятом царстве",
-      "kp_id": "528181",
-      "imdb_id": "tt1746206",
+      "id": 50804,
+      "title": "Горизонт",
+      "kp_id": "1264077",
+      "imdb_id": "tt10310010",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-05-30 14:46:43",
-      "orig_title": "Priklyucheniya v tridesyatom tsarstve",
-      "year": "2010-10-28",
+      "add": "2021-05-31 18:21:51",
+      "orig_title": "Horizon",
+      "year": "2019-02-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-06-01 04:18:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 50803,
+      "title": "Блестки в голубой комнате",
+      "kp_id": "1140777",
+      "imdb_id": "tt8258510",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 18:08:26",
+      "orig_title": "Sequin in a Blue Room",
+      "year": "2020-08-20",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-06-01 04:18:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 50802,
+      "title": "Простачок",
+      "kp_id": "1169826",
+      "imdb_id": "tt8630054",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 18:07:00",
+      "orig_title": "Bonhomme",
+      "year": "2018-08-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-06-01 04:33:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 50801,
+      "title": "Огонь и дождь",
+      "kp_id": "1158010",
+      "imdb_id": "tt8223170",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 18:03:56",
+      "orig_title": "Fire and Rain",
+      "year": "2019-10-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-06-01 04:32:52",
+      "iframe_src": ""
+    },
+    {
+      "id": 50799,
+      "title": "Мой другой дом",
+      "kp_id": "1045442",
+      "imdb_id": "tt4662708",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 18:00:44",
+      "orig_title": "My Other Home",
+      "year": "2017-06-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-06-01 04:29:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 50798,
+      "title": "Без обязательств",
+      "kp_id": "2003160",
+      "imdb_id": "tt11773084",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 17:59:40",
+      "orig_title": "No Strings the Movie",
+      "year": "2021-02-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-06-01 04:29:04",
+      "iframe_src": ""
+    },
+    {
+      "id": 50791,
+      "title": "Диктатор",
+      "kp_id": "960572",
+      "imdb_id": "tt5304086",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 11:07:58",
+      "orig_title": "Dictator",
+      "year": "2016-01-14",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:32:40",
+      "iframe_src": ""
+    },
+    {
+      "id": 50790,
+      "title": "Бедняга",
+      "kp_id": "222665",
+      "imdb_id": "tt0357627",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 11:05:57",
+      "orig_title": "Ek Bechara",
+      "year": "1972-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:32:25",
+      "iframe_src": ""
+    },
+    {
+      "id": 50787,
+      "title": "Имя тебе — жизнь",
+      "kp_id": "682656",
+      "imdb_id": "tt2164702",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 11:03:35",
+      "orig_title": "Zindagi Tere Naam",
+      "year": "2012-03-16",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:32:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 50786,
+      "title": "Друг",
+      "kp_id": "497964",
+      "imdb_id": "tt1580023",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 11:01:21",
+      "orig_title": "Snehithuda",
+      "year": "2009-08-07",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:31:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 50785,
+      "title": "Похититель бриллиантов",
+      "kp_id": "763352",
+      "imdb_id": "tt4839786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:59:35",
+      "orig_title": "Heeron Ka Chor",
+      "year": "1982-06-08",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:31:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 50784,
+      "title": "Баловень судьбы",
+      "kp_id": "266053",
+      "imdb_id": "tt0247455",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:57:48",
+      "orig_title": "Kismetwala",
+      "year": "1986-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:31:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 50783,
+      "title": "Следи за словами",
+      "kp_id": "916895",
+      "imdb_id": "tt4435282",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:55:47",
+      "orig_title": "Yagavarayinum Naa Kakka",
+      "year": "2015-06-26",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:31:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 50782,
+      "title": "Все люди - братья",
+      "kp_id": "265813",
+      "imdb_id": "tt0157071",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:53:39",
+      "orig_title": "Sub Ka Saathi",
+      "year": "1972-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:31:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 50781,
+      "title": "Маска",
+      "kp_id": "495790",
+      "imdb_id": "tt1579806",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:50:25",
+      "orig_title": "Maska",
+      "year": "2009-01-14",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:30:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 50780,
+      "title": "Как же быть сердцу",
+      "kp_id": "153763",
+      "imdb_id": "tt0216707",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:46:05",
+      "orig_title": "Dil Kya Kare",
+      "year": "1999-01-01",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (SDI Media)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (SDI Media)",
+      "update": "2021-06-01 04:30:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 50779,
+      "title": "Долг и закон",
+      "kp_id": "224964",
+      "imdb_id": "tt0257662",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:42:38",
+      "orig_title": "Farz Aur Kanoon",
+      "year": "1982-01-01",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Bollywood HD)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый) (Bollywood HD)",
+      "update": "2021-06-01 04:30:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 50778,
+      "title": "Каждому свое",
+      "kp_id": "222626",
+      "imdb_id": "tt0313213",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:40:37",
+      "orig_title": "Apne Apne",
+      "year": "1987-01-01",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Bollywood HD)"
+      ],
+      "quality": "hdtv",
+      "translation": "Профессиональный (двухголосый закадровый) (Bollywood HD)",
+      "update": "2021-06-01 04:30:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 50777,
+      "title": "Виражи судьбы",
+      "kp_id": "105214",
+      "imdb_id": "tt0292740",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-31 10:38:18",
+      "orig_title": "Yeh Raaste Hain Pyaar Ke",
+      "year": "2001-10-08",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (Bollywood HD)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (двухголосый закадровый) (Bollywood HD)",
+      "update": "2021-06-01 04:29:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 50672,
+      "title": "Расплата за оскорбление",
+      "kp_id": "195366",
+      "imdb_id": "tt0482034",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-26 06:43:32",
+      "orig_title": "Apmaan Ki Aag",
+      "year": "1990-12-21",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-06-01 04:29:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 10346,
+      "title": "Красный грузовик",
+      "kp_id": "1411331",
+      "imdb_id": "tt13116708",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-01 13:04:15",
+      "orig_title": "Kirmizi Kamyon",
+      "year": "2021-03-31",
+      "translations": [
+        "Любительский (двухголосый закадровый) (SesDizi | DiziMania)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "episodes": 1,
+      "update": "2021-04-01 20:35:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 10344,
+      "title": "В погоне: пропавшие без вести",
+      "kp_id": null,
+      "imdb_id": "tt14214572",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-01 11:26:20",
+      "orig_title": "In Pursuit: The Missing",
+      "year": "2021-03-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 1,
+      "episodes": 1,
+      "update": "2021-04-01 14:12:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 10343,
+      "title": "Ку'дамм 63",
+      "kp_id": "1292408",
+      "imdb_id": "tt10753470",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-04-01 08:32:01",
+      "orig_title": "Ku'damm 63",
+      "year": "2021-03-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2021-04-01 15:16:35",
+      "iframe_src": ""
+    },
+    {
+      "id": 10341,
+      "title": "Солнечные дни",
+      "kp_id": "2000041",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2021-03-31 13:14:02",
+      "orig_title": "Сонячні дні",
+      "year": "2020-09-01",
       "translations": [
         "Оригинальная дорожка"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-05-30 18:18:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 50751,
-      "title": "Сэр Алекс Фергюсон: Никогда не сдавайся",
-      "kp_id": "4463322",
-      "imdb_id": "tt8999372",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 13:10:35",
-      "orig_title": "Sir Alex Ferguson: Never Give In",
-      "year": "2021-05-27",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-      "update": "2021-05-30 17:26:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 50750,
-      "title": "Заброшенный",
-      "kp_id": "1297232",
-      "imdb_id": "tt10820876",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 09:33:58",
-      "orig_title": "Abandoned",
-      "year": "2019-08-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 20:14:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 50749,
-      "title": "Дилер",
-      "kp_id": "943008",
-      "imdb_id": "tt5095830",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 09:31:29",
-      "orig_title": "Dealer",
-      "year": "2017-07-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 20:15:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 50748,
-      "title": "Фрэнк Блю",
-      "kp_id": "1081019",
-      "imdb_id": "tt7318582",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 09:19:55",
-      "orig_title": "Frank BluE",
-      "year": "2018-01-27",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 12:07:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 50747,
-      "title": "Золотоискатели: В поисках прощения",
-      "kp_id": "1206282",
-      "imdb_id": "tt9196234",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 09:17:41",
-      "orig_title": "Prospectors The Forgiven",
-      "year": "2019-11-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 12:03:54",
-      "iframe_src": ""
-    },
-    {
-      "id": 50746,
-      "title": "Насильник",
-      "kp_id": "4384035",
-      "imdb_id": "tt13306176",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 09:15:01",
-      "orig_title": "Rapist Rapist",
-      "year": "2019-08-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 20:11:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 50745,
-      "title": "Шесть рукопожатий",
-      "kp_id": "937878",
-      "imdb_id": "tt4933864",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 09:11:49",
-      "orig_title": "The 6th Degree",
-      "year": "2019-02-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 20:14:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 50744,
-      "title": "RSC: Антоний и Клеопатра",
-      "kp_id": "1047158",
-      "imdb_id": "tt6848260",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 08:59:25",
-      "orig_title": "RSC Live: Antony and Cleopatra",
-      "year": "2017-05-24",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 20:10:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 50743,
-      "title": "Следующее убийство",
-      "kp_id": "1069084",
-      "imdb_id": "tt7171224",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 08:57:19",
-      "orig_title": "The Next Kill",
-      "year": "2018-05-25",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 12:03:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 50742,
-      "title": "Умирают только живые",
-      "kp_id": "1269082",
-      "imdb_id": "tt10268922",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 08:40:26",
-      "orig_title": "Si muore solo da vivi",
-      "year": "2020-06-19",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 12:01:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 50741,
-      "title": "Отрывочное поведени",
-      "kp_id": "1288662",
-      "imdb_id": "tt9614612",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 08:38:29",
-      "orig_title": "Sketchy Behaviour",
-      "year": "2019-02-14",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 12:02:34",
-      "iframe_src": ""
-    },
-    {
-      "id": 50740,
-      "title": "Выдержка",
-      "kp_id": "985522",
-      "imdb_id": "tt5724488",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 08:36:06",
-      "orig_title": "Sustain",
-      "year": "2019-11-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 12:00:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 50739,
-      "title": "Посторонний",
-      "kp_id": "1200188",
-      "imdb_id": "tt9049560",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 08:33:19",
-      "orig_title": "Storonniy",
-      "year": "2020-11-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2021-05-30 11:58:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 50737,
-      "title": "Риверданс: Анимационное Приключение",
-      "kp_id": "1297788",
-      "imdb_id": "tt10841088",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-30 08:20:57",
-      "orig_title": "Riverdance the Animated Adventure",
-      "year": "2021-05-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2021-05-30 11:56:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 50731,
-      "title": "Преданные",
-      "kp_id": "1330954",
-      "imdb_id": "tt11390442",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-29 10:00:14",
-      "orig_title": "Den største forbrytelsen",
-      "year": "2020-12-25",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Колобок)"
-      ],
-      "quality": "ts",
-      "translation": "Любительский (двухголосый закадровый) (Колобок)",
-      "update": "2021-05-30 09:53:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 50510,
-      "title": "Армия мертвецов",
-      "kp_id": "428683",
-      "imdb_id": "tt0993840",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-20 09:45:44",
-      "orig_title": "Army of the Dead",
-      "year": "2021-05-21",
-      "translations": [
-        "Полное дублирование (Пифагор)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio 18+)"
-      ],
-      "quality": "webdl",
-      "translation": "Полное дублирование (Пифагор)",
-      "update": "2021-05-31 03:13:32",
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2021-04-01 06:13:19",
       "iframe_src": ""
     },
     {
@@ -481,79 +609,22 @@
       "iframe_src": ""
     },
     {
-      "id": 10330,
-      "title": "Молодые и злые",
-      "kp_id": "460528",
-      "imdb_id": "tt4423206",
+      "id": 10151,
+      "title": "Уловка",
+      "kp_id": null,
+      "imdb_id": "tt6456546",
       "world_art_id": null,
       "type": "serial",
-      "add": "2021-03-30 15:05:23",
-      "orig_title": "Molodyye i zlyye",
-      "year": "2006-01-01",
+      "add": "2021-03-09 16:07:26",
+      "orig_title": "The Cheat",
+      "year": "2017-12-08",
       "translations": [
-        "Оригинальная дорожка"
+        "Любительский (многоголосый закадровый) (Ultradox)"
       ],
-      "seasons_count": 1,
-      "episodes_count": 50,
-      "episodes": 50,
-      "update": "2021-03-31 10:52:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 10329,
-      "title": "Леди Босс",
-      "kp_id": "437006",
-      "imdb_id": "tt4475392",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-03-30 12:59:20",
-      "orig_title": "Ledi Boss",
-      "year": "2001-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2021-03-31 09:20:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 10321,
-      "title": "Флэш Гордон",
-      "kp_id": "426356",
-      "imdb_id": "tt0959086",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-03-29 21:02:18",
-      "orig_title": "Flash Gordon",
-      "year": "2007-08-10",
-      "translations": [
-        "Любительский (многоголосый закадровый) (1001cinema)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 21,
-      "episodes": 21,
-      "update": "2021-03-30 21:38:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 10039,
-      "title": "Дора на страже порядка",
-      "kp_id": "471037",
-      "imdb_id": "tt0439912",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2021-02-26 20:37:21",
-      "orig_title": "Dora, la celadora",
-      "year": "2004-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 121,
-      "episodes": 121,
-      "update": "2021-03-30 21:30:37",
+      "seasons_count": 3,
+      "episodes_count": 24,
+      "episodes": 7,
+      "update": "2021-04-01 08:46:11",
       "iframe_src": ""
     },
     {
@@ -576,43 +647,48 @@
       "iframe_src": ""
     },
     {
-      "id": 9728,
-      "title": "Залет",
-      "kp_id": "4319035",
-      "imdb_id": "tt13751472",
+      "id": 9965,
+      "title": "В её глазах",
+      "kp_id": "1291310",
+      "imdb_id": "tt9698442",
       "world_art_id": null,
       "type": "serial",
-      "add": "2021-01-15 06:28:24",
-      "orig_title": "Bump",
-      "year": "2021-01-01",
+      "add": "2021-02-17 13:03:52",
+      "orig_title": "Behind Her Eyes",
+      "year": "2021-02-17",
       "translations": [
-        "Любительский (двухголосый закадровый) (Horizon Studio)",
-        "Любительский (двухголосый закадровый) (NEON Studio)",
-        "Любительский (многоголосый закадровый) (WestFilm)"
+        "Любительский (многоголосый закадровый) (ColdFilm)",
+        "Любительский (многоголосый закадровый) (Ultradox)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)",
+        "Полное дублирование (VSI Moscow)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Любительский (многоголосый закадровый) (RG.Paravozik)"
       ],
       "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2021-03-31 07:20:41",
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2021-04-01 20:12:31",
       "iframe_src": ""
     },
     {
-      "id": 7406,
-      "title": "Кто из нас не любил?",
-      "kp_id": "1009326",
-      "imdb_id": "tt6263656",
+      "id": 5192,
+      "title": "Земля I",
+      "kp_id": "1198384",
+      "imdb_id": "tt9067020",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-05-05 12:18:15",
-      "orig_title": "Hangimiz sevmedik?",
-      "year": "2016-07-15",
+      "add": "2019-09-12 15:19:37",
+      "orig_title": "The I-Land",
+      "year": "2019-09-12",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Мобильное телевидение)"
+        "Полное дублирование (Невафильм | Нева-1)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)"
       ],
-      "seasons_count": 3,
-      "episodes_count": 118,
-      "episodes": 38,
-      "update": "2021-03-31 07:27:39",
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2021-04-01 11:38:48",
       "iframe_src": ""
     },
     {
@@ -639,139 +715,45 @@
       "iframe_src": ""
     },
     {
-      "id": 4585,
-      "title": "Благие знамения",
-      "kp_id": "585727",
-      "imdb_id": "tt1869454",
+      "id": 5010,
+      "title": "Десять процентов",
+      "kp_id": "1046111",
+      "imdb_id": "tt4277922",
       "world_art_id": null,
       "type": "serial",
-      "add": "2019-05-31 03:13:27",
-      "orig_title": "Good Omens",
-      "year": "2019-05-31",
+      "add": "2019-08-08 04:39:09",
+      "orig_title": "Dix pour cent",
+      "year": "2015-09-25",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (многоголосый закадровый) (OMSKBIRD records)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Профессиональный (многоголосый закадровый) (AlexFilm)",
+        "Полное дублирование",
+        "Полное дублирование (True Dubbing Studio)",
         "Профессиональный (многоголосый закадровый) (TVShows)",
-        "Любительский (многоголосый закадровый) (Voice Project Studio)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)",
-        "Профессиональный (двухголосый закадровый) (Кубик в Кубе)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 6,
-      "episodes": 6,
-      "update": "2021-03-31 08:40:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 26169,
-      "title": "Плохой коп",
-      "kp_id": "1048746",
-      "imdb_id": "tt7738048",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-05-07 21:40:02",
-      "orig_title": "Akjilgyeongchal",
-      "year": "2019-03-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Любительский (двухголосый закадровый) (LakeFilms)",
-        "Любительский (двухголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-05-30 11:59:01",
-      "iframe_src": ""
-    },
-    {
-      "id": 17730,
-      "title": "Профессионал",
-      "kp_id": "1038843",
-      "imdb_id": "tt6494418",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-07-15 22:48:38",
-      "orig_title": "Siberia",
-      "year": "2018-07-13",
-      "translations": [
-        "Любительский (одноголосый закадровый) (BadBajo)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Полное дублирование",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (одноголосый закадровый) (BadBajo)",
-      "update": "2021-05-31 03:13:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 2185,
-      "title": "Хваюги",
-      "kp_id": "1045891",
-      "imdb_id": "tt7099334",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-03-06 14:29:42",
-      "orig_title": "Hwayugi",
-      "year": "2017-12-23",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)",
-        "Любительский (двухголосый закадровый) (Храм Дорам ТВ)",
-        "Любительский (двухголосый закадровый) (HighHopes)",
-        "Профессиональный (многоголосый закадровый) (Мобильное телевидение)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2021-03-31 08:17:08",
-      "iframe_src": ""
-    },
-    {
-      "id": 9291,
-      "title": "Человек из ниоткуда",
-      "kp_id": "484866",
-      "imdb_id": "tt1527788",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-30 06:04:42",
-      "orig_title": "Ajeossi",
-      "year": "2010-08-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Авторский (одноголосый закадровый) (Сербин Юрий)",
-        "Любительский (двухголосый закадровый) (Колобок)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-05-30 12:05:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 263,
-      "title": "Незабытый",
-      "kp_id": "933284",
-      "imdb_id": "tt4192812",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-07-06 13:30:15",
-      "orig_title": "Unforgotten",
-      "year": "2015-10-08",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Kiitos)",
-        "Профессиональный (многоголосый закадровый) (ViruseProject)",
-        "Полное дублирование",
-        "Профессиональный (двухголосый закадровый) (ViruseProject)",
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Любительский (многоголосый закадровый) (Ultradox)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
+        "Любительский (многоголосый закадровый) (Ultradox)"
       ],
       "seasons_count": 4,
       "episodes_count": 24,
       "episodes": 6,
-      "update": "2021-03-31 06:25:37",
+      "update": "2021-04-01 14:24:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 4883,
+      "title": "Святилище",
+      "kp_id": "1174264",
+      "imdb_id": "tt8661868",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-07-18 11:43:20",
+      "orig_title": "Himmelsdalen",
+      "year": "2019-05-31",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)",
+        "Профессиональный (многоголосый закадровый) (Novamedia)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2021-04-01 12:57:14",
       "iframe_src": ""
     }
   ]
