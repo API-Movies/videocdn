@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 47216,
+      "title": "Банщик",
+      "kp_id": "1443816",
+      "imdb_id": "tt13347818",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-01-18 18:23:26",
+      "orig_title": "Mu yu zhi wang",
+      "year": "2020-12-08",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (двухголосый закадровый) (Колобок)",
+      "update": "2021-01-19 08:09:48",
+      "iframe_src": ""
+    },
+    {
       "id": 47198,
       "title": "Ночи транса",
       "kp_id": null,
@@ -55,24 +73,6 @@
       "iframe_src": ""
     },
     {
-      "id": 47149,
-      "title": "Гринч — похититель Рождества",
-      "kp_id": "1449911",
-      "imdb_id": "tt13437728",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-16 20:44:28",
-      "orig_title": "Dr. Seuss' the Grinch Musical",
-      "year": "2020-12-09",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-01-18 14:46:07",
-      "iframe_src": ""
-    },
-    {
       "id": 47144,
       "title": "Слияние двух лун 2: Возвращение",
       "kp_id": "24790",
@@ -91,57 +91,22 @@
       "iframe_src": ""
     },
     {
-      "id": 47087,
-      "title": "Дипломаты поневоле",
-      "kp_id": "224301",
-      "imdb_id": "tt0412646",
+      "id": 47121,
+      "title": "Что-то похожее на лето",
+      "kp_id": "668097",
+      "imdb_id": "tt2196053",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-01-14 18:50:38",
-      "orig_title": "Diplomaty ponevole",
-      "year": "1977-01-01",
+      "add": "2021-01-15 19:28:56",
+      "orig_title": "Something Like Summer",
+      "year": "2017-02-25",
       "translations": [
-        "Оригинальная дорожка"
+        "Original (English)",
+        "Любительский (одноголосый закадровый)"
       ],
-      "quality": "tv",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-18 14:45:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 47066,
-      "title": "Человек, который сомневается",
-      "kp_id": "45475",
-      "imdb_id": "tt0173724",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-13 21:50:00",
-      "orig_title": "Chelovek, kotoryy somnevaetsya",
-      "year": "1963-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "sat",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-18 14:47:26",
-      "iframe_src": ""
-    },
-    {
-      "id": 47065,
-      "title": "Человек в зеленой перчатке",
-      "kp_id": "596173",
-      "imdb_id": "tt5227008",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-01-13 21:46:57",
-      "orig_title": "Chelovek v zelyonoy perchatke",
-      "year": "1968-04-29",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "vhs",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-18 14:48:18",
+      "quality": "webdl",
+      "translation": "Original (English)",
+      "update": "2021-01-19 08:07:46",
       "iframe_src": ""
     },
     {
@@ -311,6 +276,101 @@
       "iframe_src": ""
     },
     {
+      "id": 5815,
+      "title": "Кукольный дом",
+      "kp_id": "412341",
+      "imdb_id": "tt1135300",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-23 15:10:37",
+      "orig_title": "Dollhouse",
+      "year": "2009-02-13",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ТВ3)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 26,
+      "episodes": 13,
+      "update": "2019-11-24 09:20:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 5814,
+      "title": "Подмена",
+      "kp_id": "1007516",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-23 15:06:31",
+      "orig_title": "Подмена",
+      "year": "2017-01-14",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-11-23 20:51:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 5811,
+      "title": "Правда",
+      "kp_id": "1291167",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-23 09:09:48",
+      "orig_title": "Правда",
+      "year": "2019-11-23",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-11-24 08:07:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 5808,
+      "title": "Спецназ 2",
+      "kp_id": "421428",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-22 21:33:45",
+      "orig_title": "Спецназ 2",
+      "year": "2003-10-06",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-11-23 11:52:14",
+      "iframe_src": ""
+    },
+    {
+      "id": 5807,
+      "title": "Спецназ",
+      "kp_id": "260136",
+      "imdb_id": "tt0465869",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-22 21:26:28",
+      "orig_title": "Spetsnaz",
+      "year": "2002-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 3,
+      "episodes": 3,
+      "update": "2019-11-23 11:49:10",
+      "iframe_src": ""
+    },
+    {
       "id": 5804,
       "title": "1+1 дома",
       "kp_id": "837957",
@@ -327,6 +387,45 @@
       "episodes_count": 2,
       "episodes": 2,
       "update": "2019-11-23 07:04:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 5803,
+      "title": "Последствия",
+      "kp_id": "574266",
+      "imdb_id": "tt1652216",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-22 11:50:24",
+      "orig_title": "DCI Banks",
+      "year": "2010-09-27",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "Любительский (одноголосый закадровый) (Project Web Mania)"
+      ],
+      "seasons_count": 6,
+      "episodes_count": 32,
+      "episodes": 6,
+      "update": "2019-11-23 21:18:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 5802,
+      "title": "Мама будет против",
+      "kp_id": "779538",
+      "imdb_id": "tt6574928",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-11-22 11:24:47",
+      "orig_title": "Mama budet protiv",
+      "year": "2013-07-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-11-23 15:31:55",
       "iframe_src": ""
     },
     {
@@ -387,64 +486,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5795,
-      "title": "Крах инженера Гарина",
-      "kp_id": "77279",
-      "imdb_id": "tt0069601",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-21 20:11:21",
-      "orig_title": "Krakh inzhenera Garina",
-      "year": "1973-10-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-11-22 11:40:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 5793,
-      "title": "Зелёные яйца с ветчиной",
-      "kp_id": "1135811",
-      "imdb_id": "tt4651448",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-21 12:27:34",
-      "orig_title": "Green Eggs and Ham",
-      "year": "2019-11-08",
-      "translations": [
-        "Полное дублирование (Пифагор)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2019-11-21 21:03:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 5792,
-      "title": "Абстракция: Искусство дизайна",
-      "kp_id": "1008939",
-      "imdb_id": "tt6333098",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-21 12:04:53",
-      "orig_title": "Abstract: The Art of Design",
-      "year": "2017-02-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (VSI Moscow)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 14,
-      "episodes": 6,
-      "update": "2019-11-22 07:10:17",
-      "iframe_src": ""
-    },
-    {
       "id": 5790,
       "title": "От «А» до «Я»",
       "kp_id": "804667",
@@ -461,122 +502,6 @@
       "episodes_count": 13,
       "episodes": 13,
       "update": "2019-11-22 15:29:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 5789,
-      "title": "Красные дубы",
-      "kp_id": "842220",
-      "imdb_id": "tt3973820",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-21 11:39:11",
-      "orig_title": "Red Oaks",
-      "year": "2014-08-28",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 26,
-      "episodes": 6,
-      "update": "2019-11-21 20:00:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 5782,
-      "title": "На зов скорби",
-      "kp_id": "731696",
-      "imdb_id": "tt2521668",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-20 15:54:39",
-      "orig_title": "Les Revenants",
-      "year": "2012-11-26",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Agatha Studdio)",
-        "Профессиональный (многоголосый закадровый) (AlexFilm)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 16,
-      "episodes": 8,
-      "update": "2019-11-21 08:36:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 5781,
-      "title": "Люблю тебя с первого взгляда",
-      "kp_id": "1228688",
-      "imdb_id": "tt10101272",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-20 12:17:39",
-      "orig_title": "Chomyeone Saranghamnida",
-      "year": "2019-05-06",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2019-11-21 20:47:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 5780,
-      "title": "Что случилось, Пхун-сан?",
-      "kp_id": "1206355",
-      "imdb_id": "tt9466856",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-20 11:32:58",
-      "orig_title": "Waegeurae Pungsangssi",
-      "year": "2019-01-09",
-      "translations": [
-        "Любительский (двухголосый закадровый) (SoftBox)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2019-11-20 21:35:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 5779,
-      "title": "Школа «Черная дыра»",
-      "kp_id": "255688",
-      "imdb_id": "tt0337539",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-19 18:26:21",
-      "orig_title": "Strange Days at Blake Holsey High",
-      "year": "2002-10-05",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Любительский (двухголосый закадровый)"
-      ],
-      "seasons_count": 4,
-      "episodes_count": 40,
-      "episodes": 1,
-      "update": "2019-11-20 21:21:55",
-      "iframe_src": ""
-    },
-    {
-      "id": 5775,
-      "title": "Вуншпунш",
-      "kp_id": "418903",
-      "imdb_id": "tt0362384",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-11-19 15:44:06",
-      "orig_title": "Wunschpunsch",
-      "year": "2001-11-09",
-      "translations": [
-        "Полное дублирование (ТВ3)"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 52,
-      "episodes": 26,
-      "update": "2019-11-21 08:02:23",
       "iframe_src": ""
     },
     {
@@ -637,6 +562,25 @@
       "iframe_src": ""
     },
     {
+      "id": 5457,
+      "title": "Бабочки и птицы",
+      "kp_id": "1280638",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-10-14 05:30:46",
+      "orig_title": "Бабочки и птицы",
+      "year": "2019-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-11-24 18:55:08",
+      "iframe_src": ""
+    },
+    {
       "id": 4905,
       "title": "Печатная машинка",
       "kp_id": "1278187",
@@ -673,6 +617,66 @@
       "quality": "dvdrip",
       "translation": "Полное дублирование",
       "update": "2021-01-18 14:51:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 3900,
+      "title": "Оборванная мелодия",
+      "kp_id": "1177792",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-01-16 17:16:25",
+      "orig_title": "Оборванная мелодия",
+      "year": "2018-10-21",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-11-24 18:52:03",
+      "iframe_src": ""
+    },
+    {
+      "id": 20352,
+      "title": "Чемпионат рабочих",
+      "kp_id": "1142612",
+      "imdb_id": "tt6333084",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-11-28 10:32:15",
+      "orig_title": "The Workers Cup",
+      "year": "2017-01-19",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-01-19 08:10:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 2876,
+      "title": "Почва",
+      "kp_id": "1112725",
+      "imdb_id": "tt7766104",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-06-29 09:51:06",
+      "orig_title": "Heimebane",
+      "year": "2018-03-04",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GoldTeam)",
+        "Любительский (многоголосый закадровый) (GreenРай Studio)",
+        "Профессиональный (многоголосый закадровый) (BaibaKo)",
+        "Любительский (многоголосый закадровый) (WestFilm)"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 18,
+      "episodes": 8,
+      "update": "2019-11-24 11:14:47",
       "iframe_src": ""
     },
     {
@@ -713,42 +717,59 @@
       "iframe_src": ""
     },
     {
-      "id": 9814,
-      "title": "Песни моря",
-      "kp_id": "45581",
-      "imdb_id": "tt0128126",
+      "id": 5701,
+      "title": "Добрый сынок",
+      "kp_id": "5496",
+      "imdb_id": "tt0107034",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-02-20 11:24:01",
-      "orig_title": "Cîntecele marii",
-      "year": "1971-10-08",
+      "add": "2016-09-28 19:28:24",
+      "orig_title": "The Good Son",
+      "year": "1993-09-24",
       "translations": [
-        "Оригинальная дорожка",
-        "Полное дублирование"
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Дохалов Вартан)",
+        "Авторский (одноголосый закадровый) (Горчаков Василий)",
+        "Авторский (одноголосый закадровый) (Володарский Леонид)",
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый) (РенТВ)",
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)",
+        "Профессиональный (многоголосый закадровый) (Премьер Видео Фильм)"
       ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2021-01-18 14:49:19",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-19 08:02:12",
       "iframe_src": ""
     },
     {
-      "id": 247,
-      "title": "Тайны и ложь",
-      "kp_id": "838492",
-      "imdb_id": "tt3516878",
+      "id": 1596,
+      "title": "Король Нью-Йорка",
+      "kp_id": "3743",
+      "imdb_id": "tt0099939",
       "world_art_id": null,
-      "type": "serial",
-      "add": "2016-07-03 11:17:51",
-      "orig_title": "Secrets & Lies",
-      "year": "2015-03-01",
+      "type": "movie",
+      "add": "2016-04-24 10:25:40",
+      "orig_title": "King Of New York",
+      "year": "1990-07-18",
       "translations": [
-        "Полное дублирование",
-        "Профессиональный (двухголосый закадровый) (Sunshine Studio)"
+        "Профессиональный (многоголосый закадровый)",
+        "Авторский (одноголосый закадровый) (Чадов Михаил)",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)",
+        "Авторский (одноголосый закадровый) (Прямостанов Павел)",
+        "Авторский (одноголосый закадровый) (Сонькин Владимир)",
+        "Авторский (одноголосый закадровый) (Живов Юрий)",
+        "Original (English)",
+        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
+        "Профессиональный (двухголосый закадровый) (Гланц + Королёва)",
+        "Профессиональный (двухголосый закадровый) (НТВ)",
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Cinema Prestige)",
+        "Профессиональный (многоголосый закадровый) (Екатеринбург Арт)"
       ],
-      "seasons_count": 2,
-      "episodes_count": 20,
-      "episodes": 10,
-      "update": "2019-11-22 07:47:19",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-01-19 09:00:08",
       "iframe_src": ""
     }
   ]
