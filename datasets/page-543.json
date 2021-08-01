@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 44070,
+      "title": "Привязывание",
+      "kp_id": "1314789",
+      "imdb_id": "tt10914452",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-10-02 13:07:31",
+      "orig_title": "Il legame",
+      "year": "2020-10-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2020-10-02 17:44:27",
+      "iframe_src": ""
+    },
+    {
       "id": 44061,
       "title": "Книжная неделя",
       "kp_id": "1111509",
@@ -325,24 +343,6 @@
       "iframe_src": ""
     },
     {
-      "id": 43972,
-      "title": "О, море, море!",
-      "kp_id": "934650",
-      "imdb_id": "tt6012722",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-09-29 17:22:36",
-      "orig_title": "O, more, more!",
-      "year": "1983-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-10-02 13:15:37",
-      "iframe_src": ""
-    },
-    {
       "id": 40480,
       "title": "Я никогда не был в Нью-Йорке",
       "kp_id": "1146737",
@@ -358,6 +358,44 @@
       "quality": "bd",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2020-10-02 13:27:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 155,
+      "title": "Волшебники зеленого континента",
+      "kp_id": "957497",
+      "imdb_id": "tt5260254",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-06-07 13:20:07",
+      "orig_title": "The Wizards of Aus",
+      "year": "2016-01-19",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Jimmy J.)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2016-06-08 08:43:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 154,
+      "title": "Кошмарные миры Герберта Уэллса",
+      "kp_id": "958508",
+      "imdb_id": "tt5437394",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-06-07 13:11:56",
+      "orig_title": "The Nightmare Worlds of H.G. Wells",
+      "year": "2016-01-28",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Sunshine Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2016-06-08 06:30:05",
       "iframe_src": ""
     },
     {
@@ -684,25 +722,6 @@
       "iframe_src": ""
     },
     {
-      "id": 73,
-      "title": "Злые птички",
-      "kp_id": "761309",
-      "imdb_id": "tt3012598",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-05-08 05:46:54",
-      "orig_title": "Angry Birds Toons",
-      "year": "2013-03-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 104,
-      "episodes": 26,
-      "update": "2016-05-16 04:44:12",
-      "iframe_src": ""
-    },
-    {
       "id": 65,
       "title": "Разбивающая сердца",
       "kp_id": "893673",
@@ -719,27 +738,6 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2016-05-27 06:38:36",
-      "iframe_src": ""
-    },
-    {
-      "id": 12,
-      "title": "Области тьмы",
-      "kp_id": "887610",
-      "imdb_id": "tt4422836",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-03-12 09:34:25",
-      "orig_title": "Limitless",
-      "year": "2015-09-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)",
-        "Профессиональный (двухголосый закадровый) (Gears Media)",
-        "Профессиональный (многоголосый закадровый) (BaibaKo)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 22,
-      "episodes": 22,
-      "update": "2016-05-16 06:49:04",
       "iframe_src": ""
     }
   ]

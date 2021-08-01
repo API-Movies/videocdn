@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 50694,
+      "title": "Станция Юнион",
+      "kp_id": "11200",
+      "imdb_id": "tt0043090",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-27 15:30:05",
+      "orig_title": "Union Station",
+      "year": "1950-08-31",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Яковлев Алексей)"
+      ],
+      "quality": "bd",
+      "translation": "Авторский (одноголосый закадровый) (Яковлев Алексей)",
+      "update": "2021-05-28 05:52:20",
+      "iframe_src": ""
+    },
+    {
       "id": 50691,
       "title": "Почему не я?",
       "kp_id": "34650",
@@ -307,6 +325,25 @@
       "iframe_src": ""
     },
     {
+      "id": 9538,
+      "title": "Борцы за свободу: Луч",
+      "kp_id": "1008481",
+      "imdb_id": "tt5957358",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-12-15 13:44:35",
+      "orig_title": "Freedom Fighters: The Ray",
+      "year": "2017-12-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AniLibria.TV)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-12-15 19:59:49",
+      "iframe_src": ""
+    },
+    {
       "id": 9531,
       "title": "Яблоневый сад",
       "kp_id": "660850",
@@ -326,6 +363,25 @@
       "iframe_src": ""
     },
     {
+      "id": 9515,
+      "title": "Мадемуазель Зази",
+      "kp_id": "893683",
+      "imdb_id": "tt3227218",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-12-10 21:32:46",
+      "orig_title": "Mademoiselle Zazie",
+      "year": "2013-01-01",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 78,
+      "episodes": 78,
+      "update": "2020-12-15 18:59:26",
+      "iframe_src": ""
+    },
+    {
       "id": 9510,
       "title": "Шальные деньги",
       "kp_id": "422964",
@@ -342,25 +398,6 @@
       "episodes_count": 125,
       "episodes": 125,
       "update": "2020-12-15 18:25:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 9506,
-      "title": "Жестокая любовь",
-      "kp_id": "419444",
-      "imdb_id": "tt0823331",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-12-09 20:14:52",
-      "orig_title": "Amores de Mercado",
-      "year": "2006-01-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 122,
-      "episodes": 122,
-      "update": "2020-12-13 12:29:18",
       "iframe_src": ""
     },
     {
@@ -497,25 +534,6 @@
       "iframe_src": ""
     },
     {
-      "id": 9428,
-      "title": "Чужая стая",
-      "kp_id": "1274275",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-12-01 06:38:30",
-      "orig_title": "Чужая стая",
-      "year": "2020-11-30",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 20,
-      "episodes": 20,
-      "update": "2020-12-13 10:24:50",
-      "iframe_src": ""
-    },
-    {
       "id": 9412,
       "title": "Невидимые",
       "kp_id": null,
@@ -574,29 +592,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8942,
-      "title": "Ничья земля",
-      "kp_id": "1273322",
-      "imdb_id": "tt8335218",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-10-08 09:12:38",
-      "orig_title": "No Man's Land",
-      "year": "2020-09-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (ColdFilm)",
-        "Любительский (многоголосый закадровый) (Ultradox)",
-        "Профессиональный (двухголосый закадровый) (IdeaFilm)",
-        "Профессиональный (многоголосый закадровый) (Jaskier)",
-        "Профессиональный (многоголосый закадровый) (Кравец)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2020-12-13 08:40:20",
-      "iframe_src": ""
-    },
-    {
       "id": 7539,
       "title": "Идеальные убийства",
       "kp_id": "1202482",
@@ -614,6 +609,26 @@
       "episodes_count": 18,
       "episodes": 6,
       "update": "2020-12-15 18:38:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 6133,
+      "title": "Дурная кровь",
+      "kp_id": "1164744",
+      "imdb_id": "tt8540882",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-12-24 19:19:51",
+      "orig_title": "The Bad Seed",
+      "year": "2019-04-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (WestFilm)",
+        "Профессиональный (двухголосый закадровый) (ViruseProject)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 5,
+      "episodes": 5,
+      "update": "2020-12-15 18:46:06",
       "iframe_src": ""
     },
     {
@@ -700,46 +715,25 @@
       "iframe_src": ""
     },
     {
-      "id": 12387,
-      "title": "Флэш Гордон",
-      "kp_id": "6608",
-      "imdb_id": "tt0080745",
+      "id": 6215,
+      "title": "Повесть о любви и тьме",
+      "kp_id": "790284",
+      "imdb_id": "tt1135989",
       "world_art_id": null,
       "type": "movie",
-      "add": "2017-07-09 06:31:03",
-      "orig_title": "Flash Gordon",
-      "year": "1980-12-05",
+      "add": "2016-10-12 10:15:26",
+      "orig_title": "A Tale of Love and Darkness",
+      "year": "2015-05-16",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
-        "Original (English)",
-        "Любительский (одноголосый закадровый) (Петербуржец | Козлов Владимир)",
-        "Профессиональный (двухголосый закадровый) (Екатеринбург Арт)",
-        "Профессиональный (многоголосый закадровый)"
+        "Профессиональный (многоголосый закадровый) (Pazl Voice)",
+        "Любительский (одноголосый закадровый) (PiterVV)",
+        "Любительский (многоголосый закадровый) (GreenРай Studio)",
+        "Профессиональный (одноголосый закадровый) (Баритон)"
       ],
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-05-27 07:52:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 5441,
-      "title": "Мистер Джонсон",
-      "kp_id": "22661",
-      "imdb_id": "tt0102458",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-09-22 10:10:32",
-      "orig_title": "Mister Johnson",
-      "year": "1990-09-08",
-      "translations": [
-        "Профессиональный (многоголосый)",
-        "Original (English)",
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый)",
-      "update": "2021-05-27 07:56:35",
+      "update": "2021-05-28 06:00:34",
       "iframe_src": ""
     },
     {

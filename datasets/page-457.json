@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "id": 45635,
-      "title": "Линн и Люси",
-      "kp_id": "1277679",
-      "imdb_id": "tt10300174",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-25 20:51:28",
-      "orig_title": "Lynn + Lucy",
-      "year": "2020-07-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-11-26 05:44:36",
-      "iframe_src": ""
-    },
-    {
       "id": 45634,
       "title": "Обмен",
       "kp_id": "989162",
@@ -70,6 +52,24 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
       "update": "2020-11-26 08:09:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 45497,
+      "title": "Четыре монеты",
+      "kp_id": "627787",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-11-22 18:09:12",
+      "orig_title": "Четыре монеты",
+      "year": "1955-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "sat",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-11-26 13:27:12",
       "iframe_src": ""
     },
     {
@@ -361,6 +361,25 @@
       "iframe_src": ""
     },
     {
+      "id": 2596,
+      "title": "Сестры",
+      "kp_id": "1100423",
+      "imdb_id": "tt6258050",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-05-19 03:44:29",
+      "orig_title": "Sisters",
+      "year": "2017-10-25",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 7,
+      "episodes": 7,
+      "update": "2018-05-21 10:39:25",
+      "iframe_src": ""
+    },
+    {
       "id": 2594,
       "title": "Мститель в маске",
       "kp_id": "714152",
@@ -551,6 +570,25 @@
       "iframe_src": ""
     },
     {
+      "id": 2577,
+      "title": "Чао, Федерико!",
+      "kp_id": "842009",
+      "imdb_id": "tt4760664",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-05-15 10:14:53",
+      "orig_title": "Chao, Federiko!",
+      "year": "2014-09-05",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2018-05-21 10:45:29",
+      "iframe_src": ""
+    },
+    {
       "id": 2573,
       "title": "Частный детектив Татьяна Иванова",
       "kp_id": "841347",
@@ -681,44 +719,6 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2018-05-15 05:01:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 2558,
-      "title": "Точка взрыва",
-      "kp_id": "749519",
-      "imdb_id": "tt2812646",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-05-10 11:21:33",
-      "orig_title": "Tochka vzryva",
-      "year": "2013-04-07",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2018-05-15 04:58:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 2557,
-      "title": "Право на любовь",
-      "kp_id": "789189",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-05-10 11:19:26",
-      "orig_title": "Право на любовь",
-      "year": "2013-08-17",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2018-05-15 04:52:24",
       "iframe_src": ""
     },
     {
