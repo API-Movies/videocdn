@@ -1,373 +1,367 @@
 {
   "data": [
     {
-      "id": 15338,
-      "title": "Жёлтый песочек",
-      "kp_id": "1049308",
-      "imdb_id": null,
+      "id": 15381,
+      "title": "Мужеубийцы",
+      "kp_id": "1049473",
+      "imdb_id": "tt6608976",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-01 09:46:00",
-      "orig_title": "Жёлтый песочек",
-      "year": "2017-09-16",
+      "add": "2018-03-05 15:49:14",
+      "orig_title": "Nui si fuk sau",
+      "year": "2017-03-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-03-06 05:53:07",
+      "iframe_src": ""
+    },
+    {
+      "id": 15378,
+      "title": "Ослиная шкура",
+      "kp_id": "21328",
+      "imdb_id": "tt0066207",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 08:08:18",
+      "orig_title": "Peau d'âne",
+      "year": "1970-12-20",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 06:14:19",
+      "iframe_src": ""
+    },
+    {
+      "id": 15377,
+      "title": "Император севера",
+      "kp_id": "16256",
+      "imdb_id": "tt0070030",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 08:06:13",
+      "orig_title": "Emperor of the North Pole",
+      "year": "1973-05-24",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-03-06 06:12:34",
+      "iframe_src": ""
+    },
+    {
+      "id": 15375,
+      "title": "Игрушечные солдатики",
+      "kp_id": "5546",
+      "imdb_id": "tt0103112",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:56:22",
+      "orig_title": "Toy Soldiers",
+      "year": "1991-04-26",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 06:06:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 15374,
+      "title": "Воскрешение",
+      "kp_id": "4918",
+      "imdb_id": "tt0142804",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:54:39",
+      "orig_title": "Resurrection",
+      "year": "1999-06-05",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-03-06 06:05:28",
+      "iframe_src": ""
+    },
+    {
+      "id": 15373,
+      "title": "Безумная",
+      "kp_id": "58121",
+      "imdb_id": "tt0097557",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:50:51",
+      "orig_title": "I, Madman",
+      "year": "1989-04-07",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 06:01:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 15371,
+      "title": "Гриффин и Феникс: На краю счастья",
+      "kp_id": "193788",
+      "imdb_id": "tt0460812",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:45:48",
+      "orig_title": "Griffin & Phoenix",
+      "year": "2006-09-12",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2018-03-06 05:57:06",
+      "iframe_src": ""
+    },
+    {
+      "id": 15370,
+      "title": "Озорной поцелуй, часть 1: Старшая школа",
+      "kp_id": "958850",
+      "imdb_id": "tt5336230",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 07:35:08",
+      "orig_title": "Itazura na Kiss THE MOVIE: Part1 Haisukuru hen",
+      "year": "2016-11-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (XDUB Dorama)"
+      ],
+      "quality": "hdtv",
+      "translation": "Любительский (многоголосый закадровый) (XDUB Dorama)",
+      "update": "2018-03-06 05:56:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 15369,
+      "title": "Гигант",
+      "kp_id": "977359",
+      "imdb_id": "tt5693136",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-05 06:16:15",
+      "orig_title": "Handia",
+      "year": "2017-09-23",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 05:14:47",
+      "iframe_src": ""
+    },
+    {
+      "id": 15367,
+      "title": "Остров сокровищ",
+      "kp_id": "573759",
+      "imdb_id": "tt0122227",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-04 14:25:36",
+      "orig_title": "Ostrov sokrovishch",
+      "year": "1989-03-24",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "bd",
+      "translation": "Оригинальная дорожка",
+      "update": "2018-03-05 11:33:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 15364,
+      "title": "Рожденный сильным",
+      "kp_id": null,
+      "imdb_id": "tt7582508",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-04 10:45:18",
+      "orig_title": "Born Strong",
+      "year": "2017-11-03",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-03-05 11:22:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 15363,
+      "title": "Лос-Анджелес 92",
+      "kp_id": "1044407",
+      "imdb_id": "tt6794424",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-04 10:43:19",
+      "orig_title": "LA 92",
+      "year": "2017-04-21",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-05 11:20:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 15362,
+      "title": "Старый камень",
+      "kp_id": "977385",
+      "imdb_id": "tt5474522",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-04 10:41:42",
+      "orig_title": "Lao shi",
+      "year": "2016-02-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-03-05 11:19:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 15360,
+      "title": "Киборги",
+      "kp_id": "1103846",
+      "imdb_id": "tt7691572",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-03-04 10:20:13",
+      "orig_title": "Cyborgs: Heroes Never Die",
+      "year": "2017-12-07",
       "translations": [
         "Оригинальная дорожка"
       ],
       "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2018-03-01 15:39:09",
+      "update": "2018-03-05 11:14:21",
       "iframe_src": ""
     },
     {
-      "id": 15337,
-      "title": "Бессмертный Манхэттен",
-      "kp_id": "674892",
-      "imdb_id": "tt2330973",
+      "id": 15326,
+      "title": "Дьявольское древо: Корень зла",
+      "kp_id": "1074387",
+      "imdb_id": "tt7315526",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-01 09:39:25",
-      "orig_title": "Manhattan Undying",
-      "year": "2016-05-31",
+      "add": "2018-02-28 22:03:36",
+      "orig_title": "Devil's Tree: Rooted Evil",
+      "year": "2018-01-10",
       "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Любительский (двухголосый закадровый) (HiWayGrope)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 05:54:21",
+      "iframe_src": ""
+    },
+    {
+      "id": 14481,
+      "title": "Никогда не ходите в поход одни",
+      "kp_id": "989449",
+      "imdb_id": "tt5719786",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2017-11-27 18:29:05",
+      "orig_title": "Never Hike Alone",
+      "year": "2017-10-13",
+      "translations": [
+        "Любительский (двухголосый закадровый) (RecentFilms)",
         "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-03-01 15:37:00",
+      "translation": "Любительский (двухголосый закадровый) (RecentFilms)",
+      "update": "2018-03-06 05:49:01",
       "iframe_src": ""
     },
     {
-      "id": 15336,
-      "title": "Старики-разведчики",
-      "kp_id": "938349",
-      "imdb_id": "tt5076054",
+      "id": 13108,
+      "title": "Мальчики на деревьях",
+      "kp_id": "820379",
+      "imdb_id": "tt3445580",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-01 09:35:02",
-      "orig_title": "Kundschafter des Friedens",
-      "year": "2017-01-26",
+      "add": "2017-08-23 04:21:15",
+      "orig_title": "Boys in the Trees",
+      "year": "2016-09-09",
       "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
         "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-03-01 15:36:33",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-03-05 11:32:02",
       "iframe_src": ""
     },
     {
-      "id": 15335,
-      "title": "Фантастическая женщина",
-      "kp_id": "990332",
-      "imdb_id": "tt5639354",
+      "id": 12201,
+      "title": "На одной волне",
+      "kp_id": "968248",
+      "imdb_id": "tt5539054",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-03-01 09:32:21",
-      "orig_title": "Una mujer fantástica",
-      "year": "2017-02-12",
+      "add": "2017-06-28 07:53:21",
+      "orig_title": "You Get Me",
+      "year": "2017-06-23",
       "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
         "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
       ],
       "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-      "update": "2018-03-01 15:31:22",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-03-05 11:09:33",
       "iframe_src": ""
     },
     {
-      "id": 15334,
-      "title": "Пелена",
-      "kp_id": "954583",
-      "imdb_id": "tt5232206",
+      "id": 6514,
+      "title": "Отряд «Дельта» 2",
+      "kp_id": "34607",
+      "imdb_id": "tt0099399",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-02-28 22:36:17",
-      "orig_title": "Hamog",
-      "year": "2015-11-09",
+      "add": "2016-10-20 06:00:57",
+      "orig_title": "Delta Force 2: The Colombian Connection",
+      "year": "1990-08-24",
       "translations": [
         "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-01 15:28:56",
-      "iframe_src": ""
-    },
-    {
-      "id": 15332,
-      "title": "Заметки с поля боя",
-      "kp_id": "1111565",
-      "imdb_id": "tt7722000",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-28 22:28:25",
-      "orig_title": "Notes from the Field",
-      "year": "2018-02-24",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-01 15:26:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 15331,
-      "title": "Шкатулка Дьявола",
-      "kp_id": "989729",
-      "imdb_id": "tt5848862",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-28 22:20:46",
-      "orig_title": "Sacrilege",
-      "year": "2017-05-02",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-03-01 15:22:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 15329,
-      "title": "Гермия и Елена",
-      "kp_id": "994129",
-      "imdb_id": "tt5880296",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-28 22:11:50",
-      "orig_title": "Hermia & Helena",
-      "year": "2016-08-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
       "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-03-01 15:10:56",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-03-06 06:16:54",
       "iframe_src": ""
     },
     {
-      "id": 15327,
-      "title": "Не называй меня сыном",
-      "kp_id": "961406",
-      "imdb_id": "tt5452964",
+      "id": 5107,
+      "title": "Беглецы",
+      "kp_id": "3734",
+      "imdb_id": "tt0116320",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-02-28 22:05:54",
-      "orig_title": "Mãe Só Há Uma",
-      "year": "2016-02-12",
+      "add": "2016-09-08 06:41:05",
+      "orig_title": "Fled",
+      "year": "1996-07-19",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Полное дублирование"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-03-01 15:09:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 15324,
-      "title": "Отчаянный",
-      "kp_id": "952393",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-28 21:51:58",
-      "orig_title": "Unhinged",
-      "year": "2017-09-11",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-03-01 15:07:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 15320,
-      "title": "Братаны",
-      "kp_id": "1045943",
-      "imdb_id": "tt7967580",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-28 06:45:12",
-      "orig_title": "Buradeo",
-      "year": "2017-11-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-03-01 15:06:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 15319,
-      "title": "Прощай, отель Кабукитё",
-      "kp_id": null,
-      "imdb_id": "tt3876372",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-28 06:37:06",
-      "orig_title": "Kabukicho Love Hotel",
-      "year": "2015-01-24",
-      "translations": [
-        "Любительский (двухголосый закадровый) (RealFake)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (двухголосый закадровый) (RealFake)",
-      "update": "2018-02-28 18:44:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 15318,
-      "title": "Планета Теллурия",
-      "kp_id": null,
-      "imdb_id": "tt6317016",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-28 06:34:57",
-      "orig_title": "Tellur Aliens",
-      "year": "2016-12-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-03-01 15:06:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 15317,
-      "title": "Морская звезда",
-      "kp_id": "895788",
-      "imdb_id": "tt4528454",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-02-28 06:32:55",
-      "orig_title": "Starfish",
-      "year": "2016-06-16",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2018-03-01 15:06:02",
-      "iframe_src": ""
-    },
-    {
-      "id": 14657,
-      "title": "Девушка, которая придумала поцелуи",
-      "kp_id": "757532",
-      "imdb_id": "tt2850480",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-13 22:54:03",
-      "orig_title": "The Girl Who Invented Kissing",
-      "year": "2017-04-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-03-01 15:37:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 14603,
-      "title": "Скрытые резервы",
-      "kp_id": "916355",
-      "imdb_id": "tt4734102",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-10 20:25:26",
-      "orig_title": "Stille Reserven",
-      "year": "2016-09-23",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (двухголосый закадровый)",
-      "update": "2018-03-01 15:37:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 14595,
-      "title": "Цепной пёс",
-      "kp_id": "1007689",
-      "imdb_id": "tt6204340",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-10 19:26:31",
-      "orig_title": "Bullet Head",
-      "year": "2017-12-07",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Полное дублирование",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)",
-        "Профессиональный (многоголосый закадровый) (Paradox & Omskbird records)",
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2018-03-01 15:07:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 12512,
-      "title": "Моя мама - сталкер",
-      "kp_id": "1015398",
-      "imdb_id": "tt6320538",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-07-17 08:41:24",
-      "orig_title": "Stalked by My Mother",
-      "year": "2016-09-26",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-02-28 18:44:10",
-      "iframe_src": ""
-    },
-    {
-      "id": 12042,
-      "title": "Орбита 9",
-      "kp_id": "822446",
-      "imdb_id": "tt3469798",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-06-19 22:39:51",
-      "orig_title": "Órbita 9",
-      "year": "2017-04-07",
-      "translations": [
-        "Полное дублирование",
-        "Полное дублирование (iTunes)"
-      ],
-      "quality": "webdl",
+      "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-03-02 07:55:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 9641,
-      "title": "Почти взрослые",
-      "kp_id": "913420",
-      "imdb_id": "tt4686862",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-02-13 10:31:37",
-      "orig_title": "Almost Adults",
-      "year": "2016-05-28",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый) (GreenРай Studio)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-03-01 15:36:12",
+      "update": "2018-03-06 06:00:23",
       "iframe_src": ""
     }
   ]

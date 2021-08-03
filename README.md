@@ -1,18 +1,18 @@
-# :tv: Movies and TV `62,219` (videocdn)
+# :tv: Movies and TV `62,422` (videocdn)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-08-02
-- Movies `49,665`
-  - [x] <a href="https://API-Movies.github.io/videocdn/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `41,593`
-  - [x] <a href="https://API-Movies.github.io/videocdn/movie_imdb_ids.json">IMDb IDs</a> `41,206`
+### :date: 2021-08-03
+- Movies `49,844`
+  - [x] <a href="https://API-Movies.github.io/videocdn/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `41,529`
+  - [x] <a href="https://API-Movies.github.io/videocdn/movie_imdb_ids.json">IMDb IDs</a> `41,140`
   - [ ] TMDb IDs `0`
   - [x] <a href="https://API-Movies.github.io/videocdn/movie_world_art_ids.json">World-Art IDs</a> `204`
   - [ ] Shikimori IDs `0`
   - [x] None IDs `1`
-- TV `12,554`
-  - [x] <a href="https://API-Movies.github.io/videocdn/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `10,728`
-  - [x] <a href="https://API-Movies.github.io/videocdn/tv_imdb_ids.json">IMDb IDs</a> `9,162`
+- TV `12,578`
+  - [x] <a href="https://API-Movies.github.io/videocdn/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `10,725`
+  - [x] <a href="https://API-Movies.github.io/videocdn/tv_imdb_ids.json">IMDb IDs</a> `9,150`
   - [ ] TMDb IDs `0`
   - [x] <a href="https://API-Movies.github.io/videocdn/tv_world_art_ids.json">World-Art IDs</a> `946`
   - [ ] Shikimori IDs `0`
