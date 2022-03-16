@@ -1,111 +1,309 @@
 {
   "data": [
     {
-      "id": 18399,
-      "title": "Месси и Мод",
-      "kp_id": "961014",
-      "imdb_id": "tt4494230",
+      "id": 18453,
+      "title": "Развратная графиня",
+      "kp_id": "79004",
+      "imdb_id": "tt0069930",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 21:10:11",
-      "orig_title": "La Holandesa",
+      "add": "2018-08-20 20:59:31",
+      "orig_title": "La comtesse perverse",
+      "year": "1975-12-10",
+      "translations": [
+        "Любительский (одноголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2018-08-21 10:38:13",
+      "iframe_src": ""
+    },
+    {
+      "id": 18441,
+      "title": "Искусство заключать сделки",
+      "kp_id": "959372",
+      "imdb_id": "tt5456120",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-20 20:29:28",
+      "orig_title": "Donald Trump's The Art of the Deal: The Movie",
+      "year": "2016-02-10",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-21 08:29:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 18439,
+      "title": "Все, что я хочу",
+      "kp_id": "930007",
+      "imdb_id": "tt4946006",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-20 20:25:56",
+      "orig_title": "All I Want",
+      "year": "2017-06-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-21 08:28:41",
+      "iframe_src": ""
+    },
+    {
+      "id": 18421,
+      "title": "Опасная игра",
+      "kp_id": "35501",
+      "imdb_id": "tt0101656",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 23:06:36",
+      "orig_title": "Dangerous Game",
+      "year": "1988-05-16",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-08-21 08:27:15",
+      "iframe_src": ""
+    },
+    {
+      "id": 18420,
+      "title": "Клеопатра",
+      "kp_id": "232697",
+      "imdb_id": "tt0488515",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 23:05:02",
+      "orig_title": "Cleópatra",
+      "year": "2007-09-02",
+      "translations": [
+        "Авторский (одноголосый закадровый) (Алексеев Антон)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Авторский (одноголосый закадровый) (Алексеев Антон)",
+      "update": "2018-08-21 08:26:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 18419,
+      "title": "Замок Эрос",
+      "kp_id": "39912",
+      "imdb_id": "tt0293019",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 23:03:18",
+      "orig_title": "Castle Eros",
+      "year": "2002-06-18",
+      "translations": [
+        "Профессиональный (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (двухголосый закадровый)",
+      "update": "2018-08-21 08:25:36",
+      "iframe_src": ""
+    },
+    {
+      "id": 18417,
+      "title": "Неудержимая юность",
+      "kp_id": "844075",
+      "imdb_id": "tt6075718",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 22:11:01",
+      "orig_title": "Ao Haru Ride",
+      "year": "2014-12-13",
+      "translations": [
+        "Любительский (двухголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (двухголосый закадровый)",
+      "update": "2018-08-21 08:23:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 18416,
+      "title": "Вчерашний бесценный день",
+      "kp_id": null,
+      "imdb_id": "tt5981732",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:53:51",
+      "orig_title": "Yesterday Was Everything",
+      "year": "2017-06-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-21 08:22:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 18415,
+      "title": "Клуб злобных мамочек",
+      "kp_id": "1062733",
+      "imdb_id": "tt7469672",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:49:11",
+      "orig_title": "Wicked Mom's Club",
+      "year": "2017-10-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-21 08:20:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 18413,
+      "title": "Токийские айдолы",
+      "kp_id": "1008785",
+      "imdb_id": "tt6039532",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:44:56",
+      "orig_title": "Tokyo Idols",
+      "year": "2017-01-20",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-21 08:18:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 18410,
+      "title": "Антитезис",
+      "kp_id": "1142616",
+      "imdb_id": "tt7252852",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:38:46",
+      "orig_title": "The Antithesis",
+      "year": "2017-08-14",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Колобок)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Колобок)",
+      "update": "2018-08-21 08:13:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 18409,
+      "title": "Реванш",
+      "kp_id": "258877",
+      "imdb_id": "tt0828158",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:37:03",
+      "orig_title": "The Take",
+      "year": "2007-09-12",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-21 08:12:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 18406,
+      "title": "Ангел-хранитель",
+      "kp_id": "1027074",
+      "imdb_id": "tt6353036",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:29:46",
+      "orig_title": "The Guardian Angel",
+      "year": "2018-03-12",
+      "translations": [
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
+      "update": "2018-08-21 07:46:44",
+      "iframe_src": ""
+    },
+    {
+      "id": 18405,
+      "title": "Кодекс сводника",
+      "kp_id": "1112882",
+      "imdb_id": "tt7913934",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:28:10",
+      "orig_title": "The Matchmaker's Playbook",
+      "year": "2018-03-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2018-08-21 07:45:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 18404,
+      "title": "Её жизнь – не ошибка",
+      "kp_id": "1045074",
+      "imdb_id": "tt6823246",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:25:53",
+      "orig_title": "Kanojo no jinsei wa machigaijanai",
+      "year": "2017-07-15",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-21 07:43:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 18401,
+      "title": "Озеро Поркьюпайн",
+      "kp_id": "998715",
+      "imdb_id": "tt5913968",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-08-19 21:16:08",
+      "orig_title": "Porcupine Lake",
       "year": "2017-09-08",
       "translations": [
         "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 07:30:03",
-      "iframe_src": ""
-    },
-    {
-      "id": 18398,
-      "title": "Кунг-фу путешественник 2",
-      "kp_id": "1048066",
-      "imdb_id": "tt8005336",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 21:08:10",
-      "orig_title": "Gong fu ji qi xia 2",
-      "year": "2017-08-21",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-08-21 07:29:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 18397,
-      "title": "Альфонс",
-      "kp_id": "916198",
-      "imdb_id": "tt4765862",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 21:06:41",
-      "orig_title": "Kept Boy",
-      "year": "2017-02-04",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 07:27:44",
+      "update": "2018-08-21 07:35:46",
       "iframe_src": ""
     },
     {
-      "id": 18395,
-      "title": "Ловушка для лисы",
-      "kp_id": "874607",
-      "imdb_id": "tt3949996",
+      "id": 18400,
+      "title": "Нападение акул на Нью-Джерси",
+      "kp_id": "647739",
+      "imdb_id": "tt1876349",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 21:02:32",
-      "orig_title": "Fox Trap",
-      "year": "2018-02-10",
+      "add": "2018-08-19 21:14:27",
+      "orig_title": "Jersey Shore Shark Attack",
+      "year": "2012-06-09",
       "translations": [
-        "Любительский (многоголосый закадровый) (Колобок)"
+        "Профессиональный (многоголосый закадровый)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый) (Колобок)",
-      "update": "2018-08-21 06:33:19",
-      "iframe_src": ""
-    },
-    {
-      "id": 18394,
-      "title": "Навсегда",
-      "kp_id": null,
-      "imdb_id": "tt8788634",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 21:00:53",
-      "orig_title": "Para Sempre Chape",
-      "year": "2018-08-02",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 06:00:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 18389,
-      "title": "Все стили",
-      "kp_id": "1055411",
-      "imdb_id": "tt7307136",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 20:43:27",
-      "orig_title": "All Styles",
-      "year": "2018-08-06",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2018-08-21 05:49:10",
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2018-08-21 07:33:53",
       "iframe_src": ""
     },
     {
@@ -128,237 +326,41 @@
       "iframe_src": ""
     },
     {
-      "id": 18385,
-      "title": "Насилие в женской тюрьме",
-      "kp_id": "140966",
-      "imdb_id": "tt0084869",
+      "id": 17148,
+      "title": "Париж. Город Zомби",
+      "kp_id": "988157",
+      "imdb_id": "tt4266076",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 07:14:02",
-      "orig_title": "Violenza in un carcere femminile",
-      "year": "1982-09-09",
+      "add": "2018-06-11 23:47:03",
+      "orig_title": "La nuit a dévoré le monde",
+      "year": "2018-01-13",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Дубль)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
-      "update": "2018-08-20 06:01:37",
-      "iframe_src": ""
-    },
-    {
-      "id": 18384,
-      "title": "Возвращение помидоров-убийц",
-      "kp_id": "20555",
-      "imdb_id": "tt0095989",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:12:41",
-      "orig_title": "Return of the Killer Tomatoes!",
-      "year": "1988-04-22",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (CP Digital)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (CP Digital)",
-      "update": "2018-08-20 05:55:31",
-      "iframe_src": ""
-    },
-    {
-      "id": 18383,
-      "title": "Восход луны",
-      "kp_id": "3269",
-      "imdb_id": "tt0040607",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:11:11",
-      "orig_title": "Moonrise",
-      "year": "1948-10-01",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СТС)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (СТС)",
-      "update": "2018-08-20 06:00:06",
-      "iframe_src": ""
-    },
-    {
-      "id": 18382,
-      "title": "Мисима: Жизнь в четырёх главах",
-      "kp_id": "7326",
-      "imdb_id": "tt0089603",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:10:08",
-      "orig_title": "Mishima: A Life in Four Chapters",
-      "year": "1985-05-15",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (НТВ)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (НТВ)",
-      "update": "2018-08-20 05:58:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 18381,
-      "title": "Рыжая белка",
-      "kp_id": "77236",
-      "imdb_id": "tt0106305",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:08:25",
-      "orig_title": "La ardilla roja",
-      "year": "1993-04-21",
-      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)",
+        "Любительский (одноголосый закадровый) (BadBajo | Важенин Андрей)",
         "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-20 06:31:41",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2018-08-21 07:48:15",
       "iframe_src": ""
     },
     {
-      "id": 18380,
-      "title": "Без иллюзий",
-      "kp_id": "52250",
-      "imdb_id": "tt0109384",
+      "id": 17010,
+      "title": "Псы под прикрытием",
+      "kp_id": "1030828",
+      "imdb_id": "tt5691024",
       "world_art_id": null,
       "type": "movie",
-      "add": "2018-08-19 07:07:13",
-      "orig_title": "Casa de Lava",
-      "year": "1995-02-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (СВ-Дубль)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (СВ-Дубль)",
-      "update": "2018-08-20 05:56:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 18379,
-      "title": "Нападение помидоров-убийц",
-      "kp_id": "34866",
-      "imdb_id": "tt0080391",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:05:40",
-      "orig_title": "Attack of the Killer Tomatoes!",
-      "year": "1978-10-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-20 05:54:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 18378,
-      "title": "Шесть степеней отчуждения",
-      "kp_id": "3511",
-      "imdb_id": "tt0108149",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:04:17",
-      "orig_title": "Six Degrees of Separation",
-      "year": "1993-12-08",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2018-08-20 05:52:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 18376,
-      "title": "Шугар Хилл",
-      "kp_id": "91532",
-      "imdb_id": "tt0072225",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-19 07:00:02",
-      "orig_title": "Sugar Hill",
-      "year": "1974-03-20",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (НТВ)"
-      ],
-      "quality": "hdtv",
-      "translation": "Профессиональный (двухголосый закадровый) (НТВ)",
-      "update": "2018-08-20 05:50:22",
-      "iframe_src": ""
-    },
-    {
-      "id": 18371,
-      "title": "Барон Мюнхгаузен",
-      "kp_id": "96395",
-      "imdb_id": "tt0054665",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-16 23:36:51",
-      "orig_title": "Baron Prásil",
-      "year": "1962-09-21",
+      "add": "2018-06-02 22:39:25",
+      "orig_title": "Show Dogs",
+      "year": "2018-05-10",
       "translations": [
         "Полное дублирование"
       ],
       "quality": "bd",
       "translation": "Полное дублирование",
-      "update": "2018-08-17 10:40:52",
-      "iframe_src": ""
-    },
-    {
-      "id": 18369,
-      "title": "Энджи",
-      "kp_id": "13131",
-      "imdb_id": "tt0109129",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-16 23:33:05",
-      "orig_title": "Angie",
-      "year": "1994-03-04",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2018-08-17 10:39:25",
-      "iframe_src": ""
-    },
-    {
-      "id": 18349,
-      "title": "Криминальный квартет",
-      "kp_id": "44983",
-      "imdb_id": "tt0234056",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-16 13:26:29",
-      "orig_title": "Kriminalnyy kvartet",
-      "year": "1990-05-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "quality": "webdl",
-      "translation": "Оригинальная дорожка",
-      "update": "2018-08-17 06:54:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 18338,
-      "title": "Болотная тварь",
-      "kp_id": "25449",
-      "imdb_id": "tt0084745",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-08-16 05:52:45",
-      "orig_title": "Swamp Thing",
-      "year": "1982-02-19",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2018-08-17 06:52:42",
+      "update": "2018-08-21 07:40:12",
       "iframe_src": ""
     }
   ]
