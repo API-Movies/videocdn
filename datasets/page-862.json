@@ -1,385 +1,363 @@
 {
   "data": [
     {
-      "id": 46492,
-      "title": "Рождественский ужин",
-      "kp_id": "1417606",
-      "imdb_id": "tt13148548",
+      "id": 46577,
+      "title": "Армейский пирог",
+      "kp_id": "61768",
+      "imdb_id": "tt0353161",
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-28 21:14:47",
-      "orig_title": "Cooking Up Christmas",
-      "year": "2020-12-15",
+      "add": "2020-12-31 12:19:14",
+      "orig_title": "Achtung, fertig, Charlie!",
+      "year": "2003-09-18",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2020-12-31 13:05:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 46576,
+      "title": "Здравствуй, ночь",
+      "kp_id": "61576",
+      "imdb_id": "tt0377569",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-31 12:05:06",
+      "orig_title": "Buongiorno, notte",
+      "year": "2003-09-04",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2020-12-31 12:35:18",
+      "iframe_src": ""
+    },
+    {
+      "id": 46575,
+      "title": "Клубничка в супермаркете",
+      "kp_id": "80773",
+      "imdb_id": "tt0322807",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-31 12:01:16",
+      "orig_title": "Jagoda u supermarketu",
+      "year": "2003-02-06",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Кармен Видео)"
+      ],
+      "quality": "dvdrip",
+      "translation": "Профессиональный (многоголосый закадровый) (Кармен Видео)",
+      "update": "2020-12-31 12:41:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 46559,
+      "title": "Бубен Верхнего мира",
+      "kp_id": "1412184",
+      "imdb_id": "tt13460370",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-31 08:59:01",
+      "orig_title": "Buben Verkhnego mira",
+      "year": "2020-10-27",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-31 11:51:39",
+      "iframe_src": ""
+    },
+    {
+      "id": 46558,
+      "title": "Планета людей",
+      "kp_id": "1387040",
+      "imdb_id": "tt12192654",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-30 22:28:43",
+      "orig_title": "Planet of the Humans",
+      "year": "2019-07-31",
+      "translations": [
+        "[EN] Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "[EN] Original (English)",
+      "update": "2020-12-31 07:12:24",
+      "iframe_src": ""
+    },
+    {
+      "id": 46557,
+      "title": "Потеря",
+      "kp_id": "756622",
+      "imdb_id": "tt2832482",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-30 22:26:43",
+      "orig_title": "Bereave",
+      "year": "2015-02-24",
+      "translations": [
+        "[EN] Original (English)"
+      ],
+      "quality": "webdl",
+      "translation": "[EN] Original (English)",
+      "update": "2020-12-31 07:10:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 46556,
+      "title": "Кормилица",
+      "kp_id": "1198866",
+      "imdb_id": "tt9716058",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-30 19:39:02",
+      "orig_title": "The One You Feed",
+      "year": "2020-12-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-30 21:49:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 46546,
+      "title": "Заблудшая душа",
+      "kp_id": "1266995",
+      "imdb_id": "tt9640414",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-30 19:07:41",
+      "orig_title": "Lost Heart",
+      "year": "2020-10-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-30 21:34:33",
+      "iframe_src": ""
+    },
+    {
+      "id": 46545,
+      "title": "Использованные девушки",
+      "kp_id": "1205259",
+      "imdb_id": "tt9165668",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-30 19:03:43",
+      "orig_title": "Cut-Out Girls",
+      "year": "2018-10-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-30 21:35:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 46544,
+      "title": "Никчемная",
+      "kp_id": "974916",
+      "imdb_id": "tt5651572",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-30 19:01:28",
+      "orig_title": "Worthless",
+      "year": "2018-04-23",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-31 07:15:17",
+      "iframe_src": ""
+    },
+    {
+      "id": 46543,
+      "title": "Два пути домой",
+      "kp_id": "1069365",
+      "imdb_id": "tt6731766",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-30 18:58:03",
+      "orig_title": "Two Ways to Go West",
+      "year": "2020-07-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2020-12-30 21:35:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 46542,
+      "title": "Идеальное королевское рождество",
+      "kp_id": "1254359",
+      "imdb_id": "tt10154790",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-12-30 18:54:10",
+      "orig_title": "Picture Perfect Royal Christmas",
+      "year": "2020-12-01",
       "translations": [
         "Любительский (многоголосый закадровый) (AlphaProject)"
       ],
-      "quality": "hdtv",
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-12-29 08:57:57",
+      "update": "2020-12-30 21:36:10",
       "iframe_src": ""
     },
     {
-      "id": 46489,
-      "title": "Она написала Рождество",
-      "kp_id": "1441409",
-      "imdb_id": "tt13097858",
+      "id": 46541,
+      "title": "Игрок",
+      "kp_id": "4298771",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-12-28 21:01:55",
-      "orig_title": "Christmas She Wrote",
-      "year": "2020-12-06",
+      "add": "2020-12-30 18:51:46",
+      "orig_title": "Игрок",
+      "year": "2020-12-30",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-29 08:59:40",
-      "iframe_src": ""
-    },
-    {
-      "id": 46487,
-      "title": "Гостиница к Рождеству",
-      "kp_id": "1345150",
-      "imdb_id": "tt11666938",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-28 20:58:11",
-      "orig_title": "Inn for Christmas",
-      "year": "2020-12-18",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-29 09:04:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 46477,
-      "title": "Группа крови",
-      "kp_id": "980416",
-      "imdb_id": "tt5731746",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-28 20:30:46",
-      "orig_title": "Blood Type",
-      "year": "2019-11-29",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-29 09:06:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 46455,
-      "title": "Мой дорогой убийца",
-      "kp_id": "105252",
-      "imdb_id": "tt0067434",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-28 10:01:45",
-      "orig_title": "Mio caro assassino",
-      "year": "1972-02-03",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (5-й канал СПб)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (5-й канал СПб)",
-      "update": "2020-12-29 08:10:13",
-      "iframe_src": ""
-    },
-    {
-      "id": 46447,
-      "title": "Индейское лето",
-      "kp_id": "158316",
-      "imdb_id": "tt0113420",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-28 09:25:05",
-      "orig_title": "Indiánské léto",
-      "year": "1995-02-02",
-      "translations": [
-        "Авторский (одноголосый закадровый) (Кузнецов Сергей)"
-      ],
-      "quality": "hdtv",
-      "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
-      "update": "2020-12-29 08:12:58",
-      "iframe_src": ""
-    },
-    {
-      "id": 46438,
-      "title": "Элемент преступления",
-      "kp_id": "22600",
-      "imdb_id": "tt0087280",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-28 08:39:14",
-      "orig_title": "Forbrydelsens element",
-      "year": "1984-05-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Другое кино)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Другое кино)",
-      "update": "2020-12-29 08:06:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 46434,
-      "title": "Эмма и Юлеманден: Охота за сердцем Королевы Эльфов",
-      "kp_id": "923697",
-      "imdb_id": "tt4819154",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-12-28 08:07:34",
-      "orig_title": "Emma & Julemanden: Jagten på elverdronningens hjerte",
-      "year": "2015-11-12",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Игмар)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый) (Игмар)",
-      "update": "2020-12-29 08:07:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 45409,
-      "title": "Смертельный декабрь",
-      "kp_id": "1213851",
-      "imdb_id": "tt9301428",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-11-18 17:05:25",
-      "orig_title": "Deathcember",
-      "year": "2019-10-31",
-      "translations": [
-        "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-        "Профессиональный (многоголосый закадровый) (IVI)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
-      "update": "2020-12-29 08:19:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 44754,
-      "title": "Доктор Лиза",
-      "kp_id": "1254059",
-      "imdb_id": "tt12028944",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-10-25 15:35:25",
-      "orig_title": "Doktor Liza",
-      "year": "2020-10-22",
-      "translations": [
-        "Оригинальная дорожка",
         "Оригинальная дорожка"
       ],
-      "quality": "ts",
+      "quality": "webdl",
       "translation": "Оригинальная дорожка",
-      "update": "2020-12-29 08:17:02",
+      "update": "2020-12-30 21:36:34",
       "iframe_src": ""
     },
     {
-      "id": 36620,
-      "title": "Проклятие монахини Роуз",
-      "kp_id": "1109169",
-      "imdb_id": "tt7461372",
+      "id": 46248,
+      "title": "Самый Новый год",
+      "kp_id": "1445155",
+      "imdb_id": null,
       "world_art_id": null,
       "type": "movie",
-      "add": "2020-02-20 08:47:05",
-      "orig_title": "The Dawn",
-      "year": "2019-09-25",
+      "add": "2020-12-19 21:33:02",
+      "orig_title": "Самый Новый год",
+      "year": "2020-12-17",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Полное дублирование (iTunes)"
+        "Оригинальная дорожка"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-29 08:24:44",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-31 11:49:54",
       "iframe_src": ""
     },
     {
-      "id": 33239,
-      "title": "Рождество в Блу Ридж Маунтин",
-      "kp_id": "1302464",
-      "imdb_id": "tt10936658",
+      "id": 45916,
+      "title": "Комета Галлея",
+      "kp_id": "1338253",
+      "imdb_id": "tt11898944",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-11-18 21:10:35",
-      "orig_title": "A Blue Ridge Mountain Christmas",
-      "year": "2019-11-07",
+      "add": "2020-12-08 15:38:14",
+      "orig_title": "Kometa Galleya",
+      "year": "2020-12-03",
       "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)",
-        "Профессиональный (многоголосый закадровый)"
+        "Оригинальная дорожка"
       ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2020-12-29 08:18:31",
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2020-12-31 11:53:11",
       "iframe_src": ""
     },
     {
-      "id": 30937,
-      "title": "Высшая форма",
-      "kp_id": "1033145",
-      "imdb_id": "tt6222286",
+      "id": 45607,
+      "title": "Карантинные истории",
+      "kp_id": "1405963",
+      "imdb_id": "tt12492600",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-09-17 22:49:24",
-      "orig_title": "Perfect",
-      "year": "2018-03-11",
+      "add": "2020-11-25 11:25:03",
+      "orig_title": "Relatos con-fin-a-dos",
+      "year": "2020-11-19",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
         "Профессиональный (многоголосый закадровый) (iTunes)"
       ],
       "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
+      "update": "2020-12-31 16:25:43",
+      "iframe_src": ""
+    },
+    {
+      "id": 43699,
+      "title": "Избави нас от лукавого",
+      "kp_id": "1270677",
+      "imdb_id": "tt12763920",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-21 08:24:00",
+      "orig_title": "Daman akeseo guhasoseo",
+      "year": "2020-08-05",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "quality": "webdl",
+      "translation": "Полное дублирование",
+      "update": "2020-12-31 15:09:30",
+      "iframe_src": ""
+    },
+    {
+      "id": 43429,
+      "title": "Рабочая сила",
+      "kp_id": "1222326",
+      "imdb_id": "tt9451096",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-09-11 19:34:49",
+      "orig_title": "Mano de obra",
+      "year": "2019-09-09",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-29 08:26:23",
+      "update": "2020-12-30 21:35:10",
       "iframe_src": ""
     },
     {
-      "id": 28482,
-      "title": "Идеальное Рождество",
-      "kp_id": "260585",
-      "imdb_id": "tt0841032",
+      "id": 43250,
+      "title": "Маленькая страна",
+      "kp_id": "1237235",
+      "imdb_id": "tt9665968",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-07-02 13:07:56",
-      "orig_title": "The Perfect Holiday",
-      "year": "2007-12-12",
+      "add": "2020-09-08 06:03:42",
+      "orig_title": "Petit pays",
+      "year": "2020-02-03",
       "translations": [
-        "Авторский (одноголосый закадровый) (Гранкин Евгений)",
-        "Авторский (одноголосый закадровый) (Гранкин Евгений)"
+        "Полное дублирование (iTunes)"
       ],
-      "quality": "dvdrip",
-      "translation": "Авторский (одноголосый закадровый) (Гранкин Евгений)",
-      "update": "2020-12-29 08:21:22",
+      "quality": "webdl",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2020-12-31 14:46:54",
       "iframe_src": ""
     },
     {
-      "id": 25411,
-      "title": "Северное сияние",
-      "kp_id": "41043",
-      "imdb_id": "tt0297002",
+      "id": 20996,
+      "title": "Рождественские приключения любительницы обуви",
+      "kp_id": "1193372",
+      "imdb_id": "tt8634202",
       "world_art_id": null,
       "type": "movie",
-      "add": "2019-04-26 17:51:31",
-      "orig_title": "Severnoe siyanie",
-      "year": "2001-01-01",
+      "add": "2018-12-25 00:15:59",
+      "orig_title": "A Shoe Addict's Christmas",
+      "year": "2018-11-25",
       "translations": [
-        "Оригинальная дорожка",
-        "Оригинальная дорожка"
-      ],
-      "quality": "dvdrip",
-      "translation": "Оригинальная дорожка",
-      "update": "2020-12-29 08:15:51",
-      "iframe_src": ""
-    },
-    {
-      "id": 14546,
-      "title": "Снежный роман",
-      "kp_id": "1103303",
-      "imdb_id": "tt7657428",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-12-04 19:29:19",
-      "orig_title": "Snowmance",
-      "year": "2017-11-20",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "hdtv",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2020-12-29 08:14:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 8760,
-      "title": "Зимняя сказка, или Королева, потерявшая имя",
-      "kp_id": "905585",
-      "imdb_id": "tt4637050",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-09 11:31:46",
-      "orig_title": "Fräulein: una fiaba d'inverno",
-      "year": "2016-05-26",
-      "translations": [
-        "Любительский (многоголосый закадровый)",
         "Профессиональный (многоголосый закадровый) (IVI)"
       ],
-      "quality": "dvdrip",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2020-12-29 08:23:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 7018,
-      "title": "Санта Клаус",
-      "kp_id": "2547",
-      "imdb_id": "tt0111070",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-11-03 13:02:28",
-      "orig_title": "The Santa Clause",
-      "year": "1994-11-11",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "[EN] Original (English)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2020-12-29 07:57:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 4565,
-      "title": "Семьянин",
-      "kp_id": "664",
-      "imdb_id": "tt0218967",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-19 07:42:59",
-      "orig_title": "The Family Man",
-      "year": "2000-12-22",
-      "translations": [
-        "Полное дублирование",
-        "Авторский (одноголосый закадровый) (Живов Юрий)",
-        "Полное дублирование",
-        "[EN] Original (English)",
-        "Профессиональный (многоголосый закадровый) (РТР | Россия)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-12-29 07:47:46",
-      "iframe_src": ""
-    },
-    {
-      "id": 616,
-      "title": "Полярный экспресс",
-      "kp_id": "3755",
-      "imdb_id": "tt0338348",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-05 16:04:17",
-      "orig_title": "The Polar Express",
-      "year": "2004-10-21",
-      "translations": [
-        "Полное дублирование",
-        "Авторский (одноголосый закадровый) (Королёв Владимир)",
-        "Авторский (одноголосый закадровый) (Рудой Евгений)",
-        "Полное дублирование",
-        "[EN] Original (English)",
-        "Профессиональный (многоголосый закадровый) (Киномания)",
-        "Профессиональный (двухголосый закадровый) (Tycoon)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2020-12-29 07:55:45",
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (IVI)",
+      "update": "2020-12-31 14:47:52",
       "iframe_src": ""
     }
   ]
