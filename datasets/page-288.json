@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 55562,
+      "title": "Кто такой Эймос Отис?",
+      "kp_id": "4546890",
+      "imdb_id": "tt14946780",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-12-29 19:54:56",
+      "orig_title": "Who is Amos Otis?",
+      "year": "2020-10-08",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-12-30 17:18:58",
+      "iframe_src": ""
+    },
+    {
+      "id": 55560,
+      "title": "Изысканное блюдо",
+      "kp_id": "1296822",
+      "imdb_id": "tt10867576",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-12-29 19:33:49",
+      "orig_title": "An Exquisite Meal",
+      "year": "2020-03-07",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-12-30 17:11:57",
+      "iframe_src": ""
+    },
+    {
       "id": 55559,
       "title": "Зай зай зай зай",
       "kp_id": "1338781",
@@ -246,25 +282,6 @@
       "iframe_src": ""
     },
     {
-      "id": 8399,
-      "title": "Человек, который смеется",
-      "kp_id": "446121",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-08-08 14:28:14",
-      "orig_title": "L’homme qui rit",
-      "year": "1971-11-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 3,
-      "episodes": 3,
-      "update": "2020-08-12 21:09:15",
-      "iframe_src": ""
-    },
-    {
       "id": 8396,
       "title": "Доктор Чудобрючкин",
       "kp_id": "844132",
@@ -330,22 +347,22 @@
       "iframe_src": ""
     },
     {
-      "id": 8194,
-      "title": "Формат А4",
-      "kp_id": "565144",
-      "imdb_id": null,
+      "id": 8199,
+      "title": "Участковый детектив",
+      "kp_id": "624637",
+      "imdb_id": "tt4455576",
       "world_art_id": null,
       "type": "serial",
-      "add": "2020-07-19 05:18:28",
-      "orig_title": "Формат А4",
-      "year": "2011-10-25",
+      "add": "2020-07-19 06:00:15",
+      "orig_title": "Uchastkoviy detektiv",
+      "year": "2011-09-19",
       "translations": [
         "Оригинальная дорожка"
       ],
       "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2020-08-12 17:46:00",
+      "episodes_count": 73,
+      "episodes": 73,
+      "update": "2020-08-15 12:38:20",
       "iframe_src": ""
     },
     {
@@ -451,23 +468,24 @@
       "iframe_src": ""
     },
     {
-      "id": 20647,
-      "title": "Дикая банда",
-      "kp_id": "11026",
-      "imdb_id": "tt0231448",
+      "id": 3140,
+      "title": "Жажда странствий",
+      "kp_id": "1184907",
+      "imdb_id": "tt7608238",
       "world_art_id": null,
-      "type": "movie",
-      "add": "2018-12-11 13:49:25",
-      "orig_title": "Deuces Wild",
-      "year": "2002-05-03",
+      "type": "serial",
+      "add": "2018-09-07 08:18:12",
+      "orig_title": "Wanderlust",
+      "year": "2018-09-04",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "[EN] Original (English)",
-        "Профессиональный (многоголосый закадровый)"
+        "Любительский (двухголосый закадровый) (Sunshine Studio)",
+        "Профессиональный (многоголосый закадровый) (NewStudio)",
+        "Профессиональный (многоголосый закадровый) (HDrezka Studio)"
       ],
-      "quality": "webdl",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-12-30 14:20:25",
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-08-14 17:00:15",
       "iframe_src": ""
     },
     {
@@ -512,6 +530,25 @@
       "iframe_src": ""
     },
     {
+      "id": 17464,
+      "title": "Счастливого рождества, мистер Лоуренс",
+      "kp_id": "39298",
+      "imdb_id": "tt0085933",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2018-06-29 11:44:43",
+      "orig_title": "Merry Christmas Mr. Lawrence",
+      "year": "1983-05-11",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "Профессиональный (многоголосый закадровый) (Cinema Prestige)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-12-30 18:16:59",
+      "iframe_src": ""
+    },
+    {
       "id": 2637,
       "title": "Свет и тень",
       "kp_id": "748788",
@@ -529,26 +566,6 @@
       "episodes_count": 5,
       "episodes": 5,
       "update": "2020-08-14 14:17:00",
-      "iframe_src": ""
-    },
-    {
-      "id": 9051,
-      "title": "Дорогой Зиндаги",
-      "kp_id": "998592",
-      "imdb_id": "tt5946128",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2017-01-19 12:15:29",
-      "orig_title": "Dear Zindagi",
-      "year": "2016-11-23",
-      "translations": [
-        "Любительский (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (многоголосый закадровый) (Honey&Haseena)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый)",
-      "update": "2021-12-30 14:22:58",
       "iframe_src": ""
     },
     {
@@ -666,25 +683,6 @@
       "episodes_count": 62,
       "episodes": 13,
       "update": "2020-08-14 13:18:43",
-      "iframe_src": ""
-    },
-    {
-      "id": 4478,
-      "title": "Добро пожаловать, или Соседям вход воспрещён",
-      "kp_id": "256394",
-      "imdb_id": "tt0790604",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-08-17 06:49:09",
-      "orig_title": "Deck the Halls",
-      "year": "2006-11-22",
-      "translations": [
-        "Полное дублирование",
-        "Полное дублирование (Невафильм | Нева-1)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2021-12-30 14:27:07",
       "iframe_src": ""
     },
     {

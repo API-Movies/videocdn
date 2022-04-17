@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 53666,
+      "title": "Наш отец",
+      "kp_id": "931100",
+      "imdb_id": "tt4973806",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-10-07 07:16:33",
+      "orig_title": "Our Father",
+      "year": "2021-03-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-10-07 14:15:01",
+      "iframe_src": ""
+    },
+    {
+      "id": 53663,
+      "title": "Поедая машины",
+      "kp_id": "1052925",
+      "imdb_id": "tt7325582",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-10-07 07:08:47",
+      "orig_title": "Eating Cars",
+      "year": "2021-05-17",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-10-07 14:15:32",
+      "iframe_src": ""
+    },
+    {
       "id": 53652,
       "title": "Желтая кошка",
       "kp_id": "1395448",
@@ -37,23 +73,23 @@
       "iframe_src": ""
     },
     {
-      "id": 53635,
-      "title": "Я воин",
-      "kp_id": "391591",
-      "imdb_id": "tt1075746",
+      "id": 53634,
+      "title": "Пещера дракона",
+      "kp_id": "439217",
+      "imdb_id": "tt1353997",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-10-05 16:05:23",
-      "orig_title": "I Am Omega",
-      "year": "2007-11-18",
+      "add": "2021-10-05 15:58:58",
+      "orig_title": "Dragonquest",
+      "year": "2009-03-31",
       "translations": [
+        "Любительский (одноголосый закадровый) (Мельников Константин)",
         "[EN] Original (English)",
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (одноголосый закадровый)"
+        "Профессиональный (многоголосый закадровый)"
       ],
       "quality": "bd",
-      "translation": "[EN] Original (English)",
-      "update": "2021-10-07 07:24:53",
+      "translation": "Любительский (одноголосый закадровый) (Мельников Константин)",
+      "update": "2021-10-07 13:59:04",
       "iframe_src": ""
     },
     {
@@ -147,45 +183,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2021-10-07 09:02:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 39097,
-      "title": "Красные цвета любви",
-      "kp_id": "279051",
-      "imdb_id": "tt0896968",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-04-09 20:16:11",
-      "orig_title": "Red: The Dark Side",
-      "year": "2007-03-09",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (Bollywood HD)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2021-10-07 08:19:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 37810,
-      "title": "Моби Дик: Охота на монстра",
-      "kp_id": "552956",
-      "imdb_id": "tt1694508",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2020-03-11 19:18:48",
-      "orig_title": "2010: Moby Dick",
-      "year": "2010-11-23",
-      "translations": [
-        "Профессиональный (двухголосый закадровый) (R5)",
-        "Любительский (двухголосый закадровый)",
-        "[EN] Original (English)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (двухголосый закадровый) (R5)",
-      "update": "2021-10-07 07:28:19",
       "iframe_src": ""
     },
     {
@@ -322,44 +319,6 @@
       "iframe_src": ""
     },
     {
-      "id": 5967,
-      "title": "Пелагия и белый бульдог",
-      "kp_id": "424514",
-      "imdb_id": "tt1513083",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-12-07 05:58:31",
-      "orig_title": "Pelagiya i belyy buldog",
-      "year": "2009-09-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2019-12-07 18:10:15",
-      "iframe_src": ""
-    },
-    {
-      "id": 5959,
-      "title": "Избранный",
-      "kp_id": "732906",
-      "imdb_id": "tt2390334",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-12-06 12:13:14",
-      "orig_title": "Chosen",
-      "year": "2013-01-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (LostFilm)"
-      ],
-      "seasons_count": 3,
-      "episodes_count": 18,
-      "episodes": 6,
-      "update": "2019-12-07 19:02:26",
-      "iframe_src": ""
-    },
-    {
       "id": 5958,
       "title": "Сказки темной стороны",
       "kp_id": "229299",
@@ -438,6 +397,25 @@
       "episodes_count": 59,
       "episodes": 10,
       "update": "2019-12-09 10:15:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 5918,
+      "title": "Следующий уровень",
+      "kp_id": "1260202",
+      "imdb_id": "tt10333500",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-12-03 08:02:12",
+      "orig_title": "Lebeleop",
+      "year": "2019-07-10",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Amazing Dubbing)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 12,
+      "episodes": 12,
+      "update": "2019-12-10 14:31:23",
       "iframe_src": ""
     },
     {
@@ -616,6 +594,28 @@
       "episodes_count": 11,
       "episodes": 11,
       "update": "2019-12-09 17:38:42",
+      "iframe_src": ""
+    },
+    {
+      "id": 5026,
+      "title": "Когда Дьявол зовёт тебя по имени",
+      "kp_id": "1197773",
+      "imdb_id": "tt10015794",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-08-13 17:44:24",
+      "orig_title": "When the Devil Calls Your Name",
+      "year": "2019-07-31",
+      "translations": [
+        "Любительский (двухголосый закадровый)",
+        "Любительский (двухголосый закадровый) (Voice Project Studio)",
+        "Любительский (двухголосый закадровый) (GREEN TEA)",
+        "Любительский (многоголосый закадровый) (Voice Project Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 16,
+      "episodes": 20,
+      "update": "2019-12-10 10:49:35",
       "iframe_src": ""
     },
     {

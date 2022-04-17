@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 53676,
+      "title": "Небеса: Начало пути",
+      "kp_id": "1315095",
+      "imdb_id": "tt11136594",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-10-07 14:17:35",
+      "orig_title": "Heaven",
+      "year": "2021-10-02",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-10-07 23:11:57",
+      "iframe_src": ""
+    },
+    {
+      "id": 53675,
+      "title": "Верёвки",
+      "kp_id": null,
+      "imdb_id": "tt14959898",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-10-07 14:13:00",
+      "orig_title": "Strings",
+      "year": "2021-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2021-10-07 23:10:38",
+      "iframe_src": ""
+    },
+    {
+      "id": 53674,
+      "title": "Закат на реке Стикс",
+      "kp_id": "984377",
+      "imdb_id": "tt5742712",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-10-07 14:10:55",
+      "orig_title": "Sunset on the River Styx",
+      "year": "2020-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-10-07 23:08:49",
+      "iframe_src": ""
+    },
+    {
       "id": 53673,
       "title": "Вал",
       "kp_id": "1332004",
@@ -109,24 +163,6 @@
       "iframe_src": ""
     },
     {
-      "id": 53666,
-      "title": "Наш отец",
-      "kp_id": "931100",
-      "imdb_id": "tt4973806",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-10-07 07:16:33",
-      "orig_title": "Our Father",
-      "year": "2021-03-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-10-07 14:15:01",
-      "iframe_src": ""
-    },
-    {
       "id": 53665,
       "title": "Уложи меня спать",
       "kp_id": null,
@@ -160,24 +196,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-10-07 19:51:20",
-      "iframe_src": ""
-    },
-    {
-      "id": 53663,
-      "title": "Поедая машины",
-      "kp_id": "1052925",
-      "imdb_id": "tt7325582",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-10-07 07:08:47",
-      "orig_title": "Eating Cars",
-      "year": "2021-05-17",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-10-07 14:15:32",
       "iframe_src": ""
     },
     {
@@ -326,26 +344,6 @@
       "iframe_src": ""
     },
     {
-      "id": 53634,
-      "title": "Пещера дракона",
-      "kp_id": "439217",
-      "imdb_id": "tt1353997",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-10-05 15:58:58",
-      "orig_title": "Dragonquest",
-      "year": "2009-03-31",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Мельников Константин)",
-        "[EN] Original (English)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (Мельников Константин)",
-      "update": "2021-10-07 13:59:04",
-      "iframe_src": ""
-    },
-    {
       "id": 53332,
       "title": "Синева",
       "kp_id": "4526511",
@@ -362,6 +360,44 @@
       "quality": "webdl",
       "translation": "Любительский (двухголосый закадровый) (STEPonee)",
       "update": "2021-10-07 14:16:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 6006,
+      "title": "Зеленый Фонарь: Анимационный сериал",
+      "kp_id": "568058",
+      "imdb_id": "tt1724587",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-12-11 10:21:12",
+      "orig_title": "Green Lantern: The Animated Series",
+      "year": "2011-11-11",
+      "translations": [
+        "Полное дублирование (Пифагор)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 25,
+      "episodes": 25,
+      "update": "2019-12-11 18:03:16",
+      "iframe_src": ""
+    },
+    {
+      "id": 6005,
+      "title": "Я всё преодолею",
+      "kp_id": "840218",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-12-11 08:40:35",
+      "orig_title": "Я всё преодолею",
+      "year": "2014-06-07",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-12-11 17:42:07",
       "iframe_src": ""
     },
     {
@@ -685,47 +721,6 @@
       "episodes_count": 177,
       "episodes": 20,
       "update": "2019-12-10 21:55:42",
-      "iframe_src": ""
-    },
-    {
-      "id": 5918,
-      "title": "Следующий уровень",
-      "kp_id": "1260202",
-      "imdb_id": "tt10333500",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-12-03 08:02:12",
-      "orig_title": "Lebeleop",
-      "year": "2019-07-10",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Amazing Dubbing)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2019-12-10 14:31:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 5026,
-      "title": "Когда Дьявол зовёт тебя по имени",
-      "kp_id": "1197773",
-      "imdb_id": "tt10015794",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-08-13 17:44:24",
-      "orig_title": "When the Devil Calls Your Name",
-      "year": "2019-07-31",
-      "translations": [
-        "Любительский (двухголосый закадровый)",
-        "Любительский (двухголосый закадровый) (Voice Project Studio)",
-        "Любительский (двухголосый закадровый) (GREEN TEA)",
-        "Любительский (многоголосый закадровый) (Voice Project Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 20,
-      "update": "2019-12-10 10:49:35",
       "iframe_src": ""
     },
     {

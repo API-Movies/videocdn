@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 52209,
+      "title": "Анализируя Ашеров",
+      "kp_id": "1002411",
+      "imdb_id": "tt6027372",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-08-04 09:42:09",
+      "orig_title": "Deconstructing the Ushers",
+      "year": "2019-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-08-04 16:08:11",
+      "iframe_src": ""
+    },
+    {
+      "id": 52208,
+      "title": "Под миражем солнца",
+      "kp_id": "1204800",
+      "imdb_id": "tt9095296",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-08-04 09:35:02",
+      "orig_title": "Breve Miragem de Sol",
+      "year": "2019-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-08-04 16:07:25",
+      "iframe_src": ""
+    },
+    {
       "id": 52201,
       "title": "Незнакомец наблюдает",
       "kp_id": "6516",
@@ -110,24 +146,6 @@
       "iframe_src": ""
     },
     {
-      "id": 52189,
-      "title": "Кто видел ее смерть?",
-      "kp_id": "35977",
-      "imdb_id": "tt0068367",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-08-03 11:23:47",
-      "orig_title": "Chi l'ha vista morire?",
-      "year": "1972-05-12",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2021-08-04 07:08:11",
-      "iframe_src": ""
-    },
-    {
       "id": 52188,
       "title": "Линия смерти",
       "kp_id": "5681",
@@ -144,25 +162,6 @@
       "quality": "bd",
       "translation": "Любительский (одноголосый закадровый) (RussianGuy27 | Сергеев Сергей)",
       "update": "2021-08-04 09:47:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 52180,
-      "title": "Слишком страшно, чтобы кричать",
-      "kp_id": "20674",
-      "imdb_id": "tt0090186",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-08-03 06:29:31",
-      "orig_title": "Too Scared to Scream",
-      "year": "1985-01-04",
-      "translations": [
-        "[EN] Original (English)",
-        "Авторский (одноголосый закадровый) (Дьяков Сергей)"
-      ],
-      "quality": "bd",
-      "translation": "[EN] Original (English)",
-      "update": "2021-08-04 07:02:57",
       "iframe_src": ""
     },
     {
@@ -204,25 +203,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2021-08-04 09:49:24",
-      "iframe_src": ""
-    },
-    {
-      "id": 50704,
-      "title": "13 призраков",
-      "kp_id": "95617",
-      "imdb_id": "tt0053559",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-28 10:10:20",
-      "orig_title": "13 Ghosts",
-      "year": "1960-07-18",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "[EN] Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-08-04 06:55:00",
       "iframe_src": ""
     },
     {
@@ -300,6 +280,44 @@
       "quality": "bd",
       "translation": "Авторский (одноголосый закадровый) (Кузнецов Сергей)",
       "update": "2021-08-04 09:45:20",
+      "iframe_src": ""
+    },
+    {
+      "id": 3497,
+      "title": "Каин и Авель",
+      "kp_id": "493388",
+      "imdb_id": "tt3147968",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-13 23:22:24",
+      "orig_title": "Kaingwa Abel",
+      "year": "2009-02-18",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GREEN TEA)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 20,
+      "episodes": 20,
+      "update": "2018-11-14 10:03:12",
+      "iframe_src": ""
+    },
+    {
+      "id": 3495,
+      "title": "Тысяча лет любви",
+      "kp_id": "715314",
+      "imdb_id": "tt3205964",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-11-13 19:20:18",
+      "orig_title": "Cheonnyeonjiae",
+      "year": "2003-01-01",
+      "translations": [
+        "Любительский (одноголосый закадровый) (GREEN TEA)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 20,
+      "episodes": 20,
+      "update": "2018-11-14 08:54:11",
       "iframe_src": ""
     },
     {
@@ -569,26 +587,6 @@
       "iframe_src": ""
     },
     {
-      "id": 3436,
-      "title": "Гарфилд и его друзья",
-      "kp_id": "85173",
-      "imdb_id": "tt0094469",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-11-02 08:53:23",
-      "orig_title": "Garfield and Friends",
-      "year": "1988-09-17",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "seasons_count": 7,
-      "episodes_count": 96,
-      "episodes": 9,
-      "update": "2018-11-08 10:36:06",
-      "iframe_src": ""
-    },
-    {
       "id": 3435,
       "title": "Битлджус",
       "kp_id": "431164",
@@ -606,25 +604,6 @@
       "episodes_count": 87,
       "episodes": 58,
       "update": "2018-11-11 21:34:17",
-      "iframe_src": ""
-    },
-    {
-      "id": 3420,
-      "title": "Викинг Вик",
-      "kp_id": "843771",
-      "imdb_id": "tt3072988",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-10-31 11:13:52",
-      "orig_title": "Vic the Viking",
-      "year": "2013-07-04",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 78,
-      "episodes": 78,
-      "update": "2018-11-09 08:22:19",
       "iframe_src": ""
     },
     {
@@ -746,6 +725,28 @@
       "quality": "webdl",
       "translation": "Полное дублирование",
       "update": "2021-08-04 10:06:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 1900,
+      "title": "Слезы солнца",
+      "kp_id": "855",
+      "imdb_id": "tt0314353",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-05 12:31:39",
+      "orig_title": "Tears of the Sun",
+      "year": "2003-03-03",
+      "translations": [
+        "Полное дублирование",
+        "Авторский (одноголосый закадровый) (Карповский Антон)",
+        "Полное дублирование",
+        "[EN] Original (English)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-08-04 15:50:22",
       "iframe_src": ""
     },
     {

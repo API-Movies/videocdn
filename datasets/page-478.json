@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 52601,
+      "title": "Чудовище",
+      "kp_id": "1380762",
+      "imdb_id": "tt12260412",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-08-24 08:58:33",
+      "orig_title": "Monster",
+      "year": "2020-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-08-24 13:14:23",
+      "iframe_src": ""
+    },
+    {
+      "id": 52600,
+      "title": "Убить Байрона Браво",
+      "kp_id": "1221123",
+      "imdb_id": "tt9346994",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-08-24 08:55:42",
+      "orig_title": "Killing Byron Bravo",
+      "year": "2020-01-01",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-08-24 13:13:04",
+      "iframe_src": ""
+    },
+    {
       "id": 52599,
       "title": "Дяди тоже люди",
       "kp_id": "1305952",
@@ -16,6 +52,24 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (@MUZOBOZ@)",
       "update": "2021-08-24 13:11:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 52598,
+      "title": "Юрская охота",
+      "kp_id": "4480023",
+      "imdb_id": "tt14442328",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-08-24 08:51:00",
+      "orig_title": "Jurassic Hunt",
+      "year": "2021-08-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2021-08-24 13:12:25",
       "iframe_src": ""
     },
     {
@@ -52,60 +106,6 @@
       "quality": "webdl",
       "translation": "Любительский (двухголосый закадровый) (JoyStudio)",
       "update": "2021-08-24 10:59:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 52589,
-      "title": "Друзья, семья и любовь",
-      "kp_id": "1394789",
-      "imdb_id": "tt11326928",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-08-23 15:15:33",
-      "orig_title": "Friends Family & Lovers",
-      "year": "2019-11-23",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-08-23 20:09:44",
-      "iframe_src": ""
-    },
-    {
-      "id": 52586,
-      "title": "Корни",
-      "kp_id": "4502777",
-      "imdb_id": "tt14545150",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-08-23 15:08:54",
-      "orig_title": "Caim",
-      "year": "2021-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-08-23 20:02:16",
-      "iframe_src": ""
-    },
-    {
-      "id": 52584,
-      "title": "350 дней",
-      "kp_id": null,
-      "imdb_id": "tt3696764",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-08-23 15:03:40",
-      "orig_title": "350 Days",
-      "year": "2018-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-08-23 20:40:45",
       "iframe_src": ""
     },
     {
@@ -247,6 +247,44 @@
       "iframe_src": ""
     },
     {
+      "id": 4256,
+      "title": "Вернись в Сорренто",
+      "kp_id": "1196964",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-14 06:46:44",
+      "orig_title": "Вернись в Сорренто",
+      "year": "2018-01-01",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-03-14 10:44:48",
+      "iframe_src": ""
+    },
+    {
+      "id": 4254,
+      "title": "Капкан для звезды",
+      "kp_id": "947037",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-03-14 06:33:21",
+      "orig_title": "Капкан для звезды",
+      "year": "2015-12-06",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2019-03-14 10:40:38",
+      "iframe_src": ""
+    },
+    {
       "id": 4253,
       "title": "Если небо молчит",
       "kp_id": "732765",
@@ -301,25 +339,6 @@
       "episodes_count": 13,
       "episodes": 13,
       "update": "2019-03-13 10:39:30",
-      "iframe_src": ""
-    },
-    {
-      "id": 4244,
-      "title": "Такси для Ангела",
-      "kp_id": "389636",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-11 09:21:05",
-      "orig_title": "Такси для Ангела",
-      "year": "2007-06-19",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 1,
-      "episodes": 1,
-      "update": "2019-03-11 12:22:15",
       "iframe_src": ""
     },
     {
@@ -453,25 +472,6 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2019-03-12 10:31:59",
-      "iframe_src": ""
-    },
-    {
-      "id": 4229,
-      "title": "Управдомша",
-      "kp_id": "1242651",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-03-10 07:17:21",
-      "orig_title": "Управдомша",
-      "year": "2019-03-08",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2019-03-11 12:35:24",
       "iframe_src": ""
     },
     {

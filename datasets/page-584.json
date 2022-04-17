@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 51165,
+      "title": "Коробка",
+      "kp_id": "1192938",
+      "imdb_id": "tt8889716",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-06-14 06:49:15",
+      "orig_title": "The Box",
+      "year": "2021-02-02",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (iTunes)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый) (iTunes)",
+      "update": "2021-06-14 11:08:20",
+      "iframe_src": ""
+    },
+    {
       "id": 51162,
       "title": "Я — море",
       "kp_id": "1328514",
@@ -181,22 +199,39 @@
       "iframe_src": ""
     },
     {
-      "id": 50174,
-      "title": "Отец невесты",
-      "kp_id": "13780",
-      "imdb_id": "tt0042451",
+      "id": 51130,
+      "title": "Отряд девушек-мутантов",
+      "kp_id": "497249",
+      "imdb_id": "tt1590796",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-05-06 06:25:31",
-      "orig_title": "Father of the Bride",
-      "year": "1950-05-18",
+      "add": "2021-06-12 15:04:43",
+      "orig_title": "Sentô shôjo: Chi no tekkamen densetsu",
+      "year": "2010-05-22",
       "translations": [
-        "Профессиональный (многоголосый закадровый) (Selena International)",
-        "[EN] Original (English)"
+        "Любительский (одноголосый закадровый) (den904)"
       ],
       "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (Selena International)",
-      "update": "2021-06-14 08:23:42",
+      "translation": "Любительский (одноголосый закадровый) (den904)",
+      "update": "2021-06-14 11:11:59",
+      "iframe_src": ""
+    },
+    {
+      "id": 51092,
+      "title": "Карабинеры",
+      "kp_id": "23903",
+      "imdb_id": "tt0056905",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-06-11 06:19:01",
+      "orig_title": "Les carabiniers",
+      "year": "1963-05-31",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Видеоимпульс)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый) (Видеоимпульс)",
+      "update": "2021-06-14 11:33:58",
       "iframe_src": ""
     },
     {
@@ -238,25 +273,6 @@
       "iframe_src": ""
     },
     {
-      "id": 48605,
-      "title": "Легкомысленно",
-      "kp_id": "18584",
-      "imdb_id": "tt0020873",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-03-10 06:43:18",
-      "orig_title": "Fast and Loose",
-      "year": "1930-11-08",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Кенс Матвей)",
-        "[EN] Original (English)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (одноголосый закадровый) (Кенс Матвей)",
-      "update": "2021-06-14 08:30:32",
-      "iframe_src": ""
-    },
-    {
       "id": 48554,
       "title": "Она решает рискнуть",
       "kp_id": "1386",
@@ -273,26 +289,6 @@
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый) (Светла)",
       "update": "2021-06-14 08:38:47",
-      "iframe_src": ""
-    },
-    {
-      "id": 31086,
-      "title": "Энигма",
-      "kp_id": "6966",
-      "imdb_id": "tt0083891",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-09-22 15:58:11",
-      "orig_title": "Enigma",
-      "year": "1982-10-15",
-      "translations": [
-        "Профессиональный (двухголосый закадровый)",
-        "Профессиональный (двухголосый закадровый) (Cinema Prestige)",
-        "[EN] Original (English)"
-      ],
-      "quality": "webdl",
-      "translation": "Профессиональный (двухголосый закадровый)",
-      "update": "2021-06-14 08:32:26",
       "iframe_src": ""
     },
     {
@@ -352,6 +348,44 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-06-14 08:58:00",
+      "iframe_src": ""
+    },
+    {
+      "id": 1241,
+      "title": "Луни Тюнз шоу",
+      "kp_id": "594869",
+      "imdb_id": "tt1726839",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-05-09 13:42:03",
+      "orig_title": "The Looney Tunes Show",
+      "year": "2011-05-03",
+      "translations": [
+        "Полное дублирование"
+      ],
+      "seasons_count": 2,
+      "episodes_count": 52,
+      "episodes": 26,
+      "update": "2017-05-12 11:23:10",
+      "iframe_src": ""
+    },
+    {
+      "id": 1236,
+      "title": "Воспоминания Хрустального озера: Полная история пятницы 13-го",
+      "kp_id": "712846",
+      "imdb_id": "tt2396421",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2017-05-08 13:29:18",
+      "orig_title": "Crystal Lake Memories: The Complete History of Friday the 13th",
+      "year": "2013-09-13",
+      "translations": [
+        "Любительский (двухголосый закадровый) (DeadSno & den904)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2017-05-11 10:27:53",
       "iframe_src": ""
     },
     {
@@ -583,44 +617,6 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2017-04-26 06:07:57",
-      "iframe_src": ""
-    },
-    {
-      "id": 1214,
-      "title": "Измены",
-      "kp_id": "839356",
-      "imdb_id": "tt5031896",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-04-25 11:44:44",
-      "orig_title": "Izmeni",
-      "year": "2015-09-21",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 16,
-      "episodes": 16,
-      "update": "2017-04-26 05:53:50",
-      "iframe_src": ""
-    },
-    {
-      "id": 1212,
-      "title": "Мёртв на 99%",
-      "kp_id": "988864",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-04-24 15:56:17",
-      "orig_title": "Мёртв на 99%",
-      "year": "2017-04-10",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 10,
-      "episodes": 10,
-      "update": "2017-04-25 15:04:46",
       "iframe_src": ""
     },
     {

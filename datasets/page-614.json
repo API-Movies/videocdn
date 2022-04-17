@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 50714,
+      "title": "Поприветствуйте Мэтта",
+      "kp_id": "1149307",
+      "imdb_id": "tt8367846",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-05-28 19:55:16",
+      "orig_title": "Welcome Matt",
+      "year": "2021-05-28",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-05-28 21:14:36",
+      "iframe_src": ""
+    },
+    {
       "id": 50706,
       "title": "Он, она и дети",
       "kp_id": "256509",
@@ -16,24 +34,6 @@
       "quality": "sat",
       "translation": "Оригинальная дорожка",
       "update": "2021-05-28 16:41:27",
-      "iframe_src": ""
-    },
-    {
-      "id": 50703,
-      "title": "Братья-соперники",
-      "kp_id": "39667",
-      "imdb_id": "tt0245825",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-05-28 05:12:56",
-      "orig_title": "Chal Mere Bhai",
-      "year": "2000-05-05",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-05-28 06:17:44",
       "iframe_src": ""
     },
     {
@@ -73,22 +73,22 @@
       "iframe_src": ""
     },
     {
-      "id": 49284,
-      "title": "Коряжка в беде",
-      "kp_id": "503719",
-      "imdb_id": "tt1611876",
+      "id": 50641,
+      "title": "Американский Барсук",
+      "kp_id": "1394261",
+      "imdb_id": "tt12712572",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-04-02 15:00:17",
-      "orig_title": "Knerten i knipe",
-      "year": "2011-09-23",
+      "add": "2021-05-25 05:53:59",
+      "orig_title": "American Badger",
+      "year": "2021-03-06",
       "translations": [
-        "Профессиональный (многоголосый закадровый)",
-        "Любительский (одноголосый закадровый) (Прошин Вячеслав | Slay73)"
+        "[EN] Original (English)",
+        "Любительский (многоголосый закадровый) (Синема УС)"
       ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-05-28 06:27:03",
+      "quality": "webdl",
+      "translation": "[EN] Original (English)",
+      "update": "2021-05-28 19:31:41",
       "iframe_src": ""
     },
     {
@@ -305,23 +305,43 @@
       "iframe_src": ""
     },
     {
-      "id": 4921,
-      "title": "Капитал",
-      "kp_id": "622786",
-      "imdb_id": "tt1951166",
+      "id": 4427,
+      "title": "Лихорадка джунглей",
+      "kp_id": "3539",
+      "imdb_id": "tt0102175",
       "world_art_id": null,
       "type": "movie",
-      "add": "2016-08-31 07:33:31",
-      "orig_title": "Le capital",
-      "year": "2012-09-08",
+      "add": "2016-08-15 08:26:25",
+      "orig_title": "Jungle Fever",
+      "year": "1991-06-05",
       "translations": [
         "Профессиональный (многоголосый закадровый)",
-        "Профессиональный (многоголосый закадровый) (AB-Video)",
-        "Профессиональный (двухголосый закадровый) (СВ-Дубль)"
+        "Профессиональный (двухголосый закадровый) (Премьер Видео Фильм)",
+        "[EN] Original (English)",
+        "Авторский (одноголосый закадровый) (Михалёв Алексей)"
       ],
-      "quality": "bd",
+      "quality": "hdtv",
       "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-05-28 06:26:11",
+      "update": "2021-05-28 17:04:08",
+      "iframe_src": ""
+    },
+    {
+      "id": 301,
+      "title": "От печали до радости",
+      "kp_id": "984289",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-07-20 09:01:22",
+      "orig_title": "От печали до радости",
+      "year": "2016-06-18",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2016-07-20 11:37:28",
       "iframe_src": ""
     },
     {
@@ -341,6 +361,25 @@
       "episodes_count": 10,
       "episodes": 10,
       "update": "2016-07-20 10:54:51",
+      "iframe_src": ""
+    },
+    {
+      "id": 298,
+      "title": "Долги совести",
+      "kp_id": "978701",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2016-07-20 08:47:58",
+      "orig_title": "Долги совести",
+      "year": "2016-05-28",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2016-07-20 11:32:37",
       "iframe_src": ""
     },
     {
@@ -569,45 +608,6 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2016-07-07 05:44:33",
-      "iframe_src": ""
-    },
-    {
-      "id": 258,
-      "title": "Возраст любви",
-      "kp_id": "975659",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-07-05 15:05:01",
-      "orig_title": "Возраст любви",
-      "year": "2016-05-15",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 1,
-      "episodes": 1,
-      "update": "2016-07-06 04:30:48",
-      "iframe_src": ""
-    },
-    {
-      "id": 242,
-      "title": "Сестра Джеки",
-      "kp_id": "406347",
-      "imdb_id": "tt1190689",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2016-06-29 14:11:29",
-      "orig_title": "Nurse Jackie",
-      "year": "2009-06-08",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Universal Russia)",
-        "Профессиональный (многоголосый закадровый) (NewStudio)"
-      ],
-      "seasons_count": 7,
-      "episodes_count": 80,
-      "episodes": 12,
-      "update": "2016-07-05 11:08:26",
       "iframe_src": ""
     },
     {

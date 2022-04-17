@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 55017,
+      "title": "Комната 8",
+      "kp_id": "770997",
+      "imdb_id": "tt2949338",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-12-05 20:59:51",
+      "orig_title": "Room 8",
+      "year": "2013-04-24",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Точка Zрения)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Точка Zрения)",
+      "update": "2021-12-06 07:49:52",
+      "iframe_src": ""
+    },
+    {
       "id": 55005,
       "title": "Shiny_Flakes: Молодой наркобарон",
       "kp_id": "4528024",
@@ -37,24 +55,6 @@
       "quality": "webdl",
       "translation": "Профессиональный (многоголосый закадровый) (Selena International)",
       "update": "2021-12-06 07:01:07",
-      "iframe_src": ""
-    },
-    {
-      "id": 55003,
-      "title": "Камикадзе",
-      "kp_id": "14354",
-      "imdb_id": "tt0091322",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-12-05 08:01:11",
-      "orig_title": "Kamikaze",
-      "year": "1986-12-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (РТР | Россия)"
-      ],
-      "quality": "bd",
-      "translation": "Профессиональный (многоголосый закадровый) (РТР | Россия)",
-      "update": "2021-12-05 15:34:29",
       "iframe_src": ""
     },
     {
@@ -131,6 +131,25 @@
       "iframe_src": ""
     },
     {
+      "id": 54984,
+      "title": "Дом о семи фронтонах",
+      "kp_id": "19160",
+      "imdb_id": "tt0032610",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-12-04 07:52:59",
+      "orig_title": "The House of the Seven Gables",
+      "year": "1940-02-29",
+      "translations": [
+        "Любительский (одноголосый закадровый)",
+        "[EN] Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Любительский (одноголосый закадровый)",
+      "update": "2021-12-06 07:52:06",
+      "iframe_src": ""
+    },
+    {
       "id": 54983,
       "title": "Психомания",
       "kp_id": "37326",
@@ -150,21 +169,22 @@
       "iframe_src": ""
     },
     {
-      "id": 54760,
-      "title": "Обещание смерти",
-      "kp_id": "4528868",
-      "imdb_id": "tt14845366",
+      "id": 54971,
+      "title": "Вокруг света за 80 дней",
+      "kp_id": "1264778",
+      "imdb_id": "tt10341040",
       "world_art_id": null,
       "type": "movie",
-      "add": "2021-11-22 17:38:03",
-      "orig_title": "Shi to no Yakusoku",
-      "year": "2021-03-06",
+      "add": "2021-12-03 14:10:06",
+      "orig_title": "Around the World in 80 Days",
+      "year": "2021-06-16",
       "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
+        "Полное дублирование (iTunes)",
+        "Полное дублирование (CPI Films | СиПиАй Филмз)"
       ],
       "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-12-05 15:31:54",
+      "translation": "Полное дублирование (iTunes)",
+      "update": "2021-12-06 07:56:38",
       "iframe_src": ""
     },
     {
@@ -184,6 +204,25 @@
       "quality": "ts",
       "translation": "Любительский (двухголосый закадровый) (Колобок)",
       "update": "2021-12-06 07:47:53",
+      "iframe_src": ""
+    },
+    {
+      "id": 7754,
+      "title": "Никогда не говори \"прощай\"",
+      "kp_id": "1295919",
+      "imdb_id": "tt10474914",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-06 05:00:11",
+      "orig_title": "Never Say Goodbye",
+      "year": "2019-04-30",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Octopus)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-06-06 14:20:54",
       "iframe_src": ""
     },
     {
@@ -244,6 +283,26 @@
       "iframe_src": ""
     },
     {
+      "id": 7727,
+      "title": "Страх на озере",
+      "kp_id": "1299306",
+      "imdb_id": "tt10916128",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2020-06-04 05:05:25",
+      "orig_title": "Peur sur le lac",
+      "year": "2020-01-02",
+      "translations": [
+        "Профессиональный (двухголосый закадровый) (ViruseProject)",
+        "Любительский (многоголосый закадровый) (Octopus)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 6,
+      "episodes": 6,
+      "update": "2020-06-06 14:09:09",
+      "iframe_src": ""
+    },
+    {
       "id": 7726,
       "title": "Богатство",
       "kp_id": "1112964",
@@ -279,25 +338,6 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2020-06-04 11:27:32",
-      "iframe_src": ""
-    },
-    {
-      "id": 7720,
-      "title": "Вторая мировая. Великая Отечественная",
-      "kp_id": "916859",
-      "imdb_id": "tt4808374",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-06-03 07:43:04",
-      "orig_title": "Vtoraya mirovaya. Velikaya Otechestvennaya",
-      "year": "2015-01-01",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 5,
-      "episodes": 5,
-      "update": "2020-06-03 18:42:48",
       "iframe_src": ""
     },
     {
@@ -337,25 +377,6 @@
       "episodes_count": 4,
       "episodes": 4,
       "update": "2020-06-04 21:47:04",
-      "iframe_src": ""
-    },
-    {
-      "id": 7706,
-      "title": "Отмороженный: Иван из Юкона",
-      "kp_id": "432574",
-      "imdb_id": "tt0233129",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2020-06-01 20:30:21",
-      "orig_title": "Yvon of the Yukon",
-      "year": "1999-09-09",
-      "translations": [
-        "Полное дублирование"
-      ],
-      "seasons_count": 2,
-      "episodes_count": 26,
-      "episodes": 13,
-      "update": "2020-06-03 20:57:46",
       "iframe_src": ""
     },
     {
@@ -550,25 +571,6 @@
       "quality": "bd",
       "translation": "Любительский (двухголосый закадровый)",
       "update": "2021-12-06 06:45:23",
-      "iframe_src": ""
-    },
-    {
-      "id": 33974,
-      "title": "Последняя женщина Шана",
-      "kp_id": "116394",
-      "imdb_id": "tt0185254",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2019-12-11 21:20:14",
-      "orig_title": "Da ji",
-      "year": "1964-08-26",
-      "translations": [
-        "Любительский (одноголосый закадровый) (Береговых Виктор | Jet)",
-        "Любительский (одноголосый закадровый) (Береговых Виктор | Jet)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Любительский (одноголосый закадровый) (Береговых Виктор | Jet)",
-      "update": "2021-12-05 15:33:17",
       "iframe_src": ""
     },
     {

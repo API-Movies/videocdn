@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 52019,
+      "title": "Охотники за сокровищами",
+      "kp_id": null,
+      "imdb_id": "tt15042616",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-07-26 17:47:19",
+      "orig_title": "Scavengers",
+      "year": "2021-06-05",
+      "translations": [
+        "Любительский (многоголосый закадровый) (AlphaProject)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
+      "update": "2021-07-26 19:34:56",
+      "iframe_src": ""
+    },
+    {
+      "id": 52018,
+      "title": "Перезарядка",
+      "kp_id": "1349168",
+      "imdb_id": "tt11758792",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-07-26 17:46:46",
+      "orig_title": "Reloaded",
+      "year": "2021-07-11",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-07-26 19:34:23",
+      "iframe_src": ""
+    },
+    {
       "id": 52015,
       "title": "Так велело сердце",
       "kp_id": "1107522",
@@ -253,42 +289,6 @@
       "iframe_src": ""
     },
     {
-      "id": 51978,
-      "title": "Клятва убийцы",
-      "kp_id": "1393789",
-      "imdb_id": "tt12663208",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-07-24 19:52:47",
-      "orig_title": "Assassin's Vow",
-      "year": "2020-12-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-07-26 10:51:38",
-      "iframe_src": ""
-    },
-    {
-      "id": 51977,
-      "title": "Герой: фильм на основе событий удивительной жизни Ульрика Кросса",
-      "kp_id": "846188",
-      "imdb_id": "tt4218012",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-07-24 19:50:45",
-      "orig_title": "HERO Inspired by the Extraordinary Life & Times of Mr. Ulric Cross",
-      "year": "2019-01-01",
-      "translations": [
-        "Любительский (многоголосый закадровый) (AlphaProject)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (AlphaProject)",
-      "update": "2021-07-26 10:50:19",
-      "iframe_src": ""
-    },
-    {
       "id": 51958,
       "title": "Собрали!",
       "kp_id": "4500688",
@@ -305,6 +305,25 @@
       "quality": "webdl",
       "translation": "Любительский (двухголосый закадровый) (OnisFilms)",
       "update": "2021-07-26 11:16:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 51920,
+      "title": "Rattle-Can",
+      "kp_id": "1150821",
+      "imdb_id": "tt8041022",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-07-21 13:24:13",
+      "orig_title": "Rattle-Can",
+      "year": "2021-07-05",
+      "translations": [
+        "[EN] Original (English)",
+        "Любительский (многоголосый закадровый) (@MUZOBOZ@)"
+      ],
+      "quality": "webdl",
+      "translation": "[EN] Original (English)",
+      "update": "2021-07-26 19:35:59",
       "iframe_src": ""
     },
     {
@@ -365,6 +384,25 @@
       "episodes_count": 8,
       "episodes": 8,
       "update": "2018-08-15 20:34:32",
+      "iframe_src": ""
+    },
+    {
+      "id": 3030,
+      "title": "Спой!",
+      "kp_id": "1162536",
+      "imdb_id": "tt5622630",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-08-15 08:34:25",
+      "orig_title": "Sing It!",
+      "year": "2016-05-25",
+      "translations": [
+        "Любительский (двухголосый закадровый) (GoldTeam)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 10,
+      "episodes": 10,
+      "update": "2018-08-16 04:12:56",
       "iframe_src": ""
     },
     {
@@ -539,6 +577,25 @@
       "iframe_src": ""
     },
     {
+      "id": 3001,
+      "title": "Дорогая",
+      "kp_id": "807213",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-08-05 05:32:30",
+      "orig_title": "Дорогая",
+      "year": "2013-10-12",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 4,
+      "episodes": 4,
+      "update": "2018-08-16 05:54:19",
+      "iframe_src": ""
+    },
+    {
       "id": 3000,
       "title": "Трасса",
       "kp_id": "779048",
@@ -631,63 +688,6 @@
       "episodes_count": 17,
       "episodes": 17,
       "update": "2018-08-13 17:24:18",
-      "iframe_src": ""
-    },
-    {
-      "id": 2934,
-      "title": "Комики за рулём в поисках кофе",
-      "kp_id": "925890",
-      "imdb_id": "tt2314952",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-07-16 10:54:19",
-      "orig_title": "Comedians in Cars Getting Coffee",
-      "year": "2012-07-19",
-      "translations": [
-        "Любительский (двухголосый закадровый) (Hamster Studio)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 12,
-      "episodes": 12,
-      "update": "2018-08-06 08:54:49",
-      "iframe_src": ""
-    },
-    {
-      "id": 17441,
-      "title": "Мандала",
-      "kp_id": "314123",
-      "imdb_id": "tt0229553",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2018-06-29 11:03:23",
-      "orig_title": "Mandara",
-      "year": "1971-09-11",
-      "translations": [
-        "Любительский (двухголосый закадровый) (DeadSno & den904)",
-        "Любительский (одноголосый закадровый) (den904)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (двухголосый закадровый) (DeadSno & den904)",
-      "update": "2021-07-26 10:50:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 2828,
-      "title": "Туманный",
-      "kp_id": "1047638",
-      "imdb_id": "tt7890244",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-06-17 20:59:02",
-      "orig_title": "Miseuti",
-      "year": "2018-02-02",
-      "translations": [
-        "Любительский (одноголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 13,
-      "episodes": 13,
-      "update": "2018-08-06 13:19:42",
       "iframe_src": ""
     },
     {

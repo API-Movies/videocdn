@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 51510,
+      "title": "Металлисты",
+      "kp_id": "1119811",
+      "imdb_id": "tt7832486",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-07-01 08:50:46",
+      "orig_title": "Tshiong",
+      "year": "2017-12-29",
+      "translations": [
+        "Любительский (многоголосый закадровый) (Синема УС)"
+      ],
+      "quality": "webdl",
+      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
+      "update": "2021-07-01 13:11:28",
+      "iframe_src": ""
+    },
+    {
       "id": 51488,
       "title": "Оранжерея",
       "kp_id": "1121190",
@@ -127,24 +145,6 @@
       "iframe_src": ""
     },
     {
-      "id": 51479,
-      "title": "Рождённые в СССР. Семилетние",
-      "kp_id": "303999",
-      "imdb_id": null,
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-06-30 07:33:35",
-      "orig_title": "Age 7 in the USSR",
-      "year": "1991-05-28",
-      "translations": [
-        "Профессиональный (одноголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (одноголосый закадровый)",
-      "update": "2021-06-30 09:56:20",
-      "iframe_src": ""
-    },
-    {
       "id": 51476,
       "title": "Попрыгунчик",
       "kp_id": "20391",
@@ -160,25 +160,6 @@
       "quality": "webdl",
       "translation": "[EN] Original (English)",
       "update": "2021-06-30 13:06:53",
-      "iframe_src": ""
-    },
-    {
-      "id": 51474,
-      "title": "Самый страшный кошмар",
-      "kp_id": "197229",
-      "imdb_id": "tt0478216",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-06-30 05:40:08",
-      "orig_title": "Nightmare Man",
-      "year": "2006-08-04",
-      "translations": [
-        "[EN] Original (English)",
-        "Профессиональный (двухголосый закадровый)"
-      ],
-      "quality": "webdl",
-      "translation": "[EN] Original (English)",
-      "update": "2021-06-30 09:55:05",
       "iframe_src": ""
     },
     {
@@ -303,6 +284,25 @@
       "quality": "bd",
       "translation": "Профессиональный (многоголосый закадровый)",
       "update": "2021-07-01 10:06:45",
+      "iframe_src": ""
+    },
+    {
+      "id": 2013,
+      "title": "Перекресток свободы",
+      "kp_id": null,
+      "imdb_id": "tt6723402",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-01-30 06:58:10",
+      "orig_title": "Liberty Crossing",
+      "year": "2018-01-08",
+      "translations": [
+        "Любительский (двухголосый закадровый) (Sunshine Studio)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 8,
+      "episodes": 8,
+      "update": "2018-01-31 12:12:51",
       "iframe_src": ""
     },
     {
@@ -478,6 +478,25 @@
       "iframe_src": ""
     },
     {
+      "id": 1991,
+      "title": "Поверхность",
+      "kp_id": "161014",
+      "imdb_id": "tt0452718",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2018-01-25 13:18:24",
+      "orig_title": "Surface",
+      "year": "2005-09-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (Первый канал | ОРТ)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 15,
+      "episodes": 15,
+      "update": "2018-01-31 13:14:44",
+      "iframe_src": ""
+    },
+    {
       "id": 1990,
       "title": "Леший 2",
       "kp_id": "440014",
@@ -573,25 +592,6 @@
       "iframe_src": ""
     },
     {
-      "id": 1982,
-      "title": "Шерлок Холмс",
-      "kp_id": "417715",
-      "imdb_id": "tt2465266",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2018-01-23 07:58:24",
-      "orig_title": "Sherlok Kholms",
-      "year": "2013-11-18",
-      "translations": [
-        "Оригинальная дорожка"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 8,
-      "episodes": 8,
-      "update": "2018-01-25 09:34:50",
-      "iframe_src": ""
-    },
-    {
       "id": 1980,
       "title": "Секретарша",
       "kp_id": "993593",
@@ -627,26 +627,6 @@
       "episodes_count": 5,
       "episodes": 5,
       "update": "2018-01-28 09:30:35",
-      "iframe_src": ""
-    },
-    {
-      "id": 1909,
-      "title": "Я люблю Люси",
-      "kp_id": "342969",
-      "imdb_id": "tt0043208",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2017-12-30 13:53:30",
-      "orig_title": "I Love Lucy",
-      "year": "1951-10-15",
-      "translations": [
-        "Любительский (одноголосый закадровый)",
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "seasons_count": 6,
-      "episodes_count": 159,
-      "episodes": 23,
-      "update": "2018-01-25 08:40:16",
       "iframe_src": ""
     },
     {
@@ -720,6 +700,52 @@
       "iframe_src": ""
     },
     {
+      "id": 2196,
+      "title": "Парк культуры и отдыха",
+      "kp_id": "395781",
+      "imdb_id": "tt1091722",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-05-15 07:06:21",
+      "orig_title": "Adventureland",
+      "year": "2009-01-19",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)",
+        "[EN] Original (English)",
+        "Любительский (двухголосый закадровый) (Электричка)",
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "bd",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-07-01 13:48:54",
+      "iframe_src": ""
+    },
+    {
+      "id": 1085,
+      "title": "«Весёлые» каникулы",
+      "kp_id": "492171",
+      "imdb_id": "tt1567609",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2016-04-14 08:09:04",
+      "orig_title": "Get the Gringo",
+      "year": "2012-03-15",
+      "translations": [
+        "Полное дублирование",
+        "[EN] Original (English)",
+        "Авторский (одноголосый закадровый) (Багичев Алексей)",
+        "Авторский (одноголосый закадровый) (Гаврилов Андрей)",
+        "Авторский (одноголосый закадровый) (Карповский Антон)",
+        "Авторский (одноголосый закадровый) (Немахов Юрий)",
+        "Полное дублирование",
+        "[EN] Original (English)"
+      ],
+      "quality": "bd",
+      "translation": "Полное дублирование",
+      "update": "2021-07-01 13:56:49",
+      "iframe_src": ""
+    },
+    {
       "id": 816,
       "title": "Ромовый дневник",
       "kp_id": "47093",
@@ -738,29 +764,6 @@
       "quality": "bd",
       "translation": "Полное дублирование",
       "update": "2021-07-01 09:26:09",
-      "iframe_src": ""
-    },
-    {
-      "id": 799,
-      "title": "Хижина в лесу",
-      "kp_id": "419209",
-      "imdb_id": "tt1259521",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2016-04-08 15:45:50",
-      "orig_title": "The Cabin in the Woods",
-      "year": "2012-03-09",
-      "translations": [
-        "Полное дублирование",
-        "Авторский (одноголосый закадровый) (Карповский Антон)",
-        "Авторский (одноголосый закадровый) (Матвеев Алексей | Doctor Joker)",
-        "Полное дублирование",
-        "[EN] Original (English)",
-        "Любительский (одноголосый закадровый)  (zamez | Замез Вячеслав)"
-      ],
-      "quality": "bd",
-      "translation": "Полное дублирование",
-      "update": "2021-06-30 10:02:33",
       "iframe_src": ""
     },
     {

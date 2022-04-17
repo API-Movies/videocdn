@@ -38,24 +38,6 @@
       "iframe_src": ""
     },
     {
-      "id": 52432,
-      "title": "Возможно",
-      "kp_id": "51878",
-      "imdb_id": "tt0189916",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-08-14 16:24:39",
-      "orig_title": "Peut-être",
-      "year": "1999-11-10",
-      "translations": [
-        "Профессиональный (многоголосый закадровый)"
-      ],
-      "quality": "dvdrip",
-      "translation": "Профессиональный (многоголосый закадровый)",
-      "update": "2021-08-14 21:28:09",
-      "iframe_src": ""
-    },
-    {
       "id": 52431,
       "title": "Кровная месть",
       "kp_id": "2000298",
@@ -164,6 +146,24 @@
       "iframe_src": ""
     },
     {
+      "id": 52420,
+      "title": "Солнцепек",
+      "kp_id": "4518766",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-08-14 07:46:33",
+      "orig_title": "Солнцепек",
+      "year": "2021-08-12",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-08-16 10:03:14",
+      "iframe_src": ""
+    },
+    {
       "id": 52412,
       "title": "Сэмхэйн",
       "kp_id": "1280455",
@@ -179,42 +179,6 @@
       "quality": "webdl",
       "translation": "Любительский (многоголосый закадровый) (Синема УС)",
       "update": "2021-08-15 10:08:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 52411,
-      "title": "Невидимая угроза в карьере",
-      "kp_id": null,
-      "imdb_id": "tt6452534",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-08-13 18:46:39",
-      "orig_title": "En el pozo",
-      "year": "2019-01-15",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "bd",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-08-15 10:08:12",
-      "iframe_src": ""
-    },
-    {
-      "id": 52410,
-      "title": "Бывшая",
-      "kp_id": null,
-      "imdb_id": "tt13262868",
-      "world_art_id": null,
-      "type": "movie",
-      "add": "2021-08-13 18:42:31",
-      "orig_title": "X",
-      "year": "2021-01-08",
-      "translations": [
-        "Любительский (многоголосый закадровый) (Синема УС)"
-      ],
-      "quality": "webdl",
-      "translation": "Любительский (многоголосый закадровый) (Синема УС)",
-      "update": "2021-08-15 10:07:56",
       "iframe_src": ""
     },
     {
@@ -235,6 +199,80 @@
       "quality": "webdl",
       "translation": "Полное дублирование (Невафильм | Нева-1)",
       "update": "2021-08-15 15:08:05",
+      "iframe_src": ""
+    },
+    {
+      "id": 51315,
+      "title": "Пункт пропуска. Офицерская история",
+      "kp_id": "1338531",
+      "imdb_id": null,
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2021-06-21 06:16:17",
+      "orig_title": "Пункт пропуска. Офицерская история",
+      "year": "2021-06-10",
+      "translations": [
+        "Оригинальная дорожка"
+      ],
+      "quality": "webdl",
+      "translation": "Оригинальная дорожка",
+      "update": "2021-08-16 09:56:29",
+      "iframe_src": ""
+    },
+    {
+      "id": 39999,
+      "title": "Будь счастлива",
+      "kp_id": "97980",
+      "imdb_id": "tt0260337",
+      "world_art_id": null,
+      "type": "movie",
+      "add": "2020-04-30 21:23:20",
+      "orig_title": "Sadaa Suhagan",
+      "year": "1986-08-15",
+      "translations": [
+        "Профессиональный (многоголосый закадровый)"
+      ],
+      "quality": "webdl",
+      "translation": "Профессиональный (многоголосый закадровый)",
+      "update": "2021-08-16 09:58:50",
+      "iframe_src": ""
+    },
+    {
+      "id": 3944,
+      "title": "Юхан Фальк: Организация Караян",
+      "kp_id": "693886",
+      "imdb_id": "tt2279838",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-01-23 12:46:04",
+      "orig_title": "Johan Falk: Organizatsija Karayan",
+      "year": "2012-10-05",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ShowJet)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-01-24 08:44:37",
+      "iframe_src": ""
+    },
+    {
+      "id": 3943,
+      "title": "Юхан Фальк 9",
+      "kp_id": "693135",
+      "imdb_id": "tt2239108",
+      "world_art_id": null,
+      "type": "serial",
+      "add": "2019-01-23 12:44:00",
+      "orig_title": "Johan Falk: Alla råns moder",
+      "year": "2012-09-28",
+      "translations": [
+        "Профессиональный (многоголосый закадровый) (ShowJet)"
+      ],
+      "seasons_count": 1,
+      "episodes_count": 2,
+      "episodes": 2,
+      "update": "2019-01-24 08:42:38",
       "iframe_src": ""
     },
     {
@@ -482,44 +520,6 @@
       "episodes_count": 30,
       "episodes": 30,
       "update": "2019-01-23 11:37:05",
-      "iframe_src": ""
-    },
-    {
-      "id": 3918,
-      "title": "Рождество",
-      "kp_id": "574231",
-      "imdb_id": "tt1719950",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-01-20 08:44:10",
-      "orig_title": "The Nativity",
-      "year": "2010-12-20",
-      "translations": [
-        "Любительский (многоголосый закадровый)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 4,
-      "episodes": 4,
-      "update": "2019-01-21 13:18:29",
-      "iframe_src": ""
-    },
-    {
-      "id": 3891,
-      "title": "Двадцатый век",
-      "kp_id": "6264",
-      "imdb_id": "tt0074084",
-      "world_art_id": null,
-      "type": "serial",
-      "add": "2019-01-16 11:43:41",
-      "orig_title": "Novecento",
-      "year": "1976-05-21",
-      "translations": [
-        "Профессиональный (многоголосый закадровый) (Кармен Видео)"
-      ],
-      "seasons_count": 1,
-      "episodes_count": 2,
-      "episodes": 2,
-      "update": "2019-01-21 13:20:55",
       "iframe_src": ""
     },
     {
